@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <script>(function(s){s.dataset.zone='10676811',s.src='https://gizokraijaw.net/vignette.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))</script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Pulse</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Lora:ital,wght@0,400;0,600;1,400&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --ink:       #1a1a1a;
+      --muted:     #555;
+      --rule:      #d6d0c8;
+      --parchment: #faf8f4;
+      --paper:     #ffffff;
+      --accent:    #b5291c;
+      --link:      #1a4b8c;
+      --tag-bg:    #1a1a1a;
+      --tag-fg:    #faf8f4;
+      --serif:     'Playfair Display', Georgia, serif;
+      --body-font: 'Lora', Georgia, serif;
+      --sans:      'DM Sans', system-ui, sans-serif;
+    }
+
+    html { background: var(--parchment); }
+
+    body {
+      font-family: var(--body-font);
+      color: var(--ink);
+      background: var(--parchment);
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* ── MASTHEAD ── */
+    .masthead {
+      background: var(--ink);
+      color: var(--parchment);
+      text-align: center;
+      padding: 36px 24px 28px;
+      border-bottom: 4px solid var(--accent);
+    }
+    .masthead__eyebrow {
+      font-family: var(--sans);
+      font-size: 10px;
+      font-weight: 600;
+      letter-spacing: 0.25em;
+      text-transform: uppercase;
+      color: #999;
+      margin-bottom: 10px;
+    }
+    .masthead__title {
+      font-family: var(--serif);
+      font-size: clamp(52px, 8vw, 88px);
+      font-weight: 900;
+      letter-spacing: -0.02em;
+      line-height: 1;
+      color: var(--parchment);
+    }
+    .masthead__title span {
+      color: var(--accent);
+    }
+    .masthead__tagline {
+      font-family: var(--sans);
+      font-size: 12px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: #888;
+      margin-top: 12px;
+    }
+    .masthead__rule {
+      width: 60px;
+      height: 1px;
+      background: #444;
+      margin: 16px auto 0;
+    }
+
+    /* ── DATE BAR ── */
+    .datebar {
+      background: var(--paper);
+      border-bottom: 1px solid var(--rule);
+      text-align: center;
+      padding: 10px 24px;
+      font-family: var(--sans);
+      font-size: 11px;
+      font-weight: 500;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+
+    /* ── LAYOUT ── */
+    .page {
+      max-width: 780px;
+      margin: 0 auto;
+      padding: 32px 16px 64px;
+    }
+
+    /* ── SECTION CARD ── */
+    .section-card {
+      background: var(--paper);
+      border: 1px solid var(--rule);
+      border-radius: 4px;
+      margin-bottom: 28px;
+      overflow: hidden;
+      box-shadow: 0 2px 8px rgba(0,0,0,.04);
+      animation: fadeUp 0.5s ease both;
+    }
+    @keyframes fadeUp {
+      from { opacity:0; transform:translateY(14px); }
+      to   { opacity:1; transform:translateY(0); }
+    }
+    .section-card:nth-child(1) { animation-delay: 0.05s; }
+    .section-card:nth-child(2) { animation-delay: 0.10s; }
+    .section-card:nth-child(3) { animation-delay: 0.15s; }
+    .section-card:nth-child(4) { animation-delay: 0.20s; }
+    .section-card:nth-child(5) { animation-delay: 0.25s; }
+
+    /* ── SECTION HEADER ── */
+    .section-header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 16px 20px 0;
+    }
+    .section-tag {
+      display: inline-block;
+      background: var(--tag-bg);
+      color: var(--tag-fg);
+      font-family: var(--sans);
+      font-size: 9px;
+      font-weight: 600;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 2px;
+    }
+    .section-tag.breaking {
+      background: var(--accent);
+    }
+
+    /* ── LEAD STORY ── */
+    .lead {
+      padding: 14px 20px 0;
+    }
+    .lead__title {
+      font-family: var(--serif);
+      font-size: 26px;
+      font-weight: 700;
+      line-height: 1.25;
+      color: var(--ink);
+    }
+    .lead__img-wrap {
+      padding: 14px 20px 0;
+    }
+    .lead__img {
+      width: 100%;
+      max-height: 340px;
+      object-fit: cover;
+      border-radius: 3px;
+      display: block;
+    }
+    .lead__body {
+      padding: 14px 20px 0;
+    }
+    .lead__description {
+      font-size: 15px;
+      line-height: 1.7;
+      color: var(--muted);
+    }
+    .lead__cta {
+      margin-top: 14px;
+      display: inline-block;
+      font-family: var(--sans);
+      font-size: 12px;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--link);
+      text-decoration: none;
+      border-bottom: 2px solid var(--link);
+      padding-bottom: 2px;
+      transition: color 0.15s, border-color 0.15s;
+    }
+    .lead__cta:hover {
+      color: var(--accent);
+      border-color: var(--accent);
+    }
+
+    /* ── MORE STORIES ── */
+    .more {
+      margin: 20px 20px 0;
+      border-top: 1px solid var(--rule);
+      padding-top: 16px;
+    }
+    .more__label {
+      font-family: var(--sans);
+      font-size: 9px;
+      font-weight: 600;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: #aaa;
+      margin-bottom: 10px;
+    }
+    .more__list {
+      list-style: none;
+      padding: 0;
+      margin: 0 0 20px;
+    }
+    .more__list li {
+      padding: 8px 0;
+      border-bottom: 1px solid var(--rule);
+      display: flex;
+      align-items: baseline;
+      gap: 8px;
+    }
+    .more__list li:last-child {
+      border-bottom: none;
+    }
+    .more__list li::before {
+      content: '›';
+      color: var(--accent);
+      font-size: 18px;
+      line-height: 1;
+      flex-shrink: 0;
+    }
+    .more__list a {
+      font-family: var(--sans);
+      font-size: 14px;
+      font-weight: 500;
+      color: var(--ink);
+      text-decoration: none;
+      line-height: 1.4;
+      transition: color 0.15s;
+    }
+    .more__list a:hover {
+      color: var(--link);
+    }
+
+    /* ── AD SLOT ── */
+    .ad-slot {
+      text-align: center;
+      padding: 12px 0;
+      margin-bottom: 28px;
+      min-height: 40px;
+    }
+
+    /* ── FOOTER ── */
+    .site-footer {
+      text-align: center;
+      padding: 32px 24px;
+      border-top: 2px solid var(--ink);
+      font-family: var(--sans);
+      font-size: 11px;
+      color: #aaa;
+      letter-spacing: 0.08em;
+    }
+    .site-footer strong {
+      display: block;
+      font-family: var(--serif);
+      font-size: 22px;
+      color: var(--ink);
+      font-weight: 700;
+      margin-bottom: 6px;
+    }
+
+    /* ── RESPONSIVE ── */
+    @media (max-width: 600px) {
+      .lead__title { font-size: 21px; }
+      .masthead__title { font-size: 52px; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- ═══════════════ MASTHEAD ═══════════════ -->
+  <header class="masthead">
+    <p class="masthead__eyebrow">Your daily briefing</p>
+    <h1 class="masthead__title">The<span>&nbsp;Pulse</span></h1>
+    <p class="masthead__tagline">What matters today — nothing more</p>
+    <div class="masthead__rule"></div>
+  </header>
+
+  <!-- <div class="datebar">
+    [PLACEHOLDER-GLOBAL DATE] &nbsp;·&nbsp; Edition [PLACEHOLDER-GLOBAL NL_ID]
+  </div> -->
+
+  <!-- ═══════════════ PAGE CONTENT ═══════════════ -->
+  <main class="page">
+
+    <!-- ─────────── BREAKING NEWS ─────────── -->
+    <article class="section-card">
+      <div class="section-header">
+        <span class="section-tag breaking">Breaking News</span>
+      </div>
+      <div class="lead">
+        <h2 class="lead__title">Kuwaiti air defenses shoot down three U.S. F-15s; crew safe</h2>
+      </div>
+      <!-- <div class="lead__img-wrap">
+        <img class="lead__img"
+             src="https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+             alt="Kuwaiti air defenses shoot down three U.S. F-15s; crew safe">
+      </div> -->
+      <div class="lead__body">
+        <p class="lead__description">Three U.S. Air Force F-15s were downed by Kuwaiti air defenses in a friendly-fire incident, U.S. Central Command confirmed. All crew members survived.</p>
+        <a class="lead__cta"
+           href="https://www.cbsnews.com/news/us-f-15-jets-mistakenly-shot-down-kuwait-riendly-fire-crew-safe/"
+           target="_blank" rel="noopener">Read full story</a>
+      </div>
+      <div class="more">
+        <p class="more__label">More Breaking News</p>
+        <ul class="more__list">
+          <li>
+            <a href="https://abcnews.com/US/department-homeland-security-warns-potential-attacks-wake-iran/story?id=130665784"
+               target="_blank" rel="noopener">DHS warns of lone-wolf and cyberattack threats amid Iran strikes</a>
+          </li>
+          <li>
+            <a href="https://www.cbsnews.com/live-updates/iran-us-war-day-3-american-deaths-israel-gulf-allies-hit-missile-strikes/"
+               target="_blank" rel="noopener">U.S. casualties rise as Iran strikes Gulf allies on day three</a>
+          </li>
+          <li>
+            <a href="https://abcnews.com/International/live-updates/iran-live-updates-israel-launches-preemptive-strike-iran/?id=130301492"
+               target="_blank" rel="noopener">Live updates: U.S.-Israel strike Iran; three F-15s downed by friendly fire</a>
+          </li>
+        </ul>
+      </div>
+    </article>
+
+    <!-- ─────────── AD SLOT 1 ─────────── -->
+    <div class="ad-slot">
+      <!--  -->
+    </div>
+
+    <!-- ─────────── HEALTH & WELLNESS ─────────── -->
+    <article class="section-card">
+      <div class="section-header">
+        <span class="section-tag">Health &amp; Wellness</span>
+      </div>
+      <div class="lead">
+        <h2 class="lead__title">High-protein foods for a balanced diet</h2>
+      </div>
+      <!-- <div class="lead__img-wrap">
+        <img class="lead__img"
+             src="https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/elimination_diet_for_eosinophilic_esophagitis_slideshow/1800ss_getty_rf_variety_of_nuts.jpg?resize=484px:*&output-quality=70"
+             alt="High-protein foods for a balanced diet">
+      </div> -->
+      <div class="lead__body">
+        <p class="lead__description">An overview of protein-rich food sources, including affordable options, to help individuals meet recommended daily protein intake.</p>
+        <a class="lead__cta"
+           href="https://www.webmd.com/fitness-exercise/good-protein-sources"
+           target="_blank" rel="noopener">Read full story</a>
+      </div>
+      <div class="more">
+        <p class="more__label">More Health Headlines</p>
+        <ul class="more__list">
+          <li>
+            <a href="https://www.webmd.com/eye-health/good-eyesight"
+               target="_blank" rel="noopener">Practices to support long-term eye health</a>
+          </li>
+          <li>
+            <a href="https://www.2minutemedicine.com/2-minute-medicine-rewind-march-2-2026/"
+               target="_blank" rel="noopener">Medical research roundup: March 2, 2026</a>
+          </li>
+          <li>
+            <a href="https://www.webmd.com/depression/depression-symptoms-causes"
+               target="_blank" rel="noopener">Physical and emotional symptoms of depression</a>
+          </li>
+        </ul>
+      </div>
+    </article>
+
+    <!-- ─────────── AD SLOT 2 ─────────── -->
+    <div class="ad-slot">
+      <!--  -->
+    </div>
+
+    <!-- ─────────── BUSINESS & MARKETS ─────────── -->
+    <article class="section-card">
+      <div class="section-header">
+        <span class="section-tag">Business &amp; Markets</span>
+      </div>
+      <div class="lead">
+        <h2 class="lead__title">IBM makes the case for Europe leading in industrial AI</h2>
+      </div>
+      <!-- <div class="lead__img-wrap">
+        <img class="lead__img"
+             src="https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2256279549-e1772452708453.jpg?w=2048"
+             alt="IBM makes the case for Europe leading in industrial AI">
+      </div> -->
+      <div class="lead__body">
+        <p class="lead__description">An IBM perspective argues that Europe's regulatory framework and data sovereignty position it to become a major player as AI moves toward autonomous agents.</p>
+        <a class="lead__cta"
+           href="https://fortune.com/2026/03/02/europe-can-lead-in-trusted-industrialized-ai-ibm/"
+           target="_blank" rel="noopener">Read full story</a>
+      </div>
+      <div class="more">
+        <p class="more__label">More Business News</p>
+        <ul class="more__list">
+          <li>
+            <a href="https://fortune.com/2026/03/02/european-markets-slide-iran-war-trade-joins-the-global-ai-scare-trade/"
+               target="_blank" rel="noopener">European markets fall as Iran conflict adds to AI-driven selloff</a>
+          </li>
+          <li>
+            <a href="https://fortune.com/2026/03/02/alfred-lin-sequoia-saas-ai-citrini-research-vertical-software-rowspace/"
+               target="_blank" rel="noopener">Sequoia's Alfred Lin sees continued opportunity in vertical SaaS</a>
+          </li>
+          <li>
+            <a href="https://fortune.com/2026/03/02/us-iran-conflict-deficits-spend-military-weapons-tariffs-ubs/"
+               target="_blank" rel="noopener">UBS flags Iran conflict as new pressure on U.S. government debt</a>
+          </li>
+        </ul>
+      </div>
+    </article>
+
+    <!-- ─────────── SCIENCE & DISCOVERY ─────────── -->
+    <article class="section-card">
+      <div class="section-header">
+        <span class="section-tag">Science &amp; Discovery</span>
+      </div>
+      <div class="lead">
+        <h2 class="lead__title">Researchers use light to direct microscopic crystal assembly</h2>
+      </div>
+      <!-- <div class="lead__img-wrap">
+        <img class="lead__img"
+             src="https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+             alt="Researchers use light to direct microscopic crystal assembly">
+      </div> -->
+      <div class="lead__body">
+        <p class="lead__description">NYU scientists have developed a method using light to control how microscopic particles form into crystals, enabling precise, non-contact manipulation of materials.</p>
+        <a class="lead__cta"
+           href="https://www.sciencedaily.com/releases/2026/03/260301190404.htm"
+           target="_blank" rel="noopener">Read full story</a>
+      </div>
+      <div class="more">
+        <p class="more__label">More Science News</p>
+        <ul class="more__list">
+          <li>
+            <a href="https://www.sciencedaily.com/releases/2026/03/260302030646.htm"
+               target="_blank" rel="noopener">Tidal heating may drive subsurface boiling on icy moons</a>
+          </li>
+          <li>
+            <a href="https://www.sciencedaily.com/releases/2026/03/260302030657.htm"
+               target="_blank" rel="noopener">Study links anti-aging compound polyamines to cancer risk</a>
+          </li>
+          <li>
+            <a href="https://www.sciencedaily.com/releases/2026/02/260228093512.htm"
+               target="_blank" rel="noopener">Ancient asteroid impact left large glass field in Brazil</a>
+          </li>
+        </ul>
+      </div>
+    </article>
+
+    <!-- ─────────── AD SLOT 3 ─────────── -->
+    <div class="ad-slot">
+      <!--  -->
+    </div>
+
+    <!-- ─────────── POLITICS ─────────── -->
+    <article class="section-card">
+      <div class="section-header">
+        <span class="section-tag">Politics</span>
+      </div>
+      <div class="lead">
+        <h2 class="lead__title">Hezbollah fires missiles into Israel from Lebanon</h2>
+      </div>
+      <!-- <div class="lead__img-wrap">
+        <img class="lead__img"
+             src="https://images.axios.com/PRsj8VFy1rayV6zrXg6S2Xlo0c0=/0x0:5568x3132/1366x768/2026/03/02/1772412159984.jpeg"
+             alt="Hezbollah fires missiles into Israel from Lebanon">
+      </div> -->
+      <div class="lead__body">
+        <p class="lead__description">Hezbollah launched several missiles toward Israel from Lebanese territory on Sunday, two days after the U.S. and Israel began strikes against Iran.</p>
+        <a class="lead__cta"
+           href="https://www.axios.com/2026/03/02/iran-war-israel-hezbollah-lebanon"
+           target="_blank" rel="noopener">Read full story</a>
+      </div>
+      <div class="more">
+        <p class="more__label">More Politics</p>
+        <ul class="more__list">
+          <li>
+            <a href="https://www.axios.com/2026/03/02/gop-worry-texas-senate-primaries"
+               target="_blank" rel="noopener">Republicans express concern over Texas Senate primary outcomes</a>
+          </li>
+          <li>
+            <a href="https://www.axios.com/2026/03/02/3-us-fighter-jets-friendly-fire-kuwait"
+               target="_blank" rel="noopener">Three U.S. jets downed by friendly fire over Kuwait</a>
+          </li>
+          <li>
+            <a href="https://www.axios.com/2026/03/02/trump-iran-war-military-strikes-maga"
+               target="_blank" rel="noopener">Trump's pre-election peace pledges contrast with wartime record</a>
+          </li>
+        </ul>
+      </div>
+    </article>
+
+    <!-- ─────────── AD SLOT 4 ─────────── -->
+    <div class="ad-slot">
+      <!--  -->
+    </div>
+
+  </main>
+
+  <!-- ═══════════════ FOOTER ═══════════════ -->
+  <footer class="site-footer">
+    <strong>The Pulse</strong>
+    What matters today — nothing more
+  </footer>
+
+</body>
+</html>
