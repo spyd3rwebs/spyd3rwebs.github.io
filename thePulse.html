@@ -12,7 +12,7 @@
   </script>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-   <title>The Pulse | News: Pentagon briefs on Iran war operations progress</title>
+   <title>The Pulse | News: Britney Spears arrested in Ventura County, California</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Lora:ital,wght@0,400;0,600;1,400&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet">
@@ -98,6 +98,63 @@
       letter-spacing: 0.14em;
       text-transform: uppercase;
       color: var(--muted);
+    }
+
+    /* ── CTA BANNER ── */
+    .cta-banner {
+      background: linear-gradient(135deg, #b5291c 0%, #8a1e14 100%);
+      text-align: center;
+      padding: 14px 24px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+    .cta-banner__text {
+      font-family: var(--sans);
+      font-size: 13px;
+      font-weight: 600;
+      letter-spacing: 0.05em;
+      color: rgba(255,255,255,0.9);
+    }
+    .cta-banner__text strong {
+      color: #fff;
+    }
+    .cta-banner__btn {
+      display: inline-block;
+      background: #fff;
+      color: #b5291c;
+      font-family: var(--sans);
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      text-decoration: none;
+      padding: 8px 18px;
+      border-radius: 3px;
+      white-space: nowrap;
+      transition: background 0.15s, color 0.15s, transform 0.15s;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+    }
+    .cta-banner__btn:hover {
+      background: var(--ink);
+      color: #fff;
+      transform: translateY(-1px);
+    }
+    .cta-banner__pulse {
+      display: inline-block;
+      width: 8px;
+      height: 8px;
+      background: #fff;
+      border-radius: 50%;
+      margin-right: 6px;
+      animation: pulse 1.6s ease-in-out infinite;
+      vertical-align: middle;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50%       { opacity: 0.4; transform: scale(1.4); }
     }
 
     /* ── LAYOUT ── */
@@ -279,6 +336,7 @@
     @media (max-width: 600px) {
       .lead__title { font-size: 21px; }
       .masthead__title { font-size: 52px; }
+      .cta-banner { gap: 10px; padding: 12px 16px; }
     }
   </style>
 </head>
@@ -296,6 +354,19 @@
     [PLACEHOLDER-GLOBAL DATE] &nbsp;·&nbsp; Edition [PLACEHOLDER-GLOBAL NL_ID]
   </div> -->
 
+  <!-- ═══════════════ CTA BANNER ═══════════════ -->
+  <div class="cta-banner">
+    <p class="cta-banner__text">
+      <span class="cta-banner__pulse"></span>
+      <strong>You're missing out.</strong> Get tomorrow's stories before everyone else.
+    </p>
+    <a class="cta-banner__btn"
+       href="https://visual-news-headlines.beehiiv.com/"
+       target="_blank" rel="noopener">
+      ✉ Subscribe Free →
+    </a>
+  </div>
+
   <!-- ═══════════════ PAGE CONTENT ═══════════════ -->
   <main class="page">
 
@@ -305,33 +376,33 @@
         <span class="section-tag breaking">Breaking News</span>
       </div>
       <div class="lead">
-        <h2 class="lead__title">Pentagon briefs on Iran war operations progress</h2>
+        <h2 class="lead__title">Britney Spears arrested in Ventura County, California</h2>
       </div>
       <!-- <div class="lead__img-wrap">
         <img class="lead__img"
-             src="https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-             alt="Pentagon briefs on Iran war operations progress">
+             src="https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+             alt="Britney Spears arrested in Ventura County, California">
       </div> -->
       <div class="lead__body">
-        <p class="lead__description">Defense Secretary Pete Hegseth and Joint Chiefs Chairman Gen. Dan Caine held their second public briefing on U.S. military operations in Iran.</p>
+        <p class="lead__description">Spears was arrested around 9:28 p.m. Wednesday and released around 6:07 a.m. Thursday, according to Ventura County inmate records.</p>
         <a class="lead__cta"
-           href="https://www.cbsnews.com/news/hegseth-caine-iran-war-operations-briefing-2026-03-04/"
+           href="https://www.cbsnews.com/news/britney-spears-arrest-ventura-county-california/"
            target="_blank" rel="noopener">Read full story</a>
       </div>
       <div class="more">
         <p class="more__label">More Breaking News</p>
         <ul class="more__list">
           <li>
-            <a href="https://apnews.com/article/james-talarico-texas-senate-cornyn-crockett-08c8716aed7e66c29d7e29f2c035ac5d"
-               target="_blank" rel="noopener">Talarico defeats Crockett in Texas Democratic Senate primary</a>
+            <a href="https://abcnews.com/International/live-updates/iran-live-updates-idf-targets-iranian-internal-security/?id=130743836"
+               target="_blank" rel="noopener">Iran conflict: minister condemns US torpedo attack on warship</a>
           </li>
           <li>
-            <a href="https://abcnews.com/GMA/Living/video/childhood-photo-meme-trend-sweeps-internet-130747898"
-               target="_blank" rel="noopener">Childhood photo meme trend spreads on social media</a>
+            <a href="https://abcnews.com/Politics/noems-testimony-contracts-false-democratic-senator-claims/story?id=130775194"
+               target="_blank" rel="noopener">Senator disputes DHS Secretary Noem's congressional testimony</a>
           </li>
           <li>
-            <a href="https://abcnews.com/GMA/News/video/firefighters-rescue-woman-sinking-car-130747782"
-               target="_blank" rel="noopener">Firefighters pull woman from submerged vehicle</a>
+            <a href="https://www.cbsnews.com/news/trump-tariff-refunds-court-of-international-trade-supreme-court/"
+               target="_blank" rel="noopener">Court rules companies eligible for refunds on invalidated Trump tariffs</a>
           </li>
         </ul>
       </div>
@@ -348,12 +419,12 @@
         <span class="section-tag">Health &amp; Wellness</span>
       </div>
       <div class="lead">
-        <h2 class="lead__title">Fitness guidance for adults in midlife</h2>
+        <h2 class="lead__title">A Practical Guide to Getting Fit in Midlife</h2>
       </div>
       <!-- <div class="lead__img-wrap">
         <img class="lead__img"
              src="https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/blog_posts/migraine/1800x1200-woman-working-out.jpg?resize=484px:*&output-quality=70"
-             alt="Fitness guidance for adults in midlife">
+             alt="A Practical Guide to Getting Fit in Midlife">
       </div> -->
       <div class="lead__body">
         <p class="lead__description"></p>
@@ -365,16 +436,16 @@
         <p class="more__label">More Health Headlines</p>
         <ul class="more__list">
           <li>
-            <a href="https://www.webmd.com/food-recipes/features/savoring-journey-padma-lakshmi"
-               target="_blank" rel="noopener">Padma Lakshmi on food, fitness, and connection</a>
-          </li>
-          <li>
             <a href="https://www.webmd.com/healthy-aging/preventive-care-over-50"
-               target="_blank" rel="noopener">Recommended health screenings for adults over 50</a>
+               target="_blank" rel="noopener">Preventive Health Tests to Know After 50</a>
           </li>
           <li>
-            <a href="https://www.2minutemedicine.com/lifestyle-factors-including-higher-body-mass-index-and-smoking-are-associated-with-changes-in-left-atrial-size-and-function/"
-               target="_blank" rel="noopener">High BMI and smoking linked to changes in heart chamber size</a>
+            <a href="https://www.webmd.com/food-recipes/features/savoring-journey-padma-lakshmi"
+               target="_blank" rel="noopener">Padma Lakshmi on food, fitness, and finding joy</a>
+          </li>
+          <li>
+            <a href="https://www.2minutemedicine.com/higher-sleep-apnea-specific-hypoxic-burden-may-predict-postoperative-cardiovascular-complications-and-mortality-in-obstructive-sleep-apnea/"
+               target="_blank" rel="noopener">Higher hypoxic burden in sleep apnea linked to surgical cardiac risk</a>
           </li>
         </ul>
       </div>
@@ -420,33 +491,33 @@
         <span class="section-tag">Business &amp; Markets</span>
       </div>
       <div class="lead">
-        <h2 class="lead__title">Few finance leaders would fully reverse price hikes if tariffs refunded</h2>
+        <h2 class="lead__title">Zuckerberg and Mosseri videos shown at social media addiction trial</h2>
       </div>
       <!-- <div class="lead__img-wrap">
         <img class="lead__img"
-             src="https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-618946910.jpg?w=2048"
-             alt="Few finance leaders would fully reverse price hikes if tariffs refunded">
+             src="https://fortune.com/img-assets/wp-content/uploads/2026/03/AP26050035832286-e1772717809479.jpg?w=2048"
+             alt="Zuckerberg and Mosseri videos shown at social media addiction trial">
       </div> -->
       <div class="lead__body">
-        <p class="lead__description">A survey of finance executives found only 18% would fully roll back price increases if tariff costs were refunded, following a Supreme Court ruling on IEEPA.</p>
+        <p class="lead__description">Previously unseen video recordings of Meta CEO Mark Zuckerberg and Instagram head Adam Mosseri were presented as evidence in an ongoing lawsuit over social media addiction.</p>
         <a class="lead__cta"
-           href="https://fortune.com/2026/03/04/finance-leaders-potential-tariff-refunds-18-percent-fully-roll-back-price-increases/"
+           href="https://fortune.com/2026/03/05/mark-zuckerberg-adam-mosseris-words-used-against-them-in-never-before-seen-videos-airing-in-addiction-trial/"
            target="_blank" rel="noopener">Read full story</a>
       </div>
       <div class="more">
         <p class="more__label">More Business News</p>
         <ul class="more__list">
           <li>
-            <a href="https://fortune.com/2026/03/04/cyclops-raises-8-million-to-build-stablecoin-infrastructure-for-payments-companies/"
-               target="_blank" rel="noopener">Cyclops raises $8 million for stablecoin payment infrastructure</a>
+            <a href="https://fortune.com/2026/03/05/google-gemini-wrongful-death-lawsuit-mass-casualty-event-suicide-ai-wife/"
+               target="_blank" rel="noopener">Google Gemini cited in wrongful death lawsuit over user suicide</a>
           </li>
           <li>
-            <a href="https://fortune.com/2026/03/04/who-won-texas-senate-primary-democratic-party-talarico-crockett/"
-               target="_blank" rel="noopener">Talarico wins Texas Democratic Senate primary over Crockett</a>
+            <a href="https://fortune.com/2026/03/05/china-japan-korea-thailand-iran-war-oil-gas-price-shock/"
+               target="_blank" rel="noopener">Iran conflict strains energy supplies across Asia</a>
           </li>
           <li>
-            <a href="https://fortune.com/2026/03/04/property-taxes-voter-revolt-nationwide-no-other-revenue-schools-government-inflation-affordability/"
-               target="_blank" rel="noopener">Property tax revolt faces limits as other local revenues shrink</a>
+            <a href="https://fortune.com/2026/03/05/michael-dell-versus-carl-icahn-battle-turned-tide-on-activist-investing/"
+               target="_blank" rel="noopener">Dell's victory over Icahn seen as turning point for activist investing</a>
           </li>
         </ul>
       </div>
@@ -458,33 +529,33 @@
         <span class="section-tag">Science &amp; Discovery</span>
       </div>
       <div class="lead">
-        <h2 class="lead__title">Neutrino experiments offer clues on matter-antimatter imbalance</h2>
+        <h2 class="lead__title">GLP-1 weight loss drugs may aid heart recovery after attack</h2>
       </div>
       <!-- <div class="lead__img-wrap">
         <img class="lead__img"
-             src="https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-             alt="Neutrino experiments offer clues on matter-antimatter imbalance">
+             src="https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+             alt="GLP-1 weight loss drugs may aid heart recovery after attack">
       </div> -->
       <div class="lead__body">
-        <p class="lead__description">Combined data from two major neutrino experiments provides new evidence that neutrinos and antineutrinos behave differently, which may help explain why matter survived after the Big Bang.</p>
+        <p class="lead__description">New research suggests that GLP-1 medications such as Ozempic, Wegovy, and Mounjaro may support cardiac recovery following a heart attack, beyond their established role in weight loss.</p>
         <a class="lead__cta"
-           href="https://www.sciencedaily.com/releases/2026/03/260303145703.htm"
+           href="https://www.sciencedaily.com/releases/2026/03/260304184223.htm"
            target="_blank" rel="noopener">Read full story</a>
       </div>
       <div class="more">
         <p class="more__label">More Science News</p>
         <ul class="more__list">
           <li>
-            <a href="https://www.sciencedaily.com/releases/2026/03/260303050626.htm"
-               target="_blank" rel="noopener">3D-printed hydrogel implant shows promise for bone repair</a>
+            <a href="https://www.sciencedaily.com/releases/2026/03/260304184224.htm"
+               target="_blank" rel="noopener">Study: half of Amazon insect species face dangerous heat stress</a>
           </li>
           <li>
-            <a href="https://www.sciencedaily.com/releases/2026/03/260303153357.htm"
-               target="_blank" rel="noopener">Hot spring bathing may alter snow monkeys' gut microbiome</a>
+            <a href="https://www.sciencedaily.com/releases/2026/03/260303145720.htm"
+               target="_blank" rel="noopener">Laser technique analyzes Darwin's Galápagos specimens without opening jars</a>
           </li>
           <li>
-            <a href="https://www.sciencedaily.com/releases/2026/03/260303050632.htm"
-               target="_blank" rel="noopener">Study links general intelligence to whole-brain coordination</a>
+            <a href="https://www.sciencedaily.com/releases/2026/03/260304184221.htm"
+               target="_blank" rel="noopener">Researchers identify protein essential to malaria parasite survival</a>
           </li>
         </ul>
       </div>
@@ -501,33 +572,33 @@
         <span class="section-tag">Politics</span>
       </div>
       <div class="lead">
-        <h2 class="lead__title">Potential Anthropic ban raises concerns over U.S. military AI capabilities</h2>
+        <h2 class="lead__title">Billionaire donor funded campaign to oust Rep. Dan Crenshaw</h2>
       </div>
       <!-- <div class="lead__img-wrap">
         <img class="lead__img"
-             src="https://images.axios.com/rLvD9OJ_R8OHYP1p6kfA58IcBAc=/0x0:1920x1080/1366x768/2026/03/03/1772570753549.jpeg"
-             alt="Potential Anthropic ban raises concerns over U.S. military AI capabilities">
+             src="https://images.axios.com/SByzxS3smjpPZwOhxSXp3qvrIQk=/0x0:5052x2842/1366x768/2026/03/04/1772668789923.jpg"
+             alt="Billionaire donor funded campaign to oust Rep. Dan Crenshaw">
       </div> -->
       <div class="lead__body">
-        <p class="lead__description">Anthropic's AI tools have been used in two military operations, but the Trump administration has indicated it may restrict the company's government contracts.</p>
+        <p class="lead__description">Texas Representative Dan Crenshaw lost his Republican primary this week after a billionaire megadonor funded an effort to end his congressional career, according to sources familiar with the situation.</p>
         <a class="lead__cta"
-           href="https://www.axios.com/2026/03/04/anthropic-ai-iran-maduro-pentagon"
+           href="https://www.axios.com/2026/03/05/billionaire-donor-feud-dan-crenshaw"
            target="_blank" rel="noopener">Read full story</a>
       </div>
       <div class="more">
         <p class="more__label">More Politics</p>
         <ul class="more__list">
           <li>
-            <a href="https://www.axios.com/2026/03/04/us-military-ecuador-operation-drugs-narco-terrorism"
-               target="_blank" rel="noopener">U.S. and Ecuador launch joint anti-drug military operation</a>
+            <a href="https://www.politico.com/news/magazine/2026/03/05/trump-economy-risk-iran-oil-tariffs-tax-cuts-00812888"
+               target="_blank" rel="noopener">Trump's economic risks amid Iran crisis and tariff pressures</a>
           </li>
           <li>
-            <a href="https://www.axios.com/local/austin/2026/03/04/talarico-crockett-democratic-primary-senate-texas"
-               target="_blank" rel="noopener">Talarico wins Texas Democratic Senate primary</a>
+            <a href="https://www.axios.com/2026/03/05/iran-war-anthropic-prsm-drones"
+               target="_blank" rel="noopener">Iran war showcases new US military technologies and AI-assisted weapons</a>
           </li>
           <li>
-            <a href="https://www.axios.com/2026/03/04/texas-results-senate-midterms-primary"
-               target="_blank" rel="noopener">Four takeaways from the 2026 Texas primary results</a>
+            <a href="https://www.axios.com/2026/03/05/democrats-texas-talarico-voter-turnout"
+               target="_blank" rel="noopener">Texas Democrats show strong turnout ahead of Senate race</a>
           </li>
         </ul>
       </div>
