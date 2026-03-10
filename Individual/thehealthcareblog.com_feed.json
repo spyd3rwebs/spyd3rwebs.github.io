@@ -2,14 +2,21 @@
     "title": "Individual feed for https://thehealthcareblog.com/feed",
     "link": "https://thehealthcareblog.com/feed",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-06T16:05:40.061645",
+    "lastBuildDate": "2026-03-10T07:59:15.475478",
     "items": [
+        {
+            "title": "Liberal Arts Education As a Counterbalance To Trumpian AI",
+            "link": "https://thehealthcareblog.com/blog/2026/03/10/liberal-arts-education-as-a-counterbalance-to-trumpian-ai/",
+            "description": "By MIKE MAGEE What’s wrong in the social science realm of health? Consider for example the mental health crises affecting teens across the nation, or ...",
+            "pubDate": "2026-03-10T07:21:00",
+            "image_url": "https://thehealthcareblog.com/wp-content/uploads/2019/03/849660338_medium-dr-mike-magee.jpg"
+        },
         {
             "title": "Lauren Ranalli, Town Square Health",
             "link": "https://thehealthcareblog.com/blog/2026/03/06/lauren-ranalli-town-square-health/",
             "description": "Lauren Ranalli is the VP of Patient & Community Engagement at Town Square Health, a brand new medical group setting itself up for the senior populatio...",
             "pubDate": "2026-03-06T06:29:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "When Artificial Intelligence Starts Rewriting Reality",
@@ -23,21 +30,14 @@
             "link": "https://thehealthcareblog.com/blog/2026/03/03/oren-nissim-brook-ai-figuring-out-rpm/",
             "description": "Oren Nissim is the CEO of Brook-ai which is making some waves in the remote care space. Their goals is to use remote patient monitoring to help provid...",
             "pubDate": "2026-03-03T23:36:13",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Miriam Paramore, RxUtility",
             "link": "https://thehealthcareblog.com/blog/2026/03/02/miriam-paramore-rxutility/",
             "description": "In this quickbite interview recorded at the Feb 2026 VIVE conference, I am talking with Miriam Paramore. Miriam is building RxUtility, which is helpin...",
             "pubDate": "2026-03-02T22:57:50",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "The Vocabulary of Survival",
-            "link": "https://thehealthcareblog.com/blog/2026/02/26/the-vocabulary-of-survival/",
-            "description": "By GEORGE BEAUREGARD From 2018 to 2022, I served as a physician executive in a large health system on Long Island. During that period, I became acquai...",
-            "pubDate": "2026-02-26T05:30:05",
-            "image_url": "https://thehealthcareblog.com/wp-content/uploads/2024/12/GeorgeB3-683x1024.jpg"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         }
     ]
 }

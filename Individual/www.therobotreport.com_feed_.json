@@ -2,42 +2,42 @@
     "title": "Individual feed for https://www.therobotreport.com/feed/",
     "link": "https://www.therobotreport.com/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-06T16:03:40.938306",
+    "lastBuildDate": "2026-03-10T07:57:17.045020",
     "items": [
         {
-            "title": "Simbe Tally shelf-scanning robot achieves UL 3300 certification",
-            "link": "https://www.therobotreport.com/simbe-tally-shelf-scanning-robot-achieves-ul-3300-certification/",
-            "description": "As part of the UL 3300 evaluation, Tally passed more than 40 safety tests, demonstrating its ability to operate safely in retail settings. The post Si...",
-            "pubDate": "2026-03-06T20:06:37",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/03/Shopper-Tally-Hardware-featured.jpg"
+            "title": "PlusAI launches its upgraded autonomous driver for freight operations",
+            "link": "https://www.therobotreport.com/plusai-launches-its-upgraded-autonomous-driver-for-freight-operations/",
+            "description": "The upgraded driver can handle night driving and construction zone handling, PlusAI said, which are crucial for commercial freight operations. The pos...",
+            "pubDate": "2026-03-09T21:20:40",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/03/plusAI-featured.jpg"
         },
         {
-            "title": "Vicarious Surgical faces NYSE delisting again",
-            "link": "https://www.therobotreport.com/vicarious-surgical-faces-nyse-delisting-again/",
-            "description": "Vicarious Surgical faces NYSE delisting after its market capitalization fell below the required $15 million threshold. The post Vicarious Surgical fac...",
-            "pubDate": "2026-03-05T22:49:12",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2023/02/vicarious-surgical-robot.jpg"
+            "title": "ABB boosts RobotStudio with NVIDIA Omniverse libraries",
+            "link": "https://www.therobotreport.com/abb-boosts-robotstudio-with-nvidia-omniverse-libraries/",
+            "description": "ABB will be releasing the subscription-based RobotStudio HyperReality simulator in the second half of 2026. The post ABB boosts RobotStudio with NVIDI...",
+            "pubDate": "2026-03-09T18:22:12",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/03/Leaderboard-Ad-RSE-Reg-Toay-V1.png"
         },
         {
-            "title": "11 women shaping the future of robotics",
-            "link": "https://www.therobotreport.com/11-women-shaping-the-future-of-robotics/",
-            "description": "The IFR said it hopes the list will give women in the robotics industry more visibility and acknowledgment. The post 11 women shaping the future of ro...",
-            "pubDate": "2026-03-05T21:58:05",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/03/Teaser_Women_in_Robotics_2026-featured.jpg"
+            "title": "OpenAI robotics head resigns over Pentagon deal",
+            "link": "https://www.therobotreport.com/openai-robotics-head-resigns-over-pentagon-deal/",
+            "description": "\"AI has an important role in national security. But surveillance of Americans without judicial oversight and lethal autonomy without human authorizati...",
+            "pubDate": "2026-03-09T18:20:35",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/03/adobestock-openAI-featured.jpg"
         },
         {
-            "title": "Tesollo and Techman Robot unveil robot for high-mix, low-volume production",
-            "link": "https://www.therobotreport.com/tesollo-techman-robot-unveil-robot-high-mix-low-volume-production/",
-            "description": "Tesollo demonstrated its DG-3F-M articulated gripper with Techman's TM5S cobot arm for tasks such as bin picking and assembly. The post Tesollo and Te...",
-            "pubDate": "2026-03-05T20:37:40",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/03/tesollo-workscell-aw26.jpg"
+            "title": "Humanoid developer Agility Robotics rebrands",
+            "link": "https://www.therobotreport.com/humanoid-developer-agility-robotics-rebrands/",
+            "description": "The company said the rebrand reflects its readiness to scale deployments and lead humanoid adoption across new industries. The post Humanoid developer...",
+            "pubDate": "2026-03-07T14:00:48",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/03/agility-logo.jpg"
         },
         {
-            "title": "Dexterity unveils Foresight world model for truck loading",
-            "link": "https://www.therobotreport.com/dexterity-unveils-foresight-world-model-for-truck-loading/",
-            "description": "Foresight is Dexterity's physics-consistent world model, a real-time, transactable representation of the physical environment. The post Dexterity unve...",
-            "pubDate": "2026-03-05T19:29:48",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/03/dexterityphysicalai-featured.jpg"
+            "title": "Plug-and-Play AI: Transforming robotics with modular skills",
+            "link": "https://www.therobotreport.com/plug-and-play-ai-transforming-robotics-with-modular-skills/",
+            "description": "Our guest this week is Dinesh Narayanan, Head of Commercialization, General Robotics. The post Plug-and-Play AI: Transforming robotics with modular sk...",
+            "pubDate": "2026-03-06T23:34:48",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/03/Dinesh-headshot.jpg"
         }
     ]
 }

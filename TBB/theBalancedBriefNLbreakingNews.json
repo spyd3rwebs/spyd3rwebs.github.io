@@ -2,42 +2,42 @@
     "title": "theBalancedBriefNLbreakingNews",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from theBalancedBriefNLbreakingNews, skipping any feeds with errors.",
-    "lastBuildDate": "2026-03-06T16:01:23.327854",
+    "lastBuildDate": "2026-03-10T07:54:50.836594",
     "items": [
         {
-            "title": "Celebration of life for Jesse Jackson to draw former presidents and Grammy-winning artists",
-            "link": "https://abcnews.com/US/wireStory/celebration-life-jesse-jackson-draw-former-presidents-grammy-130816052",
-            "description": "Three former U.S. presidents, Grammy-winning artists, clergy and elected officials are expected to attend a Chicago celebration of life Friday for the...",
-            "pubDate": "2026-03-06T09:24:30",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "title": "Dignified transfer for Kentucky soldier who was the 7th US service member to die in Iran war",
+            "link": "https://abcnews.com/US/wireStory/kentucky-soldier-saudi-arabia-7th-us-service-member-130910946",
+            "description": "Vice President JD Vance joined the grieving family of a Kentucky man who was the seventh U.S. service member to die in combat during the Iran war as h...",
+            "pubDate": "2026-03-10T11:26:53",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
-            "title": "Storms rip through Oklahoma as even more intense weather is possible Friday across the central US",
-            "link": "https://abcnews.com/US/wireStory/storms-rip-oklahoma-intense-weather-friday-central-us-130827779",
-            "description": "Severe storms are sweeping across the central U.S., and forecasters warn tornadoes could turn dangerous across several states",
-            "pubDate": "2026-03-06T16:29:16",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Two men attacked San Francisco mayor's bodyguards, authorities say",
-            "link": "https://abcnews.com/US/wireStory/men-attacked-san-francisco-mayors-bodyguards-authorities-130835813",
-            "description": "Two men are under arrest after police say they attacked two officers protecting San Francisco Mayor Daniel Lurie",
-            "pubDate": "2026-03-06T20:39:04",
+            "title": "New Mexico prosecutors launch search of Jeffrey Epstein's secluded former Zorro Ranch",
+            "link": "https://abcnews.com/US/wireStory/new-mexico-prosecutors-launch-search-jeffrey-epsteins-secluded-130918618",
+            "description": "State investigators have begun searching of a secluded ranch in New Mexico where financier and sex offender Jeffrey Epstein once entertained guests am...",
+            "pubDate": "2026-03-10T09:21:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "Judge weighs New York Times bid to block policy limiting journalists' Pentagon access",
-            "link": "https://abcnews.com/US/wireStory/judge-weighs-new-york-times-bid-block-policy-130834730",
-            "description": "The New York Times is urging a federal judge to block a Pentagon policy that has limited access to the building for journalists from many mainstream n...",
-            "pubDate": "2026-03-06T19:51:37",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "title": "Wildflowers are blooming in the driest place in North America — but not for long",
+            "link": "https://abcnews.com/US/wireStory/wildflowers-blooming-driest-place-north-america-long-130922472",
+            "description": "Visitors are flocking to Death Valley National Park in California and Nevada to take in a rare phenomenon known as a superbloom",
+            "pubDate": "2026-03-10T11:27:14",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "911 calls, interviews reveal problems at ICE's largest detention camp",
-            "link": "https://abcnews.com/US/wireStory/worse-prison-911-calls-interviews-reveal-problems-ices-130814529",
-            "description": "Serious medical and mental health emergencies have been routine at the nation’s largest U.S. Immigration and Customs Enforcement detention facility si...",
-            "pubDate": "2026-03-06T07:49:40",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "title": "FAA briefly grounds all JetBlue flights after a request from the airline",
+            "link": "https://abcnews.com/US/wireStory/faa-grounds-jetblue-flights-after-request-airline-130924151",
+            "description": "The Federal Aviation Administration briefly grounded all JetBlue flights due to a request from the airline",
+            "pubDate": "2026-03-10T11:27:18",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "FBI hunts for clues after 2 men charged with lighting bombs at NYC protest",
+            "link": "https://abcnews.com/US/wireStory/fbi-hunts-clues-after-2-men-charged-lighting-130922851",
+            "description": "Investigators are trying to learn more about two Pennsylvania men accused of bringing homemade bombs to a protest outside the home of New York City’s ...",
+            "pubDate": "2026-03-10T11:10:36",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         }
     ]
 }

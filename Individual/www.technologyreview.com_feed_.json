@@ -2,14 +2,35 @@
     "title": "Individual feed for https://www.technologyreview.com/feed/",
     "link": "https://www.technologyreview.com/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-06T16:03:40.937218",
+    "lastBuildDate": "2026-03-10T07:57:17.043725",
     "items": [
+        {
+            "title": "How AI is turning the Iran conflict into theater",
+            "link": "https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/",
+            "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. “Anyone wann...",
+            "pubDate": "2026-03-09T16:11:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "The usability imperative for securing digital asset devices",
+            "link": "https://www.technologyreview.com/2026/03/09/1132352/the-usability-imperative-for-securing-digital-asset-devices/",
+            "description": "When Tony Fadell started working on the iPod, usability often trumped security. The result was an iterative process. Every time someone would find a s...",
+            "pubDate": "2026-03-09T15:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/02/X2A9908.jpg?w=3000"
+        },
+        {
+            "title": "The Download: murky AI surveillance laws, and the White House cracks down on defiant labs",
+            "link": "https://www.technologyreview.com/2026/03/09/1134050/the-download-ai-surveillance-laws-white-house-cracks-down-defiant-labs/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Is the Penta...",
+            "pubDate": "2026-03-09T14:57:44",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2023/04/eyevine01515040-thumb.jpeg?w=2910"
+        },
         {
             "title": "Is the Pentagon allowed to surveil Americans with AI?",
             "link": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
             "description": "The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question: Does the law a...",
             "pubDate": "2026-03-06T19:21:22",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "The Download: 10 things that matter in AI, plus Anthropic’s plan to sue the Pentagon",
@@ -17,27 +38,6 @@
             "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Coming soon:...",
             "pubDate": "2026-03-06T13:10:00",
             "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/03/mittechreview_scamcompounds_final_opener2.jpg?w=3000"
-        },
-        {
-            "title": "The Download: an AI agent’s hit piece, and preventing lightning",
-            "link": "https://www.technologyreview.com/2026/03/05/1133968/the-download-ai-agent-hit-piece-preventing-lightning/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Online haras...",
-            "pubDate": "2026-03-05T14:28:46",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2023/05/open-closed2.jpeg"
-        },
-        {
-            "title": "How much wildfire prevention is too much?",
-            "link": "https://www.technologyreview.com/2026/03/05/1133960/wildfire-prevention-limits/",
-            "description": "The race to prevent the worst wildfires has been an increasingly high-tech one. Companies are proposing AI fire detection systems and drones that can ...",
-            "pubDate": "2026-03-05T11:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Online harassment is entering its AI era",
-            "link": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
-            "description": "Scott Shambaugh didn’t think twice when he denied an AI agent’s request to contribute to matplotlib, a software library that he helps manage. Like man...",
-            "pubDate": "2026-03-05T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         }
     ]
 }

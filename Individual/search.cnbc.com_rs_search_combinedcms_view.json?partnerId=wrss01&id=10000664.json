@@ -2,42 +2,42 @@
     "title": "Individual feed for https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
     "link": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-06T16:03:26.918110",
+    "lastBuildDate": "2026-03-10T07:56:59.532829",
     "items": [
         {
-            "title": "Robinhood's venture fund, which gives investors access to private companies, tanks 11% on first day",
-            "link": "https://www.cnbc.com/2026/03/06/robinhoods-venture-fund-which-gives-investors-access-to-private-companies-tanks-11percent-on-first-day.html",
-            "description": "Robinhood's Venture Fund I plunged 11% in its debut on the New York Stock Exchange on Friday, casting doubt on investors' appetite for riskier investm...",
-            "pubDate": "2026-03-06T20:44:31",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "title": "Surging oil prices could wipe out benefits from Trump’s ‘big beautiful bill’",
+            "link": "https://www.cnbc.com/2026/03/10/rising-oil-prices-may-wipe-out-effects-of-trumps-big-beautiful-bill.html",
+            "description": "Estimates from Wall Street project that if oil prices stay elevated for too long, consumers will lose as much as they gain from the new tax law.",
+            "pubDate": "2026-03-10T12:56:23",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "Fed Governor Miran says job losses in February add to the case for more interest rate cuts",
-            "link": "https://www.cnbc.com/2026/03/06/fed-governor-miran-says-job-losses-in-february-add-to-the-case-for-more-interest-rate-cuts.html",
-            "description": "Miran said in a CNBC interview that the Fed should be focusing more on supporting the labor market than worrying about inflation.",
-            "pubDate": "2026-03-06T18:14:50",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "U.S.-Iran war exposes big market concentration risk. It isn't in S&P 500 stocks",
-            "link": "https://www.cnbc.com/2026/03/06/iran-war-oil-energy-emerging-markets-stocks-south-korea.html",
-            "description": "Oil prices soar in the U.S.-Iran war, leading to volatility in emerging markets, and showing how concentrated EM funds are in Asian economies.",
-            "pubDate": "2026-03-06T17:52:33",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Stocks making the biggest moves midday: Marvell Technology, BlackRock, United Airlines, CF Industries & more",
-            "link": "https://www.cnbc.com/2026/03/06/stocks-making-the-biggest-moves-midday-mrvl-blk-ual-cf.html",
-            "description": "These are the stocks posting the largest moves in midday trading.",
-            "pubDate": "2026-03-06T17:30:04",
+            "title": "There's another energy market that may get hit harder than oil by Strait of Hormuz closure",
+            "link": "https://www.cnbc.com/2026/03/09/theres-another-energy-market-that-may-get-hit-harder-than-oil-by-strait-of-hormuz-closure.html",
+            "description": "Roughly 20% of global liquefied natural gas flows through the Strait.",
+            "pubDate": "2026-03-09T21:51:55",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "Stocks making the biggest moves premarket: Oil stocks, Gap, Marvell Technology, Samsara and more",
-            "link": "https://www.cnbc.com/2026/03/06/stocks-making-the-biggest-moves-premarket-oil-stocks-gap-mrvl-iot.html",
-            "description": "These are the stocks posting the largest moves in premarket trading.",
-            "pubDate": "2026-03-06T12:46:34",
+            "title": "Stocks making the biggest moves midday: Chevron, Hims and Hers, Xenon Pharma, Vertiv and more",
+            "link": "https://www.cnbc.com/2026/03/09/stocks-making-the-biggest-moves-midday-cvx-hims-xene-vrt-lite-.html",
+            "description": "These are some of the stocks posting the largest midday moves.",
+            "pubDate": "2026-03-09T19:56:36",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Three bear markets in stocks were caused by oil shocks — Here's how long they lasted",
+            "link": "https://www.cnbc.com/2026/03/09/heres-how-long-the-three-oil-shock-induced-bear-markets-lasted.html",
+            "description": "As the fallout in the oil markets from the U.S.-Iran war continues, here’s what severe oil shocks have done to the S&P 500 in the past.",
+            "pubDate": "2026-03-09T17:28:43",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "The $100 oil playbook: How pro investors are investing around this energy shock",
+            "link": "https://www.cnbc.com/2026/03/09/the-100-oil-playbook-how-pro-investors-are-investing-around-this-energy-shock.html",
+            "description": "Many say the focus now is on maintaining exposure to equities while diversifying across sectors and regions that can better withstand inflation and vo...",
+            "pubDate": "2026-03-09T17:13:36",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         }
     ]
 }

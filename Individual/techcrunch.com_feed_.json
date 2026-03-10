@@ -2,42 +2,42 @@
     "title": "Individual feed for https://techcrunch.com/feed/",
     "link": "https://techcrunch.com/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-06T16:03:49.511042",
+    "lastBuildDate": "2026-03-10T07:57:27.719844",
     "items": [
         {
-            "title": "OSHA probing fatality at Rivian warehouse",
-            "link": "https://techcrunch.com/2026/03/06/osha-probing-fatality-at-rivian-warehouse/",
-            "description": "A 61-year-old worker died on Thursday after reportedly getting stuck between a tractor trailer and a loading dock.",
-            "pubDate": "2026-03-06T20:23:08",
+            "title": "Whoop launches a new blood test focused on women’s health",
+            "link": "https://techcrunch.com/2026/03/10/whoop-launches-a-new-blood-test-focused-on-womens-health/",
+            "description": "The wearable maker is launching a new panel focused on women's health through its Whoop Labs blood testing service. It's also adding a new feature to ...",
+            "pubDate": "2026-03-10T11:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Uzbekistan’s Uzum valuation leaps over 50% in seven months to $2.3B",
+            "link": "https://techcrunch.com/2026/03/10/uzbekistans-uzum-valuation-rises-1-5x-in-seven-months-to-2-3b/",
+            "description": "Uzum now reaches 20 million users and processes $11B in payments as it expands its e-commerce and fintech ecosystem across Uzbekistan.",
+            "pubDate": "2026-03-10T08:15:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Apple now makes one in four iPhones in India: report",
+            "link": "https://techcrunch.com/2026/03/09/apple-now-makes-one-in-four-iphones-in-india-report/",
+            "description": "Apple reportedly produced 55 million units in India last year, a shift accelerated as Apple faced growing uncertainty in China.",
+            "pubDate": "2026-03-10T07:04:43",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Yann LeCun’s AMI Labs raises $1.03 billion to build world models",
+            "link": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/",
+            "description": "AMI Labs, the new venture cofounded by Turing Prize winner Yann LeCun after he left Meta, has raised $1.03 billion at a $3.5 billion pre-money valuati...",
+            "pubDate": "2026-03-10T06:00:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
-            "link": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
-            "description": "Trump's Department of War feud with Anthropic won't impact other companies that are using Claude via Microsoft and Google products.",
-            "pubDate": "2026-03-06T19:50:10",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Bill Gates’ TerraPower gets approval to build new nuclear reactor",
-            "link": "https://techcrunch.com/2026/03/06/bill-gates-terrapower-gets-approval-to-build-new-nuclear-reactor/",
-            "description": "It's the first permit to be issued by the Nuclear Regulatory Commission in nearly a decade.",
-            "pubDate": "2026-03-06T19:47:40",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks",
-            "link": "https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/",
-            "description": "In a recent security partnership with Mozilla, Anthropic found 22 separate vulnerabilities in Firefox — 14 of them classified as \"high-severity.\"",
-            "pubDate": "2026-03-06T19:00:22",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Anthropic’s Pentagon deal is a cautionary tale for startups chasing federal contracts",
-            "link": "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/",
-            "description": "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over i...",
-            "pubDate": "2026-03-06T18:09:11",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "title": "An iPhone-hacking toolkit used by Russian spies likely came from U.S military contractor",
+            "link": "https://techcrunch.com/2026/03/09/an-iphone-hacking-toolkit-used-by-russian-spies-likely-came-from-u-s-military-contractor/",
+            "description": "Google found a series of hacking tools they said were used by a Russian espionage group and a cybercriminal group in China. Sources from a U.S. govern...",
+            "pubDate": "2026-03-10T02:56:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         }
     ]
 }

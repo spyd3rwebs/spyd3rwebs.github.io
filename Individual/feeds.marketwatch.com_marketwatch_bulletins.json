@@ -2,42 +2,42 @@
     "title": "Individual feed for http://feeds.marketwatch.com/marketwatch/bulletins",
     "link": "http://feeds.marketwatch.com/marketwatch/bulletins",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-06T16:07:31.462092",
+    "lastBuildDate": "2026-03-10T07:59:36.988333",
     "items": [
         {
-            "title": "Stocks book weekly losses, oil and Treasury yields surge amid Iran conflict",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6b353112-fe90-4879-9208-f52c6d3f21d8&mod=mw_rss_bulletins",
+            "title": "Scientists behind COVID-19 vaccine to depart BioNTech",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1b590246-7734-4a09-b8a3-50f6d485a680&mod=mw_rss_bulletins",
             "description": "",
-            "pubDate": "2026-03-06T21:02:46",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "pubDate": "2026-03-10T12:56:05",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
-            "title": "U.S. oil prices log record weekly gain as Iran conflict spurs production worries",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ff7c7276-127d-43cf-a8c0-967e67897406&mod=mw_rss_bulletins",
+            "title": "Existing-home sales on economic calendar after small-business-optimism retreat",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f62b0076-1ce0-4bbb-980a-e52c0243e768&mod=mw_rss_bulletins",
             "description": "",
-            "pubDate": "2026-03-06T20:45:31",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "pubDate": "2026-03-10T12:36:05",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
-            "title": "Stocks off Friday lows in final hour, still on track for weekly losses — live",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5f2bb323-a7e1-42a6-8ff3-52dd63397441&mod=mw_rss_bulletins",
+            "title": "Futures point to extension of stock-market gains as oil slide continues",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e10e2e8d-648b-4aa8-870f-cf035d9c51a1&mod=mw_rss_bulletins",
             "description": "",
-            "pubDate": "2026-03-06T20:26:57",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "pubDate": "2026-03-10T12:07:13",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "Stocks off Friday lows in final hour, still on track for weekly losses",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0abecb07-ea26-45c2-907e-2368d47b2585&mod=mw_rss_bulletins",
+            "title": "An already chaotic spring travel season is colliding with effects of Iran war",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c064fd41-aac6-4ac0-8057-805227ae9c3e&mod=mw_rss_bulletins",
             "description": "",
-            "pubDate": "2026-03-06T20:25:54",
+            "pubDate": "2026-03-10T01:57:57",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "Anthropic’s rapid rise shocked the market, but the AI crown remains up for grabs",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=68c92fdf-9944-432a-a562-03f4daecfb76&mod=mw_rss_bulletins",
+            "title": "Trump announces sanctions relief to ease oil prices, says Iran war to end soon",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=aac90f17-06fe-448e-9b2f-2afc8b3414e3&mod=mw_rss_bulletins",
             "description": "",
-            "pubDate": "2026-03-06T19:28:41",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "pubDate": "2026-03-09T23:49:40",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         }
     ]
 }

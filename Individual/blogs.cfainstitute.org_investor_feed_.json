@@ -2,41 +2,41 @@
     "title": "Individual feed for https://blogs.cfainstitute.org/investor/feed/",
     "link": "https://blogs.cfainstitute.org/investor/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-06T16:03:44.439001",
+    "lastBuildDate": "2026-03-10T07:57:21.886864",
     "items": [
+        {
+            "title": "Rethinking Exit Multiples in High-Growth Company Valuations",
+            "link": "https://blogs.cfainstitute.org/investor/2026/03/09/rethinking-exit-multiples-in-high-growth-company-valuations/",
+            "description": "Exit multiples in high-growth companies should reflect growth expectations and interest rates, not market medians. The post Rethinking Exit Multiples ...",
+            "pubDate": "2026-03-10T01:20:50",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
         {
             "title": "The Question That Exposes Weak Quant Models",
             "link": "https://blogs.cfainstitute.org/investor/2026/03/05/the-question-that-exposes-weak-quant-models/",
             "description": "Errant variables can quietly undermine even the most statistically impressive quant models. The post The Question That Exposes Weak Quant Models appea...",
             "pubDate": "2026-03-05T15:04:33",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "International Women’s Day: Women Leaders Put Nutrition First",
             "link": "https://blogs.cfainstitute.org/investor/2026/03/03/international-womens-day-women-leaders-put-nutrition-first/",
             "description": "Women are three times more likely than men to invest in eating well. The post International Women’s Day: Women Leaders Put Nutrition First appeared fi...",
             "pubDate": "2026-03-03T23:01:44",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "NLP and Yield Curve Prediction From Central Bank Minutes",
             "link": "https://blogs.cfainstitute.org/investor/2026/03/03/nlp-and-yield-curve-prediction-from-central-bank-minutes/",
             "description": "Can algorithms that analyze central bank language help predict the next move in the yield curve? The post NLP and Yield Curve Prediction From Central ...",
             "pubDate": "2026-03-03T14:17:25",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "Three Levers That Drive VC Returns",
             "link": "https://blogs.cfainstitute.org/investor/2026/03/02/three-levers-that-drive-vc-returns/",
             "description": "VC performance hinges on ownership and failure reduction, not just rare breakout wins. The post Three Levers That Drive VC Returns appeared first on C...",
             "pubDate": "2026-03-02T17:26:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Geopolitical Risk and Portfolio Oversight",
-            "link": "https://blogs.cfainstitute.org/investor/2026/02/26/geopolitical-risk-and-portfolio-oversight/",
-            "description": "A framework for identifying material geopolitical shocks, translating them into portfolio impacts, and documenting risk for oversight and governance. ...",
-            "pubDate": "2026-02-26T14:31:48",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         }
     ]

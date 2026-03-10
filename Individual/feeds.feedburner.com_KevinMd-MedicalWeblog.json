@@ -2,42 +2,42 @@
     "title": "Individual feed for https://feeds.feedburner.com/KevinMd-MedicalWeblog",
     "link": "https://feeds.feedburner.com/KevinMd-MedicalWeblog",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-06T16:07:29.963192",
+    "lastBuildDate": "2026-03-10T07:59:36.285926",
     "items": [
         {
-            "title": "Administrative workforce stability: the new clinical metric for 2026",
-            "link": "https://kevinmd.com/2026/03/administrative-workforce-stability-the-new-clinical-metric-for-2026.html",
-            "description": "In 2025, the health care industry faced a crisis that has quietly reshaped how providers think about care: administrative workforce shortages. Clinics...",
-            "pubDate": "2026-03-06T12:00:43",
+            "title": "Physician neutrality: a beacon of ethics in a divided world",
+            "link": "https://kevinmd.com/2026/03/physician-neutrality-a-beacon-of-ethics-in-a-divided-world.html",
+            "description": "I watched with horror, grief, and tears in my eyes as the events of the last week unfolded. We witnessed a catastrophic massacre of Iranians seeking n...",
+            "pubDate": "2026-03-09T22:00:42",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "Physician vulnerability and authenticity: How shared stories heal [PODCAST]",
-            "link": "https://kevinmd.com/2026/03/physician-vulnerability-and-authenticity-how-shared-stories-heal-podcast.html",
-            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! Professor of clinical psychiatry Michael F. Myers discusses his book ...",
-            "pubDate": "2026-03-06T00:00:59",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "AI in pain assessment: Balancing innovation with patient safety",
-            "link": "https://kevinmd.com/2026/03/ai-in-pain-assessment-balancing-innovation-with-patient-safety.html",
-            "description": "In Northern California and beyond, health care systems are rapidly integrating artificial intelligence (AI) and digital tools to transform how pain is...",
-            "pubDate": "2026-03-05T20:00:30",
+            "title": "Pharmaceutical advertising dangers: Why drug ads hurt patients",
+            "link": "https://kevinmd.com/2026/03/pharmaceutical-advertising-dangers-why-drug-ads-hurt-patients.html",
+            "description": "One of the absolute worst ideas anyone in the government ever had was letting pharmaceutical companies advertise directly to the public. A public with...",
+            "pubDate": "2026-03-09T20:00:52",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "What HCPs across the country are saying about policy and emerging research and why your voice matters",
-            "link": "https://kevinmd.com/2026/03/what-hcps-across-the-country-are-saying-about-policy-and-emerging-research-and-why-your-voice-matters.html",
-            "description": "This article is sponsored by InCrowd. Health care professionals are constantly navigating changes in policy, clinical evidence and practice expectatio...",
-            "pubDate": "2026-03-05T18:00:11",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "title": "How to handle clinical disagreement with patients",
+            "link": "https://kevinmd.com/2026/03/how-to-handle-clinical-disagreement-with-patients.html",
+            "description": "One of the hardest moments in medicine is not making a diagnosis. It is not writing the prescription. It is sitting across from a patient who wants so...",
+            "pubDate": "2026-03-09T19:00:10",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "Winter in Islamabad: Finding hope in the daily struggle",
-            "link": "https://kevinmd.com/2026/03/winter-in-islamabad-finding-hope-in-the-daily-struggle.html",
-            "description": "It is very cold in Islamabad. These days, I feel overwhelmed by joblessness, the constant lack of money, an upcoming medical exam, and the slow progre...",
-            "pubDate": "2026-03-05T16:00:57",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "The economic shift from fee-for-service to direct primary care",
+            "link": "https://kevinmd.com/2026/03/the-economic-shift-from-fee-for-service-to-direct-primary-care.html",
+            "description": "According to the Primary Care Collaborative, primary care accounts for roughly 5 percent of health care spending, yet it influences nearly 90 percent ...",
+            "pubDate": "2026-03-09T18:00:31",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "The quiet paradox of physician mental health and medication",
+            "link": "https://kevinmd.com/2026/03/the-quiet-paradox-of-physician-mental-health-and-medication.html",
+            "description": "Physicians are trained, above all, to project steadiness. Long before we feel it, we learn to perform it. The lesson begins early in training. The pag...",
+            "pubDate": "2026-03-09T17:00:42",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         }
     ]
 }

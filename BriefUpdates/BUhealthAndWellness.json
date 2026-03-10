@@ -2,63 +2,63 @@
     "title": "BUhealthAndWellness",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from BUhealthAndWellness, skipping any feeds with errors.",
-    "lastBuildDate": "2026-03-06T16:03:44.929628",
+    "lastBuildDate": "2026-03-10T07:57:22.414105",
     "items": [
         {
-            "title": "Strategies for Smarter Health Spending",
-            "link": "https://www.webmd.com/health-insurance/toc-smarter-health-spending",
-            "description": "Learn how to choose the right plan and navigate health insurance with confidence at every stage of life.",
-            "pubDate": "2026-03-06T15:59:27",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/other/doctor-checking-patient-heart-with-stethoscope-other/1800x1200-doctor-checking-patient-heart-with-stethoscope-other.jpg?resize=484px:*&output-quality=70"
+            "title": "How to Choose the Best Health Plan",
+            "link": "https://www.webmd.com/health-insurance/lst/cm/listicle-choosing-health-insurance-plan",
+            "description": "",
+            "pubDate": "2026-03-10T08:47:46",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/hiv_and_barriers_slideshow/1800ss_getty_rf_woman_looking_at_medical_bills.jpg?resize=484px:*&output-quality=70"
         },
         {
             "title": "What to Do When Your Claim Is Denied",
             "link": "https://www.webmd.com/health-insurance/cm/filing-health-insurance-appeal",
             "description": "",
-            "pubDate": "2026-03-06T15:59:27",
+            "pubDate": "2026-03-10T08:47:46",
             "image_url": "https://img.lb.wbmdstatic.com/vim/live/consumer_assets/site_images/articles/health_tools/tips_for_choosing_your_psoriasis_care_providers_slideshow/1800ss_getty_rf_health_insurance_claim_form.jpg?resize=484px:*&output-quality=70"
         },
         {
-            "title": "How to Choose the Best Health Plan",
-            "link": "https://www.webmd.com/health-insurance/lst/cm/listicle-choosing-health-insurance-plan",
-            "description": "",
-            "pubDate": "2026-03-06T15:59:27",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/hiv_and_barriers_slideshow/1800ss_getty_rf_woman_looking_at_medical_bills.jpg?resize=484px:*&output-quality=70"
+            "title": "Strategies for Smarter Health Spending",
+            "link": "https://www.webmd.com/health-insurance/toc-smarter-health-spending",
+            "description": "Learn how to choose the right plan and navigate health insurance with confidence at every stage of life.",
+            "pubDate": "2026-03-10T08:47:46",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/other/doctor-checking-patient-heart-with-stethoscope-other/1800x1200-doctor-checking-patient-heart-with-stethoscope-other.jpg?resize=484px:*&output-quality=70"
         },
         {
-            "title": "5 Expert-Backed Habits For Stress Resilience & Longevity",
-            "link": "https://www.mindbodygreen.com/articles/5-expert-backed-habits-for-stress-resilience-and-longevity",
-            "description": "Five expert-backed habits and targeted nutrients can help improve your body's stress response and support longevity.",
-            "pubDate": "2026-03-06T11:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "title": "Women Who Struggle With This Are At An Increased Risk For High Blood Pressure",
+            "link": "https://www.mindbodygreen.com/articles/women-who-struggle-with-sleep-have-greater-hypertension-risk-what-to-do-about-it",
+            "description": "One more reason to catch those zzz's.",
+            "pubDate": "2026-03-10T11:07:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "This Super-Satisfying Exercise Can Help Improve Posture & Stretch Your Achy Hips",
-            "link": "https://www.mindbodygreen.com/articles/how-to-do-bow-pose-dhanurasana",
-            "description": "There are so many benefits to bow pose.",
-            "pubDate": "2026-03-06T11:18:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "title": "Anxious All the Time? Your Daily Drink Habit Deserves a Second Look",
+            "link": "https://www.mindbodygreen.com/articles/those-who-drink-more-sugary-beverages-show-34-higher-anxiety-odds",
+            "description": "We had plenty of reasons to cut back on soda. Science just added one more.",
+            "pubDate": "2026-03-10T10:59:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "Working Out At This Time Of Day Could Reduce Insulin Resistance Up To 25%",
-            "link": "https://www.mindbodygreen.com/articles/intensity-and-timing-of-physical-activity-affect-insulin-resistance-the-study-design",
-            "description": "Clear your schedule this afternoon; it's time to work out!",
-            "pubDate": "2026-03-06T10:38:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Research Points To 2 Ways Sleep Is Essential To Brain Health",
-            "link": "https://www.mindbodygreen.com/articles/getting-enough-sleep-is-key-for-continuous-learning-study-shows-ways-sleep-is-essential",
-            "description": "Add this to all the other important reasons to prioritize your rest.",
-            "pubDate": "2026-03-06T11:41:00",
+            "title": "This Vitamin Majorly Reduces Dementia Risk (Per Research On 69,643 People)",
+            "link": "https://www.mindbodygreen.com/articles/this-vitamin-reduces-dementia-risk-says-research-on-69k-people-get-regular-checkups",
+            "description": "Here are the easiest ways to ensure sufficient levels.",
+            "pubDate": "2026-03-10T11:07:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "This Zodiac Sign Gossips The Most Out Of Anyone—Is It Yours?",
-            "link": "https://www.mindbodygreen.com/articles/top-3-gossip-zodiac-signs",
-            "description": "Spill the tea.",
-            "pubDate": "2026-03-06T10:50:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "title": "I've Been A Cosmetic Dermatologist For 24+ Years: 3 Tips To Smooth Cellulite",
+            "link": "https://www.mindbodygreen.com/articles/dermatologist-shares-3-natural-tips-to-smooth-cellulite-smart-topicals",
+            "description": "You can have cellulite no matter what products you use on your skin, how old you are, or how much you weigh.",
+            "pubDate": "2026-03-10T11:08:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "This Supplement May Support Brain Activity In Those With Depression",
+            "link": "https://www.mindbodygreen.com/articles/research-explores-how-probiotics-can-impact-depression-symptoms",
+            "description": "As much progress as we've made talking about mental health, treatments can still be hit or miss.",
+            "pubDate": "2026-03-10T10:40:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         }
     ]
 }

@@ -2,8 +2,15 @@
     "title": "Individual feed for https://therecipecritic.com/feed/",
     "link": "https://therecipecritic.com/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-06T16:03:49.509287",
+    "lastBuildDate": "2026-03-10T07:57:27.717050",
     "items": [
+        {
+            "title": "PF Chang’s Honey Chicken (Copycat)",
+            "link": "https://therecipecritic.com/pf-changs-honey-chicken-copycat/",
+            "description": "If you love PF Chang’s honey chicken, you’re going to love this! I figured out how to make it at…",
+            "pubDate": "2026-03-08T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2026/02/pf-changs-honey-chicken-16.jpg"
+        },
         {
             "title": "Copycat Olive Garden Menu Plan",
             "link": "https://therecipecritic.com/copycat-olive-garden-menu-plan/",
@@ -31,13 +38,6 @@
             "description": "I planned dinner, so you don’t have to! This weekly meal plan includes easy dinners plus a free shopping list!…",
             "pubDate": "2026-02-27T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2026/01/Week-79-Meal-Plan-Collage-.jpg"
-        },
-        {
-            "title": "One-Pan Irish Chicken",
-            "link": "https://therecipecritic.com/irish-chicken/",
-            "description": "This Irish chicken is my cozy mashup of pub vibes and weeknight reality. Seared chicken thighs baked over bacon, cabbage,…",
-            "pubDate": "2026-02-26T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2026/02/irish-chicken.jpg"
         }
     ]
 }

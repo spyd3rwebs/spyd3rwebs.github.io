@@ -2,63 +2,91 @@
     "title": "briefUpdatesHealthOffshootNL",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from briefUpdatesHealthOffshootNL, skipping any feeds with errors.",
-    "lastBuildDate": "2026-03-06T16:01:21.497645",
+    "lastBuildDate": "2026-03-10T07:54:48.532318",
     "items": [
         {
-            "title": "Six Federal Scientists Run Out by Trump Talk About the Work Left Undone",
-            "link": "https://kffhealthnews.org/news/article/nih-national-institutes-of-health-scientist-exodus-disease-treatments/",
-            "description": "Cancer treatments, disease outbreaks, addiction science: Scientists say an exodus from the National Institutes of Health will harm the nation's abilit...",
-            "pubDate": "2026-03-06T10:00:00",
-            "image_url": "https://kffhealthnews.org/wp-content/uploads/sites/2/2026/02/Romberg_16-resized.jpg"
+            "title": "Under financial strain, primary care doctors unite",
+            "link": "https://www.npr.org/2026/03/10/nx-s1-5707306/under-financial-strain-primary-care-doctors-unite",
+            "description": "Under increasing financial stress, primary care practices across the U.S. are banding together in larger groups to negotiate more lucrative insurance ...",
+            "pubDate": "2026-03-10T10:59:56",
+            "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5707306"
         },
         {
-            "title": "'Dopamine Kids' explains why children crave screens and helps them enjoy life instead",
-            "link": "https://www.npr.org/2026/03/06/nx-s1-5737901/dopamine-kids-parenting-screens",
-            "description": "A mom and science writer offers an operating manual for parents grappling with kids' screen use and cravings for sweets.",
-            "pubDate": "2026-03-06T17:14:25",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1414+0+0/resize/2121x1414!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7e%2Fc5%2F8cd433344f489794a79008fae640%2Fgettyimages-1326364112.jpg"
+            "title": "GLP-1s have transformed weight loss and diabetes. Is addiction next?",
+            "link": "https://www.npr.org/2026/03/10/nx-s1-5739396/glp-1-ozempic-addiction-substance-use-disorders-weight-loss",
+            "description": "A large study found that people taking GLP-1 drugs like Ozempic for diabetes were less likely to be diagnosed with substance use disorder.",
+            "pubDate": "2026-03-10T11:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4800x2700+0+0/resize/4800x2700!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fee%2Fa2%2F842aae8b44e790aa621c2dbf8501%2Fnprgpl1-smallest.gif"
         },
         {
-            "title": "Taking the heat. Scientists explore sauna's health benefits",
-            "link": "https://www.npr.org/2026/03/06/nx-s1-5719268/sauna-heat-health-benefits-science",
-            "description": "It's an age old practice that's having a moment right now. But is there anything to the health claims? Scientists say sauna is more than hot air.",
-            "pubDate": "2026-03-06T11:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe1%2F30%2Fbf1f09cc4fedb5a7f3e51cfdbefa%2Fsauna-festival-08.jpg"
+            "title": "Liberal Arts Education As a Counterbalance To Trumpian AI",
+            "link": "https://thehealthcareblog.com/blog/2026/03/10/liberal-arts-education-as-a-counterbalance-to-trumpian-ai/",
+            "description": "By MIKE MAGEE What’s wrong in the social science realm of health? Consider for example the mental health crises affecting teens across the nation, or ...",
+            "pubDate": "2026-03-10T07:21:00",
+            "image_url": "https://thehealthcareblog.com/wp-content/uploads/2019/03/849660338_medium-dr-mike-magee.jpg"
         },
         {
-            "title": "The People — And Research — Lost in the NIH Exodus",
-            "link": "https://kffhealthnews.org/news/article/nih-national-institutes-of-health-resignation-scientist-profiles-brain-drain/",
-            "description": "Government data shows the National Institutes of Health lost about 4,400 people — more than 20% of its staff — as the Trump administration slashed the...",
-            "pubDate": "2026-03-06T10:00:00",
-            "image_url": "https://kffhealthnews.org/wp-content/uploads/sites/2/2026/02/Chou_06.jpg"
+            "title": "Why the 'mad scramble' to fill hormone therapy prescriptions for menopause",
+            "link": "https://www.npr.org/2026/03/10/nx-s1-5742817/menopause-hormone-therapy-shortages",
+            "description": "With the removal of FDA warning labels, hormone therapy to treat symptoms of menopause has grown in popularity. Now some patients are reporting delays...",
+            "pubDate": "2026-03-10T10:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1414+0+0/resize/2121x1414!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fff%2F0c%2Fb90bdc044d9880ec2d7f736921f6%2Fgettyimages-1454147665.jpg"
         },
         {
-            "title": "This Doctor-Senator Who Backed RFK Jr. Now Faces a Fight for His Job — And His Legacy",
-            "link": "https://kffhealthnews.org/news/article/bill-cassidy-rfk-jr-confirmation-vaccines-hepatitis-b-hhs-senate-primary-louisiana/",
-            "description": "A year after Sen. Bill Cassidy, a Louisiana Republican, warily cast the vote ensuring Robert F. Kennedy Jr.’s ascension to Health and Human Services s...",
-            "pubDate": "2026-03-06T10:00:00",
-            "image_url": "https://kffhealthnews.org/wp-content/uploads/sites/2/2026/03/Louisiana_02-resized.jpg"
+            "title": "More Kids Are in ERs for Tooth Pain. Trump Cuts and RFK Jr.’s Anti-Fluoride Fight Aren’t Helping.",
+            "link": "https://kffhealthnews.org/news/article/dental-care-emergency-rooms-special-needs-medicaid-shortage-areas/",
+            "description": "Dentists, hygienists, and researchers say a shortage of rural dental care professionals and worsening oral hygiene since the covid-19 pandemic mean mo...",
+            "pubDate": "2026-03-10T10:00:00",
+            "image_url": "https://kffhealthnews.org/wp-content/uploads/sites/2/2026/02/DentalER_02.jpg"
+        },
+        {
+            "title": "Banks Are Becoming Bulwarks Against Scams for Vulnerable Seniors",
+            "link": "https://kffhealthnews.org/news/article/banks-protect-seniors-financial-scams-dementia-cognitive-decline-new-old-age/",
+            "description": "Older Americans are losing billions of dollars annually to financial exploitation. Banks and investment firms are training employees to spot red flags...",
+            "pubDate": "2026-03-10T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Menopause hormone therapy is popular, so why the 'mad scramble' to fill prescriptions?",
+            "link": "https://www.npr.org/2026/03/09/nx-s1-5725504/menopause-hormone-therapy-is-popular-so-why-the-mad-scramble-to-fill-prescriptions",
+            "description": "With the removal of the black-box warning on hormone therapy for menopause, some providers and patients report shortages or delays, waiting for a phar...",
+            "pubDate": "2026-03-09T21:35:10",
+            "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5725504"
+        },
+        {
+            "title": "Florida Hasn’t Expanded Medicaid. Lawmakers Want To Add Work Requirements Anyway.",
+            "link": "https://kffhealthnews.org/news/article/florida-medicaid-work-requirements-expansion-one-big-beautiful-bill-act/",
+            "description": "Florida is not mandated to add work requirements for Medicaid, because the state has not expanded eligibility to more low-income adults. But lawmakers...",
+            "pubDate": "2026-03-09T10:00:00",
+            "image_url": "https://kffhealthnews.org/wp-content/uploads/sites/2/2026/02/Mastrototaro.jpg"
+        },
+        {
+            "title": "Why young girls are disguised as boys in Afghanistan",
+            "link": "https://www.npr.org/2026/03/09/g-s1-112603/why-young-girls-are-disguised-as-boys-in-afghanistan",
+            "description": "The Taliban has released a video of an interrogation of a girl who passed as a boy. It's an age-old practice in this patriarchal society but now appea...",
+            "pubDate": "2026-03-09T16:33:17",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+0/resize/3000x1688!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F73%2F88%2F66bc483e4837bb6c0fc145523294%2Fnpr-bachaposh-final.jpg"
+        },
+        {
+            "title": "Florida no amplió Medicaid, pero igual algunos legisladores quieren imponer requisitos de trabajo",
+            "link": "https://kffhealthnews.org/news/article/florida-no-amplio-medicaid-pero-igual-algunos-legisladores-quieren-imponer-requisitos-de-trabajo/",
+            "description": "La medida desconcierta a defensores de la atención médica y a expertos en Medicaid. Algunos dudan, incluso, que sea legal bajo la principal ley de pol...",
+            "pubDate": "2026-03-09T12:19:12",
+            "image_url": "https://kffhealthnews.org/wp-content/uploads/sites/2/2026/02/Mastrototaro.jpg"
+        },
+        {
+            "title": "Newsom se enfrenta a Trump y RFK Jr. por la salud pública",
+            "link": "https://kffhealthnews.org/news/article/newsom-se-enfrenta-a-trump-y-rfk-jr-por-la-salud-publica/",
+            "description": "El gobernador de California, Gavin Newsom, se ha posicionado como un líder nacional en salud pública al impulsar políticas respaldadas por la ciencia,...",
+            "pubDate": "2026-03-09T14:57:38",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "Lauren Ranalli, Town Square Health",
             "link": "https://thehealthcareblog.com/blog/2026/03/06/lauren-ranalli-town-square-health/",
             "description": "Lauren Ranalli is the VP of Patient & Community Engagement at Town Square Health, a brand new medical group setting itself up for the senior populatio...",
             "pubDate": "2026-03-06T06:29:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "The NIH Workforce Is Its Smallest in Decades. Here’s the Work Left Behind.",
-            "link": "https://kffhealthnews.org/news/article/the-week-in-brief-nih-workforce-cuts-trump-administration-hhs/",
-            "description": "Get our weekly newsletter, The Week in Brief, featuring a roundup of our original coverage, Fridays at 2 p.m. ET.",
-            "pubDate": "2026-03-06T19:30:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Can a digital tablet cut back a country's overuse of antibiotics?",
-            "link": "https://www.npr.org/2026/03/05/nx-s1-5732471/antibiotic-overuse-resistance-rwanda-digital-tablet",
-            "description": "Overprescribing antibiotics breeds antibiotic resistance. A new tool aims to lower a notably high rate of such prescriptions in Rwanda.",
-            "pubDate": "2026-03-05T19:19:50",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1280x720+0+32/resize/1280x720!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8f%2F22%2F5060ee5d4f28be580c29d8809b3b%2Fstriking-image-2-alternative.JPG"
         },
         {
             "title": "When Artificial Intelligence Starts Rewriting Reality",
@@ -68,46 +96,18 @@
             "image_url": "https://thehealthcareblog.com/wp-content/uploads/2026/03/Brian-Joondeph-1-scaled.jpg"
         },
         {
-            "title": "Medical schools agree to expand their nutrition curriculum this fall",
-            "link": "https://www.npr.org/2026/03/05/nx-s1-5736550/medical-schools-agree-to-expand-their-nutrition-curriculum-this-fall",
-            "description": "Health Secretary Robert F. Kennedy Jr. announced that 53 medical schools in 31 states will expand their nutrition curriculum to 40 hours. Most medical...",
-            "pubDate": "2026-03-05T21:53:22",
-            "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5736550"
-        },
-        {
-            "title": "Pregnant women in ERs took less Tylenol after Trump autism warning",
-            "link": "https://www.npr.org/2026/03/05/nx-s1-5732929/tylenol-pregnant-women-autism-trump-warning",
-            "description": "A study in The Lancet finds that pregnant women in emergency rooms used less Tylenol after President Trump said it could raise their babies' risk of a...",
-            "pubDate": "2026-03-05T23:32:29",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x682+0+0/resize/1024x682!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fda%2F85%2Fa208fd1644bc90ce99a9b01211bd%2Fgettyimages-2236338199.jpg"
-        },
-        {
-            "title": "What the Health? From KFF Health News: 40 Years of Health Policy",
-            "link": "https://kffhealthnews.org/news/podcast/what-the-health-436-julie-rovner-40th-anniversary-chip-kahn-chris-jennings-march-5-2026/",
-            "description": "This month is 40 years since host Julie Rovner, chief Washington correspondent for KFF Health News, began reporting on health policy in Washington. To...",
-            "pubDate": "2026-03-05T19:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
             "title": "Oren Nissim, Brook-ai – Figuring out RPM",
             "link": "https://thehealthcareblog.com/blog/2026/03/03/oren-nissim-brook-ai-figuring-out-rpm/",
             "description": "Oren Nissim is the CEO of Brook-ai which is making some waves in the remote care space. Their goals is to use remote patient monitoring to help provid...",
             "pubDate": "2026-03-03T23:36:13",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "Miriam Paramore, RxUtility",
             "link": "https://thehealthcareblog.com/blog/2026/03/02/miriam-paramore-rxutility/",
             "description": "In this quickbite interview recorded at the Feb 2026 VIVE conference, I am talking with Miriam Paramore. Miriam is building RxUtility, which is helpin...",
             "pubDate": "2026-03-02T22:57:50",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "The Vocabulary of Survival",
-            "link": "https://thehealthcareblog.com/blog/2026/02/26/the-vocabulary-of-survival/",
-            "description": "By GEORGE BEAUREGARD From 2018 to 2022, I served as a physician executive in a large health system on Long Island. During that period, I became acquai...",
-            "pubDate": "2026-02-26T05:30:05",
-            "image_url": "https://thehealthcareblog.com/wp-content/uploads/2024/12/GeorgeB3-683x1024.jpg"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         }
     ]
 }

@@ -2,42 +2,42 @@
     "title": "Individual feed for https://ragingbull.com/feed/",
     "link": "https://ragingbull.com/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-06T16:03:37.341654",
+    "lastBuildDate": "2026-03-10T07:57:13.292712",
     "items": [
         {
             "title": "Gilead Snaps Up Arcellx in $7.8B Cancer Drug Deal",
             "link": "https://ragingbull.com/editorial/gilead-snaps-up-arcellx-in-7-8b-cancer-drug-deal/",
             "description": "Gilead's $7.8B acquisition of Arcellx boosts shares 78% amid push for new myeloma drug. Explore the deal, market impacts, and trading insights.",
             "pubDate": "2026-02-23T13:11:43",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Valaris Stock Soars on $5.8B Transocean Acquisition",
             "link": "https://ragingbull.com/editorial/valaris-stock-soars-on-5-8b-transocean-acquisition/",
             "description": "Valaris (VAL) shares close up 34.31% on news of a $5.8 billion all-stock acquisition by Transocean (RIG), creating a major offshore drilling powerhous...",
             "pubDate": "2026-02-09T22:57:03",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "Silicon Labs Soars on Texas Instruments Buyout Deal",
             "link": "https://ragingbull.com/editorial/silicon-labs-soars-on-texas-instruments-buyout-deal/",
             "description": "Listen up, folks! If you’re scanning the markets today, you’ve got to see what’s happening with Silicon Labs (SLAB). As of this writing, shares have e...",
             "pubDate": "2026-02-04T19:06:51",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "Biotech Stocks Skyrocket on Game-Changing News",
             "link": "https://ragingbull.com/editorial/biotech-stocks-skyrocket-on-game-changing-news/",
             "description": "Discover why biotech stocks like CRVS and RAPT are surging today on trial breakthroughs and deals. Learn trading insights and risks in this exciting m...",
             "pubDate": "2026-01-20T18:49:59",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "SelectQuote Surges 23% on $415M Credit Facility News",
             "link": "https://ragingbull.com/editorial/selectquote-surges-23-on-415m-credit-facility-news/",
             "description": "SelectQuote (SLQT) stock jumped 23% on January 12, 2026 after securing a $415M credit facility. Dive into the details, risks, benefits, and how simila...",
             "pubDate": "2026-01-12T22:59:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         }
     ]
 }

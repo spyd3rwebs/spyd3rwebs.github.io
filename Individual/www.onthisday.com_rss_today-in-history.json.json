@@ -2,14 +2,14 @@
     "title": "Individual feed for https://www.onthisday.com/rss/today-in-history.xml",
     "link": "https://www.onthisday.com/rss/today-in-history.xml",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-06T16:01:26.725782",
+    "lastBuildDate": "2026-03-10T07:54:55.383368",
     "items": [
         {
-            "title": "Today in History for 6th March 2026",
-            "link": "https://www.onthisday.com/day/march/6",
-            "description": "Historical Events 1882 - Monarch Milan Obrenovic of Serbia crowns himself king 1904 - The Japanese fleet bombards Vladivostok, the major Russian port ...",
-            "pubDate": "2026-03-06T05:02:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "title": "Today in History for 10th March 2026",
+            "link": "https://www.onthisday.com/day/march/10",
+            "description": "Historical Events 1791 - Pope condemns France's Civil Constitution of the clergy 1874 - Purdue University (Indiana) admits its 1st student 1962 - Gala...",
+            "pubDate": "2026-03-10T05:02:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         }
     ]
 }

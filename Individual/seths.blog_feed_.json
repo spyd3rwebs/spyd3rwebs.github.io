@@ -2,42 +2,42 @@
     "title": "Individual feed for https://seths.blog/feed/",
     "link": "https://seths.blog/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-06T16:03:42.285426",
+    "lastBuildDate": "2026-03-10T07:57:19.049153",
     "items": [
+        {
+            "title": "Small changes to big systems",
+            "link": "https://seths.blog/2026/03/small-changes-to-big-systems/",
+            "description": "A hardcover book printed in 1925 is almost indistinguishable from one printed yesterday. It’s easy to think not much has changed. But book publishing ...",
+            "pubDate": "2026-03-10T10:03:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Considering infinity",
+            "link": "https://seths.blog/2026/03/considering-infinity/",
+            "description": "Endless, unlimited and more. These are building blocks of capitalism. Starbucks knows that they can’t get you to drink three coffees every morning, bu...",
+            "pubDate": "2026-03-09T10:03:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Confused about donations",
+            "link": "https://seths.blog/2026/03/confused-about-donations/",
+            "description": "A suite at a New York Knicks game costs more than $30,000. Is that a donation to the team? Why do we differentiate between the money spent on a Super ...",
+            "pubDate": "2026-03-08T10:03:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "If they knew…",
+            "link": "https://seths.blog/2026/03/if-they-knew/",
+            "description": "Some organizations and marketers thrive on the uninformed consumer. They seek out people who don’t know, and who aren’t particularly good at decision ...",
+            "pubDate": "2026-03-07T10:03:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
         {
             "title": "Tight rope standing",
             "link": "https://seths.blog/2026/03/tight-rope-standing/",
             "description": "It’s much easier to walk a tight rope than it is to simply stand in place. Forward momentum creates stability.",
             "pubDate": "2026-03-06T10:03:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "That’s what studies are for",
-            "link": "https://seths.blog/2026/03/thats-what-studies-are-for/",
-            "description": "“Are you sure it’s going to work?” That’s the wrong question to consider when proposing a study. It’s also not helpful to say, “It’s unlikely to solve...",
-            "pubDate": "2026-03-06T10:03:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Imagination is work",
-            "link": "https://seths.blog/2026/03/imagination-is-work/",
-            "description": "We spend most of the time we’re in school extinguishing imagination. “Will this be on the test?” is a much more common question than “What if?” We’ve ...",
-            "pubDate": "2026-03-05T10:03:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "The Uncanny Valley",
-            "link": "https://seths.blog/2026/03/the-uncanny-valley/",
-            "description": "It used to be an obscure oddity, now we all need to understand it. 18 years ago, I posted this image: …and I still can’t get it out of my head. Sorry....",
-            "pubDate": "2026-03-04T10:03:00",
-            "image_url": "https://i0.wp.com/seths.blog/wp-content/uploads/2026/03/mandog510.webp?resize=510%2C507&ssl=1"
-        },
-        {
-            "title": "The gap between “I” and “no one”",
-            "link": "https://seths.blog/2026/03/the-gap-between-i-and-no-one/",
-            "description": "This is where empathy lies, and it’s an easy chasm to fall into. “I can’t imagine eating durian ice cream,” is not the same as “no one likes durian ic...",
-            "pubDate": "2026-03-03T10:03:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         }
     ]
 }

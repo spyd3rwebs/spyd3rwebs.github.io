@@ -2,8 +2,22 @@
     "title": "Individual feed for https://youmustgethealthy.com/feed",
     "link": "https://youmustgethealthy.com/feed",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-06T16:07:27.855784",
+    "lastBuildDate": "2026-03-10T07:59:33.077822",
     "items": [
+        {
+            "title": "12 Incredibly Healthy Ways To Reward Yourself",
+            "link": "https://youmustgethealthy.com/healthy-ways-to-reward-yourself/",
+            "description": "When you achieve your goals, set a new milestone or overcome an obstacle, it’s only natural that you want to celebrate and reward yourself. Humans lov...",
+            "pubDate": "2026-03-09T06:00:25",
+            "image_url": "https://youmustgethealthy.com/wp-content/uploads/2019/06/240_F_158924208_RDNJIdDDVu7tGzKir4z2MehcnDZtXNep-300x200.jpg"
+        },
+        {
+            "title": "5 Emotional Benefits of Having A Pet",
+            "link": "https://youmustgethealthy.com/emotional-benefits-of-having-a-pet/",
+            "description": "Pets, especially dogs and cats, are adorable. Imagine coming back from work, stressed and tired, and immediately entering the house, your furry friend...",
+            "pubDate": "2026-03-06T08:54:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
         {
             "title": "10 Healthy Things To Do While Fasting",
             "link": "https://youmustgethealthy.com/10-healthy-things-fasting/",
@@ -16,7 +30,7 @@
             "link": "https://youmustgethealthy.com/tips-for-a-healthier-gut/",
             "description": "The human digestive system is home to trillions of microbial cells that influence human physiology. The micro-organisms in your gut play an important ...",
             "pubDate": "2026-03-02T05:52:52",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "The Health Benefits of Fasting During Ramadan",
@@ -24,20 +38,6 @@
             "description": "Over recent years, fasting has drastically risen in popularity primarily because of endorsement from celebrities and experts. The fact remains though;...",
             "pubDate": "2026-03-01T14:35:43",
             "image_url": "https://youmustgethealthy.com/wp-content/uploads/2019/01/240_F_43543987_g7e6drnqzTcPrQUTz6agqp40UfHeDkyj-300x200.jpg"
-        },
-        {
-            "title": "10 Powerful Emotional Benefits of Weight Training",
-            "link": "https://youmustgethealthy.com/emotional-benefits-weight-training/",
-            "description": "Just like any other form of exercise, weight training is an excellent way to increase your mood and boost your mental health. It releases endorphins i...",
-            "pubDate": "2026-02-27T05:00:04",
-            "image_url": "https://youmustgethealthy.com/wp-content/uploads/2021/08/depositphotos_44257507-stock-photo-weight-training-fitness-man-with-300x200.jpg"
-        },
-        {
-            "title": "7 Soothing Health Benefits of Listening to Podcasts",
-            "link": "https://youmustgethealthy.com/health-benefits-listening-podcasts/",
-            "description": "A podcast is a digital audio file that is available on the internet for download or stream through a computer or smartphone, usually available in the ...",
-            "pubDate": "2026-02-25T00:05:04",
-            "image_url": "https://youmustgethealthy.com/wp-content/uploads/2022/05/depositphotos_75515405-stock-photo-happy-african-woman-with-smartphone-300x200.webp"
         }
     ]
 }

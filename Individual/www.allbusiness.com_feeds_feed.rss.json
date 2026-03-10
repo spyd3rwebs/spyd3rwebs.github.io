@@ -2,8 +2,15 @@
     "title": "Individual feed for https://www.allbusiness.com/feeds/feed.rss",
     "link": "https://www.allbusiness.com/feeds/feed.rss",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-06T16:01:24.612825",
+    "lastBuildDate": "2026-03-10T07:54:52.402581",
     "items": [
+        {
+            "title": "The Most Common Crypto Swap Scams",
+            "link": "https://www.allbusiness.com/most-common-crypto-swap-scams",
+            "description": "Post sponsored by Changelly Crypto swaps are fast and permissionless, which is exactly why scammers love them. Before you hit “swap,” decide where you...",
+            "pubDate": "2026-03-09T23:00:44",
+            "image_url": "https://www.allbusiness.com/media-library/crypto-currency-image-representing-swap-scams.jpg?id=32078912&width=980"
+        },
         {
             "title": "10 Frequently Asked Questions About Angel Investing",
             "link": "https://www.allbusiness.com/10-frequently-asked-questions-about-angel-investing",
@@ -31,13 +38,6 @@
             "description": "Post sponsored by Bsign Store Room numbering is one of the most basic yet critical elements of interior navigation. In hotels, offices, residential co...",
             "pubDate": "2026-02-19T16:11:47",
             "image_url": "https://www.allbusiness.com/media-library/room-number-sign-in-a-hotel.jpg?id=64900938&width=980"
-        },
-        {
-            "title": "The Top 10 Side Hustles According to AI",
-            "link": "https://www.allbusiness.com/top-10-side-hustles-according-to-ai",
-            "description": "Whether you need some extra cash, want to explore a new field, or desire more time at home with family, these top ten side hustles help you to meet yo...",
-            "pubDate": "2026-02-13T17:42:03",
-            "image_url": "https://www.allbusiness.com/media-library/consulting-on-website-ux-as-a-side-hustle.jpg?id=64428713&width=980"
         }
     ]
 }

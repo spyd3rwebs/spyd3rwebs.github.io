@@ -2,175 +2,189 @@
     "title": "INmaster",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from INmaster, skipping any feeds with errors.",
-    "lastBuildDate": "2026-03-06T16:03:49.507133",
+    "lastBuildDate": "2026-03-10T07:57:27.714699",
     "items": [
+        {
+            "title": "How to Choose the Best Health Plan",
+            "link": "https://www.webmd.com/health-insurance/lst/cm/listicle-choosing-health-insurance-plan",
+            "description": "",
+            "pubDate": "2026-03-10T08:47:46",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/hiv_and_barriers_slideshow/1800ss_getty_rf_woman_looking_at_medical_bills.jpg?resize=484px:*&output-quality=70"
+        },
+        {
+            "title": "What to Do When Your Claim Is Denied",
+            "link": "https://www.webmd.com/health-insurance/cm/filing-health-insurance-appeal",
+            "description": "",
+            "pubDate": "2026-03-10T08:47:46",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/consumer_assets/site_images/articles/health_tools/tips_for_choosing_your_psoriasis_care_providers_slideshow/1800ss_getty_rf_health_insurance_claim_form.jpg?resize=484px:*&output-quality=70"
+        },
+        {
+            "title": "Strategies for Smarter Health Spending",
+            "link": "https://www.webmd.com/health-insurance/toc-smarter-health-spending",
+            "description": "Learn how to choose the right plan and navigate health insurance with confidence at every stage of life.",
+            "pubDate": "2026-03-10T08:47:46",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/other/doctor-checking-patient-heart-with-stethoscope-other/1800x1200-doctor-checking-patient-heart-with-stethoscope-other.jpg?resize=484px:*&output-quality=70"
+        },
+        {
+            "title": "Cheesy Jalapeño Cashew Dressing",
+            "link": "https://minimalistbaker.com/vegan-cashew-dressing/",
+            "description": "Move over, Ranch, there’s a new creamy dressing in town that’s stealing our hearts! This cheesy jalapeño cashew dressing is our new go-to for salads, ...",
+            "pubDate": "2026-03-10T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/05/Vegan-Cashew-Jalapeno-Dressing-4-680x1020.jpg"
+        },
+        {
+            "title": "An iPhone-hacking toolkit used by Russian spies likely came from U.S military contractor",
+            "link": "https://techcrunch.com/2026/03/09/an-iphone-hacking-toolkit-used-by-russian-spies-likely-came-from-u-s-military-contractor/",
+            "description": "Google found a series of hacking tools they said were used by a Russian espionage group and a cybercriminal group in China. Sources from a U.S. govern...",
+            "pubDate": "2026-03-10T02:56:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "8 Best Cheap Phones (2026), Tested and Reviewed",
+            "link": "https://www.wired.com/story/best-cheap-phones/",
+            "description": "There’s little reason to pay top dollar for a smartphone. These iPhones and Android devices—ranging from $100 to $600—stood up to WIRED’s testing.",
+            "pubDate": "2026-03-10T12:30:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Kind Restaurant Owners Take Entire Staff on Paid Bahamas Vacation",
+            "link": "https://www.goodnewsnetwork.org/kind-restaurant-owners-take-entire-staff-on-paid-bahamas-vacation/",
+            "description": "As the busy holiday period wound to a close at The Standard restaurant in Toledo, the owners surprised their staff with a three-day cruise to the Baha...",
+            "pubDate": "2026-03-10T12:00:10",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Whoop launches a new blood test focused on women’s health",
+            "link": "https://techcrunch.com/2026/03/10/whoop-launches-a-new-blood-test-focused-on-womens-health/",
+            "description": "The wearable maker is launching a new panel focused on women's health through its Whoop Labs blood testing service. It's also adding a new feature to ...",
+            "pubDate": "2026-03-10T11:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Apple now makes one in four iPhones in India: report",
+            "link": "https://techcrunch.com/2026/03/09/apple-now-makes-one-in-four-iphones-in-india-report/",
+            "description": "Apple reportedly produced 55 million units in India last year, a shift accelerated as Apple faced growing uncertainty in China.",
+            "pubDate": "2026-03-10T07:04:43",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "How to Responsibly Dispose of Your Electronics (2026)",
+            "link": "https://www.wired.com/story/how-to-responsibly-dispose-electronics/",
+            "description": "Get rid of old, broken, and unused devices—even Lightning cables—without adding to the e-waste problem.",
+            "pubDate": "2026-03-10T11:30:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Good News in History, March 10",
+            "link": "https://www.goodnewsnetwork.org/events070310/",
+            "description": "Happy Birthday to Hollywood star Jon Hamm who turns 55 today. He rocketed to fame playing the 60s advertising executive Don Draper in the TV hit Mad M...",
+            "pubDate": "2026-03-10T08:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "How Can a Locomotive Pull a Long Train That’s Much Heavier?",
+            "link": "https://www.wired.com/story/how-can-a-locomotive-pull-a-train-thats-much-heavier/",
+            "description": "For railroads, it’s all about managing static and kinetic friction.",
+            "pubDate": "2026-03-10T12:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Yann LeCun’s AMI Labs raises $1.03 billion to build world models",
+            "link": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/",
+            "description": "AMI Labs, the new venture cofounded by Turing Prize winner Yann LeCun after he left Meta, has raised $1.03 billion at a $3.5 billion pre-money valuati...",
+            "pubDate": "2026-03-10T06:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Uzbekistan’s Uzum valuation leaps over 50% in seven months to $2.3B",
+            "link": "https://techcrunch.com/2026/03/10/uzbekistans-uzum-valuation-rises-1-5x-in-seven-months-to-2-3b/",
+            "description": "Uzum now reaches 20 million users and processes $11B in payments as it expands its e-commerce and fintech ecosystem across Uzbekistan.",
+            "pubDate": "2026-03-10T08:15:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "The Best Streaming Bundles and Streaming Deals of March 2026",
+            "link": "https://www.wired.com/story/best-streaming-deals-and-streaming-bundles/",
+            "description": "Here are the current best bundles from the most popular services.",
+            "pubDate": "2026-03-10T12:06:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Use Microsoft PC Manager to Speed Up Your Windows 11 Computer",
+            "link": "https://www.wired.com/story/microsoft-pc-manager-speed-up-windows-11/",
+            "description": "Can you really get a Windows PC running like new again? Using this free tool from Microsoft, you can get pretty close.",
+            "pubDate": "2026-03-10T11:30:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "BofA Business Advantage Unlimited card review: 1.5% cash back",
+            "link": "https://thepointsguy.com/credit-cards/reviews/bank-of-america-business-advantage-unlimited-review/",
+            "description": "The BofA Business Advantage Unlimited Cash Rewards Mastercard has no annual fee and earns 1.5% cash back on purchases. A simple card for small-busines...",
+            "pubDate": "2026-03-09T19:00:39",
+            "image_url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2022/12/GettyImages-1421562868.jpg"
+        },
+        {
+            "title": "How to earn Air Canada Aeroplan points",
+            "link": "https://thepointsguy.com/loyalty-programs/earn-aeroplan-points/",
+            "description": "Want to earn Air Canada Aeroplan points? Here are all the ways you can earn Aeroplan points, some of which don't even require traveling.",
+            "pubDate": "2026-03-09T17:00:55",
+            "image_url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2023/10/American-Boeing-787-9-Dreamliner-LHR-ORD-Business-113.jpg"
+        },
+        {
+            "title": "TSA wait times hit 3 hours Monday as partial government shutdown drags on",
+            "link": "https://thepointsguy.com/news/tsa-checkpoint-delays-partial-government-shutdown/",
+            "description": "Wait times at TSA checkpoints escalated Sunday as staffing crunches across the country left passengers standing in long lines to get screened.",
+            "pubDate": "2026-03-09T20:30:00",
+            "image_url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/03/HOU-security-lines-2.jpg"
+        },
+        {
+            "title": "Hertz Gold+: How to earn and redeem points for free car rentals, discounts and more",
+            "link": "https://thepointsguy.com/loyalty-programs/hertz-gold-rewards/",
+            "description": "This guide covers the Hertz Gold+ program, including how to earn and redeem points and the low-down on elite status. Here's what you need to know.",
+            "pubDate": "2026-03-09T22:00:48",
+            "image_url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2022/11/GettyImages-1237996087.jpg"
+        },
+        {
+            "title": "How to earn and redeem the Atmos Summit's Global Companion Award",
+            "link": "https://thepointsguy.com/credit-cards/atmos-global-companion-award-certificate-guide/",
+            "description": "Learn how the Atmos Rewards Summit's Global Companion Award works, how to earn 25K or 100K awards and how to maximize companion redemptions.",
+            "pubDate": "2026-03-09T15:30:04",
+            "image_url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/12/Port-of-SeattleSEA-Airport_Airport_190725_111.jpg"
+        },
+        {
+            "title": "Multiple Types of Plastic Are Turned into Vinegar Using Sunlight-Powered Process Without Emissions",
+            "link": "https://www.goodnewsnetwork.org/multiple-types-of-plastic-are-turned-into-vinegar-using-sunlight-powered-process-without-emissions/",
+            "description": "Researchers at the University of Waterloo have discovered a way to turn plastic waste into acetic acid, the main ingredient of vinegar, using sunlight...",
+            "pubDate": "2026-03-09T19:30:35",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Marsupials Previously Thought Extinct for 6,000 Years Discovered: ‘A once-in-a-lifetime discovery’",
+            "link": "https://www.goodnewsnetwork.org/marsupials-previously-thought-extinct-for-6000-years-discovered-a-once-in-a-lifetime-discovery/",
+            "description": "GNN has reported a-plenty on animals that were last seen in the 20th century and believed extinct that were then rediscovered, but a story from the is...",
+            "pubDate": "2026-03-09T14:00:59",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Artworks Are Hidden Until it Rains in Seattle–Now it’s Sold Around the World",
+            "link": "https://www.goodnewsnetwork.org/artworks-are-hidden-until-it-rains-in-seattle-now-its-sold-around-the-world/",
+            "description": "Ask anyone who lives in a rainy city and they’ll tell you that you just have to make the best of it. In Seattle, one artist did exactly that by making...",
+            "pubDate": "2026-03-09T16:30:54",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "PF Chang’s Honey Chicken (Copycat)",
+            "link": "https://therecipecritic.com/pf-changs-honey-chicken-copycat/",
+            "description": "If you love PF Chang’s honey chicken, you’re going to love this! I figured out how to make it at…",
+            "pubDate": "2026-03-08T13:00:00",
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2026/02/pf-changs-honey-chicken-16.jpg"
+        },
         {
             "title": "Copycat Olive Garden Menu Plan",
             "link": "https://therecipecritic.com/copycat-olive-garden-menu-plan/",
             "description": "I had the best idea: make all your Copycat Olive Garden Menu favorites at home for a fun “night out”…",
             "pubDate": "2026-03-06T13:00:00",
             "image_url": "https://therecipecritic.com/wp-content/uploads/2026/02/Copycat-Olive-Garden-Menu-Plan-Collage-.jpg"
-        },
-        {
-            "title": "How to Choose the Best Health Plan",
-            "link": "https://www.webmd.com/health-insurance/lst/cm/listicle-choosing-health-insurance-plan",
-            "description": "",
-            "pubDate": "2026-03-06T15:59:27",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/hiv_and_barriers_slideshow/1800ss_getty_rf_woman_looking_at_medical_bills.jpg?resize=484px:*&output-quality=70"
-        },
-        {
-            "title": "Why you might want to get a premium credit card instead of purchasing travel insurance",
-            "link": "https://thepointsguy.com/credit-cards/premium-credit-card-or-travel-insurance/",
-            "description": "If you're traveling, you'll want to protect your trip. Buying travel insurance may seem like a good idea, but a premium credit card could be the best ...",
-            "pubDate": "2026-03-06T15:00:08",
-            "image_url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/11/Airport-Sick_miniseries.jpg"
-        },
-        {
-            "title": "Strategies for Smarter Health Spending",
-            "link": "https://www.webmd.com/health-insurance/toc-smarter-health-spending",
-            "description": "Learn how to choose the right plan and navigate health insurance with confidence at every stage of life.",
-            "pubDate": "2026-03-06T15:59:27",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/other/doctor-checking-patient-heart-with-stethoscope-other/1800x1200-doctor-checking-patient-heart-with-stethoscope-other.jpg?resize=484px:*&output-quality=70"
-        },
-        {
-            "title": "Atmos Rewards Business Card review: A sleeper hit for Alaska and Hawaiian loyalists",
-            "link": "https://thepointsguy.com/credit-cards/reviews/atmos-rewards-business-card-review/",
-            "description": "Earn valuable Atmos Rewards points, plus an annual Companion Fare for $95. Learn why this card is a strong pick for Alaska Airlines and Hawaiian Airli...",
-            "pubDate": "2026-03-06T16:30:26",
-            "image_url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/01/alaska-airlines-jets-san-diego.jpg"
-        },
-        {
-            "title": "Bank of America Business Advantage Travel Rewards review: Better with the Preferred Rewards for Business program",
-            "link": "https://thepointsguy.com/credit-cards/reviews/bank-of-america-business-advantage-travel-rewards-card-review/",
-            "description": "This card offers a solid return for Preferred Rewards for Business members. Better options are available if you aren't an existing Bank of America cus...",
-            "pubDate": "2026-03-06T18:00:36",
-            "image_url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2024/04/Man-on-telephone-while-looking-at-computer-and-holding-credit-card-at-home-office_-Rob-Lewine.jpg"
-        },
-        {
-            "title": "What to Do When Your Claim Is Denied",
-            "link": "https://www.webmd.com/health-insurance/cm/filing-health-insurance-appeal",
-            "description": "",
-            "pubDate": "2026-03-06T15:59:27",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/consumer_assets/site_images/articles/health_tools/tips_for_choosing_your_psoriasis_care_providers_slideshow/1800ss_getty_rf_health_insurance_claim_form.jpg?resize=484px:*&output-quality=70"
-        },
-        {
-            "title": "The best Marriott all-inclusive resorts to book with points",
-            "link": "https://thepointsguy.com/hotel/best-marriott-all-inclusive-resorts/",
-            "description": "From the deserts of Dubai to the islands of the Caribbean, these are the best Marriott all-inclusive resorts you can book with points for your next va...",
-            "pubDate": "2026-03-06T14:00:03",
-            "image_url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2023/02/All-inclusive-private-pools_Royalton-Antigua-Autograph_FACEBOOK.jpg"
-        },
-        {
-            "title": "9 Best Android Phones of 2026, Tested and Reviewed",
-            "link": "https://www.wired.com/gallery/best-android-phones/",
-            "description": "Shopping for a phone can be an ordeal. That’s why we’ve tested almost every Android phone, from the smartest to the cheapest—even phones that fold—to ...",
-            "pubDate": "2026-03-06T18:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Dutch Woman Finds 35 Rembrandt Etchings Hidden in Her Home: ‘You can only dream about it’",
-            "link": "https://www.goodnewsnetwork.org/dutch-woman-finds-35-rembrandt-etchings-hidden-in-her-home-you-can-only-dream-about-it/",
-            "description": "It will never cease to be surprising how often it occurs that the works of master painters turn up in people’s attics, basements, and barn sheds. From...",
-            "pubDate": "2026-03-06T14:00:17",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
-            "link": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
-            "description": "Trump's Department of War feud with Anthropic won't impact other companies that are using Claude via Microsoft and Google products.",
-            "pubDate": "2026-03-06T19:50:10",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Wife Used ‘Find My iPhone’ to Locate Husband Buried in an Avalanche for Over 4 Hours",
-            "link": "https://www.goodnewsnetwork.org/wife-used-find-my-iphone-to-locate-husband-buried-in-an-avalanche-for-over-4-hours/",
-            "description": "A wife used her “Find My iPhone” feature to guide search and rescue to the location of her husband who had been buried in an avalanche. Michael Harris...",
-            "pubDate": "2026-03-06T19:30:43",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Good News in History, March 6",
-            "link": "https://www.goodnewsnetwork.org/events070306/",
-            "description": "Happy Birthday to musician and singer-songwriter David Gilmour, who turns 80 years old. In a career spanning more than 50 years, he is best known for ...",
-            "pubDate": "2026-03-06T08:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "The Best Google Pixel Phones of 2026, Tested and Reviewed",
-            "link": "https://www.wired.com/story/best-google-pixel-phone/",
-            "description": "Here’s a guide to all the models—plus Pixel case recommendations and smart software tricks to try.",
-            "pubDate": "2026-03-06T20:17:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Anthropic’s Pentagon deal is a cautionary tale for startups chasing federal contracts",
-            "link": "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/",
-            "description": "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over i...",
-            "pubDate": "2026-03-06T18:09:11",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "The Future of Iran’s Internet Is More Uncertain Than Ever",
-            "link": "https://www.wired.com/story/the-future-of-irans-internet-is-more-uncertain-than-ever/",
-            "description": "Iran’s internet shutdown has reduced connectivity by 99 percent, with air strikes likely causing additional outages, and few workarounds remaining.",
-            "pubDate": "2026-03-06T20:06:06",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "These Beats Headphones We Like Are $150 Off",
-            "link": "https://www.wired.com/story/beats-studio-pro-deal-326/",
-            "description": "Save a chunk of change on the Beats Studio Pro over-ear headphones.",
-            "pubDate": "2026-03-06T18:21:05",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Schoolboy With ‘Can-Do’ Attitude Has Recycled a Million Cans and Donated the Proceeds to Charity",
-            "link": "https://www.goodnewsnetwork.org/schoolboy-with-can-do-attitude-has-recycled-a-million-cans-and-donated-the-proceeds-to-charity/",
-            "description": "A 13-year-old boy has raised thousands of dollars for charity by recycling more than a million aluminum cans. Young Ryan Hulance came up with the idea...",
-            "pubDate": "2026-03-06T16:30:17",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "When AI Companies Go to War, Safety Gets Left Behind",
-            "link": "https://www.wired.com/story/when-ai-companies-go-to-war-safety-gets-left-behind/",
-            "description": "We were promised AI regulation and a race to the top. Now, we’re arguing about killer robots.",
-            "pubDate": "2026-03-06T18:19:57",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Snowmobilers Dig Exhausted Young Moose Out of the snow in New Hampshire Woods",
-            "link": "https://www.goodnewsnetwork.org/snowmobilers-dig-exhausted-young-moose-out-of-the-snow-in-new-hampshire-woods/",
-            "description": "A group of snowmobilers in New Hampshire saved a young moose doe who needed a helping hoof. Returning home for lunch after a morning zipping over the ...",
-            "pubDate": "2026-03-06T12:00:51",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Bill Gates’ TerraPower gets approval to build new nuclear reactor",
-            "link": "https://techcrunch.com/2026/03/06/bill-gates-terrapower-gets-approval-to-build-new-nuclear-reactor/",
-            "description": "It's the first permit to be issued by the Nuclear Regulatory Commission in nearly a decade.",
-            "pubDate": "2026-03-06T19:47:40",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks",
-            "link": "https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/",
-            "description": "In a recent security partnership with Mozilla, Anthropic found 22 separate vulnerabilities in Firefox — 14 of them classified as \"high-severity.\"",
-            "pubDate": "2026-03-06T19:00:22",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "OSHA probing fatality at Rivian warehouse",
-            "link": "https://techcrunch.com/2026/03/06/osha-probing-fatality-at-rivian-warehouse/",
-            "description": "A 61-year-old worker died on Thursday after reportedly getting stuck between a tractor trailer and a loading dock.",
-            "pubDate": "2026-03-06T20:23:08",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "What is Rove Miles? Everything you need to know about this new loyalty program",
-            "link": "https://thepointsguy.com/news/rove-miles-loyalty-program/",
-            "description": "Rove Miles promises to bring valuable rewards to travelers who can't get a credit card — but is it worth it?",
-            "pubDate": "2026-03-05T22:00:11",
-            "image_url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2023/06/two-friends-chat-on-airplane_Catherine-Falls-Commercial.jpg"
         },
         {
             "title": "Creamy Sausage Spaghetti",
@@ -194,18 +208,11 @@
             "image_url": "https://therecipecritic.com/wp-content/uploads/2026/01/Week-79-Meal-Plan-Collage-.jpg"
         },
         {
-            "title": "One-Pan Irish Chicken",
-            "link": "https://therecipecritic.com/irish-chicken/",
-            "description": "This Irish chicken is my cozy mashup of pub vibes and weeknight reality. Seared chicken thighs baked over bacon, cabbage,…",
-            "pubDate": "2026-02-26T13:00:00",
-            "image_url": "https://therecipecritic.com/wp-content/uploads/2026/02/irish-chicken.jpg"
-        },
-        {
             "title": "Beijing Travel Guide: what to do, where to stay, what to eat",
             "link": "https://thefoodellers.com/trips/asia/china/beijing/what-to-see-do-eat/",
             "description": "We arrived in Beijing expecting chaos: traffic, horns, overwhelming noise, the stereotypical capital rush. What we found instead was a city that felt ...",
             "pubDate": "2026-02-26T08:04:17",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "Fudgy Chocolate Tahini Cookies (1 Bowl!)",
@@ -226,28 +233,28 @@
             "link": "https://thefoodellers.com/trips/europe/italy/naples/gluten-free-pizza/",
             "description": "If you are gluten-free, you might assume that Naples, the birthplace of pizza, would be difficult, restrictive, or disappointing. The reality is the o...",
             "pubDate": "2026-01-08T16:03:45",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "What grocery stores reveal about how people eat",
             "link": "https://thefoodellers.com/tips/how-grocery-stores-reveal-how-people-eat/",
             "description": "A grocery store is one of the most revealing places you can walk into when travelling. More than restaurants or cafés, it shows how people actually ea...",
             "pubDate": "2026-01-06T14:10:13",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "63 Essential Things to Know Before Visiting Tokyo",
-            "link": "https://thefoodellers.com/trips/asia/japan/tokyo/tips/",
-            "description": "From trains to table manners, these are the lessons Tokyo quietly teaches travellers. They’re practical, cultural, and often invisible until you get t...",
-            "pubDate": "2026-01-06T16:06:31",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "What is considered a “normal meal” in different cultures",
             "link": "https://thefoodellers.com/tips/what-a-normal-meal-looks-like-in-different-cultures/",
             "description": "People often search for a “normal meal” when they arrive somewhere new. Something familiar enough to feel grounding, but local enough to feel authenti...",
             "pubDate": "2026-01-06T14:06:51",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "63 Essential Things to Know Before Visiting Tokyo",
+            "link": "https://thefoodellers.com/trips/asia/japan/tokyo/tips/",
+            "description": "From trains to table manners, these are the lessons Tokyo quietly teaches travellers. They’re practical, cultural, and often invisible until you get t...",
+            "pubDate": "2026-01-06T16:06:31",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "Creamy Curried Black Eyed Pea Soup",
@@ -257,18 +264,11 @@
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2025/06/Creamy-Curried-Vegan-Black-Eyed-Bean-Soup-8-680x1020.jpg"
         },
         {
-            "title": "Tahini Hot Chocolate (Super Dreamy, Protein-Rich!)",
-            "link": "https://minimalistbaker.com/tahini-hot-chocolate/",
-            "description": "If you’re looking for a decadent, elevated hot chocolate with wholesome ingredients, this one’s for you! We’ve been serving up this frothy, tahini-inf...",
-            "pubDate": "2025-12-09T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2025/06/Tahini-Hot-Chocolate-6-680x1020.jpg"
-        },
-        {
             "title": "Jobless claims fall to lowest level since mid-May",
             "link": "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
             "description": "",
             "pubDate": "2025-07-03T13:36:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "Jobless claims stay low in latest week",
@@ -282,21 +282,21 @@
             "link": "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
             "description": "",
             "pubDate": "2025-02-07T20:26:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "U.S. productivity slows down in fourth quarter while unit labor costs accelerate",
             "link": "https://www.marketwatch.com/story/u-s-productivity-slows-down-in-fourth-quarter-while-unit-labor-costs-accelerate-3c2b9092?mod=mw_rss_marketpulse",
             "description": "",
             "pubDate": "2025-02-06T13:34:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "Beyond to buy rights to Buy Buy Baby brand and reunite it with Bed Bath & Beyond",
             "link": "https://www.marketwatch.com/story/beyond-to-buy-rights-to-buy-buy-baby-brand-and-reunite-it-with-bed-bath-beyond-4383c6be?mod=mw_rss_marketpulse",
             "description": "",
             "pubDate": "2025-02-03T13:46:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         }
     ]
 }

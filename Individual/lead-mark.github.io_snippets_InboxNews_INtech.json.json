@@ -2,42 +2,42 @@
     "title": "Individual feed for https://lead-mark.github.io/snippets/InboxNews/INtech.xml",
     "link": "https://lead-mark.github.io/snippets/InboxNews/INtech.xml",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-06T16:03:34.758183",
+    "lastBuildDate": "2026-03-10T07:57:10.206950",
     "items": [
         {
-            "title": "7 Laptop Docking Stations to Unlock the Full Desktop Experience (2026)",
-            "link": "https://www.wired.com/gallery/best-laptop-docking-stations/",
-            "description": "Laptop docking stations expand what your laptop can do, and I’ve been testing the best of the best to see which you should buy.",
-            "pubDate": "2026-03-06T11:39:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "title": "OSHA probing fatality at Rivian warehouse",
+            "link": "https://techcrunch.com/2026/03/06/osha-probing-fatality-at-rivian-warehouse/",
+            "description": "A 61-year-old worker died on Thursday after reportedly getting stuck between a tractor trailer and a loading dock.",
+            "pubDate": "2026-03-06T20:23:08",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "From Ukraine to Iran, Hacking Security Cameras Is Now Part of War’s ‘Playbook’",
-            "link": "https://www.wired.com/story/from-ukraine-to-iran-hacking-security-cameras-is-now-part-of-wars-playbook/",
-            "description": "New research shows hundreds of attempts by apparent Iranian state hackers to hijack consumer-grade cameras, timed to missile and drone strikes. Israel...",
-            "pubDate": "2026-03-06T11:30:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Why Is Alexa+ So Bad?",
-            "link": "https://www.wired.com/story/why-is-amazon-alexa-plus-so-bad/",
-            "description": "I stuck Amazon’s Echo Show 15 and its Alexa+ AI assistant in my kitchen for a month. Things have not gone well.",
-            "pubDate": "2026-03-06T11:00:00",
+            "title": "The Best Google Pixel Phones of 2026, Tested and Reviewed",
+            "link": "https://www.wired.com/story/best-google-pixel-phone/",
+            "description": "Here’s a guide to all the models—plus Pixel case recommendations and smart software tricks to try.",
+            "pubDate": "2026-03-06T20:17:02",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "Posture Correctors That Will Straighten You Out (2026)",
-            "link": "https://www.wired.com/gallery/posture-correctors/",
-            "description": "You’re hunched over your desk and phone for hours. I rounded up gadgets, a DIY trick, and even some yoga advice to help you straighten up.",
-            "pubDate": "2026-03-06T10:30:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "title": "The Future of Iran’s Internet Is More Uncertain Than Ever",
+            "link": "https://www.wired.com/story/the-future-of-irans-internet-is-more-uncertain-than-ever/",
+            "description": "Iran’s internet shutdown has reduced connectivity by 99 percent, with air strikes likely causing additional outages, and few workarounds remaining.",
+            "pubDate": "2026-03-06T20:06:06",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "The Smart Bird Feeders Everyone’s Talking About (and Actually Buying) (2026)",
-            "link": "https://www.wired.com/story/best-smart-bird-feeders/",
-            "description": "These bird feeders come with cameras and connected apps to let you see and learn about the birds in your neighborhood.",
-            "pubDate": "2026-03-06T10:30:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
+            "link": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
+            "description": "Trump's Department of War feud with Anthropic won't impact other companies that are using Claude via Microsoft and Google products.",
+            "pubDate": "2026-03-06T19:50:10",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Bill Gates’ TerraPower gets approval to build new nuclear reactor",
+            "link": "https://techcrunch.com/2026/03/06/bill-gates-terrapower-gets-approval-to-build-new-nuclear-reactor/",
+            "description": "It's the first permit to be issued by the Nuclear Regulatory Commission in nearly a decade.",
+            "pubDate": "2026-03-06T19:47:40",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         }
     ]
 }

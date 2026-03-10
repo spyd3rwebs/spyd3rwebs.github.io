@@ -2,42 +2,42 @@
     "title": "Individual feed for https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
     "link": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-06T16:03:36.348029",
+    "lastBuildDate": "2026-03-10T07:57:12.311157",
     "items": [
         {
-            "title": "Jesse Jackson Chicago Funeral: Obama, Biden, Clinton to Attend",
-            "link": "https://www.nytimes.com/2026/03/06/us/jesse-jackson-funeral-chicago.html",
-            "description": "The large-scale, public event in Chicago on Friday caps two weeks of memorials for Mr. Jackson, the civil rights leader, who died at 84.",
-            "pubDate": "2026-03-06T20:42:28",
-            "image_url": "https://static01.nyt.com/images/2026/03/06/multimedia/06nat-jackson-funeral-pm-qjmg/06nat-jackson-funeral-pm-qjmg-mediumSquareAt3X.jpg"
+            "title": "Democrats Sued to Find Out Whether Trump Will Send Armed Officers to Election Sites",
+            "link": "https://www.nytimes.com/2026/03/10/us/politics/democrats-sue-to-find-out-if-trump-will-send-armed-officers-to-election-sites.html",
+            "description": "In a lawsuit filed Tuesday, the D.N.C. sought to compel the government to say whether it plans to deploy armed federal officers in this year’s electio...",
+            "pubDate": "2026-03-10T12:44:34",
+            "image_url": "https://static01.nyt.com/images/2026/03/09/multimedia/pol-dnc-hbqj/pol-dnc-hbqj-mediumSquareAt3X.jpg"
         },
         {
-            "title": "The A.I. Labor Crisis Is Coming. This Is the Solution.",
-            "link": "https://www.nytimes.com/2026/03/06/opinion/ai-labor-unemployment.html",
-            "description": "America’s strength has always been its private sector. Empowering it can save us from A.I.’s worst effects on jobs.",
-            "pubDate": "2026-03-06T20:33:50",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "title": "War and the Economy",
+            "link": "https://www.nytimes.com/2026/03/10/briefing/war-and-the-economy.html",
+            "description": "We look at the conflict’s global economic impact.",
+            "pubDate": "2026-03-10T12:30:39",
+            "image_url": "https://static01.nyt.com/images/2026/03/09/multimedia/10themorning-nl1/10themorning-nl1-mediumSquareAt3X.jpg"
         },
         {
-            "title": "What to know about the jobs report.",
-            "link": "https://www.nytimes.com/2026/03/06/business/economy/what-to-know-about-the-report.html",
-            "description": "Employers shed 92,000 jobs in February and the unemployment rate rose to 4.4 percent.",
-            "pubDate": "2026-03-06T20:31:07",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "title": "Trump Zigzags on When War Will End, and Investigators Search Epstein’s Ranch in New Mexico",
+            "link": "https://www.nytimes.com/2026/03/10/podcasts/the-headlines/trump-war-epstein-ranch-new-mexico.html",
+            "description": "Plus, space mirrors?",
+            "pubDate": "2026-03-10T11:00:09",
+            "image_url": "https://static01.nyt.com/images/2026/03/10/multimedia/10trump-Headlines-pvfg/10trump-Headlines-pvfg-mediumSquareAt3X.jpg"
         },
         {
-            "title": "Democrats Blame Trump For Jobs Report as Republicans Play Defense",
-            "link": "https://www.nytimes.com/2026/03/06/business/economy/jobs-report-unemployment-democrats-republicans-midterms.html",
-            "description": "The weaker-than-expected numbers quickly became a source of tension between the two parties ahead of the midterm elections.",
-            "pubDate": "2026-03-06T20:26:42",
-            "image_url": "https://static01.nyt.com/images/2026/03/06/multimedia/06biz-jobs-report-politics-Schumer-bvtk/06biz-jobs-report-politics-Schumer-bvtk-mediumSquareAt3X.jpg"
+            "title": "I Asked a Former Trump Official to Justify This War",
+            "link": "https://www.nytimes.com/2026/03/10/opinion/ezra-klein-podcast-nadia-schadlow.html",
+            "description": "Nadia Schadlow, a deputy national security adviser during Trump’s first term, explains how the U.S.-Israel war with Iran fits in with an “America Firs...",
+            "pubDate": "2026-03-10T10:03:52",
+            "image_url": "https://static01.nyt.com/images/2026/03/09/multimedia/eks-10-schadlow-bpfj/eks-10-schadlow-bpfj-mediumSquareAt3X.jpg"
         },
         {
-            "title": "How The Times Tracks Down the Connections Behind Trump’s Pardons",
-            "link": "https://www.nytimes.com/2026/03/06/us/politics/how-the-times-covers-pardons.html",
-            "description": "Reporters tapped sources, combed through public records and scrutinized social media to penetrate the web of influence and money underlying the presid...",
-            "pubDate": "2026-03-06T20:25:13",
-            "image_url": "https://static01.nyt.com/images/2026/02/26/multimedia/dc-pardons-schwartz-prison-new-1-cvmh/dc-pardons-schwartz-prison-new-1-cvmh-mediumSquareAt3X.jpg"
+            "title": "War Brings New Water Crises to an Already-Parched Iran",
+            "link": "https://www.nytimes.com/2026/03/10/climate/iran-war-water-crisis.html",
+            "description": "Iran has accused the United States of bombing a desalination plant on Qeshm Island. The country was already facing a severe water shortage.",
+            "pubDate": "2026-03-10T10:03:24",
+            "image_url": "https://static01.nyt.com/images/2026/03/10/multimedia/10cli-iran-water-cvjq/10cli-iran-water-cvjq-mediumSquareAt3X.jpg"
         }
     ]
 }

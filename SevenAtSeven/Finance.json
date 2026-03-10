@@ -2,160 +2,146 @@
     "title": "Finance",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from Finance, skipping any feeds with errors.",
-    "lastBuildDate": "2026-03-06T16:01:29.474897",
+    "lastBuildDate": "2026-03-10T07:54:58.699532",
     "items": [
         {
-            "title": "OpenAI investor Vinod Khosla believes AI will be able to do 80% of all jobs by 2030. Here’s how life could be affordable after mass unemployment",
-            "link": "https://fortune.com/2026/03/06/vinod-khosla-predicts-80-percent-of-jobs-done-by-ai-15-trillion-of-gdp-going-away/",
-            "description": "The Silicon Valley billionaire laid out a vision to Fortune of a deflationary economy—but also free healthcare and education, along with a tax overhau...",
-            "pubDate": "2026-03-06T20:15:00",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/03/Titans_Vinod_V6mp400_00_34_13Still001-e1772658472126.jpg?w=2048"
+            "title": "The AI risk that few organizations are governing",
+            "link": "https://fortune.com/2026/03/10/ai-risk-agents-few-organizations/",
+            "description": "You know how many human users have access to your financial systems. Do you know how many AI agents do?",
+            "pubDate": "2026-03-10T11:00:00",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/03/Raj-Sharma_Headshot_efe6d9-e1773094749653.jpg?w=2048"
         },
         {
-            "title": "The invisible layoff: AI is quietly locking Americans out of the job market, CEO warns",
-            "link": "https://www.foxbusiness.com/economy/invisible-layoff-ai-quietly-locking-americans-out-job-market-ceo-warns",
-            "description": "February's shocking 92,000 job losses reveal a potential hidden crisis: AI algorithms are allegedly screening out qualified workers while boosting pro...",
-            "pubDate": "2026-03-06T18:24:32",
-            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/03/us-job-fair-hiring.jpg"
+            "title": "New Interactive Sky Formula 1 Features Let Viewers Take The Wheel",
+            "link": "https://www.forbes.com/sites/johnarcher/2026/03/10/new-interactive-sky-formula-1-features-let-viewers-take-the-wheel/",
+            "description": "New side-bar interface lets you access race replays, driver cams, background details, live in-race standings and more on your terms.",
+            "pubDate": "2026-03-10T11:07:13",
+            "image_url": "https://imageio.forbes.com/specials-images/imageserve/69afec1e2dbe288204356d98/0x0.png?width=960"
         },
         {
-            "title": "Google Just Patented The End Of Your Website",
-            "link": "https://www.forbes.com/sites/joetoscano1/2026/03/06/google-just-patented-the-end-of-your-website/",
-            "description": "A newly granted Google patent could let the search giant replace your brand's landing page with an AI-generated version you have no control over and o...",
-            "pubDate": "2026-03-06T19:52:59",
-            "image_url": "https://imageio.forbes.com/specials-images/imageserve/69ab1863ad27207789096314/0x0.jpg?width=960"
+            "title": "Is Europe Poised To Lead the Quantum Computing Race?",
+            "link": "https://www.forbes.com/sites/sabbirrangwala/2026/03/10/is-europe-poised-to-lead-the-quantum-computing-race/",
+            "description": "Europe's strengths across multiple dimensions have resulted in creating successful initiatives in quantum technologies. Will this translate into comme...",
+            "pubDate": "2026-03-10T12:00:57",
+            "image_url": "https://imageio.forbes.com/specials-images/imageserve/69af5da63700bdde2cfde484/0x0.jpg?width=960"
         },
         {
-            "title": "February was the biggest month in venture history, thanks only to OpenAI, Anthropic, and Waymo",
-            "link": "https://fortune.com/2026/03/06/february-was-the-biggest-month-in-venture-history-thanks-only-to-openai-anthropic-and-waymo/",
-            "description": "Startup funding surged to a historic $189 billion in February, driven almost entirely by three AI mega-rounds that captured 83% of the total.",
-            "pubDate": "2026-03-06T19:50:21",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2236933448-e1772821373950.jpg?w=2048"
+            "title": "Steam Frame VR Confirmed For 2026 Release Alongside Steam Machine",
+            "link": "https://www.forbes.com/sites/andrewwilliams/2026/03/10/steam-frame-vr-confirmed-for-2026-release-alongside-steam-machine/",
+            "description": "Despite skyrocketing RAM and storage prices, Steam has confirmed its plans to release the Steam Frame and Steam machine in 2026, although the pricing ...",
+            "pubDate": "2026-03-10T11:58:03",
+            "image_url": "https://imageio.forbes.com/specials-images/imageserve/69aff640f9bd7b0c0023edeb/0x0.jpg"
         },
         {
-            "title": "Samsung’s Galaxy S26 Ultra Promises Better Gaming",
-            "link": "https://www.forbes.com/sites/mitchwallace/2026/03/06/samsungs-galaxy-s26-ultra-promises-better-gaming/",
-            "description": "Gaming performance looks to improve on Samsung's upcoming Galaxy S26 Ultra, but only time will tell.",
-            "pubDate": "2026-03-06T20:35:11",
-            "image_url": "https://imageio.forbes.com/specials-images/imageserve/69ab391f1253333590b9acb3/0x0.jpg?width=960"
+            "title": "AI isn’t killing jobs yet—CEOs are using layoffs to fund a $2.5 trillion arms race",
+            "link": "https://fortune.com/2026/03/10/ai-killing-jobs-ceos-using-layoffs-fund-trillion-arms-race/",
+            "description": "Also: All the news and watercooler chat from Fortune.",
+            "pubDate": "2026-03-10T10:41:30",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2170273841-e1773134998883.jpg?w=2048"
         },
         {
-            "title": "Nearly 1,000 workers laid off at SK Battery plant in Georgia as companies cancel EVs and Trump Admin eliminates auto company incentives",
-            "link": "https://fortune.com/2026/03/06/sk-battery-america-laid-off-nearly-1000-workers-georgia-electric-vehicles/",
-            "description": "Ford announced it was cancelling the all-electric Ford F-150 Lightning in December. SK Battery America Inc., a supplier of the Ford truck, laid off ne...",
-            "pubDate": "2026-03-06T19:46:46",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-1759919721-e1772826351480.jpg?w=2048"
+            "title": "Anthropic’s Department of War lawsuit is even higher-stakes amid the AI boom",
+            "link": "https://fortune.com/2026/03/10/anthropic-department-of-war-lawsuit-even-higher-stakes-amid-ai-boom/",
+            "description": "Anthropic suing the U.S. Department of War perhaps wasn’t a surprise, but it was nevertheless a shock.",
+            "pubDate": "2026-03-10T12:18:43",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2261589193_f101a6-e1772131796790.jpg?w=2048"
         },
         {
-            "title": "US economy shed 92,000 jobs in February, well below expectations",
-            "link": "https://www.foxbusiness.com/economy/us-jobs-report-february-2026",
-            "description": "The U.S. economy shed jobs to start the year, and the Labor Department reported that employment decreased by 92,000 jobs in February 2026, when econom...",
-            "pubDate": "2026-03-06T13:33:16",
-            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/03/construction-workers-oklahoma-getty.jpg"
+            "title": "AI can double output. Human biology can’t",
+            "link": "https://fortune.com/2026/03/10/ai-can-double-output-human-biology-cant/",
+            "description": "There's an AI burnout trap, and your productivity gains are fragile.",
+            "pubDate": "2026-03-10T11:05:00",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-1364004798-e1773095727410.jpg?w=2048"
         },
         {
-            "title": "Jesse Jackson’s Early HIV/AIDS Advocacy Transformed The Course Of The Disease",
-            "link": "https://www.forbes.com/sites/joshuacohen/2026/03/06/jesse-jacksons-early-hivaids-advocacy-changed-us-public-health-policy/",
-            "description": "Jackson’s advocacy caused a shift in both behavior and attitudes toward HIV/AIDS. He helped chart a course of action that led to improved prevention a...",
-            "pubDate": "2026-03-06T18:31:07",
-            "image_url": "https://imageio.forbes.com/specials-images/imageserve/699866abdf97a86360341339/0x0.jpg"
+            "title": "Whoop Has A New Service For Women’s Health And Cycle Tracking",
+            "link": "https://www.forbes.com/sites/andrewwilliams/2026/03/10/whoop-has-a-new-service-for-womens-health-and-cycle-tracking/",
+            "description": "A new blood panel offered by Whoop analyzes 11 body stats to add insight on cycle regulation and a person's hormone levels. It's coming to U.S. Whoop ...",
+            "pubDate": "2026-03-10T12:04:15",
+            "image_url": "https://imageio.forbes.com/specials-images/imageserve/69afe13be9a0bf6085bd344e/0x0.jpg"
         },
         {
-            "title": "Silicon Valley investor Vinod Khosla predicts education will be free, and the future of college ‘is a real question’",
-            "link": "https://fortune.com/2026/03/06/silicon-valley-venture-capital-vinod-khosla-khosla-ventures-ai-tech-future-of-work-gen-z/",
-            "description": "The billionaire VC says AI raises questions about how we value expertise.",
-            "pubDate": "2026-03-06T19:09:05",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-1843519066-e1772822445599.jpg?w=2048"
+            "title": "Trump says Iran war is ‘very complete, pretty much’ sparking global stock rally",
+            "link": "https://fortune.com/2026/03/10/trump-iran-war-is-very-complete-pretty-much-stocks/",
+            "description": "But also, \"we’re going to go further.\"",
+            "pubDate": "2026-03-10T12:13:35",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2265661113.jpg?w=2048"
         },
         {
-            "title": "A Minneapolis Fed report details how much Trump’s immigration crackdown hurt businesses and workers. ‘There are not any people to hire’",
-            "link": "https://fortune.com/2026/03/06/minneapolis-fed-beige-book-trump-immigration-crackdown-ice-border-patrol-businesses-workers/",
-            "description": "\"We are hiring now to replace these workers or get more reliable alternatives, but there are not any people to hire.\"",
-            "pubDate": "2026-03-06T19:04:19",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2259457800-e1772811186990.jpg?w=2048"
+            "title": "Air Force Acquires Mobile Units Making Fuel From Air And Electricity",
+            "link": "https://www.forbes.com/sites/davidhambling/2026/03/10/air-force-acquires-mobile-units-making-fuel-from-air-and-electricity/",
+            "description": "The U.S. Air Force is acquiring AIRCO's containerized system which can produce aviation fuel anywhere int he world, with the first unit to be delivere...",
+            "pubDate": "2026-03-10T12:00:00",
+            "image_url": "https://imageio.forbes.com/specials-images/imageserve/69aa9b83a8e42f7250745d83/0x0.jpg"
         },
         {
-            "title": "Apple Loop: iPhone 17e Arrives, Apple’s Gaming Plans For GDC, MacBook Air Price Rises,",
-            "link": "https://www.forbes.com/sites/ewanspence/2026/03/06/apple-news-headlines-iphone-17e-macbook-neo-macbook-pro-m5-max-ipad-air-studio-display/",
-            "description": "This week’s Apple headlines: the iPhone 17e, the MacBook Neo, the MacBook Air M5, the MacBook Pro M5 Pro and M5 Max, the iPad Air and the Studio Displ...",
-            "pubDate": "2026-03-06T20:00:03",
-            "image_url": "https://imageio.forbes.com/specials-images/imageserve/69aac00782a59ef6117d3e4f/0x0.jpg"
-        },
-        {
-            "title": "Target set to open its 2,000th store, plans to open hundreds more in next decade",
-            "link": "https://www.foxbusiness.com/economy/target-set-open-its-2000th-store-plans-open-hundreds-more-next-decade",
-            "description": "Target reaches a major milestone with its 2,000th store opening in North Carolina this month, one of 30 locations set to open this year across the cou...",
-            "pubDate": "2026-03-06T03:14:40",
-            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2021/10/Target-shopping-cart.jpg"
-        },
-        {
-            "title": "Android Circuit: Magic V5 Reveal, Mystery Galaxy S26 Ultra, Qualcomm Wear Elite’s AI Move",
-            "link": "https://www.forbes.com/sites/ewanspence/2026/03/06/android-news-headlines-xiaomi-honor-samsung-pixel-qualcomm-desktop-mode-developer-certification/",
-            "description": "This week’s Android headlines: Xiaomi 17 Ultra global release, the Honor Magic V6 reveal, the Pixel 10a upgrade, a mysterious Galaxy S26 Ultra, Qualco...",
-            "pubDate": "2026-03-06T20:00:38",
-            "image_url": "https://imageio.forbes.com/specials-images/imageserve/69a2188eb5049642b17b1619/0x0.jpg"
-        },
-        {
-            "title": "Crude oil tops $90 per barrel en route to what could be biggest 1-week rise ever",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c1c56846-5edb-471d-8e43-0ea83d5317fb&mod=mw_rss_bulletins",
+            "title": "An already chaotic spring travel season is colliding with effects of Iran war",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c064fd41-aac6-4ac0-8057-805227ae9c3e&mod=mw_rss_bulletins",
             "description": "",
-            "pubDate": "2026-03-06T17:59:38",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "pubDate": "2026-03-10T01:57:57",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "Stocks off Friday lows in final hour, still on track for weekly losses — live",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5f2bb323-a7e1-42a6-8ff3-52dd63397441&mod=mw_rss_bulletins",
+            "title": "Existing-home sales on economic calendar after small-business-optimism retreat",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f62b0076-1ce0-4bbb-980a-e52c0243e768&mod=mw_rss_bulletins",
             "description": "",
-            "pubDate": "2026-03-06T20:26:57",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "pubDate": "2026-03-10T12:36:05",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "U.S. oil prices log record weekly gain as Iran conflict spurs production worries",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ff7c7276-127d-43cf-a8c0-967e67897406&mod=mw_rss_bulletins",
+            "title": "Futures point to extension of stock-market gains as oil slide continues",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e10e2e8d-648b-4aa8-870f-cf035d9c51a1&mod=mw_rss_bulletins",
             "description": "",
-            "pubDate": "2026-03-06T20:45:31",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Stocks off Friday lows in final hour, still on track for weekly losses",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0abecb07-ea26-45c2-907e-2368d47b2585&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2026-03-06T20:25:54",
+            "pubDate": "2026-03-10T12:07:13",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "Anthropic’s rapid rise shocked the market, but the AI crown remains up for grabs",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=68c92fdf-9944-432a-a562-03f4daecfb76&mod=mw_rss_bulletins",
+            "title": "Fed officials closely monitor Iran conflict for potential inflation impact",
+            "link": "https://www.foxbusiness.com/economy/fed-officials-closely-monitor-iran-conflict-potential-inflation-impact",
+            "description": "Hostilities with Iran pose a potential risk for higher inflation as Federal Reserve policymakers monitor the energy price impact ahead of their next m...",
+            "pubDate": "2026-03-09T23:43:37",
+            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/03/neel-kashkari-interview-fox-business-getty.jpg"
+        },
+        {
+            "title": "Oracle expected to slash thousands of jobs as massive AI spending creates financial cash crisis",
+            "link": "https://www.foxbusiness.com/economy/oracle-expected-slash-thousands-jobs-massive-ai-spending-creates-financial-cash-crisis",
+            "description": "Oracle reportedly planning massive layoffs involving thousands of employees as AI spending creates cash crunch. Job cuts could reportedly affect 18% o...",
+            "pubDate": "2026-03-09T04:51:33",
+            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2021/12/oracle.jpg"
+        },
+        {
+            "title": "US economic freedom surges in biggest annual increase in over two decades",
+            "link": "https://www.foxbusiness.com/economy/us-economic-freedom-surges-biggest-annual-increase-over-two-decades",
+            "description": "U.S. economic freedom score jumps 2.6 points in Heritage Foundation index, ending a five-year decline. America ranks 22nd globally in the annual repor...",
+            "pubDate": "2026-03-09T15:36:55",
+            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/03/wall-street-american-flag-people-getty.jpg"
+        },
+        {
+            "title": "Will tapping oil reserves curb soaring gas prices?",
+            "link": "https://www.foxbusiness.com/economy/tapping-oil-reserves-curb-soaring-gas-prices",
+            "description": "G7 finance ministers weigh emergency oil reserve release as Middle East tensions send crude soaring above $115, threatening global economic stability.",
+            "pubDate": "2026-03-09T21:49:09",
+            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/11/people-gas-station-pump-getty.jpg"
+        },
+        {
+            "title": "IRS unveils proposed regulations for new Trump Accounts savings program",
+            "link": "https://www.foxbusiness.com/economy/irs-unveils-proposed-regulations-new-trump-accounts-savings-program",
+            "description": "The IRS and Treasury proposed new rules for Trump Accounts, including details for opening an account and taking the federal seed money if eligible to ...",
+            "pubDate": "2026-03-09T20:03:46",
+            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/12/baby-family-outside-playing-getty.jpg"
+        },
+        {
+            "title": "Big Tech stocks quietly gaining momentum — but don’t expect the bounce to last",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=259f2217-b12e-4ff9-a857-b93603da4656&mod=mw_rss_bulletins",
             "description": "",
-            "pubDate": "2026-03-06T19:28:41",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "US layoff announcements ease in February after elevated cuts in prior month",
-            "link": "https://www.foxbusiness.com/economy/us-layoff-announcements-ease-february-after-elevated-cuts-prior-month",
-            "description": "U.S. layoffs dropped 55% in February to 48,307 job cuts after elevated January numbers, offering relief amid ongoing economic uncertainty and rising c...",
-            "pubDate": "2026-03-05T18:32:05",
-            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/04/job-fair-hiring.jpg"
-        },
-        {
-            "title": "Americans tap retirement funds at record rates as mounting financial stress takes toll",
-            "link": "https://www.foxbusiness.com/economy/americans-tap-retirement-funds-record-rates-mounting-financial-stress-takes-toll",
-            "description": "Record 6% of Americans tapped 401k savings for hardship withdrawals in 2025, up from 4.8% in 2024, as financial stress forces workers to raid nest egg...",
-            "pubDate": "2026-03-05T19:38:33",
-            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2021/05/Financial-planning-seniors-iStock.jpg"
-        },
-        {
-            "title": "Silicon Valley Is Raving About a Made-in-China AI Model",
-            "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology",
-            "description": "DeepSeek is called “amazing and impressive” despite working with less-advanced chips.",
-            "pubDate": "2025-01-27T14:36:00",
+            "pubDate": "2026-03-09T22:34:16",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "Tech, Media & Telecom Roundup: Market Talk",
-            "link": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-5908c510?mod=rss_Technology",
-            "description": "DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
-            "pubDate": "2025-01-27T17:28:00",
+            "title": "Trump announces sanctions relief to ease oil prices, says Iran war to end soon",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=aac90f17-06fe-448e-9b2f-2afc8b3414e3&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2026-03-09T23:49:40",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
@@ -163,21 +149,35 @@
             "link": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology",
             "description": "The Chinese upstart says it has trained high-performing AI models cheaply, without using the most advanced chips.",
             "pubDate": "2025-01-27T18:17:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Tech, Media & Telecom Roundup: Market Talk",
+            "link": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-5908c510?mod=rss_Technology",
+            "description": "DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
+            "pubDate": "2025-01-27T17:28:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "Reid Hoffman Raises $24.6 Million for AI Cancer-Research Startup",
             "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology",
             "description": "The LinkedIn co-founder is starting Manas AI with “The Emperor of All Maladies” author Siddhartha Mukherjee.",
             "pubDate": "2025-01-27T13:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Silicon Valley Is Raving About a Made-in-China AI Model",
+            "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology",
+            "description": "DeepSeek is called “amazing and impressive” despite working with less-advanced chips.",
+            "pubDate": "2025-01-27T14:36:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Can an App Replace a Personal Trainer? I Tested Nearly a Dozen to Find Out",
             "link": "https://www.wsj.com/articles/strength-training-apps-review-950a2d19?mod=rss_Technology",
             "description": "Apps can add flexibility and freshness to your routine. Just try not to get injured.",
             "pubDate": "2025-01-26T14:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         }
     ]
 }

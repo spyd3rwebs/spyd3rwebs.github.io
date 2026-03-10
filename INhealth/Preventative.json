@@ -2,77 +2,91 @@
     "title": "Preventative",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from Preventative, skipping any feeds with errors.",
-    "lastBuildDate": "2026-03-06T16:05:40.055829",
+    "lastBuildDate": "2026-03-10T07:59:15.471991",
     "items": [
         {
-            "title": "Six Federal Scientists Run Out by Trump Talk About the Work Left Undone",
-            "link": "https://kffhealthnews.org/news/article/nih-national-institutes-of-health-scientist-exodus-disease-treatments/",
-            "description": "Cancer treatments, disease outbreaks, addiction science: Scientists say an exodus from the National Institutes of Health will harm the nation's abilit...",
-            "pubDate": "2026-03-06T10:00:00",
-            "image_url": "https://kffhealthnews.org/wp-content/uploads/sites/2/2026/02/Romberg_16-resized.jpg"
+            "title": "Liberal Arts Education As a Counterbalance To Trumpian AI",
+            "link": "https://thehealthcareblog.com/blog/2026/03/10/liberal-arts-education-as-a-counterbalance-to-trumpian-ai/",
+            "description": "By MIKE MAGEE What’s wrong in the social science realm of health? Consider for example the mental health crises affecting teens across the nation, or ...",
+            "pubDate": "2026-03-10T07:21:00",
+            "image_url": "https://thehealthcareblog.com/wp-content/uploads/2019/03/849660338_medium-dr-mike-magee.jpg"
         },
         {
-            "title": "The People — And Research — Lost in the NIH Exodus",
-            "link": "https://kffhealthnews.org/news/article/nih-national-institutes-of-health-resignation-scientist-profiles-brain-drain/",
-            "description": "Government data shows the National Institutes of Health lost about 4,400 people — more than 20% of its staff — as the Trump administration slashed the...",
-            "pubDate": "2026-03-06T10:00:00",
-            "image_url": "https://kffhealthnews.org/wp-content/uploads/sites/2/2026/02/Chou_06.jpg"
+            "title": "More Kids Are in ERs for Tooth Pain. Trump Cuts and RFK Jr.’s Anti-Fluoride Fight Aren’t Helping.",
+            "link": "https://kffhealthnews.org/news/article/dental-care-emergency-rooms-special-needs-medicaid-shortage-areas/",
+            "description": "Dentists, hygienists, and researchers say a shortage of rural dental care professionals and worsening oral hygiene since the covid-19 pandemic mean mo...",
+            "pubDate": "2026-03-10T10:00:00",
+            "image_url": "https://kffhealthnews.org/wp-content/uploads/sites/2/2026/02/DentalER_02.jpg"
         },
         {
-            "title": "This Doctor-Senator Who Backed RFK Jr. Now Faces a Fight for His Job — And His Legacy",
-            "link": "https://kffhealthnews.org/news/article/bill-cassidy-rfk-jr-confirmation-vaccines-hepatitis-b-hhs-senate-primary-louisiana/",
-            "description": "A year after Sen. Bill Cassidy, a Louisiana Republican, warily cast the vote ensuring Robert F. Kennedy Jr.’s ascension to Health and Human Services s...",
-            "pubDate": "2026-03-06T10:00:00",
-            "image_url": "https://kffhealthnews.org/wp-content/uploads/sites/2/2026/03/Louisiana_02-resized.jpg"
+            "title": "Women Who Struggle With This Are At An Increased Risk For High Blood Pressure",
+            "link": "https://www.mindbodygreen.com/articles/women-who-struggle-with-sleep-have-greater-hypertension-risk-what-to-do-about-it",
+            "description": "One more reason to catch those zzz's.",
+            "pubDate": "2026-03-10T11:07:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "I've Been A Cosmetic Dermatologist For 24+ Years: 3 Tips To Smooth Cellulite",
+            "link": "https://www.mindbodygreen.com/articles/dermatologist-shares-3-natural-tips-to-smooth-cellulite-smart-topicals",
+            "description": "You can have cellulite no matter what products you use on your skin, how old you are, or how much you weigh.",
+            "pubDate": "2026-03-10T11:08:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Banks Are Becoming Bulwarks Against Scams for Vulnerable Seniors",
+            "link": "https://kffhealthnews.org/news/article/banks-protect-seniors-financial-scams-dementia-cognitive-decline-new-old-age/",
+            "description": "Older Americans are losing billions of dollars annually to financial exploitation. Banks and investment firms are training employees to spot red flags...",
+            "pubDate": "2026-03-10T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "This Supplement May Support Brain Activity In Those With Depression",
+            "link": "https://www.mindbodygreen.com/articles/research-explores-how-probiotics-can-impact-depression-symptoms",
+            "description": "As much progress as we've made talking about mental health, treatments can still be hit or miss.",
+            "pubDate": "2026-03-10T10:40:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "This Vitamin Majorly Reduces Dementia Risk (Per Research On 69,643 People)",
+            "link": "https://www.mindbodygreen.com/articles/this-vitamin-reduces-dementia-risk-says-research-on-69k-people-get-regular-checkups",
+            "description": "Here are the easiest ways to ensure sufficient levels.",
+            "pubDate": "2026-03-10T11:07:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Anxious All the Time? Your Daily Drink Habit Deserves a Second Look",
+            "link": "https://www.mindbodygreen.com/articles/those-who-drink-more-sugary-beverages-show-34-higher-anxiety-odds",
+            "description": "We had plenty of reasons to cut back on soda. Science just added one more.",
+            "pubDate": "2026-03-10T10:59:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Florida no amplió Medicaid, pero igual algunos legisladores quieren imponer requisitos de trabajo",
+            "link": "https://kffhealthnews.org/news/article/florida-no-amplio-medicaid-pero-igual-algunos-legisladores-quieren-imponer-requisitos-de-trabajo/",
+            "description": "La medida desconcierta a defensores de la atención médica y a expertos en Medicaid. Algunos dudan, incluso, que sea legal bajo la principal ley de pol...",
+            "pubDate": "2026-03-09T12:19:12",
+            "image_url": "https://kffhealthnews.org/wp-content/uploads/sites/2/2026/02/Mastrototaro.jpg"
+        },
+        {
+            "title": "Florida Hasn’t Expanded Medicaid. Lawmakers Want To Add Work Requirements Anyway.",
+            "link": "https://kffhealthnews.org/news/article/florida-medicaid-work-requirements-expansion-one-big-beautiful-bill-act/",
+            "description": "Florida is not mandated to add work requirements for Medicaid, because the state has not expanded eligibility to more low-income adults. But lawmakers...",
+            "pubDate": "2026-03-09T10:00:00",
+            "image_url": "https://kffhealthnews.org/wp-content/uploads/sites/2/2026/02/Mastrototaro.jpg"
+        },
+        {
+            "title": "Newsom se enfrenta a Trump y RFK Jr. por la salud pública",
+            "link": "https://kffhealthnews.org/news/article/newsom-se-enfrenta-a-trump-y-rfk-jr-por-la-salud-publica/",
+            "description": "El gobernador de California, Gavin Newsom, se ha posicionado como un líder nacional en salud pública al impulsar políticas respaldadas por la ciencia,...",
+            "pubDate": "2026-03-09T14:57:38",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "Lauren Ranalli, Town Square Health",
             "link": "https://thehealthcareblog.com/blog/2026/03/06/lauren-ranalli-town-square-health/",
             "description": "Lauren Ranalli is the VP of Patient & Community Engagement at Town Square Health, a brand new medical group setting itself up for the senior populatio...",
             "pubDate": "2026-03-06T06:29:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "This Zodiac Sign Gossips The Most Out Of Anyone—Is It Yours?",
-            "link": "https://www.mindbodygreen.com/articles/top-3-gossip-zodiac-signs",
-            "description": "Spill the tea.",
-            "pubDate": "2026-03-06T10:50:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Research Points To 2 Ways Sleep Is Essential To Brain Health",
-            "link": "https://www.mindbodygreen.com/articles/getting-enough-sleep-is-key-for-continuous-learning-study-shows-ways-sleep-is-essential",
-            "description": "Add this to all the other important reasons to prioritize your rest.",
-            "pubDate": "2026-03-06T11:41:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Working Out At This Time Of Day Could Reduce Insulin Resistance Up To 25%",
-            "link": "https://www.mindbodygreen.com/articles/intensity-and-timing-of-physical-activity-affect-insulin-resistance-the-study-design",
-            "description": "Clear your schedule this afternoon; it's time to work out!",
-            "pubDate": "2026-03-06T10:38:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "The NIH Workforce Is Its Smallest in Decades. Here’s the Work Left Behind.",
-            "link": "https://kffhealthnews.org/news/article/the-week-in-brief-nih-workforce-cuts-trump-administration-hhs/",
-            "description": "Get our weekly newsletter, The Week in Brief, featuring a roundup of our original coverage, Fridays at 2 p.m. ET.",
-            "pubDate": "2026-03-06T19:30:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "5 Expert-Backed Habits For Stress Resilience & Longevity",
-            "link": "https://www.mindbodygreen.com/articles/5-expert-backed-habits-for-stress-resilience-and-longevity",
-            "description": "Five expert-backed habits and targeted nutrients can help improve your body's stress response and support longevity.",
-            "pubDate": "2026-03-06T11:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "This Super-Satisfying Exercise Can Help Improve Posture & Stretch Your Achy Hips",
-            "link": "https://www.mindbodygreen.com/articles/how-to-do-bow-pose-dhanurasana",
-            "description": "There are so many benefits to bow pose.",
-            "pubDate": "2026-03-06T11:18:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "When Artificial Intelligence Starts Rewriting Reality",
@@ -82,13 +96,6 @@
             "image_url": "https://thehealthcareblog.com/wp-content/uploads/2026/03/Brian-Joondeph-1-scaled.jpg"
         },
         {
-            "title": "My Mother and Grandmother Both Have Endometriosis, and Doctors Still Dismissed Me",
-            "link": "https://www.healthywomen.org/family-history-of-endometriosis-and-was-still-dismissed-me",
-            "description": "As told to Marnie Goodfriend March is Endometriosis Awareness Month . As a teenager, I knew that my periods weren’t normal. I was in a lot of pain, an...",
-            "pubDate": "2026-03-05T14:00:03",
-            "image_url": "https://www.healthywomen.org/media-library/kenzie-williams.jpg?id=65150098&width=980"
-        },
-        {
             "title": "Managing Side Effects of Head and Neck Cancer Treatments",
             "link": "https://www.healthywomen.org/condition/side-effects-of-head-and-neck-cancer-treatments",
             "description": "Head and neck cancer, which is cancer in the head or neck region, accounts for about 4% of all cancers in the United States. When it’s caught early, i...",
@@ -96,24 +103,24 @@
             "image_url": "https://www.healthywomen.org/media-library/receiving-chemotherapy-treatment.jpg?id=65155513&width=980"
         },
         {
-            "title": "What the Health? From KFF Health News: 40 Years of Health Policy",
-            "link": "https://kffhealthnews.org/news/podcast/what-the-health-436-julie-rovner-40th-anniversary-chip-kahn-chris-jennings-march-5-2026/",
-            "description": "This month is 40 years since host Julie Rovner, chief Washington correspondent for KFF Health News, began reporting on health policy in Washington. To...",
-            "pubDate": "2026-03-05T19:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "I Was Preparing for IVF When I Was Diagnosed with Endometrial Cancer",
-            "link": "https://www.healthywomen.org/real-women-real-stories/ivf-journey-led-to-an-endometrial-cancer-diagnosis",
-            "description": "Español As told to Jacquelyne Froeber I was at work when my cell phone rang. “You have endometrial cancer,” said the doctor on the other end. I felt a...",
-            "pubDate": "2026-03-04T17:35:59",
-            "image_url": "https://www.healthywomen.org/media-library/michele-leah.jpg?id=65150754&width=980"
+            "title": "My Mother and Grandmother Both Have Endometriosis, and Doctors Still Dismissed Me",
+            "link": "https://www.healthywomen.org/family-history-of-endometriosis-and-was-still-dismissed-me",
+            "description": "As told to Marnie Goodfriend March is Endometriosis Awareness Month . As a teenager, I knew that my periods weren’t normal. I was in a lot of pain, an...",
+            "pubDate": "2026-03-05T14:00:03",
+            "image_url": "https://www.healthywomen.org/media-library/kenzie-williams.jpg?id=65150098&width=980"
         },
         {
             "title": "Me preparaba para una FIV cuando me diagnosticaron cáncer endometrial",
             "link": "https://www.healthywomen.org/real-women-real-stories/me-diagnosticaron-cancer-endometrial-cuando-me-sometia-a-una-fiv",
             "description": "English Tal como se relató a Jacquelyne Froeber Estaba en el trabajo cuando timbró mi teléfono celular. \"Tiene cáncer endometrial\", dijo el doctor que...",
             "pubDate": "2026-03-04T15:55:00",
+            "image_url": "https://www.healthywomen.org/media-library/michele-leah.jpg?id=65150754&width=980"
+        },
+        {
+            "title": "I Was Preparing for IVF When I Was Diagnosed with Endometrial Cancer",
+            "link": "https://www.healthywomen.org/real-women-real-stories/ivf-journey-led-to-an-endometrial-cancer-diagnosis",
+            "description": "Español As told to Jacquelyne Froeber I was at work when my cell phone rang. “You have endometrial cancer,” said the doctor on the other end. I felt a...",
+            "pubDate": "2026-03-04T17:35:59",
             "image_url": "https://www.healthywomen.org/media-library/michele-leah.jpg?id=65150754&width=980"
         },
         {
@@ -128,6 +135,13 @@
             "link": "https://blackhealthmatters.com/kerry-washington-gets-candid-about-her-eating-disorder/",
             "description": "Disordered eating impacts thousands of individuals, including actress Kerry Washington. The Scandal star and author shared details about how she copes...",
             "pubDate": "2026-03-03T14:41:29",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Oren Nissim, Brook-ai – Figuring out RPM",
+            "link": "https://thehealthcareblog.com/blog/2026/03/03/oren-nissim-brook-ai-figuring-out-rpm/",
+            "description": "Oren Nissim is the CEO of Brook-ai which is making some waves in the remote care space. Their goals is to use remote patient monitoring to help provid...",
+            "pubDate": "2026-03-03T23:36:13",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
@@ -135,28 +149,21 @@
             "link": "https://blackhealthmatters.com/why-obesity-care-week-matters-for-black-women/",
             "description": "From March 2nd-6th, the Obesity Action Coalition (OAC) is highlighting the importance of Obesity Care Week. World Obesity Day is also on March 4th. Th...",
             "pubDate": "2026-03-03T18:28:24",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Oren Nissim, Brook-ai – Figuring out RPM",
-            "link": "https://thehealthcareblog.com/blog/2026/03/03/oren-nissim-brook-ai-figuring-out-rpm/",
-            "description": "Oren Nissim is the CEO of Brook-ai which is making some waves in the remote care space. Their goals is to use remote patient monitoring to help provid...",
-            "pubDate": "2026-03-03T23:36:13",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "Miriam Paramore, RxUtility",
             "link": "https://thehealthcareblog.com/blog/2026/03/02/miriam-paramore-rxutility/",
             "description": "In this quickbite interview recorded at the Feb 2026 VIVE conference, I am talking with Miriam Paramore. Miriam is building RxUtility, which is helpin...",
             "pubDate": "2026-03-02T22:57:50",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Lupito Nyong’o’s Fibroids Have Returned, She Now Has 50",
             "link": "https://blackhealthmatters.com/lupito-nyongos-fibroids-have-returned-she-now-has-50/",
             "description": "Last summer, Academy Award-winning actress Lupita Nyong’o revealed that she had 30 fibroids removed via myomectomy not long after winning her Oscar in...",
             "pubDate": "2026-02-27T22:36:38",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "‘Real Housewives of Salt Lake City Star’ Mary M. Cosby’s Son Robert Cosby Jr. Dead At 23",
@@ -166,18 +173,11 @@
             "image_url": "https://blackhealthmatters.com/wp-content/uploads/2026/02/Marys-Son-e1772139778116.png"
         },
         {
-            "title": "The Vocabulary of Survival",
-            "link": "https://thehealthcareblog.com/blog/2026/02/26/the-vocabulary-of-survival/",
-            "description": "By GEORGE BEAUREGARD From 2018 to 2022, I served as a physician executive in a large health system on Long Island. During that period, I became acquai...",
-            "pubDate": "2026-02-26T05:30:05",
-            "image_url": "https://thehealthcareblog.com/wp-content/uploads/2024/12/GeorgeB3-683x1024.jpg"
-        },
-        {
             "title": "Human Braiding Hair May Be a Health Hazard Too",
             "link": "https://blackhealthmatters.com/human-braiding-hair-may-be-a-health-hazard-too/",
             "description": "If you think switching to human hair for your protective styles is safer for your hair and health, think again. Consumer Reports followed up on the te...",
             "pubDate": "2026-02-25T21:55:36",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         }
     ]
 }

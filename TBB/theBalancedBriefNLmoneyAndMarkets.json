@@ -2,42 +2,49 @@
     "title": "theBalancedBriefNLmoneyAndMarkets",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from theBalancedBriefNLmoneyAndMarkets, skipping any feeds with errors.",
-    "lastBuildDate": "2026-03-06T16:01:24.611653",
+    "lastBuildDate": "2026-03-10T07:54:52.401047",
     "items": [
         {
-            "title": "Stagflation? $150 oil? Not all 401(k)s are losing money.",
-            "link": "https://www.marketwatch.com/story/stagflation-150-oil-not-all-401-k-s-are-losing-money-09c302cb?mod=mw_rss_topstories",
-            "description": "The problem with crises like this is that stocks and bonds can both fail.",
-            "pubDate": "2026-03-06T20:06:00",
-            "image_url": "https://images.mktw.net/im-04559534"
+            "title": "Social Security is already the best antipoverty program we have — don’t make this radical change",
+            "link": "https://www.marketwatch.com/story/social-security-is-already-the-best-antipoverty-program-we-have-dont-make-this-radical-change-929619b8?mod=mw_rss_topstories",
+            "description": "Changing Social Security to a flat benefit for all would put both workers and the poor at risk.",
+            "pubDate": "2026-03-10T12:00:00",
+            "image_url": "https://images.mktw.net/im-11604130"
         },
         {
-            "title": "U.S. oil prices notch record weekly gain of nearly 36%, as Middle East conflict spurs worries over production cuts",
-            "link": "https://www.marketwatch.com/story/oil-at-20-month-high-as-qatar-minister-warns-of-halt-to-energy-shipments-ffd3f8f9?mod=mw_rss_topstories",
-            "description": "Oil prices rallied Friday to set a record weekly gain, with the Middle East starting to feel a squeeze in production and storage capacity as the Iran ...",
-            "pubDate": "2026-03-06T20:35:00",
-            "image_url": "https://images.mktw.net/im-67063170"
+            "title": "Scientists behind COVID-19 vaccine will depart BioNTech",
+            "link": "https://www.marketwatch.com/story/scientists-behind-covid-19-vaccine-will-depart-biontech-ef157c79?mod=mw_rss_topstories",
+            "description": "The company’s co-founders said they are leaving to start a new mRNA-based company.",
+            "pubDate": "2026-03-10T12:40:00",
+            "image_url": "https://images.mktw.net/im-26579977"
         },
         {
-            "title": "Gold prices post worst week since January. The dollar gets part of the blame.",
-            "link": "https://www.marketwatch.com/story/gold-is-facing-its-worst-week-since-january-the-dollar-gets-part-of-the-blame-115e4d3d?mod=mw_rss_topstories",
-            "description": "Gold and silver rose after weak jobs data were reported, but still finished lower for the week.",
-            "pubDate": "2026-03-06T20:16:00",
-            "image_url": "https://images.mktw.net/im-13371385"
+            "title": "Return to the 2022 stock-market playbook as Iran conflict drags on, say these strategists",
+            "link": "https://www.marketwatch.com/story/return-to-the-2022-stock-market-playbook-as-iran-conflict-drags-on-say-these-strategists-7bb7e01b?mod=mw_rss_topstories",
+            "description": "Barclays says the chasm between winning and losing stocks in 2022 when Russia invaded Ukraine was huge. Here are their style picks.",
+            "pubDate": "2026-03-10T12:28:00",
+            "image_url": "https://images.mktw.net/im-08226732"
         },
         {
-            "title": "This is the age when women’s wages tend to stop growing — and the gender pay gap gets even worse",
-            "link": "https://www.marketwatch.com/story/this-is-the-age-when-womens-wages-tend-to-stop-growing-and-the-gender-pay-gap-gets-even-worse-e52768f1?mod=mw_rss_topstories",
-            "description": "It’s about more than just wages, as women also fall behind in wealth, career opportunities and investing confidence.",
-            "pubDate": "2026-03-06T20:05:00",
-            "image_url": "https://images.mktw.net/im-72640909"
+            "title": "Bill Ackman tries again with plan for IPO of Pershing Square and a new fund",
+            "link": "https://www.marketwatch.com/story/bill-ackman-tries-again-with-plan-for-ipo-of-pershing-square-and-a-new-fund-084ae953?mod=mw_rss_topstories",
+            "description": "Hedge fund manager Bill Ackman is again trying to take his fund management company public alongside the launch of a new fund.",
+            "pubDate": "2026-03-10T12:47:00",
+            "image_url": "https://images.mktw.net/im-72768616"
         },
         {
-            "title": "Crude-oil futures haven’t been this overbought since 1990. That doesn’t mean the rally is over.",
-            "link": "https://www.marketwatch.com/story/crude-oil-futures-havent-been-this-overbought-since-1990-that-doesnt-mean-the-rally-is-over-1550e567?mod=mw_rss_topstories",
-            "description": "A momentum indicator for a crude futures chart has soared to its highest level in 36 years, but as the Wall Street saying goes, overbought doesn’t mea...",
-            "pubDate": "2026-03-06T20:45:00",
-            "image_url": "https://images.mktw.net/im-94109834"
+            "title": "Saudi Aramco promises full production can be restored within days if Strait of Hormuz is reopened",
+            "link": "https://www.marketwatch.com/story/saudi-aramco-promises-full-production-can-be-restored-within-days-if-strait-of-hormuz-is-reopened-5741bad3?mod=mw_rss_topstories",
+            "description": "Aramco’s CEO warns of “catastrophic consequences” for the oil market if the effective closure of the Straits Of Hormuz were to remain for an extended ...",
+            "pubDate": "2026-03-10T12:16:00",
+            "image_url": "https://images.mktw.net/im-89332095"
+        },
+        {
+            "title": "The Most Common Crypto Swap Scams",
+            "link": "https://www.allbusiness.com/most-common-crypto-swap-scams",
+            "description": "Post sponsored by Changelly Crypto swaps are fast and permissionless, which is exactly why scammers love them. Before you hit “swap,” decide where you...",
+            "pubDate": "2026-03-09T23:00:44",
+            "image_url": "https://www.allbusiness.com/media-library/crypto-currency-image-representing-swap-scams.jpg?id=32078912&width=980"
         },
         {
             "title": "10 Frequently Asked Questions About Angel Investing",
@@ -68,32 +75,18 @@
             "image_url": "https://www.allbusiness.com/media-library/room-number-sign-in-a-hotel.jpg?id=64900938&width=980"
         },
         {
-            "title": "The Top 10 Side Hustles According to AI",
-            "link": "https://www.allbusiness.com/top-10-side-hustles-according-to-ai",
-            "description": "Whether you need some extra cash, want to explore a new field, or desire more time at home with family, these top ten side hustles help you to meet yo...",
-            "pubDate": "2026-02-13T17:42:03",
-            "image_url": "https://www.allbusiness.com/media-library/consulting-on-website-ux-as-a-side-hustle.jpg?id=64428713&width=980"
-        },
-        {
-            "title": "DeepSeek Won't Sink U.S. AI Titans",
-            "link": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
-            "description": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
-            "pubDate": "2025-01-27T18:12:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
-            "link": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main",
-            "description": "Arabica coffee prices hit a record level, as traders digested the withdrawal of President Trump’s threats to impose tariffs and economic sanctions on ...",
-            "pubDate": "2025-01-27T17:20:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+            "link": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
+            "description": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia...",
+            "pubDate": "2025-01-27T19:26:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Financial Services Roundup: Market Talk",
             "link": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
             "description": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
             "pubDate": "2025-01-27T17:27:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "Comex Gold, Silver Settle Lower",
@@ -103,11 +96,18 @@
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
-            "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
-            "link": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
-            "description": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia...",
-            "pubDate": "2025-01-27T19:26:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "title": "DeepSeek Won't Sink U.S. AI Titans",
+            "link": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
+            "description": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
+            "pubDate": "2025-01-27T18:12:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
+            "link": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main",
+            "description": "Arabica coffee prices hit a record level, as traders digested the withdrawal of President Trump’s threats to impose tariffs and economic sanctions on ...",
+            "pubDate": "2025-01-27T17:20:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         }
     ]
 }

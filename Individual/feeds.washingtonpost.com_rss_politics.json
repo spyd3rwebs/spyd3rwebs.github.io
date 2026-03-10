@@ -2,42 +2,42 @@
     "title": "Individual feed for https://feeds.washingtonpost.com/rss/politics",
     "link": "https://feeds.washingtonpost.com/rss/politics",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-06T16:01:19.560884",
+    "lastBuildDate": "2026-03-10T07:54:46.316426",
     "items": [
         {
-            "title": "Florida Bar reverses itself, says it is not investigating Lindsey Halligan",
-            "link": "https://www.washingtonpost.com/politics/2026/03/06/halligan-florida-bar-reversal/",
-            "description": "A spokesperson said the bar’s counsel “erroneously” stated there was a “pending investigation”; instead, a complaint against Halligan remains at a pre...",
-            "pubDate": "2026-03-06T20:52:36",
+            "title": "Australia grants asylum to 5 Iranian women’s soccer players after Trump pressure",
+            "link": "https://www.washingtonpost.com/politics/2026/03/09/trump-iran-soccer-womens-asylum-australia/",
+            "description": "The late-night visa approval came after a days-long operation, authorities said. The players had been criticized back home after they stood silently d...",
+            "pubDate": "2026-03-10T12:23:37",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Iran war’s oil shock fuels GOP political anxiety",
+            "link": "https://www.washingtonpost.com/politics/2026/03/10/iran-war-gas-prices-gop-anxiety/",
+            "description": "Higher oil prices have intensified some Republicans’ warnings about the political risks of a long conflict as President Trump sends conflicting messag...",
+            "pubDate": "2026-03-10T11:00:43",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Democrats argue Trump’s China policy risks ‘strategic failure’",
+            "link": "https://www.washingtonpost.com/national-security/2026/03/10/trump-china-democrats/",
+            "description": "A new report, issued ahead of the president’s summit with Xi Jinping, takes aim at the administration’s record on trade, diplomacy and other aspects o...",
+            "pubDate": "2026-03-10T11:00:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "Russia is providing Iran intelligence to target U.S. forces, officials say",
-            "link": "https://www.washingtonpost.com/national-security/2026/03/06/russia-iran-intelligence-us-targets/",
-            "description": "The targeting information has included the locations of American warships and aircraft in the Middle East, the officials said.",
-            "pubDate": "2026-03-06T20:27:19",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Democrats join legal challenge to Trump’s planned 250-foot arch",
-            "link": "https://www.washingtonpost.com/politics/2026/03/06/democrats-trump-triumphal-arch/",
-            "description": "“This is a straightforward issue of who’s in charge,” Sen. Angus King (I-Maine) said, citing a law that certain monuments must receive Congress’s appr...",
-            "pubDate": "2026-03-06T20:21:33",
+            "title": "In Trump’s Washington, Congress has little power left",
+            "link": "https://www.washingtonpost.com/politics/2026/03/10/congress-trump-power-rules-war-spending/",
+            "description": "Trump’s second presidency has accelerated the growth of executive power at the expense of the legislative branch, raising concerns about the balance o...",
+            "pubDate": "2026-03-10T10:00:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "Justice Department targets Cuban officials, aims for indictments",
-            "link": "https://www.washingtonpost.com/national-security/2026/03/06/trump-cuba-prosecution/",
-            "description": "The Justice Department has formed a working group to examine bringing federal charges against officials or entities within Cuba’s government.",
-            "pubDate": "2026-03-06T20:07:58",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Justice Dept. releases missing Epstein documents with Trump allegations",
-            "link": "https://www.washingtonpost.com/politics/2026/03/06/justice-department-epstein-documents-trump/",
-            "description": "The agency said the records, which include allegations made against President Donald Trump in 2019, were not previously released because they were “ i...",
-            "pubDate": "2026-03-06T19:47:24",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "Justice Ketanji Brown Jackson criticizes Supreme Court emergency rulings",
+            "link": "https://www.washingtonpost.com/politics/2026/03/09/supreme-court-ketanji-brown-jackson-emergency-docket-rulings/",
+            "description": "During a public forum, Jackson and conservative Justice Brett M. Kavanaugh offered differing views of President Trump’s wins before the high court.",
+            "pubDate": "2026-03-10T02:36:24",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         }
     ]
 }

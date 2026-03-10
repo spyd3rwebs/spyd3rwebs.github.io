@@ -2,8 +2,22 @@
     "title": "Individual feed for https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258",
     "link": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-06T16:03:26.917109",
+    "lastBuildDate": "2026-03-10T07:56:59.532035",
     "items": [
+        {
+            "title": "Fears of 1970s-style stagflation arise with oil spike to $100. How big a threat is it?",
+            "link": "https://www.cnbc.com/2026/03/09/fears-of-1970s-style-stagflation-arise-with-oil-spike-to-100-how-big-a-threat-is-it.html",
+            "description": "High inflation and slow growth present a double threat, as measures like interest rate cuts and government spending only aggravate inflation.",
+            "pubDate": "2026-03-09T19:11:12",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "One year after Trump’s sovereignty threats, Canadians keep ‘elbows up’",
+            "link": "https://www.cnbc.com/2026/03/07/canada-boycott-trump-travel-alcohol-economy.html",
+            "description": "An unusual swell of Canadian patriotism seen after Trump's threats and tariffs last year has evolved into a new social and economic order.",
+            "pubDate": "2026-03-09T11:59:31",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
         {
             "title": "Here's how the U.S.-Iran war is already hitting consumers' pocketbooks",
             "link": "https://www.cnbc.com/2026/03/06/us-iran-war-gas-mortgage-markets.html",
@@ -16,28 +30,14 @@
             "link": "https://www.cnbc.com/2026/03/06/february-2026-jobs-report.html",
             "description": "Nonfarm payrolls were expected to increase 50,000 in February while the unemployment rate held steady at 4.3%.",
             "pubDate": "2026-03-06T16:12:55",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "San Francisco Fed's Daly says jobs report complicates interest rate call",
             "link": "https://www.cnbc.com/2026/03/06/san-francisco-feds-daly-says-jobs-report-complicates-interest-rate-call.html",
             "description": "Daly told CNBC on Friday that the weak February jobs report adds to a difficult policymaking environment.",
             "pubDate": "2026-03-06T16:11:33",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "UAE mulls freezing Iranian assets as Middle East conflict escalates: WSJ",
-            "link": "https://www.cnbc.com/2026/03/06/uae-mulls-freezing-iranian-assets-as-middle-east-conflict-escalates-wsj-.html",
-            "description": "The UAE is considering freezing billions of dollars of Iranian assets held in the Gulf state, potentially severing one of Tehran's most critical econo...",
-            "pubDate": "2026-03-06T13:01:34",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "The February jobs numbers are coming out Friday. Here's what to expect",
-            "link": "https://www.cnbc.com/2026/03/05/february-2026-jobs-report-preview.html",
-            "description": "Economists surveyed by Dow Jones expect payroll growth of 50,000, following January's surprisingly high 130,000.",
-            "pubDate": "2026-03-05T19:49:12",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         }
     ]
 }

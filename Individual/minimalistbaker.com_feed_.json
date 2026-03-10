@@ -2,8 +2,15 @@
     "title": "Individual feed for https://minimalistbaker.com/feed/",
     "link": "https://minimalistbaker.com/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-06T16:03:49.508824",
+    "lastBuildDate": "2026-03-10T07:57:27.716386",
     "items": [
+        {
+            "title": "Cheesy Jalapeño Cashew Dressing",
+            "link": "https://minimalistbaker.com/vegan-cashew-dressing/",
+            "description": "Move over, Ranch, there’s a new creamy dressing in town that’s stealing our hearts! This cheesy jalapeño cashew dressing is our new go-to for salads, ...",
+            "pubDate": "2026-03-10T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/05/Vegan-Cashew-Jalapeno-Dressing-4-680x1020.jpg"
+        },
         {
             "title": "Fudgy Chocolate Tahini Cookies (1 Bowl!)",
             "link": "https://minimalistbaker.com/chocolate-tahini-cookies/",
@@ -24,13 +31,6 @@
             "description": "What’s that? You’d like an easy, delicious soup that practically makes itself and will make all of your wildest dreams come true!? Us too ! We can’t g...",
             "pubDate": "2025-12-30T09:00:00",
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2025/06/Creamy-Curried-Vegan-Black-Eyed-Bean-Soup-8-680x1020.jpg"
-        },
-        {
-            "title": "Tahini Hot Chocolate (Super Dreamy, Protein-Rich!)",
-            "link": "https://minimalistbaker.com/tahini-hot-chocolate/",
-            "description": "If you’re looking for a decadent, elevated hot chocolate with wholesome ingredients, this one’s for you! We’ve been serving up this frothy, tahini-inf...",
-            "pubDate": "2025-12-09T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2025/06/Tahini-Hot-Chocolate-6-680x1020.jpg"
         }
     ]
 }

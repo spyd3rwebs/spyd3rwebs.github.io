@@ -2,77 +2,77 @@
     "title": "World",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from World, skipping any feeds with errors.",
-    "lastBuildDate": "2026-03-06T16:01:29.841910",
+    "lastBuildDate": "2026-03-10T07:54:59.308681",
     "items": [
         {
-            "title": "‘I’m relieved she’s gone’: Fema staffers celebrate ousting of Kristi Noem",
-            "link": "https://www.theguardian.com/us-news/2026/mar/06/fema-staffers-celebrate-firing-kristi-noem",
-            "description": "Current and former Fema staff say the fired DHS secretary made the US more dangerous by overhauling the agency Sign up for the Breaking News US email ...",
-            "pubDate": "2026-03-06T20:06:59",
-            "image_url": "https://i.guim.co.uk/img/media/d5deebdf120c21ebb2c6aef77995ef1938905ac9/0_0_2000_1600/master/2000.jpg?width=140&quality=85&auto=format&fit=max&s=60f86ec60a6e663a2b0eac1ca5c6f700"
+            "title": "Reeves to face MPs’ grilling over cost-of-living pressures – UK politics live",
+            "link": "https://www.theguardian.com/politics/live/2026/mar/10/cost-of-living-middle-east-inflation-reeves-starmer-labour-lammy-courts-reform-uk-politics-live-news-updates",
+            "description": "Chancellor to take Treasury questions amid market turbulence linked to Middle East conflict We can bring you some lines from the Reform press conferen...",
+            "pubDate": "2026-03-10T12:36:06",
+            "image_url": "https://i.guim.co.uk/img/media/dc76a4fa703d353b98f007763d96f17b53901f43/1183_0_6300_5040/master/6300.jpg?width=140&quality=85&auto=format&fit=max&s=b0d1df60e421d3c5b4ee38ec746328b9"
         },
         {
-            "title": "Trump says Cuba is ‘going to fall pretty soon’ after White House comments – live",
-            "link": "https://www.theguardian.com/us-news/live/2026/mar/06/kristi-noem-democrats-ice-donald-trump-pete-hegseth-iran-middle-east-us-politics-latest-news-updates",
-            "description": "President tells CNN country is going to ‘fall’ after earlier in the week claiming Cuba ‘wants to make a deal so badly’ US lost 92,000 jobs in February...",
-            "pubDate": "2026-03-06T20:41:26",
-            "image_url": "https://i.guim.co.uk/img/media/9a3a86b0fb28c34b7dac74532ccd8efacda5584a/306_0_4914_3933/master/4914.jpg?width=140&quality=85&auto=format&fit=max&s=5f2c77d0e58c0ae467ac5a09651125ca"
+            "title": "Middle East crisis live: Trump claims Iran war will be over ‘very soon’ but Tehran says it will determine when",
+            "link": "https://www.theguardian.com/world/live/2026/mar/10/iran-war-live-updates-iranian-supreme-leader-mojtaba-khamenei-middle-east-tehran-oil-prices-latest-news",
+            "description": "US president says war is ‘very complete’ and threatens worse strikes if passage of oil via strait of Hormuz is blocked; IRGC says it will not let out ...",
+            "pubDate": "2026-03-10T12:40:06",
+            "image_url": "https://i.guim.co.uk/img/media/cb1ceab3133304cf4874332afcbb48551f666ed2/409_0_4085_3268/master/4085.jpg?width=140&quality=85&auto=format&fit=max&s=3f3e10506892ed180dcd4fd6de2d0c6b"
         },
         {
-            "title": "David Copperfield announces last Vegas show, weeks after Epstein ties revealed",
-            "link": "https://www.theguardian.com/us-news/2026/mar/06/david-copperfield-last-vegas-show",
-            "description": "Lawyers for magician, who plans to unveil new project, said in 2024 he was ‘at most acquaintances’ with Epstein Sign up for the Breaking News US email...",
-            "pubDate": "2026-03-06T19:18:11",
-            "image_url": "https://i.guim.co.uk/img/media/4db0d5592b6a87a7ee2fe9349a2a98241564b00f/6_300_1419_1135/master/1419.png?width=140&quality=85&auto=format&fit=max&s=c7a9382cd4b6ba9b578e4c1530b47a78"
+            "title": "‘Lack of class’: Quentin Tarantino hits back at Rosanna Arquette over Pulp Fiction N-word criticism",
+            "link": "https://www.theguardian.com/film/2026/mar/10/quentin-tarantino-responds-rosanna-arquette-pulp-fiction-n-word-criticism",
+            "description": "Director rounds on actor, who acted in the cult film, saying he feels disrespected, and claiming cynical reasons behind her recent comments Quentin Ta...",
+            "pubDate": "2026-03-10T12:21:20",
+            "image_url": "https://i.guim.co.uk/img/media/83026f94c5ad6c1f7bc6c3718d4d071441630975/201_133_1007_805/master/1007.jpg?width=140&quality=85&auto=format&fit=max&s=bfa52e6dc9b0733d5bf52efdd84192eb"
         },
         {
-            "title": "Cyprus raises doubts about future of British bases on island after drone strike",
-            "link": "https://www.theguardian.com/world/2026/mar/06/cyprus-raises-doubts-about-future-of-british-bases-on-island-after-drone-strike",
-            "description": "Foreign minister wants ‘conversation’ about closing UK military sites following British government not warning of impending attack on RAF Akrotiri Mid...",
-            "pubDate": "2026-03-06T20:01:11",
-            "image_url": "https://i.guim.co.uk/img/media/fba275bc91cc42f4954fd56610e008d282d74c28/414_0_4548_3639/master/4548.jpg?width=140&quality=85&auto=format&fit=max&s=ea31eba25cf7cadb8cc07a5a23838c88"
+            "title": "VW to cut 50,000 jobs amid Trump tariffs and falling Chinese sales",
+            "link": "https://www.theguardian.com/business/2026/mar/10/vw-cut-jobs-trump-tariffs-chinese-sales-audi-porsche",
+            "description": "Car group reports 54% drop in pre-tax profits as it says Iran war could affect demand for Audi and Porsche brands Business live – latest updates Europ...",
+            "pubDate": "2026-03-10T12:40:02",
+            "image_url": "https://i.guim.co.uk/img/media/ece3c13bf908535ff319f88156ed536246bf8f18/491_0_4214_3371/master/4214.jpg?width=140&quality=85&auto=format&fit=max&s=02d242b84a3f84ca66256ae6decad278"
         },
         {
-            "title": "Middle East crisis live: Israel bombs Tehran and Beirut as White House says campaign may take four to six weeks",
-            "link": "https://www.theguardian.com/world/live/2026/mar/06/iran-war-live-updates-us-temporarily-lets-india-buy-russian-oil-amid-energy-fears-israeli-military-launches-strikes-on-beirut",
-            "description": "Israel launched huge attacks on Iran and Lebanon overnight; Karoline Leavitt says Donald Trump will consider Iran to have surrendered once it no longe...",
-            "pubDate": "2026-03-06T20:44:54",
-            "image_url": "https://i.guim.co.uk/img/media/57f6ea87c1d03f69cc09dc00ce70e2c000885fe3/308_0_3075_2460/master/3075.jpg?width=140&quality=85&auto=format&fit=max&s=2bbab9dec68648de8c4d9433bf583cd2"
+            "title": "Georgia votes for successor to Marjorie Taylor Greene after Trump spat – US politics live",
+            "link": "https://www.theguardian.com/us-news/live/2026/mar/10/donald-trump-iran-georgia-immigration-mississippi-latest-news-updates",
+            "description": "Trump’s pick of former prosecutor Clay Fuller likely to face Democrat and retired general Shawn Harris in runoff for House seat Sign up for the Breaki...",
+            "pubDate": "2026-03-10T12:39:03",
+            "image_url": "https://i.guim.co.uk/img/media/55009d4f4ebdf186063eccd7252347312f154b5e/271_0_3220_2576/master/3220.jpg?width=140&quality=85&auto=format&fit=max&s=dfa2947ca7954dc15897377a3613a8b7"
         },
         {
-            "title": "Three women interviewed on suspicion of sex trafficking in Al Fayed investigation",
-            "link": "https://www.bbc.com/news/articles/c2lrwv5p7e7o?at_medium=RSS&at_campaign=rss",
-            "description": "The women have been interviewed under suspicion of aiding and abetting rape and human trafficking, the Met Police says.",
-            "pubDate": "2026-03-06T20:59:36",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Tory peer quits after Lords investigation into PPE deals",
-            "link": "https://www.bbc.com/news/articles/cly8d02e0e9o?at_medium=RSS&at_campaign=rss",
-            "description": "It comes after a Lords standards probe into his contacts with ministers and advisers during the pandemic.",
-            "pubDate": "2026-03-06T19:57:32",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Meghan's lifestyle brand and Netflix end partnership",
-            "link": "https://www.bbc.com/news/articles/c98gkglrk4wo?at_medium=RSS&at_campaign=rss",
-            "description": "The Duchess of Sussex will run As ever independently, after a partnership with Netflix helped to launch the brand last year.",
-            "pubDate": "2026-03-06T20:47:27",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Fatbikes are wreaking havoc in Sydney's wealthy beach suburbs",
-            "link": "https://www.bbc.com/news/articles/cy8l1d221evo?at_medium=RSS&at_campaign=rss",
-            "description": "Teens are infuriating locals by riding over golf courses and doing wheelies on the Harbour Bridge.",
-            "pubDate": "2026-03-06T18:56:47",
+            "title": "Royal Navy preparing support ship to deploy to eastern Mediterranean",
+            "link": "https://www.bbc.com/news/articles/c0k1yyg475ko?at_medium=RSS&at_campaign=rss",
+            "description": "RFA Lyme Bay is placed on \"heightened readiness\" as a precaution, the Ministry of Defence says.",
+            "pubDate": "2026-03-10T12:39:51",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "Mexico to deploy 100,000 security personnel for World Cup",
-            "link": "https://www.bbc.com/sport/football/articles/ce8wjwyjndyo?at_medium=RSS&at_campaign=rss",
-            "description": "World Cup co-hosts Mexico plan to deploy nearly 100,000 security personnel to protect fans at this summer's tournament, amid ongoing cartel violence i...",
-            "pubDate": "2026-03-06T19:24:59",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "title": "Joey Barton arrested after assault near golf club",
+            "link": "https://www.bbc.com/news/articles/c0j5yyyygp2o?at_medium=RSS&at_campaign=rss",
+            "description": "The former footballer was arrested along with a second suspect near Huyton and Prescot Golf Club.",
+            "pubDate": "2026-03-10T12:38:45",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Inmate charged with murder of Soham killer Ian Huntley",
+            "link": "https://www.bbc.com/news/articles/cvg8ll4l7d9o?at_medium=RSS&at_campaign=rss",
+            "description": "A prison inmate has been charged with the murder of Soham killer Ian Huntley, police say.",
+            "pubDate": "2026-03-10T12:04:56",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Family of child injured in Canada school shooting sues OpenAI",
+            "link": "https://www.bbc.com/news/articles/c309y25prnlo?at_medium=RSS&at_campaign=rss",
+            "description": "The family alleges the firm knew the perpetrator was planning a \"mass casualty event\" but failed to contact the authorities.",
+            "pubDate": "2026-03-10T12:27:55",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Glasgow Central Station remains closed in aftermath of fire",
+            "link": "https://www.bbc.com/news/articles/cvgjqzl7wrzo?at_medium=RSS&at_campaign=rss",
+            "description": "Scotland's busiest station remains closed following a huge fire that destroyed a neighbouring building.",
+            "pubDate": "2026-03-10T12:29:59",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         }
     ]
 }

@@ -2,63 +2,70 @@
     "title": "theBalancedBriefNLhealthAndWellness",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from theBalancedBriefNLhealthAndWellness, skipping any feeds with errors.",
-    "lastBuildDate": "2026-03-06T16:01:22.821364",
+    "lastBuildDate": "2026-03-10T07:54:50.096838",
     "items": [
         {
-            "title": "Spray-on 'immune-shield' coats transplant organs to curb rejection",
-            "link": "https://medicalxpress.com/news/2026-03-spray-immune-shield-coats-transplant.html",
-            "description": "A new technology has been developed to suppress immune rejection, the biggest challenge in organ transplantation, without causing systemic side effect...",
-            "pubDate": "2026-03-06T20:00:01",
+            "title": "Movies reconstructed purely from mouse brain activity",
+            "link": "https://medicalxpress.com/news/2026-03-movies-reconstructed-purely-mouse-brain.html",
+            "description": "Scientists have successfully reconstructed videos purely from the brain activity of mice, showing what the mice were seeing, in a new study led by Uni...",
+            "pubDate": "2026-03-10T10:31:26",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "New Jersey's opioid gap persists as high-risk counties fall further behind",
+            "link": "https://medicalxpress.com/news/2026-03-jersey-opioid-gap-persists-high.html",
+            "description": "Opioids such as fentanyl are \"indiscriminate killers\" that can be misused by people from all walks of life. But where you live may be more influential...",
+            "pubDate": "2026-03-10T01:40:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Why you can remember every word of a song from 25 years ago—but not why you walked into the room",
+            "link": "https://medicalxpress.com/news/2026-03-word-song-years-room.html",
+            "description": "While driving recently, a long-forgotten song came on the radio. I found myself singing along; not only did I know all the lyrics to a song I hadn't h...",
+            "pubDate": "2026-03-10T00:30:02",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Mouse brain study reveals why blockbuster weight-loss drugs may work differently in females and males",
+            "link": "https://medicalxpress.com/news/2026-03-mouse-brain-reveals-blockbuster-weight.html",
+            "description": "The drugs have names that sound like small planets: semaglutide, liraglutide, lixisenatide. Collectively, they belong to a class of glucagon-like pept...",
+            "pubDate": "2026-03-10T06:00:01",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "Cheek cells may provide clues to schizophrenia risk",
-            "link": "https://medicalxpress.com/news/2026-03-cheek-cells-clues-schizophrenia.html",
-            "description": "A simple cheek swab could one day provide a quick and noninvasive diagnostic test for schizophrenia. A new study published in Science Advances has ide...",
-            "pubDate": "2026-03-06T20:40:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Substance use on the rise among Gen Z in their early 20s",
-            "link": "https://medicalxpress.com/news/2026-03-substance-gen-early-20s.html",
-            "description": "Around seven in 10 (68%) young adults who are part of generation Z report binge drinking in the past year, with almost a third (29%) regularly consumi...",
-            "pubDate": "2026-03-06T20:10:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "New study shows how sickle cell affects brain function",
-            "link": "https://medicalxpress.com/news/2026-03-sickle-cell-affects-brain-function.html",
-            "description": "Sickle cell disease is often thought of solely as a blood disorder, but new research from the Wood Neuro Research Group provides measurable evidence t...",
-            "pubDate": "2026-03-06T21:00:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "How do GLP-1 agonists affect gene expression?",
-            "link": "https://medicalxpress.com/news/2026-03-glp-agonists-affect-gene.html",
-            "description": "GLP-1s are building a reputation as \"wonder drugs.\" First characterized for their ability to improve insulin release and treat diabetes, the drugs wer...",
-            "pubDate": "2026-03-06T20:20:01",
+            "title": "How voluntary exercise reshapes tryptophan metabolism through the gut microbiota",
+            "link": "https://medicalxpress.com/news/2026-03-voluntary-reshapes-tryptophan-metabolism-gut.html",
+            "description": "Something happens when a rat starts running. Not just the obvious things, the faster heart, the warming muscles, the rhythmic percussion of paws again...",
+            "pubDate": "2026-03-10T06:00:03",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "RHR: Beyond the Gut: The Microbiome’s Role in Sleep, Energy, and Longevity, with Dr. Zain Kassam",
+            "link": "https://chriskresser.com/beyond-the-gut-the-microbiomes-role-in-sleep-energy-and-longevity-with-dr-zain-kassam/",
+            "description": "In this episode of Revolution Health Radio, Chris sits down with gastroenterologist and microbiome researcher Dr. Zain Kassam to explore the rapidly e...",
+            "pubDate": "2026-03-10T08:02:09",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "RHR: The Gut-Brain Connection: How Your Microbiome Affects Your Mental Health",
             "link": "https://chriskresser.com/the-gut-brain-connection-how-your-microbiome-affects-your-mental-health/",
             "description": "Depression and anxiety are often treated as chemical imbalances in the brain—but what if the real problem starts in the gut? In this episode of Revolu...",
             "pubDate": "2026-02-24T08:02:19",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "RHR: Vitamin D: Why a Personalized Approach Is Best",
             "link": "https://chriskresser.com/vitamin-d-why-a-personalized-approach-is-best/",
             "description": "In this episode of Revolution Health Radio, Chris Kresser explains why vitamin D supplementation should never be one-size-fits-all. Drawing on new res...",
             "pubDate": "2026-02-10T08:02:49",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "RHR: Cold Exposure: Why Sustained Beats Extreme",
             "link": "https://chriskresser.com/cold-exposure-why-sustained-beats-extreme/",
             "description": "Cold plunges and ice baths dominate social media, but do they really deliver the best metabolic benefits? In this episode of Revolution Health Radio, ...",
             "pubDate": "2026-01-27T08:03:03",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "RHR: Why Your Sleep Schedule Matters As Much As Duration",
@@ -66,13 +73,6 @@
             "description": "In this episode of Revolution Health Radio, Chris challenges the conventional focus on sleep duration and makes the case that sleep timing and circadi...",
             "pubDate": "2026-01-13T08:05:04",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "RHR: Menopause Brain Fog—What’s Really Happening (and How To Fix It)",
-            "link": "https://chriskresser.com/rhr-menopause-brain-fog-whats-really-happening-and-how-to-fix-it/",
-            "description": "In this episode of Revolution Health Radio, Chris examines research confirming that menopause-related brain fog is real, measurable, and reversible. H...",
-            "pubDate": "2025-12-30T08:05:38",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         }
     ]
 }

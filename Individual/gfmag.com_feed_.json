@@ -2,42 +2,42 @@
     "title": "Individual feed for https://gfmag.com/feed/",
     "link": "https://gfmag.com/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-06T16:03:26.934148",
+    "lastBuildDate": "2026-03-10T07:56:59.547701",
     "items": [
         {
-            "title": "War In The Middle East: GCC Mulls Action Over Iranian Attacks",
-            "link": "https://gfmag.com/news/war-in-the-middle-east-gcc-mulls-action-over-iranian-attacks/",
-            "description": "At least 10 people have died, and more than 100 have been injured, after Iran launched barrages of missile and drone attacks against the GCC. The post...",
-            "pubDate": "2026-03-06T19:01:50",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "title": "Sustainable Finance Awards 2026: Latin America",
+            "link": "https://gfmag.com/award/award-winners/sustainable-finance-awards-2026-latin-america/",
+            "description": "This year's regional winners advanced sustainability by issuing green, blue, social, and transition bonds while funding renewable energy projects acro...",
+            "pubDate": "2026-03-09T18:28:21",
+            "image_url": "https://public.flourish.studio/visualisation/27965619/thumbnail"
         },
         {
-            "title": "US-Iran War Puts Strait Of Hormuz Under Fire, Disrupting Global Energy Trade",
-            "link": "https://gfmag.com/news/us-iran-war-puts-strait-of-hormuz-under-fire-disrupting-global-energy-trade/",
-            "description": "US strikes on Iran escalate Strait of Hormuz tensions, spiking energy prices, disrupting trade and heightening global geopolitical risk. The post US-I...",
-            "pubDate": "2026-03-04T17:48:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "title": "Sustainable Finance Awards 2026: North America",
+            "link": "https://gfmag.com/award/award-winners/sustainable-finance-awards-2026-north-america/",
+            "description": "North American sustainable-finance issuance suffered due to ESG backlash and regulatory tensions, but Canada remained resilient and adaptation finance...",
+            "pubDate": "2026-03-09T13:19:08",
+            "image_url": "https://public.flourish.studio/visualisation/27960216/thumbnail"
         },
         {
-            "title": "Oil Vs. Renewables: Competing Visions Of Global Power",
-            "link": "https://gfmag.com/economics-policy-regulation/oil-vs-renewables-competing-visions-of-global-power/",
-            "description": "While the US pursues fossil fuel dominance, China is looking to lead the way on renewables. Which model of energy security will the rest of the world ...",
-            "pubDate": "2026-03-03T11:52:54",
-            "image_url": "https://s44650.pcdn.co/wp-content/uploads/2026/03/Cai.jpeg"
+            "title": "Sustainable Finance Awards 2026: Western Europe",
+            "link": "https://gfmag.com/award/award-winners/sustainable-finance-awards-2026-western-europe/",
+            "description": "Western Europe’s sustainable-finance market slowed in 2025, but stricter standards, improved disclosures, and major deals kept issuance strong across ...",
+            "pubDate": "2026-03-09T13:05:38",
+            "image_url": "https://public.flourish.studio/visualisation/27959553/thumbnail"
         },
         {
-            "title": "AMSC Expands Beyond North America As Power Demand Surges",
-            "link": "https://gfmag.com/executive-interviews/amsc-expands-beyond-north-america-as-power-demand-surges/",
-            "description": "AMSC expands globally beyond renewables, targeting grid resilience, AI data centers and defense, leveraging diversification and M&A. The post AMSC Exp...",
-            "pubDate": "2026-03-03T11:50:25",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "title": "Nordea’s Juho Maalahti: Strengthening Transparency And Alignment",
+            "link": "https://gfmag.com/award/winner-insights/nordeas-juho-maalahti-strengthening-transparency-and-alignment/",
+            "description": "Juho Maalahti, head of Sustainable Finance Advisory at Nordea—this year’s Best Bank for Sustainability Transparency in Western Europe—discusses the ne...",
+            "pubDate": "2026-03-09T12:19:35",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "Private Banks Pivot To Serve The ‘Everyday Millionaire’",
-            "link": "https://gfmag.com/banking/private-banks-pivot-to-serve-the-everyday-millionaire/",
-            "description": "Private banking’s fastest-growing segment is in the $1 million to $5 million range. Serving them requires a new business model. The post Private Banks...",
-            "pubDate": "2026-03-03T11:36:36",
-            "image_url": "https://s44650.pcdn.co/wp-content/uploads/2026/02/Copy-of-Website-Headshots-38.png"
+            "title": "QNB Türkiye’s Yeliz Ataay Arıkök: Hitting SF Milestones",
+            "link": "https://gfmag.com/award/winner-insights/qnb-turkiyes-yeliz-ataay-arikok-hitting-sf-milestones/",
+            "description": "Yeliz Ataay Arıkök, director of Treasury Sales and Finan-cial Institutions and chair of the Sustainability Committee at QNB Türkiye—this year’s Best B...",
+            "pubDate": "2026-03-09T12:18:33",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         }
     ]
 }

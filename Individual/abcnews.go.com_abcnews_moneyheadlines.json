@@ -2,42 +2,42 @@
     "title": "Individual feed for https://abcnews.go.com/abcnews/moneyheadlines",
     "link": "https://abcnews.go.com/abcnews/moneyheadlines",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-06T16:03:26.921085",
+    "lastBuildDate": "2026-03-10T07:56:59.535079",
     "items": [
         {
-            "title": "CBP official says new process for tariff refunds could be ready in 45 days",
-            "link": "https://abcnews.com/Business/wireStory/customs-border-protection-official-new-process-tariff-refunds-130830614",
-            "description": "Government officials are getting closer to ironing out a refund process for the hundreds of thousands of companies that paid tariffs now deemed illega...",
-            "pubDate": "2026-03-06T18:19:33",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "title": "North Korean leader's sister criticizes US-South Korea for joint drills",
+            "link": "https://abcnews.com/Business/wireStory/north-korean-leaders-sister-criticizes-us-south-korea-130925747",
+            "description": "The sister of North Korean leader Kim Jong Un has criticized the United States and South Korea for proceeding with their annual joint military exercis...",
+            "pubDate": "2026-03-10T12:15:22",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "Americans stuck in the Middle East recount finding their way home with little government help",
-            "link": "https://abcnews.com/Business/wireStory/americans-stuck-middle-east-recount-finding-home-government-130826386",
-            "description": "Stranded Americans across the Middle East say they’ve been left to navigate flight cancellations and confusing government guidance on their own",
-            "pubDate": "2026-03-06T16:35:14",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "title": "War with Iran delivers another shock to the global economy",
+            "link": "https://abcnews.com/Business/wireStory/war-iran-delivers-shock-global-economy-130923939",
+            "description": "The war with Iran is doing collateral damage to the world economy",
+            "pubDate": "2026-03-10T11:27:21",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "Retail sales fall modestly in January as American consumers pull back on spending",
-            "link": "https://abcnews.com/Business/wireStory/retail-sales-fall-modestly-january-american-consumers-pull-130823155",
-            "description": "American consumers pulled back their spending to start 2026, extending the slump in retail sales that began late last year",
-            "pubDate": "2026-03-06T14:58:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "People love to hate changing clocks twice a year, but can't agree how to fix it",
-            "link": "https://abcnews.com/Business/wireStory/people-love-hate-changing-clocks-year-agree-fix-130814526",
-            "description": "This is the weekend when clocks move ahead, causing angst, lost sleep and health issues for many",
-            "pubDate": "2026-03-06T13:23:12",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "German media group Axel Springer will buy the publisher of UK's Daily Telegraph for $766 million",
-            "link": "https://abcnews.com/Business/wireStory/german-media-group-axel-springer-buy-publisher-uks-130819374",
-            "description": "German media group Axel Springer has agreed to buy the owner of Britain’s Daily Telegraph in a deal worth $766 million",
-            "pubDate": "2026-03-06T12:59:52",
+            "title": "Asian shares surge, echoing rally on Wall Street as oil prices sank back to about $90",
+            "link": "https://abcnews.com/Business/wireStory/asian-shares-surge-echoing-rally-wall-street-oil-130923565",
+            "description": "Global shares have rebounded from their sharp declines a day before",
+            "pubDate": "2026-03-10T10:39:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "In a time of war with Iran, Americans unite in aggravation over sticker shock at the gas pump",
+            "link": "https://abcnews.com/Business/wireStory/time-war-iran-americans-unite-aggravation-sticker-shock-130922388",
+            "description": "It seems that a country divided on many fronts is finding common ground at the gas pumps",
+            "pubDate": "2026-03-10T08:30:55",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Saudi Arabia oil giant Aramco reports 2025 profit of $104 billion, down from 2024",
+            "link": "https://abcnews.com/Business/wireStory/saudi-arabia-oil-giant-aramco-reports-2025-profit-130923942",
+            "description": "Saudi Arabia oil giant Aramco reports 2025 profit of $104 billion, down from 2024",
+            "pubDate": "2026-03-10T07:10:46",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         }
     ]
 }

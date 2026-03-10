@@ -2,77 +2,77 @@
     "title": "DTO",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from DTO, skipping any feeds with errors.",
-    "lastBuildDate": "2026-03-06T16:07:31.459650",
+    "lastBuildDate": "2026-03-10T07:59:36.983552",
     "items": [
         {
-            "title": "Stocks book weekly losses, oil and Treasury yields surge amid Iran conflict",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=6b353112-fe90-4879-9208-f52c6d3f21d8&mod=mw_rss_bulletins",
+            "title": "Trump says Iran war will end 'very soon,' predicts lower oil prices",
+            "link": "https://www.cnbc.com/2026/03/09/trump-iran-war-end.html",
+            "description": "U.S. stock market indexes rose earlier in the day after an initial report that President Donald Trump said he believed the Iran war was largely finish...",
+            "pubDate": "2026-03-10T01:17:17",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "China’s nudge, U.S. waiver and Iran tensions test India’s economic balancing act",
+            "link": "https://www.cnbc.com/2026/03/10/india-iran-oil-crisis-brics-diplomacy-us-china.html",
+            "description": "India is trying to preserve its long-standing neutral foreign policy as escalating tensions around Iran threaten its oil supply and expose New Delhi t...",
+            "pubDate": "2026-03-10T10:34:14",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "An already chaotic spring travel season is colliding with effects of Iran war",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c064fd41-aac6-4ac0-8057-805227ae9c3e&mod=mw_rss_bulletins",
             "description": "",
-            "pubDate": "2026-03-06T21:02:46",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Trump says no deal with Iran to end war without 'unconditional surrender'",
-            "link": "https://www.cnbc.com/2026/03/06/trump-iran-oil-surrender.html",
-            "description": "The futures price of the global benchmark Brent crude oil rose, breaking $90 per barrel, after Trump posted his demand to Iran to end the war.",
-            "pubDate": "2026-03-06T19:23:17",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Analysis: Tough jobs report puts Trump's Iran war plans to the test",
-            "link": "https://www.cnbc.com/2026/03/06/jobs-report-trump-iran-israel-war-economy.html",
-            "description": "The economy is showing signs of slowing as the Iran war quickly pushes up gas prices.",
-            "pubDate": "2026-03-06T16:12:54",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Trump tariffs: Customs and Border Protection tells judge it can't comply with refund order",
-            "link": "https://www.cnbc.com/2026/03/06/trump-trade-tariffs-refunds-customs-border-protection.html",
-            "description": "CBP told Judge Richard Eaton that the technology upgrades it plans would save more than 4 million man-hours in processing refunds for Trump's tariffs.",
-            "pubDate": "2026-03-06T20:32:10",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Stocks off Friday lows in final hour, still on track for weekly losses",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0abecb07-ea26-45c2-907e-2368d47b2585&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2026-03-06T20:25:54",
+            "pubDate": "2026-03-10T01:57:57",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "U.S. oil prices log record weekly gain as Iran conflict spurs production worries",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ff7c7276-127d-43cf-a8c0-967e67897406&mod=mw_rss_bulletins",
+            "title": "Existing-home sales on economic calendar after small-business-optimism retreat",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f62b0076-1ce0-4bbb-980a-e52c0243e768&mod=mw_rss_bulletins",
             "description": "",
-            "pubDate": "2026-03-06T20:45:31",
+            "pubDate": "2026-03-10T12:36:05",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Warsh to meet Tillis as Senate confirmation remains blocked",
+            "link": "https://www.cnbc.com/2026/03/09/fed-warsh-tillis-nomination-senate.html",
+            "description": "Sen. Thom Tillis, R-N.C., has refused to advance Warsh's confirmation until a probe into Fed Chair Jerome Powell is dropped.",
+            "pubDate": "2026-03-10T12:11:09",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Democrats threaten more Iran war powers votes, call for Hegseth, Rubio to testify",
+            "link": "https://www.cnbc.com/2026/03/09/iran-war-powers-votes-congress.html",
+            "description": "Democrats are vowing to interrupt normal order in the Senate unless Pete Hegseth and Marco Rubio testify publicly.",
+            "pubDate": "2026-03-10T01:03:19",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "How Iran and Venezuela strikes transform the Trump-Xi trade talks",
-            "link": "https://www.cnbc.com/2026/03/06/trump-iran-war-china-trade-tariffs.html",
-            "description": "The Iran war and the U.S. attack in Venezuela show a Trump administration more willing to eschew diplomacy and take military action.",
-            "pubDate": "2026-03-06T15:15:27",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Anthropic’s rapid rise shocked the market, but the AI crown remains up for grabs",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=68c92fdf-9944-432a-a562-03f4daecfb76&mod=mw_rss_bulletins",
+            "title": "Futures point to extension of stock-market gains as oil slide continues",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e10e2e8d-648b-4aa8-870f-cf035d9c51a1&mod=mw_rss_bulletins",
             "description": "",
-            "pubDate": "2026-03-06T19:28:41",
+            "pubDate": "2026-03-10T12:07:13",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "Trump hints U.S. will turn to Cuba after Iran: 'Just a question of time'",
-            "link": "https://www.cnbc.com/2026/03/05/trump-cuba-iran-regime-change.html",
-            "description": "The Cuba comments show Trump, less than a week into an escalating military conflict in Iran, is considering another major foreign policy move.",
-            "pubDate": "2026-03-06T15:16:40",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "title": "Oil tankers transiting Strait of Hormuz 'must be very careful,' Iran Foreign Ministry warns",
+            "link": "https://www.cnbc.com/2026/03/09/iran-war-oil-tankers-strait-of-hormuz.html",
+            "description": "The price of crude oil has sharply spiked as the Strait of Hormuz has been effectively closed as the United States and Israel wage war on Iran.",
+            "pubDate": "2026-03-10T05:54:56",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "Stocks off Friday lows in final hour, still on track for weekly losses — live",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=5f2bb323-a7e1-42a6-8ff3-52dd63397441&mod=mw_rss_bulletins",
+            "title": "Scientists behind COVID-19 vaccine to depart BioNTech",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1b590246-7734-4a09-b8a3-50f6d485a680&mod=mw_rss_bulletins",
             "description": "",
-            "pubDate": "2026-03-06T20:26:57",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "pubDate": "2026-03-10T12:56:05",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Trump announces sanctions relief to ease oil prices, says Iran war to end soon",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=aac90f17-06fe-448e-9b2f-2afc8b3414e3&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2026-03-09T23:49:40",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         }
     ]
 }

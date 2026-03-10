@@ -2,42 +2,42 @@
     "title": "Individual feed for https://feeds.bbci.co.uk/news/rss.xml",
     "link": "https://feeds.bbci.co.uk/news/rss.xml",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-06T16:01:29.842478",
+    "lastBuildDate": "2026-03-10T07:54:59.309347",
     "items": [
         {
-            "title": "Three women interviewed on suspicion of sex trafficking in Al Fayed investigation",
-            "link": "https://www.bbc.com/news/articles/c2lrwv5p7e7o?at_medium=RSS&at_campaign=rss",
-            "description": "The women have been interviewed under suspicion of aiding and abetting rape and human trafficking, the Met Police says.",
-            "pubDate": "2026-03-06T20:59:36",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Meghan's lifestyle brand and Netflix end partnership",
-            "link": "https://www.bbc.com/news/articles/c98gkglrk4wo?at_medium=RSS&at_campaign=rss",
-            "description": "The Duchess of Sussex will run As ever independently, after a partnership with Netflix helped to launch the brand last year.",
-            "pubDate": "2026-03-06T20:47:27",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Tory peer quits after Lords investigation into PPE deals",
-            "link": "https://www.bbc.com/news/articles/cly8d02e0e9o?at_medium=RSS&at_campaign=rss",
-            "description": "It comes after a Lords standards probe into his contacts with ministers and advisers during the pandemic.",
-            "pubDate": "2026-03-06T19:57:32",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Mexico to deploy 100,000 security personnel for World Cup",
-            "link": "https://www.bbc.com/sport/football/articles/ce8wjwyjndyo?at_medium=RSS&at_campaign=rss",
-            "description": "World Cup co-hosts Mexico plan to deploy nearly 100,000 security personnel to protect fans at this summer's tournament, amid ongoing cartel violence i...",
-            "pubDate": "2026-03-06T19:24:59",
+            "title": "Royal Navy preparing support ship to deploy to eastern Mediterranean",
+            "link": "https://www.bbc.com/news/articles/c0k1yyg475ko?at_medium=RSS&at_campaign=rss",
+            "description": "RFA Lyme Bay is placed on \"heightened readiness\" as a precaution, the Ministry of Defence says.",
+            "pubDate": "2026-03-10T12:39:51",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "Fatbikes are wreaking havoc in Sydney's wealthy beach suburbs",
-            "link": "https://www.bbc.com/news/articles/cy8l1d221evo?at_medium=RSS&at_campaign=rss",
-            "description": "Teens are infuriating locals by riding over golf courses and doing wheelies on the Harbour Bridge.",
-            "pubDate": "2026-03-06T18:56:47",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "title": "Joey Barton arrested after assault near golf club",
+            "link": "https://www.bbc.com/news/articles/c0j5yyyygp2o?at_medium=RSS&at_campaign=rss",
+            "description": "The former footballer was arrested along with a second suspect near Huyton and Prescot Golf Club.",
+            "pubDate": "2026-03-10T12:38:45",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Glasgow Central Station remains closed in aftermath of fire",
+            "link": "https://www.bbc.com/news/articles/cvgjqzl7wrzo?at_medium=RSS&at_campaign=rss",
+            "description": "Scotland's busiest station remains closed following a huge fire that destroyed a neighbouring building.",
+            "pubDate": "2026-03-10T12:29:59",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Family of child injured in Canada school shooting sues OpenAI",
+            "link": "https://www.bbc.com/news/articles/c309y25prnlo?at_medium=RSS&at_campaign=rss",
+            "description": "The family alleges the firm knew the perpetrator was planning a \"mass casualty event\" but failed to contact the authorities.",
+            "pubDate": "2026-03-10T12:27:55",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Inmate charged with murder of Soham killer Ian Huntley",
+            "link": "https://www.bbc.com/news/articles/cvg8ll4l7d9o?at_medium=RSS&at_campaign=rss",
+            "description": "A prison inmate has been charged with the murder of Soham killer Ian Huntley, police say.",
+            "pubDate": "2026-03-10T12:04:56",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         }
     ]
 }

@@ -2,7 +2,7 @@
     "title": "Individual feed for https://beachbodyondemand.com/blog/feed",
     "link": "https://beachbodyondemand.com/blog/feed",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-06T16:07:25.854923",
+    "lastBuildDate": "2026-03-10T07:59:30.447876",
     "items": [
         {
             "title": "What’s NEW in March 2026 for The BODi Experience Community!",
@@ -16,28 +16,28 @@
             "link": "https://www.bodi.com/blog/the-p90x-factor-a-closer-look-at-pillar-1-metabolic-overload-training-mot",
             "description": "The P90X Factor is built on a powerful three-pillar performance system that transforms the body by training it from every angle: metabolic intensity, ...",
             "pubDate": "2026-02-13T20:55:03",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "The P90X Factor – A Closer Look at Pillar 2: Neuro-Performance Training (NPT)",
             "link": "https://www.bodi.com/blog/the-p90x-factor-a-closer-look-at-pillar-2-neuro-performance-training-npt",
             "description": "The P90X Factor stands apart because it is not built on one method, but on three complementary pillars that work together to reshape the body and elev...",
             "pubDate": "2026-02-13T20:54:25",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "The P90X Factor – A Closer Look at Pillar 3: Active Recovery Training (ART)",
             "link": "https://www.bodi.com/blog/the-p90x-factor-a-closer-look-at-pillar-3-active-recovery-training-art",
             "description": "What makes the P90X Factor so effective is the way its three pillars function as a complete performance ecosystem. Intensity drives adaptation, moveme...",
             "pubDate": "2026-02-13T20:53:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "Why P90X Generation Next Works: The P90X Factor",
             "link": "https://www.bodi.com/blog/why-p90x-generation-next-works-the-p90x-factor",
             "description": "P90X changed home fitness forever by proving that discipline, structure, and intensity could deliver real results. Now, P90X Generation Next raises th...",
             "pubDate": "2026-02-11T22:43:42",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         }
     ]
 }

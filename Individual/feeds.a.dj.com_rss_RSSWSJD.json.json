@@ -2,7 +2,7 @@
     "title": "Individual feed for https://feeds.a.dj.com/rss/RSSWSJD.xml",
     "link": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-06T16:03:43.156779",
+    "lastBuildDate": "2026-03-10T07:57:19.871051",
     "items": [
         {
             "title": "What to Know About China's DeepSeek AI",
@@ -16,28 +16,28 @@
             "link": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-5908c510?mod=rss_Technology",
             "description": "DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
             "pubDate": "2025-01-27T17:28:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "Silicon Valley Is Raving About a Made-in-China AI Model",
             "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology",
             "description": "DeepSeek is called “amazing and impressive” despite working with less-advanced chips.",
             "pubDate": "2025-01-27T14:36:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Reid Hoffman Raises $24.6 Million for AI Cancer-Research Startup",
             "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology",
             "description": "The LinkedIn co-founder is starting Manas AI with “The Emperor of All Maladies” author Siddhartha Mukherjee.",
             "pubDate": "2025-01-27T13:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Can an App Replace a Personal Trainer? I Tested Nearly a Dozen to Find Out",
             "link": "https://www.wsj.com/articles/strength-training-apps-review-950a2d19?mod=rss_Technology",
             "description": "Apps can add flexibility and freshness to your routine. Just try not to get injured.",
             "pubDate": "2025-01-26T14:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         }
     ]
 }

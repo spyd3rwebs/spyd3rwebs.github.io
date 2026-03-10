@@ -2,42 +2,42 @@
     "title": "Individual feed for https://www.forbes.com/innovation/feed2",
     "link": "https://www.forbes.com/innovation/feed2",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-06T16:03:42.285005",
+    "lastBuildDate": "2026-03-10T07:57:19.048614",
     "items": [
         {
-            "title": "Samsung’s Galaxy S26 Ultra Promises Better Gaming",
-            "link": "https://www.forbes.com/sites/mitchwallace/2026/03/06/samsungs-galaxy-s26-ultra-promises-better-gaming/",
-            "description": "Gaming performance looks to improve on Samsung's upcoming Galaxy S26 Ultra, but only time will tell.",
-            "pubDate": "2026-03-06T20:35:11",
-            "image_url": "https://imageio.forbes.com/specials-images/imageserve/69ab391f1253333590b9acb3/0x0.jpg?width=960"
+            "title": "Whoop Has A New Service For Women’s Health And Cycle Tracking",
+            "link": "https://www.forbes.com/sites/andrewwilliams/2026/03/10/whoop-has-a-new-service-for-womens-health-and-cycle-tracking/",
+            "description": "A new blood panel offered by Whoop analyzes 11 body stats to add insight on cycle regulation and a person's hormone levels. It's coming to U.S. Whoop ...",
+            "pubDate": "2026-03-10T12:04:15",
+            "image_url": "https://imageio.forbes.com/specials-images/imageserve/69afe13be9a0bf6085bd344e/0x0.jpg"
         },
         {
-            "title": "Android Circuit: Magic V5 Reveal, Mystery Galaxy S26 Ultra, Qualcomm Wear Elite’s AI Move",
-            "link": "https://www.forbes.com/sites/ewanspence/2026/03/06/android-news-headlines-xiaomi-honor-samsung-pixel-qualcomm-desktop-mode-developer-certification/",
-            "description": "This week’s Android headlines: Xiaomi 17 Ultra global release, the Honor Magic V6 reveal, the Pixel 10a upgrade, a mysterious Galaxy S26 Ultra, Qualco...",
-            "pubDate": "2026-03-06T20:00:38",
-            "image_url": "https://imageio.forbes.com/specials-images/imageserve/69a2188eb5049642b17b1619/0x0.jpg"
+            "title": "Is Europe Poised To Lead the Quantum Computing Race?",
+            "link": "https://www.forbes.com/sites/sabbirrangwala/2026/03/10/is-europe-poised-to-lead-the-quantum-computing-race/",
+            "description": "Europe's strengths across multiple dimensions have resulted in creating successful initiatives in quantum technologies. Will this translate into comme...",
+            "pubDate": "2026-03-10T12:00:57",
+            "image_url": "https://imageio.forbes.com/specials-images/imageserve/69af5da63700bdde2cfde484/0x0.jpg?width=960"
         },
         {
-            "title": "Apple Loop: iPhone 17e Arrives, Apple’s Gaming Plans For GDC, MacBook Air Price Rises,",
-            "link": "https://www.forbes.com/sites/ewanspence/2026/03/06/apple-news-headlines-iphone-17e-macbook-neo-macbook-pro-m5-max-ipad-air-studio-display/",
-            "description": "This week’s Apple headlines: the iPhone 17e, the MacBook Neo, the MacBook Air M5, the MacBook Pro M5 Pro and M5 Max, the iPad Air and the Studio Displ...",
-            "pubDate": "2026-03-06T20:00:03",
-            "image_url": "https://imageio.forbes.com/specials-images/imageserve/69aac00782a59ef6117d3e4f/0x0.jpg"
+            "title": "Air Force Acquires Mobile Units Making Fuel From Air And Electricity",
+            "link": "https://www.forbes.com/sites/davidhambling/2026/03/10/air-force-acquires-mobile-units-making-fuel-from-air-and-electricity/",
+            "description": "The U.S. Air Force is acquiring AIRCO's containerized system which can produce aviation fuel anywhere int he world, with the first unit to be delivere...",
+            "pubDate": "2026-03-10T12:00:00",
+            "image_url": "https://imageio.forbes.com/specials-images/imageserve/69aa9b83a8e42f7250745d83/0x0.jpg"
         },
         {
-            "title": "Google Just Patented The End Of Your Website",
-            "link": "https://www.forbes.com/sites/joetoscano1/2026/03/06/google-just-patented-the-end-of-your-website/",
-            "description": "A newly granted Google patent could let the search giant replace your brand's landing page with an AI-generated version you have no control over and o...",
-            "pubDate": "2026-03-06T19:52:59",
-            "image_url": "https://imageio.forbes.com/specials-images/imageserve/69ab1863ad27207789096314/0x0.jpg?width=960"
+            "title": "Steam Frame VR Confirmed For 2026 Release Alongside Steam Machine",
+            "link": "https://www.forbes.com/sites/andrewwilliams/2026/03/10/steam-frame-vr-confirmed-for-2026-release-alongside-steam-machine/",
+            "description": "Despite skyrocketing RAM and storage prices, Steam has confirmed its plans to release the Steam Frame and Steam machine in 2026, although the pricing ...",
+            "pubDate": "2026-03-10T11:58:03",
+            "image_url": "https://imageio.forbes.com/specials-images/imageserve/69aff640f9bd7b0c0023edeb/0x0.jpg"
         },
         {
-            "title": "Jesse Jackson’s Early HIV/AIDS Advocacy Transformed The Course Of The Disease",
-            "link": "https://www.forbes.com/sites/joshuacohen/2026/03/06/jesse-jacksons-early-hivaids-advocacy-changed-us-public-health-policy/",
-            "description": "Jackson’s advocacy caused a shift in both behavior and attitudes toward HIV/AIDS. He helped chart a course of action that led to improved prevention a...",
-            "pubDate": "2026-03-06T18:31:07",
-            "image_url": "https://imageio.forbes.com/specials-images/imageserve/699866abdf97a86360341339/0x0.jpg"
+            "title": "New Interactive Sky Formula 1 Features Let Viewers Take The Wheel",
+            "link": "https://www.forbes.com/sites/johnarcher/2026/03/10/new-interactive-sky-formula-1-features-let-viewers-take-the-wheel/",
+            "description": "New side-bar interface lets you access race replays, driver cams, background details, live in-race standings and more on your terms.",
+            "pubDate": "2026-03-10T11:07:13",
+            "image_url": "https://imageio.forbes.com/specials-images/imageserve/69afec1e2dbe288204356d98/0x0.png?width=960"
         }
     ]
 }

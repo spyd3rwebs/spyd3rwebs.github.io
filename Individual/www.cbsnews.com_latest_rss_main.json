@@ -2,42 +2,42 @@
     "title": "Individual feed for https://www.cbsnews.com/latest/rss/main",
     "link": "https://www.cbsnews.com/latest/rss/main",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-06T16:03:34.005078",
+    "lastBuildDate": "2026-03-10T07:57:09.251405",
     "items": [
         {
-            "title": "Robots, already in hospitals, are ready to roll in other industries",
-            "link": "https://www.cbsnews.com/news/robots-hospitals-health-care-moxi/",
-            "description": "In the years to come, robots will help offset worker shortages in health care, manufacturing and other industries, experts say.",
-            "pubDate": "2026-03-06T21:03:11",
+            "title": "JetBlue ground stop lifted soon after it began",
+            "link": "https://www.cbsnews.com/news/faa-grounds-all-jetblue-flights-after-airline-asks-it-to-agency-says/",
+            "description": "Shortly after all JetBlue flights were grounded by the FAA due to what the agency said was a JetBlue request, the carrier said it had resumed operatio...",
+            "pubDate": "2026-03-10T12:55:22",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Pete Hegseth, Dan Caine hold news briefing as Iran launches new attacks",
+            "link": "https://www.cbsnews.com/news/pete-hegseth-dan-caine-news-briefing-pentagon-iran-war/",
+            "description": "Defense Secretary Pete Hegseth and Chairman of the Joint Chiefs of Staff Dan Caine are holding a news briefing as Iran launched new attacks Tuesday at...",
+            "pubDate": "2026-03-10T12:49:30",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Defiant Iran vows to keep fighting war with U.S. \"as long as it takes\"",
+            "link": "https://www.cbsnews.com/live-updates/us-war-iran-israel-vow-fight-on-oil-prices-markets-react-trump-war-end-soon/",
+            "description": "Markets stem losses as Trump says Iran war will end \"very soon,\" but Tehran says it's \"prepared to continue attacking\" indefinitely, and it won't let ...",
+            "pubDate": "2026-03-10T12:25:50",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "As U.S.-Israeli war with Iran intensifies, Trump says it is \"ahead of schedule\"",
+            "link": "https://www.cbsnews.com/live-updates/us-iran-war-israel-stock-prices-down-oil-prices-up-despite-trump-reassurance/",
+            "description": "President Trump's assurances that a rising U.S. death toll and soaring energy prices will be temporary and worth the pain are failing to assuage jitte...",
+            "pubDate": "2026-03-10T12:04:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Student who died after rush event had blood-alcohol level of 0.425%, autopsy says",
+            "link": "https://www.cbsnews.com/news/northern-arizona-university-student-hazing-death-blood-alcohol-level-autopsy/",
+            "description": "Three leaders from the Delta Tau Delta fraternity were arrested on suspicion of hazing after the death of Colin Daniel Martinez.",
+            "pubDate": "2026-03-10T11:44:29",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Watch Live: Rev. Jesse Jackson funeral services at House of Hope",
-            "link": "https://www.cbsnews.com/live-updates/jesse-jackson-funeral-services-house-of-hope-chicago/",
-            "description": "The People's Celebration, the public funeral service for Rev. Jesse Jackson, Sr., is being held at House of Hope on the far South Side of Chicago.",
-            "pubDate": "2026-03-06T21:02:26",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Trump demands \"unconditional surrender\" as Russia gives Iran intel on U.S. positions",
-            "link": "https://www.cbsnews.com/live-updates/us-iran-war-israel-strikes-regime-targets/",
-            "description": "With the U.S.-Israeli war on Iran in its seventh day, President Trump says the aim is to bring Iran back from the brink of destruction and \"Make Iran ...",
-            "pubDate": "2026-03-06T20:51:32",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Watch: Obama honors Rev. Jesse Jackson's life and impact at his funeral",
-            "link": "https://www.cbsnews.com/video/obama-honors-jesse-jackson-life-impact-funeral/",
-            "description": "Former President Barack Obama spoke at the funeral of civil rights icon Rev. Jesse Jackson on Friday. Obama remembered Jackson as a man with \"immense ...",
-            "pubDate": "2026-03-06T20:48:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "These 10 jobs are most exposed to AI, Anthropic finds",
-            "link": "https://www.cbsnews.com/news/anthropic-ai-jobs-most-exposed-risk/",
-            "description": "The maker of the Claude chatbot says its research could help identify economic disruptions by measuring how AI is currently reshaping work.",
-            "pubDate": "2026-03-06T20:47:21",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         }
     ]
 }

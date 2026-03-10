@@ -2,42 +2,42 @@
     "title": "Individual feed for https://khn.org/feed",
     "link": "https://khn.org/feed",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-06T16:05:40.059043",
+    "lastBuildDate": "2026-03-10T07:59:15.473603",
     "items": [
         {
-            "title": "The NIH Workforce Is Its Smallest in Decades. Here’s the Work Left Behind.",
-            "link": "https://kffhealthnews.org/news/article/the-week-in-brief-nih-workforce-cuts-trump-administration-hhs/",
-            "description": "Get our weekly newsletter, The Week in Brief, featuring a roundup of our original coverage, Fridays at 2 p.m. ET.",
-            "pubDate": "2026-03-06T19:30:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "title": "More Kids Are in ERs for Tooth Pain. Trump Cuts and RFK Jr.’s Anti-Fluoride Fight Aren’t Helping.",
+            "link": "https://kffhealthnews.org/news/article/dental-care-emergency-rooms-special-needs-medicaid-shortage-areas/",
+            "description": "Dentists, hygienists, and researchers say a shortage of rural dental care professionals and worsening oral hygiene since the covid-19 pandemic mean mo...",
+            "pubDate": "2026-03-10T10:00:00",
+            "image_url": "https://kffhealthnews.org/wp-content/uploads/sites/2/2026/02/DentalER_02.jpg"
         },
         {
-            "title": "Six Federal Scientists Run Out by Trump Talk About the Work Left Undone",
-            "link": "https://kffhealthnews.org/news/article/nih-national-institutes-of-health-scientist-exodus-disease-treatments/",
-            "description": "Cancer treatments, disease outbreaks, addiction science: Scientists say an exodus from the National Institutes of Health will harm the nation's abilit...",
-            "pubDate": "2026-03-06T10:00:00",
-            "image_url": "https://kffhealthnews.org/wp-content/uploads/sites/2/2026/02/Romberg_16-resized.jpg"
+            "title": "Banks Are Becoming Bulwarks Against Scams for Vulnerable Seniors",
+            "link": "https://kffhealthnews.org/news/article/banks-protect-seniors-financial-scams-dementia-cognitive-decline-new-old-age/",
+            "description": "Older Americans are losing billions of dollars annually to financial exploitation. Banks and investment firms are training employees to spot red flags...",
+            "pubDate": "2026-03-10T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "The People — And Research — Lost in the NIH Exodus",
-            "link": "https://kffhealthnews.org/news/article/nih-national-institutes-of-health-resignation-scientist-profiles-brain-drain/",
-            "description": "Government data shows the National Institutes of Health lost about 4,400 people — more than 20% of its staff — as the Trump administration slashed the...",
-            "pubDate": "2026-03-06T10:00:00",
-            "image_url": "https://kffhealthnews.org/wp-content/uploads/sites/2/2026/02/Chou_06.jpg"
-        },
-        {
-            "title": "This Doctor-Senator Who Backed RFK Jr. Now Faces a Fight for His Job — And His Legacy",
-            "link": "https://kffhealthnews.org/news/article/bill-cassidy-rfk-jr-confirmation-vaccines-hepatitis-b-hhs-senate-primary-louisiana/",
-            "description": "A year after Sen. Bill Cassidy, a Louisiana Republican, warily cast the vote ensuring Robert F. Kennedy Jr.’s ascension to Health and Human Services s...",
-            "pubDate": "2026-03-06T10:00:00",
-            "image_url": "https://kffhealthnews.org/wp-content/uploads/sites/2/2026/03/Louisiana_02-resized.jpg"
-        },
-        {
-            "title": "What the Health? From KFF Health News: 40 Years of Health Policy",
-            "link": "https://kffhealthnews.org/news/podcast/what-the-health-436-julie-rovner-40th-anniversary-chip-kahn-chris-jennings-march-5-2026/",
-            "description": "This month is 40 years since host Julie Rovner, chief Washington correspondent for KFF Health News, began reporting on health policy in Washington. To...",
-            "pubDate": "2026-03-05T19:00:00",
+            "title": "Newsom se enfrenta a Trump y RFK Jr. por la salud pública",
+            "link": "https://kffhealthnews.org/news/article/newsom-se-enfrenta-a-trump-y-rfk-jr-por-la-salud-publica/",
+            "description": "El gobernador de California, Gavin Newsom, se ha posicionado como un líder nacional en salud pública al impulsar políticas respaldadas por la ciencia,...",
+            "pubDate": "2026-03-09T14:57:38",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Florida no amplió Medicaid, pero igual algunos legisladores quieren imponer requisitos de trabajo",
+            "link": "https://kffhealthnews.org/news/article/florida-no-amplio-medicaid-pero-igual-algunos-legisladores-quieren-imponer-requisitos-de-trabajo/",
+            "description": "La medida desconcierta a defensores de la atención médica y a expertos en Medicaid. Algunos dudan, incluso, que sea legal bajo la principal ley de pol...",
+            "pubDate": "2026-03-09T12:19:12",
+            "image_url": "https://kffhealthnews.org/wp-content/uploads/sites/2/2026/02/Mastrototaro.jpg"
+        },
+        {
+            "title": "Florida Hasn’t Expanded Medicaid. Lawmakers Want To Add Work Requirements Anyway.",
+            "link": "https://kffhealthnews.org/news/article/florida-medicaid-work-requirements-expansion-one-big-beautiful-bill-act/",
+            "description": "Florida is not mandated to add work requirements for Medicaid, because the state has not expanded eligibility to more low-income adults. But lawmakers...",
+            "pubDate": "2026-03-09T10:00:00",
+            "image_url": "https://kffhealthnews.org/wp-content/uploads/sites/2/2026/02/Mastrototaro.jpg"
         }
     ]
 }

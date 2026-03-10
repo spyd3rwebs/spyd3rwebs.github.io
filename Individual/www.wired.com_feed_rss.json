@@ -2,42 +2,42 @@
     "title": "Individual feed for https://www.wired.com/feed/rss",
     "link": "https://www.wired.com/feed/rss",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-06T16:03:49.510560",
+    "lastBuildDate": "2026-03-10T07:57:27.719275",
     "items": [
         {
-            "title": "The Best Google Pixel Phones of 2026, Tested and Reviewed",
-            "link": "https://www.wired.com/story/best-google-pixel-phone/",
-            "description": "Here’s a guide to all the models—plus Pixel case recommendations and smart software tricks to try.",
-            "pubDate": "2026-03-06T20:17:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "title": "8 Best Cheap Phones (2026), Tested and Reviewed",
+            "link": "https://www.wired.com/story/best-cheap-phones/",
+            "description": "There’s little reason to pay top dollar for a smartphone. These iPhones and Android devices—ranging from $100 to $600—stood up to WIRED’s testing.",
+            "pubDate": "2026-03-10T12:30:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "The Future of Iran’s Internet Is More Uncertain Than Ever",
-            "link": "https://www.wired.com/story/the-future-of-irans-internet-is-more-uncertain-than-ever/",
-            "description": "Iran’s internet shutdown has reduced connectivity by 99 percent, with air strikes likely causing additional outages, and few workarounds remaining.",
-            "pubDate": "2026-03-06T20:06:06",
+            "title": "The Best Streaming Bundles and Streaming Deals of March 2026",
+            "link": "https://www.wired.com/story/best-streaming-deals-and-streaming-bundles/",
+            "description": "Here are the current best bundles from the most popular services.",
+            "pubDate": "2026-03-10T12:06:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "These Beats Headphones We Like Are $150 Off",
-            "link": "https://www.wired.com/story/beats-studio-pro-deal-326/",
-            "description": "Save a chunk of change on the Beats Studio Pro over-ear headphones.",
-            "pubDate": "2026-03-06T18:21:05",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "How Can a Locomotive Pull a Long Train That’s Much Heavier?",
+            "link": "https://www.wired.com/story/how-can-a-locomotive-pull-a-train-thats-much-heavier/",
+            "description": "For railroads, it’s all about managing static and kinetic friction.",
+            "pubDate": "2026-03-10T12:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "When AI Companies Go to War, Safety Gets Left Behind",
-            "link": "https://www.wired.com/story/when-ai-companies-go-to-war-safety-gets-left-behind/",
-            "description": "We were promised AI regulation and a race to the top. Now, we’re arguing about killer robots.",
-            "pubDate": "2026-03-06T18:19:57",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "How to Responsibly Dispose of Your Electronics (2026)",
+            "link": "https://www.wired.com/story/how-to-responsibly-dispose-electronics/",
+            "description": "Get rid of old, broken, and unused devices—even Lightning cables—without adding to the e-waste problem.",
+            "pubDate": "2026-03-10T11:30:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "9 Best Android Phones of 2026, Tested and Reviewed",
-            "link": "https://www.wired.com/gallery/best-android-phones/",
-            "description": "Shopping for a phone can be an ordeal. That’s why we’ve tested almost every Android phone, from the smartest to the cheapest—even phones that fold—to ...",
-            "pubDate": "2026-03-06T18:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "title": "Use Microsoft PC Manager to Speed Up Your Windows 11 Computer",
+            "link": "https://www.wired.com/story/microsoft-pc-manager-speed-up-windows-11/",
+            "description": "Can you really get a Windows PC running like new again? Using this free tool from Microsoft, you can get pretty close.",
+            "pubDate": "2026-03-10T11:30:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         }
     ]
 }

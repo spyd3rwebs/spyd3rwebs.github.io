@@ -2,56 +2,56 @@
     "title": "BUscience",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from BUscience, skipping any feeds with errors.",
-    "lastBuildDate": "2026-03-06T16:03:35.917071",
+    "lastBuildDate": "2026-03-10T07:57:11.745187",
     "items": [
         {
-            "title": "Electrons catapult across solar materials in just 18 femtoseconds",
-            "link": "https://www.sciencedaily.com/releases/2026/03/260305223219.htm",
-            "description": "Electrons in solar materials can be launched across molecules almost as fast as nature allows, thanks to tiny atomic vibrations acting like a “molecul...",
-            "pubDate": "2026-03-06T05:49:18",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "title": "Cosmic voids look empty but they may be tearing the universe apart",
+            "link": "https://www.sciencedaily.com/releases/2026/03/260309225236.htm",
+            "description": "Cosmic voids may seem like the emptiest places in the universe, stripped of matter, radiation, and even dark matter. But they’re far from nothing. Eve...",
+            "pubDate": "2026-03-10T11:10:26",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "Astronomers discover giant cosmic sheet around the Milky Way",
-            "link": "https://www.sciencedaily.com/releases/2026/03/260305223236.htm",
-            "description": "For decades, astronomers wondered why most nearby galaxies are speeding away from the Milky Way instead of being pulled in by its gravity. New simulat...",
-            "pubDate": "2026-03-06T06:55:55",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Scientists discover the switch that revives exhausted cancer-fighting T cells",
-            "link": "https://www.sciencedaily.com/releases/2026/03/260304184235.htm",
-            "description": "Scientists have uncovered new genetic rules that determine whether the immune system’s “killer” T cells remain powerful long-term defenders or become ...",
-            "pubDate": "2026-03-06T03:19:10",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Humpback whale recovery is changing who fathers the calves",
-            "link": "https://www.sciencedaily.com/releases/2026/03/260305182700.htm",
-            "description": "A new study shows that as humpback whale populations recover from past whaling, older males are gaining a major advantage in reproduction. Early in th...",
-            "pubDate": "2026-03-06T01:19:42",
+            "title": "This 2-pound dinosaur is rewriting what scientists know about evolution",
+            "link": "https://www.sciencedaily.com/releases/2026/03/260309225231.htm",
+            "description": "A nearly complete dinosaur skeleton discovered in Patagonia is helping scientists crack the mystery of alvarezsaurs, a bizarre group of bird-like dino...",
+            "pubDate": "2026-03-10T11:50:39",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "ALMA captures the most detailed image ever of the Milky Way’s turbulent core",
-            "link": "https://www.sciencedaily.com/releases/2026/03/260305182705.htm",
-            "description": "A sweeping new ALMA image has peeled back the veil on the Milky Way’s core, exposing a dense network of cold gas filaments near the central black hole...",
-            "pubDate": "2026-03-05T23:27:05",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "Stanford scientists say colorblindness may hide a deadly bladder cancer warning",
+            "link": "https://www.sciencedaily.com/releases/2026/03/260309225222.htm",
+            "description": "Colorblindness may be doing more than making traffic lights confusing — it could also be hiding a life-threatening warning sign. Researchers analyzing...",
+            "pubDate": "2026-03-10T06:49:43",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Scientists may have discovered a brand-new mineral on Mars",
+            "link": "https://www.sciencedaily.com/releases/2026/03/260309225228.htm",
+            "description": "Scientists studying Mars may have uncovered a brand-new mineral hidden in the planet’s ancient sulfate deposits. By combining laboratory experiments w...",
+            "pubDate": "2026-03-10T11:23:47",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Scientists finally solve the mystery of yeast’s tiny centromeres",
+            "link": "https://www.sciencedaily.com/releases/2026/03/260308201606.htm",
+            "description": "Scientists have uncovered how brewer’s yeast developed its unusually tiny centromeres, the DNA regions that guide chromosome separation during cell di...",
+            "pubDate": "2026-03-10T05:30:58",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "NSF-DOE Vera C. Rubin Observatory launches real-time discovery machine for monitoring the night sky",
             "link": "https://www.nsf.gov/news/nsf-doe-vera-c-rubin-observatory-launches-real-time",
             "description": "NSF-DOE Rubin Observatory has issued its first scientific alerts, enabling dynamic, real-time observation of the night sky. The alerts are expected to...",
             "pubDate": "2026-02-25T18:00:11",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "NSF to proceed with demolition and site restoration at Sacramento Peak Observatory",
             "link": "https://www.nsf.gov/news/nsf-proceed-demolition-site-restoration-sacramento-peak",
             "description": "The U.S. National Science Foundation announced today it will proceed with demolition and site restoration at the Sacramento Peak Observatory, also kno...",
             "pubDate": "2026-02-24T15:00:07",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
             "title": "NSF launches $100M National Quantum and Nanotechnology Research Infrastructure program",
@@ -72,7 +72,7 @@
             "link": "https://www.nsf.gov/news/transitioning-ncar-wyoming-supercomputing-center-operations",
             "description": "The U.S. National Science Foundation has informed the NSF National Center for Atmospheric Research (NCAR) that management and operations of the NCAR-W...",
             "pubDate": "2026-02-12T21:19:42",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         }
     ]
 }

@@ -2,42 +2,42 @@
     "title": "Individual feed for https://seekingalpha.com/feed.xml",
     "link": "https://seekingalpha.com/feed.xml",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-06T16:03:26.921970",
+    "lastBuildDate": "2026-03-10T07:56:59.537157",
     "items": [
         {
-            "title": "Tango Therapeutics: I'm Not Buying Into Latest Rally, Despite PRMT5 Promise",
-            "link": "https://seekingalpha.com/article/4879634-tango-therapeutics-im-not-buying-into-latest-rally-despite-prmt5-promise?source=feed_all_articles",
+            "title": "Rentokil: A Bug Business With Long-Term Bite",
+            "link": "https://seekingalpha.com/article/4880366-rentokil-a-bug-business-with-long-term-bite?source=feed_all_articles",
             "description": "",
-            "pubDate": "2026-03-06T21:02:05",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Humacyte, Inc. (HUMA) Presents at TD Cowen 46th Annual Health Care Conference Transcript",
-            "link": "https://seekingalpha.com/article/4879648-humacyte-inc-huma-presents-at-td-cowen-46th-annual-health-care-conference-transcript?source=feed_all_articles",
-            "description": "",
-            "pubDate": "2026-03-06T20:55:59",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "AltaGas Ltd. (ALA:CA) Q4 2025 Earnings Call Transcript",
-            "link": "https://seekingalpha.com/article/4879594-altagas-ltd-ala-ca-q4-2025-earnings-call-transcript?source=feed_all_articles",
-            "description": "",
-            "pubDate": "2026-03-06T20:55:58",
+            "pubDate": "2026-03-10T12:55:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "Denali Therapeutics Inc. (DNLI) Presents at TD Cowen 46th Annual Health Care Conference Transcript",
-            "link": "https://seekingalpha.com/article/4879652-denali-therapeutics-inc-dnli-presents-at-td-cowen-46th-annual-health-care-conference?source=feed_all_articles",
+            "title": "Market Brief: The Rise Of Oil Perps In Crypto",
+            "link": "https://seekingalpha.com/article/4880381-market-brief-rise-oil-perps-crypto?source=feed_all_articles",
             "description": "",
-            "pubDate": "2026-03-06T20:55:57",
+            "pubDate": "2026-03-10T12:55:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Amplify Energy Is An Iran War Oil Trade",
+            "link": "https://seekingalpha.com/article/4880364-amplify-energy-is-an-iran-war-oil-trade?source=feed_all_articles",
+            "description": "",
+            "pubDate": "2026-03-10T12:50:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "C4 Therapeutics: Cemsidomide Progress Keeps The Long-Term Thesis Intact",
+            "link": "https://seekingalpha.com/article/4880380-c4-therapeutics-stock-cemsidomide-progress-keeps-long-term-thesis-intact?source=feed_all_articles",
+            "description": "",
+            "pubDate": "2026-03-10T12:49:49",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "Tetragon Financial Group (TGONF) Q4 2025 Earnings Call Transcript",
-            "link": "https://seekingalpha.com/article/4879552-tetragon-financial-group-tgonf-q4-2025-earnings-call-transcript?source=feed_all_articles",
+            "title": "Alibaba: Macro Perspective On An 'Uninvestable' Stock",
+            "link": "https://seekingalpha.com/article/4880368-alibaba-macro-perspective-on-an-uninvestable-stock?source=feed_all_articles",
             "description": "",
-            "pubDate": "2026-03-06T20:55:55",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "pubDate": "2026-03-10T12:45:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         }
     ]
 }

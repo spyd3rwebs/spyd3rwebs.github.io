@@ -2,42 +2,42 @@
     "title": "Individual feed for https://vitaminretailer.com/feed",
     "link": "https://vitaminretailer.com/feed",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-06T16:05:31.429121",
+    "lastBuildDate": "2026-03-10T07:59:10.021501",
     "items": [
+        {
+            "title": "CRN Criticizes New York Times Article on Dietary Supplements",
+            "link": "https://vitaminretailer.com/crn-criticizes-new-york-times-article-on-dietary-supplements/",
+            "description": "The Council for Responsible Nutrition (CRN) issued a statement in response to an article published on Feb. 9 in The New York Times titled “Do You Need...",
+            "pubDate": "2026-03-09T15:57:14",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Fresh Thyme Market Relaunches Own Brand Portfolio",
+            "link": "https://vitaminretailer.com/fresh-thyme-market-relaunches-own-brand-portfolio/",
+            "description": "On Feb. 25, Fresh Thyme Market (Downers Grove, IL) announced the relaunch of its Own Brand portfolio. The reignited portfolio will feature expanded tr...",
+            "pubDate": "2026-03-09T15:54:24",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Herbalist & Alchemist Certified by Underwriters Laboratory",
+            "link": "https://vitaminretailer.com/herbalist-alchemist-certified-by-underwriters-laboratory/",
+            "description": "On Feb. 3, Herbalist & Alchemist (Washington, NJ) announced it has been certified by Underwriters Laboratories (UL) for its dietary supplement manufac...",
+            "pubDate": "2026-03-09T15:42:34",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
         {
             "title": "Amazon to Close Go and Fresh Stores, Expand Whole Foods Market",
             "link": "https://vitaminretailer.com/amazon-to-close-go-and-fresh-stores-expand-whole-foods-market/",
             "description": "Amazon announced it will be closing all its Amazon Go and Amazon Fresh physical store locations while expanding its Whole Foods Market business. “Whil...",
             "pubDate": "2026-03-02T17:56:06",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "Biomarker Analysis Reveals Omega-6 Is Not One Uniform Category",
             "link": "https://vitaminretailer.com/biomarker-analysis-reveals-omega-6-is-not-one-uniform-category/",
             "description": "A major prospective study in the UK Biobank reported higher plasma linoleic acid (LA)—the most common omega-6 fatty acid in the diet—was associated wi...",
             "pubDate": "2026-03-02T17:54:23",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "U.S. Supreme Court Rules Trump’s Tariffs Unlawful, Questions Remain",
-            "link": "https://vitaminretailer.com/u-s-supreme-court-rules-trumps-tariffs-unlawful-questions-remain/",
-            "description": "On Feb. 20, the United States Supreme Court ruled in the consolidated case Learning Resources, Inc. v. Trump that the International Emergency Economic...",
-            "pubDate": "2026-03-02T17:52:26",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "The Vitamin Professor Podcast’s Lesson 25: Natural Tomato Fruit Extract for Sleep",
-            "link": "https://vitaminretailer.com/the-vitamin-professor-podcasts-lesson-25-natural-tomato-fruit-extract-for-sleep/",
-            "description": "On this episode of The Vitamin Professor Podcast, Professor Gene Bruno talks to Dr. Bill Clark, PhD of nutriselect.ai. The post The Vitamin Professor ...",
-            "pubDate": "2026-03-02T11:00:12",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Jim Emme, Chief Executive Officer, NOW Health Group",
-            "link": "https://vitaminretailer.com/jim-emme-chief-executive-officer-now-health-group/",
-            "description": "www.nowfoods.com www.npanational.org Jim Emme has been a member of the NOW management team since 1995, initially as chief of operations and then as pr...",
-            "pubDate": "2026-03-02T10:10:44",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         }
     ]
 }

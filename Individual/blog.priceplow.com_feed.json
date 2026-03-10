@@ -2,8 +2,15 @@
     "title": "Individual feed for https://blog.priceplow.com/feed",
     "link": "https://blog.priceplow.com/feed",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-06T16:05:31.429457",
+    "lastBuildDate": "2026-03-10T07:59:10.022265",
     "items": [
+        {
+            "title": "Big Focus Wins: Three High-Profile Beverages Launch with NNB Nutrition's GeniusPure Alpha-GPC",
+            "link": "https://blog.priceplow.com/supplement-ingredients/geniuspure-alpha-gpc/beverages",
+            "description": "NNB Nutrition's GeniusPure® Alpha-GPC has broken through to the next level. It was immediately accepted into powdered supplements thanks to its improv...",
+            "pubDate": "2026-03-09T19:12:39",
+            "image_url": "https://blog.priceplow.com/wp-content/uploads/nnb-nutrition-geniuspure-alpha-gpc-beverages-priceplow-360x360.png"
+        },
         {
             "title": "Cortisol Awakening Response Research: Arjuna Natural's Upcoming Shoden Study Explained | Episode #207",
             "link": "https://blog.priceplow.com/podcast/cortisol-awakening-response-shoden-207",
@@ -31,13 +38,6 @@
             "description": "This year at Natural Products Expo West 2026, NNB Nutrition is debuting a new concept at Booth #2201: PeptiClear™ . This is a dipeptide-enhanced clear...",
             "pubDate": "2026-03-02T18:54:18",
             "image_url": "https://blog.priceplow.com/wp-content/uploads/nnb-nutrition-pepticlear-priceplow-360x360.png"
-        },
-        {
-            "title": "PLT Health Solutions Heads to Natural Products Expo West 2026 with New Joint Ingredient, Zynamite S Data, and a Full Experience Zone",
-            "link": "https://blog.priceplow.com/industry-events/plt-health-solutions-expo-west-2026",
-            "description": "Natural Products Expo West runs March 3-6 in Anaheim, CA, and PLT Health Solutions is bringing a stacked lineup to Booth #3005 . The ingredient suppli...",
-            "pubDate": "2026-03-02T15:44:27",
-            "image_url": "https://blog.priceplow.com/wp-content/uploads/plt-health-solutions-expo-west-2026-priceplow-360x360.png"
         }
     ]
 }

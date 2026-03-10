@@ -2,42 +2,42 @@
     "title": "Individual feed for https://stocktwits.com/sitemap/rss_feed.xml",
     "link": "https://stocktwits.com/sitemap/rss_feed.xml",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-06T16:03:26.925655",
+    "lastBuildDate": "2026-03-10T07:56:59.540669",
     "items": [
         {
-            "title": "Google To Reportedly Continue Anthropic Deployment For Non-Defense Clients",
-            "link": "https://stocktwits.com/news-articles/markets/equity/google-to-reportedly-continue-anthropic-deployment-for-non-defense-clients/cZdLaAvRI4e",
-            "description": "According to a report from CNBC, a Google spokesperson said on Friday that the U.S. government’s ‘ban’ of the AI startup does not “preclude” companies...",
-            "pubDate": "2026-03-06T20:36:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "title": "Polymarket Ropes In Palantir To Track Suspicious Sports Prediction Bets: Report",
+            "link": "https://stocktwits.com/news-articles/markets/equity/polymarket-pltr-stock-palantir-crackdown-insider-trading-sports-betting/cZdopaXRI7R",
+            "description": "Palantir and TWG AI will help Polymarket monitor trading activity, detect suspicious behavior, and report possible violations, according to a Bloomber...",
+            "pubDate": "2026-03-10T12:50:26",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "Oracle, OpenAI Scrap Texas AI Data Center Expansion Plans; Meta Eyes Site: Report",
-            "link": "https://stocktwits.com/news-articles/markets/equity/oracle-openai-scrap-texas-ai-data-center-expansion-plans-meta-eyes-site-report/cZdLaFZRI4I",
-            "description": "According to a report from Bloomberg, Oracle and OpenAI’s fallout has created room for Meta to consider leasing the site.",
-            "pubDate": "2026-03-06T20:32:12",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "title": "RIVN Stock Gains 4% Pre-Market After TD Cowen Upgrade: Analyst Sees Strong Demand For Upcoming R2 Models",
+            "link": "https://stocktwits.com/news-articles/markets/equity/rivn-stock-gains-pre-market-after-td-cowen-upgrade-analyst-sees-strong-demand-for-upcoming-r2-models/cZdopG6RI7b",
+            "description": "The firm believes the new lineup could significantly expand Rivian's addressable EV market.",
+            "pubDate": "2026-03-10T12:39:49",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "US DFC To Reinsure Oil Vessels In Gulf In $20 Billion Plan Amid Middle East War Disruption",
-            "link": "https://stocktwits.com/news-articles/markets/equity/us-dfc-to-reinsure-oil-vssels-ingulf-in-usd-20-billion-plan/cZdLaGZRI44",
-            "description": "The revolving insurance offering will apply only to vessels that meet the criteria. Insurance will focus on Hull & Machinery and Cargo to start, DFC s...",
-            "pubDate": "2026-03-06T20:07:32",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Exclusive: Robinhood Ventures Eyes OpenAI, Other 'Highly Valued' Companies For New Fund",
-            "link": "https://stocktwits.com/news-articles/markets/equity/robinhood-ventures-eyes-openai-other-highly-valued-companies-for-fund/cZdLBqORI4E",
-            "description": "Robinhood Ventures Fund I debuted on the New York Stock Exchange at around $22 per share, almost 12% below its $25 listing price.",
-            "pubDate": "2026-03-06T19:58:17",
+            "title": "The Tornado Cash Trial Is Not Over Yet: Trump’s DOJ Moves To Retry Developer Roman Storm After Jury Deadlock",
+            "link": "https://stocktwits.com/news-articles/markets/cryptocurrency/the-tornado-cash-trial-is-not-over-yet-trump-doj-moves-to-retry-developer/cZdoYuPRI7G",
+            "description": "The government is seeking another attempt at securing convictions on two counts in Storm’s indictment – money laundering conspiracy and violations of ...",
+            "pubDate": "2026-03-10T12:32:12",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "Exclusive: Robinhood Ventures Eyes OpenAI, Other 'Highly Valued' Companies For New Fund",
-            "link": "https://stocktwits.com/news-articles/markets/equity/robinhood-ventures-eyes-openai-other-highly-valued-companies-for-fund/cZdLBqORI4E",
-            "description": "Robinhood Ventures Fund I debuted on the New York Stock Exchange at around $22 per share, almost 12% below its $25 listing price.",
-            "pubDate": "2026-03-06T19:58:17",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "title": "QURE Stock’s Relentless Rally Continues Today — Here's Why HC Wainwright Is Bullish On uniQure",
+            "link": "https://stocktwits.com/news-articles/markets/equity/qure-stock-soars-following-rally-on-monday-on-fda-official-departure/cZdoYYgRIez",
+            "description": "H.C. Wainwright stated that the reported departure of a key U.S. Food and Drug Administration official at the end of April bodes well for uniQure.",
+            "pubDate": "2026-03-10T12:27:33",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "QURE Stock’s Relentless Rally Continues Today — Here's Why HC Wainwright Is Bullish On uniQure",
+            "link": "https://stocktwits.com/news-articles/markets/equity/qure-stock-soars-following-rally-on-monday-on-fda-official-departure/cZdoYYgRIez",
+            "description": "H.C. Wainwright stated that the reported departure of a key U.S. Food and Drug Administration official at the end of April bodes well for uniQure.",
+            "pubDate": "2026-03-10T12:27:33",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         }
     ]
 }
