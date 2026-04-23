@@ -2,77 +2,77 @@
     "title": "bothSidesHeadlinesNLhealthAndWellness",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from bothSidesHeadlinesNLhealthAndWellness, skipping any feeds with errors.",
-    "lastBuildDate": "2026-04-23T10:23:19.890073",
+    "lastBuildDate": "2026-04-23T15:47:41.384286",
     "items": [
         {
-            "title": "ADHD-related traits may intensify chronic pain through anxiety and negative thinking",
-            "link": "https://medicalxpress.com/news/2026-04-adhd-traits-chronic-pain-anxiety.html",
-            "description": "A new study, led by researchers from the University of Tokyo, involving nearly 1,000 patients in Japan suggests that attention deficit hyperactivity d...",
-            "pubDate": "2026-04-23T15:00:01",
-            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture8.png"
+            "title": "New targeted therapy shows promise against aggressive childhood and adult cancers",
+            "link": "https://medicalxpress.com/news/2026-04-therapy-aggressive-childhood-adult-cancers.html",
+            "description": "Researchers at the University of British Columbia Faculty of Medicine have developed a new targeted cancer therapy that can precisely seek out and des...",
+            "pubDate": "2026-04-23T20:20:01",
+            "image_url": ""
         },
         {
-            "title": "Minimally invasive treatment demonstrates sustained improvement for heart valve patients with limited options",
-            "link": "https://medicalxpress.com/news/2026-04-minimally-invasive-treatment-sustained-heart.html",
-            "description": "Findings from the AltaValve Early Feasibility Study suggest that patients with a leaky mitral valve have sustained clinical benefits one year followin...",
-            "pubDate": "2026-04-23T15:00:07",
-            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture1.png"
+            "title": "Long-acting HIV shots appeal to many but uptake remains low",
+            "link": "https://medicalxpress.com/news/2026-04-hiv-shots-appeal-uptake.html",
+            "description": "When it comes to HIV medication, many patients think they'd prefer an occasional injection over a daily pill, but uptake remains an issue, according t...",
+            "pubDate": "2026-04-23T20:00:10",
+            "image_url": ""
         },
         {
-            "title": "Diabetes linked to early Alzheimer's-related changes in the blood of Latino adults",
-            "link": "https://medicalxpress.com/news/2026-04-diabetes-linked-early-alzheimer-blood.html",
-            "description": "Researchers from the University of California San Diego have found that diabetes is linked to changes in measurable biological signals in the blood th...",
-            "pubDate": "2026-04-23T15:20:01",
-            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture6.png"
+            "title": "Human cell model recreates Alzheimer's-linked tau pathology and synapse loss",
+            "link": "https://medicalxpress.com/news/2026-04-human-cell-recreates-alzheimer-linked.html",
+            "description": "Researchers at LMU have developed a human cell model that replicates key mechanisms of neurodegenerative diseases—with potential for novel therapies. ...",
+            "pubDate": "2026-04-23T20:40:05",
+            "image_url": ""
         },
         {
-            "title": "Unraveling the evolution of leukemia in children with Down syndrome",
-            "link": "https://medicalxpress.com/news/2026-04-unraveling-evolution-leukemia-children-syndrome.html",
-            "description": "It may be possible to identify which pre-cancerous cells will develop into a rare type of blood cancer, due to new research showing that a single gene...",
-            "pubDate": "2026-04-23T14:40:01",
-            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture9.png"
+            "title": "A global fertility reversal is unfolding, and it could upend who becomes parent in decades ahead",
+            "link": "https://medicalxpress.com/news/2026-04-global-fertility-reversal-unfolding-upend.html",
+            "description": "With few exceptions, birth rates are falling worldwide. What does this mean? Put simply, the fertility rate describes the average number of children a...",
+            "pubDate": "2026-04-23T20:20:07",
+            "image_url": ""
         },
         {
-            "title": "Shock initiative demonstrates over 70% survival in patients with cardiogenic shock",
-            "link": "https://medicalxpress.com/news/2026-04-survival-patients-cardiogenic.html",
-            "description": "Findings from the Can Escalation Reduce Acute Myocardial Infarction Mortality in Cardiogenic Shock (CERAMICS) registry demonstrate that early use of a...",
-            "pubDate": "2026-04-23T14:40:04",
-            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture4.png"
+            "title": "Most Americans worried about brain health, but few know how to protect it",
+            "link": "https://medicalxpress.com/news/2026-04-americans-brain-health.html",
+            "description": "Nearly all Americans are worried about their brain health as they age, ranking as important or more so than their physical health, a new Alzheimer's A...",
+            "pubDate": "2026-04-23T20:40:01",
+            "image_url": ""
         },
         {
             "title": "RHR: The GLP-1 Blind Spot: What Ozempic Won’t Do for Your Metabolic Health",
             "link": "https://chriskresser.com/the-glp-1-blind-spot-what-ozempic-wont-do-for-your-metabolic-health/",
             "description": "In this episode of Revolution Health Radio, Chris explores the science behind GLP-1 medications, including their powerful effects on appetite, weight ...",
             "pubDate": "2026-04-21T08:02:04",
-            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture10.png"
+            "image_url": ""
         },
         {
             "title": "RHR: Shaking Up the Salt Myth",
             "link": "https://chriskresser.com/tomato-shaking-up-the-salt-myth/",
             "description": "For decades, public health guidelines have warned that reducing sodium intake is essential for preventing high blood pressure and cardiovascular disea...",
             "pubDate": "2026-04-14T08:02:01",
-            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture8.png"
+            "image_url": ""
         },
         {
             "title": "RHR: Mouth Taping: Beyond the Hype—What the Science Really Says",
             "link": "https://chriskresser.com/mouth-taping-beyond-the-hype-what-the-science-really-says/",
             "description": "In this episode of Revolution Health Radio, Chris Kresser explores the viral trend of mouth taping and explains why the reality is more complex than t...",
             "pubDate": "2026-04-07T08:02:08",
-            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture2.png"
+            "image_url": ""
         },
         {
             "title": "RHR: Erythritol: The ‘Safe’ Sweetener That’s Anything But",
             "link": "https://chriskresser.com/erythritol-the-safe-sweetener-thats-anything-but/",
             "description": "Erythritol, a popular sweetener found in countless sugar-free and keto products, has long been considered a safe alternative to sugar. This episode of...",
             "pubDate": "2026-03-31T08:02:01",
-            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture5.png"
+            "image_url": ""
         },
         {
             "title": "RHR: Preserving Cognitive Function As You Age, with Tommy Wood",
             "link": "https://chriskresser.com/preserving-cognitive-function-as-you-age-with-tommy-wood/",
             "description": "In this episode of Revolution Health Radio, Chris Kresser is joined by neuroscientist and physician Dr. Tommy Wood to explore how cognitive function c...",
             "pubDate": "2026-03-24T08:02:15",
-            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture4.png"
+            "image_url": ""
         }
     ]
 }

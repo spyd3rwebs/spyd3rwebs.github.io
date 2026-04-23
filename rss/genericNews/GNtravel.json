@@ -2,42 +2,42 @@
     "title": "GNtravel",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from GNtravel, skipping any feeds with errors.",
-    "lastBuildDate": "2026-04-23T10:25:39.813003",
+    "lastBuildDate": "2026-04-23T15:50:00.974214",
     "items": [
         {
-            "title": "5 ways BofA Rewards can unlock more value",
-            "link": "https://thepointsguy.com/credit-cards/bofa-rewards-can-unlock-value/",
-            "description": "BofA Rewards offers members a wide range of financial benefits. Here are five ways you'll benefit from joining the program.",
-            "pubDate": "2026-04-23T14:30:15",
-            "image_url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/03/Bank-of-America-Preferred-Rewards-Q1-26_SponCon_BofA_HalfpointImages.jpg"
+            "title": "Lufthansa's first Airbus A380 with upgraded business class debuts on flight to LAX",
+            "link": "https://thepointsguy.com/news/lufthansa-airbus-a380-new-business-class-enters-service/",
+            "description": "Lufthansa's first Airbus A380 with a new business class cabin entered service on Thursday flying between Munich and Los Angeles.",
+            "pubDate": "2026-04-23T19:30:24",
+            "image_url": ""
         },
         {
-            "title": "JetBlue changes its boarding order with new groups",
-            "link": "https://thepointsguy.com/news/jetblue-boarding-order-new/",
-            "description": "JetBlue will introduce a new boarding order with numbered groups starting on April 29, adding a new group for certain priority passengers.",
-            "pubDate": "2026-04-22T18:00:01",
-            "image_url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2025/01/JetBlue-Stock-JFK-1.jpg"
+            "title": "Alaska Airlines airport lounges: How to get access to this VIP space",
+            "link": "https://thepointsguy.com/airline/alaska-airlines-lounge-access-guide/",
+            "description": "Learn how to access Alaska Airlines lounges in 2026, including by paying for a membership and having the right credit card.",
+            "pubDate": "2026-04-23T18:00:29",
+            "image_url": ""
         },
         {
-            "title": "5 perks that make the Atmos Ascent Card worth more than its $95 annual fee",
-            "link": "https://thepointsguy.com/credit-cards/atmos-ascent-worth-more-than-annual-fee/",
-            "description": "For Alaska and Hawaiian airline loyalists, the Atmos Ascent can be a valuable option at a low annual fee. Here's why this card is worth adding to your...",
-            "pubDate": "2026-04-22T17:00:13",
-            "image_url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/02/Amsterdam-Spring_Alexander-Spatari.jpg"
+            "title": "What's old is new again: Hilton's Conrad Athens The Ilisian opens today",
+            "link": "https://thepointsguy.com/news/hilton-conrad-athens-the-ilisian-opening/",
+            "description": "The iconic Hilton Athens has been transformed into Greece's first Conrad.",
+            "pubDate": "2026-04-23T18:30:48",
+            "image_url": ""
         },
         {
-            "title": "United has hiked prices 5 times, says higher fares may stay for awhile",
-            "link": "https://thepointsguy.com/news/united-airlines-airfare-increases-jet-fuel-crisis/",
-            "description": "United Airlines has hiked prices five times since the start of the global run-up in oil prices, and higher costs for travelers could be here to stay.",
-            "pubDate": "2026-04-22T19:46:39",
-            "image_url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2026/03/united-elevated-4.jpeg"
+            "title": "10 'coolest' vacation spots to escape the heat this summer",
+            "link": "https://thepointsguy.com/travel/10-best-places-to-escape-the-heat-this-summer/",
+            "description": "Whether you want to hike, ski or eat your way through top restaurants, here are 10 of the best destinations to escape the heat this summer.",
+            "pubDate": "2026-04-23T20:00:24",
+            "image_url": ""
         },
         {
-            "title": "American Express Platinum: Valuable benefits and an offer as high as 175,000 bonus points",
-            "link": "https://thepointsguy.com/credit-cards/amex-platinum-current-offer/",
-            "description": "The American Express Platinum offers numerous statement credits, premium lounge access, elite hotel status and more. Here's the current offer.",
-            "pubDate": "2026-04-22T19:00:59",
-            "image_url": "https://runway-media-production.global.ssl.fastly.net/us/originals/2023/05/Man-pulling-shopping-cart-and-using-smart-phone-and-credit-card_Milko.jpg"
+            "title": "Could a jet fuel shortage really ruin your summer trip to Europe? What flyers should know",
+            "link": "https://thepointsguy.com/news/europe-jet-fuel-shortage-airline-flight-cancellations/",
+            "description": "Concerns over a growing shortage of jet fuel on the continent have raised fears about potential flight cancellations if things don’t improve.",
+            "pubDate": "2026-04-23T19:00:27",
+            "image_url": ""
         }
     ]
 }

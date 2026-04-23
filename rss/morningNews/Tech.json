@@ -2,42 +2,77 @@
     "title": "Tech",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from Tech, skipping any feeds with errors.",
-    "lastBuildDate": "2026-04-23T10:23:32.850347",
+    "lastBuildDate": "2026-04-23T15:47:54.460375",
     "items": [
         {
-            "title": "Grab a ticket today: The first StrictlyVC of 2026 kicks off in just a week in San Francisco",
-            "link": "https://techcrunch.com/2026/04/23/grab-a-ticket-today-the-first-strictlyvc-of-2026-kicks-off-in-just-a-week-in-san-francisco/",
-            "description": "StrictlyVC San Francisco is in just a week. Now’s the time to grab yourself a ticket. Join VCs and founders at Sentro Filipino Cultural Center on Apri...",
-            "pubDate": "2026-04-23T15:00:00",
-            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture1.png"
+            "title": "Don’t stop hiring humans — stop hiring the wrong humans, Artisan’s founder says",
+            "link": "https://techcrunch.com/2026/04/23/dont-stop-hiring-humans-stop-hiring-the-wrong-humans-artisans-founder-says/",
+            "description": "Artisan may be known for their bold “Stop Hiring Humans” campaign but the reality is every founder needs to assemble the right team if they want to sc...",
+            "pubDate": "2026-04-23T19:49:38",
+            "image_url": ""
         },
         {
-            "title": "Another customer of troubled startup Delve suffered a big security incident",
-            "link": "https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/",
-            "description": "TechCrunch has confirmed that Delve was the compliance company that performed the security certifications for Context AI, the AI agent training startu...",
-            "pubDate": "2026-04-23T15:00:00",
-            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "WhatsApp adds prepaid phone recharges in India as its payments usage still lags",
-            "link": "https://techcrunch.com/2026/04/23/whatsapp-adds-prepaid-phone-recharges-in-india-as-its-payments-usage-still-lags/",
-            "description": "WhatsApp is rolling out prepaid phone recharges to its 500 million users in India via PayU.",
-            "pubDate": "2026-04-23T14:28:56",
-            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture1.png"
+            "title": "Meet Noscroll, an AI bot that does your doomscrolling for you",
+            "link": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
+            "description": "Noscroll wants to cure doomscrolling with an AI bot that reads the internet for you.",
+            "pubDate": "2026-04-23T20:38:25",
+            "image_url": ""
         },
         {
             "title": "Tesla drops Musk’s $29B ‘interim’ award after Delaware court restored larger pay package",
             "link": "https://techcrunch.com/2026/04/23/tesla-drops-musks-29b-interim-award-after-delaware-court-restored-larger-pay-package/",
             "description": "The company is following through on its promise to not let Musk \"double dip\" if he won his appeal to restore Tesla's 2018 compensation package, worth ...",
-            "pubDate": "2026-04-23T14:40:33",
-            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture2.png"
+            "pubDate": "2026-04-23T15:40:33",
+            "image_url": ""
+        },
+        {
+            "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
+            "link": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
+            "description": "OpenAI says its latest model offers increased capabilities across a broad variety of categories.",
+            "pubDate": "2026-04-23T19:29:29",
+            "image_url": ""
+        },
+        {
+            "title": "WhatsApp adds prepaid phone recharges in India as its payments usage still lags",
+            "link": "https://techcrunch.com/2026/04/23/whatsapp-adds-prepaid-phone-recharges-in-india-as-its-payments-usage-still-lags/",
+            "description": "WhatsApp is rolling out prepaid phone recharges to its 500 million users in India via PayU.",
+            "pubDate": "2026-04-23T15:28:56",
+            "image_url": ""
+        },
+        {
+            "title": "Trump’s pick to run US cyber agency CISA asks to drop out",
+            "link": "https://techcrunch.com/2026/04/23/trumps-pick-to-run-us-cyber-agency-cisa-asks-to-drop-out/",
+            "description": "Sean Plankey has requested to withdraw his name to run the U.S. cybersecurity agency after a tumultuous year of chaotic temporary leadership.",
+            "pubDate": "2026-04-23T20:33:48",
+            "image_url": ""
         },
         {
             "title": "Labor unrest at Samsung may worsen memory chip supply issues",
             "link": "https://techcrunch.com/2026/04/23/labor-unrest-at-samsung-may-worsen-memory-chip-supply-issues/",
             "description": "Tens of thousands of Samsung Electronics workers held a rally at the company’s Pyeongtaek campus in South Korea on Thursday to signal they are prepare...",
-            "pubDate": "2026-04-23T14:59:59",
-            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture8.png"
+            "pubDate": "2026-04-23T15:59:59",
+            "image_url": ""
+        },
+        {
+            "title": "Meta to cut 10% of jobs, or 8,000 employees, report says",
+            "link": "https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/",
+            "description": "According to an internal memo, Meta plans to begin its sweeping layoffs on May 20.",
+            "pubDate": "2026-04-23T19:08:16",
+            "image_url": ""
+        },
+        {
+            "title": "Grab a ticket today: The first StrictlyVC of 2026 kicks off in just a week in San Francisco",
+            "link": "https://techcrunch.com/2026/04/23/grab-a-ticket-today-the-first-strictlyvc-of-2026-kicks-off-in-just-a-week-in-san-francisco/",
+            "description": "StrictlyVC San Francisco is in just a week. Now’s the time to grab yourself a ticket. Join VCs and founders at Sentro Filipino Cultural Center on Apri...",
+            "pubDate": "2026-04-23T16:00:00",
+            "image_url": ""
+        },
+        {
+            "title": "Another customer of troubled startup Delve suffered a big security incident",
+            "link": "https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/",
+            "description": "TechCrunch has confirmed that Delve was the compliance company that performed the security certifications for Context AI, the AI agent training startu...",
+            "pubDate": "2026-04-23T16:00:00",
+            "image_url": ""
         }
     ]
 }

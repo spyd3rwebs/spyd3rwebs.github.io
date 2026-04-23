@@ -2,14 +2,14 @@
     "title": "OnThisDay",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from OnThisDay, skipping any feeds with errors.",
-    "lastBuildDate": "2026-04-23T10:23:27.709657",
+    "lastBuildDate": "2026-04-23T15:47:48.991636",
     "items": [
         {
             "title": "Today in History for 23rd April 2026",
             "link": "https://www.onthisday.com/day/april/23",
             "description": "Historical Events 1516 - Duke Wilhelm IV of Bavaria endorses \"The German Beer Purity Law\" (Reinheitsgebot) and adds to it standards for the sale of be...",
             "pubDate": "2026-04-23T05:02:02",
-            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture5.png"
+            "image_url": ""
         }
     ]
 }

@@ -2,182 +2,147 @@
     "title": "morningNewsPolitics",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from morningNewsPolitics, skipping any feeds with errors.",
-    "lastBuildDate": "2026-04-23T10:25:55.293377",
+    "lastBuildDate": "2026-04-23T15:50:16.952290",
     "items": [
         {
-            "title": "Stephen and Ayesha Curry talk about the one habit that separates good business leaders from great ones",
-            "link": "https://fortune.com/2026/04/23/ayesha-steph-curry-talk-one-habit-separates-good-business-leaders-from-great-ones/",
-            "description": "The Currys, co-founders of Plezi Hydration, discuss leading with purpose.",
-            "pubDate": "2026-04-23T13:24:43",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2259688985_752c26.jpg?w=2048"
+            "title": "Meta, Microsoft look to trim workforces amid heavy AI spending",
+            "link": "https://fortune.com/2026/04/23/meta-microsoft-layoffs-job-cuts-not-filling-open-roles-voluntary-buyouts/",
+            "description": "Meta told personnel in an internal memo on Thursday that it planned to cut 10% of workers.",
+            "pubDate": "2026-04-23T20:30:59",
+            "image_url": ""
         },
         {
-            "title": "Groups sue Alaska election officials, allege the sharing of voter data with DOJ was unconstitutional",
-            "link": "https://www.washingtontimes.com/news/2026/apr/22/groups-sue-alaska-election-officials-allege-sharing-voter-data-doj/",
-            "description": "Voting and civil rights groups sued Alaska elections officials Wednesday, alleging that their sharing of the state's full voter registration list with...",
-            "pubDate": "2026-04-23T00:05:31",
-            "image_url": "https://twt-thumbs.washtimes.com/media/image/2026/04/22/Elections_Justice_Department_Alaska_65838_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
+            "title": "Hasan Piker Is the Enemy",
+            "link": "https://www.nationalreview.com/2026/04/hasan-piker-is-the-enemy/",
+            "description": "The lefty streamer repeatedly made clear he is disdainful toward the fundamental rules that keep our society together.",
+            "pubDate": "2026-04-23T17:54:34",
+            "image_url": ""
         },
         {
-            "title": "The SPLC Is A Hedge Fund With A Dumb Anti-Racism Newsletter",
-            "link": "https://thefederalist.com/2026/04/23/the-splc-is-a-hedge-fund-with-a-dumb-anti-racism-newsletter/?utm_source=rss&utm_medium=rss&utm_campaign=the-splc-is-a-hedge-fund-with-a-dumb-anti-racism-newsletter",
-            "description": "At the SPLC, Moser wrote, staff joked that they would keep at their work 'Until justice rolls down like dollars.'",
-            "pubDate": "2026-04-23T12:17:24",
-            "image_url": "https://thefederalist.com/wp-content/uploads/2026/04/splc-kash-1200x675.jpg"
-        },
-        {
-            "title": "Xavier Becerra pressed on 'rumors' he knew about Eric Swalwell's alleged misconduct during CA governor debate",
-            "link": "https://www.foxnews.com/politics/xavier-becerra-pressed-rumors-he-knew-about-eric-swalwells-alleged-misconduct-during-ca-governor-debate",
-            "description": "Xavier Becerra was pressed on his knowledge of Eric Swalwell's sexual misconduct rumors during a California gubernatorial debate Wednesday.",
-            "pubDate": "2026-04-23T13:45:59",
-            "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/swalwell-becerra.jpg?ve=1&tl=1"
-        },
-        {
-            "title": "Trump administration designates medical marijuana as a less dangerous drug",
-            "link": "https://www.washingtontimes.com/news/2026/apr/23/trump-administration-designates-medical-marijuana-less-dangerous-drug/",
-            "description": "Acting Attorney General Todd Blanche signed an order Thursday reclassifying state-licensed medical marijuana as a less dangerous drug, a win for pro-c...",
-            "pubDate": "2026-04-23T14:37:52",
-            "image_url": "https://twt-thumbs.washtimes.com/media/image/2026/04/23/Trump_Marijuana_Reclassification_73347_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
-        },
-        {
-            "title": "National Republicans Dodge Questions About VA Ground Game As Locals Allege ‘None Of Them Spent Any Money’",
-            "link": "https://thefederalist.com/2026/04/23/national-republicans-dodge-questions-about-va-ground-game-as-locals-allege-none-of-them-spent-any-money/?utm_source=rss&utm_medium=rss&utm_campaign=national-republicans-dodge-questions-about-va-ground-game-as-locals-allege-none-of-them-spent-any-money",
-            "description": "In short, Virginia’s statewide election was a national election. The only problem, frustrated Republicans say, the GOP didn’t get that.",
-            "pubDate": "2026-04-23T12:19:08",
-            "image_url": "https://thefederalist.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-at-10.34.10-PM-1200x675.png"
-        },
-        {
-            "title": "What Business Do Democrats Have in Barcelona?",
-            "link": "https://www.nationalreview.com/2026/04/what-business-do-democrats-have-in-barcelona/",
-            "description": "Why would they cozy up to ‘global progressives’ in a faraway leftist enclave?",
-            "pubDate": "2026-04-23T11:30:11",
-            "image_url": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/tim-walz-spain.jpg?fit=617%2C360&ssl=1"
-        },
-        {
-            "title": "How Liberal Justices Used A Footnote To Drag Out Dobbs Release Amid Assassination Threats",
-            "link": "https://thefederalist.com/2026/04/23/how-liberal-justices-used-a-footnote-to-drag-out-dobbs-release-amid-assassination-threats/?utm_source=rss&utm_medium=rss&utm_campaign=how-liberal-justices-used-a-footnote-to-drag-out-dobbs-release-amid-assassination-threats",
-            "description": "After the Dobbs decision overturning Roe v. Wade was leaked in May of 2022, Justice Samuel Alito warned his colleagues that delaying its official rele...",
-            "pubDate": "2026-04-23T12:23:11",
-            "image_url": "https://thefederalist.com/wp-content/uploads/2026/04/Elena-Kagan-1-1200x675.png"
-        },
-        {
-            "title": "Goldman tackles AI’s missing link: the ‘world model’ that every AI godfather is racing to figure out",
-            "link": "https://fortune.com/2026/04/23/goldman-sachs-ai-world-model-missing-link/",
-            "description": "The researchers who built modern AI say it's still missing something fundamental. Goldman Sachs explains what—and why the answer could reshape everyth...",
-            "pubDate": "2026-04-23T14:00:00",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2153566703-e1776897216501.jpg?w=2048"
-        },
-        {
-            "title": "Parents push Congress to act on kids' online safety after juries find Meta and YouTube liable for harm",
-            "link": "https://www.foxnews.com/politics/parents-push-congress-act-kids-online-safety-after-juries-find-meta-youtube-liable-harm",
-            "description": "Roughly 70 parents traveled to the U.S. Capitol to push for online safety legislation after juries found Meta and YouTube liable for harming children.",
-            "pubDate": "2026-04-23T13:49:59",
-            "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/social-media-meta-verdict-fox-news.jpg?ve=1&tl=1"
-        },
-        {
-            "title": "Manufacturing Racism",
-            "link": "https://www.nationalreview.com/2026/04/manufacturing-racism/",
-            "description": "The Southern Poverty Law Center has been secretly funding ‘informants’ and infiltrators in multiple white supremacist groups around the country, the D...",
-            "pubDate": "2026-04-23T11:30:24",
-            "image_url": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/doj-splc.jpg?fit=617%2C360&ssl=1"
-        },
-        {
-            "title": "Discovering Raimundo de Madrazo and Spain’s Sparkling 19th Century",
-            "link": "https://www.nationalreview.com/2026/04/discovering-raimundo-de-madrazo-and-spains-sparkling-19th-century/",
-            "description": "The Meadows Museum in Dallas shows us there’s lots happening in Spanish art between Goya and Picasso.",
-            "pubDate": "2026-04-23T11:30:12",
-            "image_url": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/Leaving-the-Masked-Ball.jpg?fit=617%2C360&ssl=1"
-        },
-        {
-            "title": "The Iran War just made the clean energy transition non-negotiable",
-            "link": "https://fortune.com/2026/04/23/iran-war-strait-hormuz-clean-energy-transition-investment-tenzin-seldon/",
-            "description": "I've spent 20 years making the economic case for clean energy. Hormuz just made the geopolitical case — at the cost of many lives and $126-a-barrel oi...",
-            "pubDate": "2026-04-23T13:30:00",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/04/1775147981911.png?w=2048"
-        },
-        {
-            "title": "Leavitt explains why Iran's seizure of two ships doesn't violate Trump's ceasefire",
-            "link": "https://www.foxnews.com/politics/leavitt-explains-why-irans-seizure-two-ships-doesnt-violate-trumps-ceasefire",
-            "description": "The White House says Iran seizing two ships in the Strait of Hormuz is not a ceasefire violation because they were not U.S. or Israeli vessels.",
-            "pubDate": "2026-04-23T14:48:26",
-            "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/karoline-leavitt-politico.jpg?ve=1&tl=1"
+            "title": "‘VEXIT’ movement reignites as red state invites disenfranchised Virginians to ‘Best Virginia’",
+            "link": "https://www.foxnews.com/politics/vexit-movement-reignites-red-state-invites-disenfranchised-virginians-best-virginia",
+            "description": "West Virginia leaders push VEXIT, calling on disaffected Virginians to join the Mountain State after approval of a new 10-1 congressional district map...",
+            "pubDate": "2026-04-23T20:39:23",
+            "image_url": ""
         },
         {
             "title": "The Media Weren’t ‘Truth-Seeking’ Under Biden, So Why Should We Take Them Seriously Now?",
             "link": "https://thefederalist.com/2026/04/23/the-media-werent-truth-seeking-under-biden-so-why-should-we-take-them-seriously-now/?utm_source=rss&utm_medium=rss&utm_campaign=the-media-werent-truth-seeking-under-biden-so-why-should-we-take-them-seriously-now",
             "description": "When the Atlantic magazine trots out one of its mostly anonymous defamation pieces against President Trump or one of his allies, it should be conventi...",
             "pubDate": "2026-04-23T12:16:25",
-            "image_url": "https://thefederalist.com/wp-content/uploads/2026/04/Joe-Biden-1200x675.jpg"
+            "image_url": ""
         },
         {
-            "title": "MN lawmaker takes action to get answers on Omar's alleged fraud ties after she skips key hearing: 'Ghosted us'",
-            "link": "https://www.foxnews.com/politics/mn-lawmaker-takes-action-get-answers-omars-alleged-fraud-ties-skips-key-hearing-ghosted-us",
-            "description": "Rep. Ilhan Omar faces scrutiny after skipping a Minnesota hearing on her potential links to the massive Feeding Our Future pandemic fraud probe.",
-            "pubDate": "2026-04-23T14:04:19",
-            "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/ilhan-omar-january-2026.jpg?ve=1&tl=1"
+            "title": "Discovering Raimundo de Madrazo and Spain’s Sparkling 19th Century",
+            "link": "https://www.nationalreview.com/2026/04/discovering-raimundo-de-madrazo-and-spains-sparkling-19th-century/",
+            "description": "The Meadows Museum in Dallas shows us there’s lots happening in Spanish art between Goya and Picasso.",
+            "pubDate": "2026-04-23T11:30:12",
+            "image_url": ""
         },
         {
-            "title": "Trump admin loosens regulations on state-licensed medical marijuana",
-            "link": "https://www.foxnews.com/politics/trump-admin-loosens-regulations-state-licensed-medical-marijuana",
-            "description": "President Donald Trump's administration loosened federal regulations on state-licensed marijuana on Thursday.",
-            "pubDate": "2026-04-23T13:34:03",
-            "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/donald-trump-white-house-fox-news-001.jpeg?ve=1&tl=1"
+            "title": "Republicans fail to attach SAVE America Act to party-line funding package",
+            "link": "https://www.foxnews.com/politics/republicans-fail-attach-save-america-act-party-line-funding-package-",
+            "description": "Senate Republicans Tom Tillis, Lisa Murkowski, Susan Collins and Mitch McConnell voted against a voter ID amendment to the GOP immigration enforcement...",
+            "pubDate": "2026-04-23T20:23:25",
+            "image_url": ""
         },
         {
-            "title": "Houston changes ordinance limiting cooperation with ICE after pressure from governor",
-            "link": "https://www.washingtontimes.com/news/2026/apr/22/pressure-governor-houston-changes-ordinance-limiting-cooperation-ice/",
-            "description": "A Houston city ordinance that limited police officers' cooperation with federal immigration agents was amended on Wednesday after Texas' governor thre...",
-            "pubDate": "2026-04-23T00:01:19",
-            "image_url": "https://twt-thumbs.washtimes.com/media/image/2026/04/22/Immigration_Police_Cooperation_29344_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
+            "title": "Hakeem Jeffries offers to debate Trump to prove who really has a 'low IQ'",
+            "link": "https://www.washingtontimes.com/news/2026/apr/23/hakeem-jeffries-offers-debate-trump-prove-really-low-iq/",
+            "description": "House Minority Leader Hakeem Jeffries said he would welcome a debate with President Trump in response to Mr. Trump calling him a \"low IQ person.\"",
+            "pubDate": "2026-04-23T18:14:00",
+            "image_url": ""
         },
         {
-            "title": "Current price of oil as of April 23, 2026",
-            "link": "https://fortune.com/article/price-of-oil-04-23-2026/",
-            "description": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
-            "pubDate": "2026-04-23T13:58:46",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/04/Price-of-Oil-April-23.jpg?w=2048"
-        },
-        {
-            "title": "Carney Gets His Free Hand",
-            "link": "https://www.nationalreview.com/2026/04/carney-gets-his-free-hand/",
-            "description": "The new Liberal majority in Parliament will continue the Trudeau status quo, with minor modifications.",
-            "pubDate": "2026-04-23T11:30:58",
-            "image_url": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/mark-carney-parliament.jpg?fit=617%2C360&ssl=1"
-        },
-        {
-            "title": "Inflated AI claims are under fire—and the regulatory reckoning is coming",
-            "link": "https://fortune.com/2026/04/23/ai-washing-securities-litigation-regulatory-era-baker-mckenzie/",
-            "description": "A top securities litigation partner at Baker McKenzie argues that history—from dot-com fraud to ESG greenwashing—tells us exactly where AI disclosure ...",
-            "pubDate": "2026-04-23T12:30:00",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2180911895-e1776884643893.jpg?w=2048"
+            "title": "Manufacturing Racism",
+            "link": "https://www.nationalreview.com/2026/04/manufacturing-racism/",
+            "description": "The Southern Poverty Law Center has been secretly funding ‘informants’ and infiltrators in multiple white supremacist groups around the country, the D...",
+            "pubDate": "2026-04-23T11:30:24",
+            "image_url": ""
         },
         {
             "title": "Turkey Is the Weak Link in Trump’s Economic War on Iran",
             "link": "https://www.nationalreview.com/2026/04/turkey-is-the-weak-link-in-trumps-economic-war-on-iran/",
             "description": "The nation’s regulatory and commercial environment remains a critical conduit for Tehran.",
             "pubDate": "2026-04-23T11:30:34",
-            "image_url": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2026/04/bank-mellat-turkey.jpg?fit=617%2C360&ssl=1"
+            "image_url": ""
         },
         {
-            "title": "Trump ally Justin Sun sues crypto venture aligned with president's family over frozen tokens",
-            "link": "https://www.washingtontimes.com/news/2026/apr/23/justin-sun-trump-ally-sues-crypto-venture-aligned-presidents-family/",
-            "description": "Cryptocurrency champion Justin Sun is suing World Liberty Financial, a company founded by President Trump and his sons.",
-            "pubDate": "2026-04-23T13:09:36",
-            "image_url": "https://twt-thumbs.washtimes.com/media/image/2025/05/07/Emirates_Crypto_11639_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
+            "title": "The SPLC Is A Hedge Fund With A Dumb Anti-Racism Newsletter",
+            "link": "https://thefederalist.com/2026/04/23/the-splc-is-a-hedge-fund-with-a-dumb-anti-racism-newsletter/?utm_source=rss&utm_medium=rss&utm_campaign=the-splc-is-a-hedge-fund-with-a-dumb-anti-racism-newsletter",
+            "description": "At the SPLC, Moser wrote, staff joked that they would keep at their work 'Until justice rolls down like dollars.'",
+            "pubDate": "2026-04-23T12:17:24",
+            "image_url": ""
         },
         {
-            "title": "Russiagate Czar Joe DiGenova Is The Best And Last Chance For Accountability",
-            "link": "https://thefederalist.com/2026/04/23/russiagate-czar-joe-digenova-is-the-best-and-last-chance-for-accountability/?utm_source=rss&utm_medium=rss&utm_campaign=russiagate-czar-joe-digenova-is-the-best-and-last-chance-for-accountability",
-            "description": "After a wasted decade, this is both the best opportunity and, realistically, the last real chance to get something done.",
-            "pubDate": "2026-04-23T12:15:40",
-            "image_url": "https://thefederalist.com/wp-content/uploads/2026/04/Joe-1200x675.jpg"
+            "title": "How Liberal Justices Used A Footnote To Drag Out Dobbs Release Amid Assassination Threats",
+            "link": "https://thefederalist.com/2026/04/23/how-liberal-justices-used-a-footnote-to-drag-out-dobbs-release-amid-assassination-threats/?utm_source=rss&utm_medium=rss&utm_campaign=how-liberal-justices-used-a-footnote-to-drag-out-dobbs-release-amid-assassination-threats",
+            "description": "After the Dobbs decision overturning Roe v. Wade was leaked in May of 2022, Justice Samuel Alito warned his colleagues that delaying its official rele...",
+            "pubDate": "2026-04-23T12:23:11",
+            "image_url": ""
         },
         {
-            "title": "Kalshi fines and suspends three congressional candidates for wagering on their own elections",
-            "link": "https://www.washingtontimes.com/news/2026/apr/22/kalshi-fines-suspends-three-congressional-candidates-wagering/",
-            "description": "Three congressional candidates are accused of betting on the outcome of their own elections on the prediction market Kalshi, which said Wednesday that...",
-            "pubDate": "2026-04-22T23:23:35",
-            "image_url": "https://twt-thumbs.washtimes.com/media/image/2026/04/22/Prediction_Market_Politician_Bets_41_35_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
+            "title": "Carney Gets His Free Hand",
+            "link": "https://www.nationalreview.com/2026/04/carney-gets-his-free-hand/",
+            "description": "The new Liberal majority in Parliament will continue the Trudeau status quo, with minor modifications.",
+            "pubDate": "2026-04-23T11:30:58",
+            "image_url": ""
+        },
+        {
+            "title": "‘Godmother of Silicon Valley’ Esther Wojcicki, mother of the YouTube and 23andMe CEOs, shares her secret to raising future leaders",
+            "link": "https://fortune.com/2026/04/23/esther-wojcicki-mother-youtube-23andme-ceos-secret-future-leaders/",
+            "description": "Wojcicki takes inspiration from her daughters’ public failures and how they pivoted to turn mistakes into successful companies.",
+            "pubDate": "2026-04-23T19:55:08",
+            "image_url": ""
+        },
+        {
+            "title": "People living in the U.S. with temporary protected status, targeted by Trump, are a $29 billion economic force",
+            "link": "https://fortune.com/2026/04/23/tps-holders-add-29-billion-to-us-economy/",
+            "description": "As the Supreme Court prepares to weigh the fate of TPS for Haitians and Syrians, a new report accounts for a demographic’s economic impact.",
+            "pubDate": "2026-04-23T20:18:20",
+            "image_url": ""
+        },
+        {
+            "title": "Trump praises ousted Navy Secretary Phelan amid tensions with Pentagon leadership",
+            "link": "https://www.foxnews.com/politics/trump-praises-ousted-navy-secretary-phelan-amid-tensions-pentagon-leadership",
+            "description": "Sources say Navy Secretary John Phelan was removed after months of tensions with Pentagon leaders over shipbuilding programs and chain-of-command issu...",
+            "pubDate": "2026-04-23T20:42:37",
+            "image_url": ""
+        },
+        {
+            "title": "Strokes frontman Julian Casablancas: 'Privileged' Zionists talk 'like Black people during slavery'",
+            "link": "https://www.washingtontimes.com/news/2026/apr/23/strokes-frontman-julian-casablancas-privileged-zionists-talk-like/",
+            "description": "The Strokes frontman Julian Casablancas sparked controversy this week after claiming that \"American Zionists\" enjoy the benefits of white privilege wh...",
+            "pubDate": "2026-04-23T18:44:56",
+            "image_url": ""
+        },
+        {
+            "title": "DHS has identified 24,000 potential noncitizens on the voter rolls",
+            "link": "https://www.washingtontimes.com/news/2026/apr/23/dhs-identified-24000-potential-noncitizens-voter-rolls/",
+            "description": "Homeland Security has flagged more than 24,000 names on U.S. voter rolls that may be noncitizens who are ineligible to vote, the department said Thurs...",
+            "pubDate": "2026-04-23T17:48:30",
+            "image_url": ""
+        },
+        {
+            "title": "Trump border czar Tom Homan wants Pope Leo XIV to ride along with ICE agents: 'They don't understand'",
+            "link": "https://www.foxnews.com/politics/trump-border-czar-tom-homan-wants-pope-leo-xiv-ride-along-ice-agents-dont-understand",
+            "description": "Tom Homan invites Pope Leo XIV to join ICE officers on a ride-along amid the ongoing feud between the Vatican and the Trump administration on immigrat...",
+            "pubDate": "2026-04-23T19:59:11",
+            "image_url": ""
+        },
+        {
+            "title": "Defeated Virginia Republicans regroup for last-chance fight to save House majority",
+            "link": "https://www.foxnews.com/politics/defeated-virginia-republicans-regroup-last-chance-fight-save-house-majority",
+            "description": "Virginia's redistricting fight heads to the state Supreme Court after a judge declared ballot language unconstitutional and blocked certification.",
+            "pubDate": "2026-04-23T19:28:49",
+            "image_url": ""
+        },
+        {
+            "title": "Pope Leo says he carries a photo of a slain Muslim boy in his pocket: ‘I cannot be in favor of war’",
+            "link": "https://fortune.com/2026/04/23/pope-leo-iran-war-carries-photo-lebanon-trump/",
+            "description": "Leo also suggested that the U.S. church is excessively focused on sex.",
+            "pubDate": "2026-04-23T19:54:16",
+            "image_url": ""
         }
     ]
 }

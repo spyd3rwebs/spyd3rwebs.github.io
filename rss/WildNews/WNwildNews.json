@@ -2,77 +2,77 @@
     "title": "WNwildNews",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from WNwildNews, skipping any feeds with errors.",
-    "lastBuildDate": "2026-04-23T10:25:47.207320",
+    "lastBuildDate": "2026-04-23T15:50:08.163165",
     "items": [
         {
-            "title": "‘I met 40 people who claim to have seen aliens: this is why I don’t believe them’",
-            "link": "https://metro.co.uk/2026/04/23/i-met-40-people-claim-seen-aliens-this-dont-believe-them-28065213/",
-            "description": "",
-            "pubDate": "2026-04-23T10:36:42",
-            "image_url": "https://metro.co.uk/wp-content/uploads/2026/04/GettyImages-2246521597.jpg?quality=90&strip=all&w=646"
+            "title": "The World’s Largest Snack Store Sells Over 30,000 Kinds of Snacks from 70 Countries",
+            "link": "https://www.odditycentral.com/travel/the-worlds-largest-snack-store-sells-over-30000-kinds-of-snacks-from-70-countries.html?utm_source=rss&utm_medium=rss&utm_campaign=the-worlds-largest-snack-store-sells-over-30000-kinds-of-snacks-from-70-countries",
+            "description": "Snack Kingdom, the world's largest snack store, covers an area of over 12,000 square meters and sells over 35,000 different snacks from all over the w...",
+            "pubDate": "2026-04-23T14:47:54",
+            "image_url": ""
         },
         {
             "title": "Bored Man Confesses to Starting Forest Fire for His Own Amusement",
             "link": "https://www.odditycentral.com/news/bored-man-confesses-to-starting-forest-fire-for-his-own-amusement.html?utm_source=rss&utm_medium=rss&utm_campaign=bored-man-confesses-to-starting-forest-fire-for-his-own-amusement",
             "description": "A 22-year-old man in Thailand has confessed to deliberately starting a forest fire in his local area because he was bored and looking for some enterta...",
             "pubDate": "2026-04-23T08:20:36",
-            "image_url": "https://www.odditycentral.com/wp-content/uploads/2026/04/forest-fire.jpg"
+            "image_url": ""
+        },
+        {
+            "title": "‘I met 40 people who claim to have seen aliens: this is why I don’t believe them’",
+            "link": "https://metro.co.uk/2026/04/23/i-met-40-people-claim-seen-aliens-this-dont-believe-them-28065213/",
+            "description": "",
+            "pubDate": "2026-04-23T10:36:42",
+            "image_url": ""
         },
         {
             "title": "‘Puma-like’ big cat sighting reignites mystery of legendary beast roaming UK",
             "link": "https://metro.co.uk/2026/04/22/puma-like-big-cat-sighting-reignites-mystery-legendary-beast-uk-28074349/",
             "description": "There have been multiple reports of the so-called Kellas cat, a hybrid between a Scottish wildcat and domestic breeds, over the last 40 years.",
             "pubDate": "2026-04-22T14:37:45",
-            "image_url": "https://metro.co.uk/wp-content/uploads/2026/04/coverimages55632068-439f.jpg?quality=90&strip=all&w=646"
+            "image_url": ""
         },
         {
             "title": "Family Uses AI Clone of Deceased Man to Spare His 80-Year-Old Mother the Pain of Knowing the Truth",
             "link": "https://www.odditycentral.com/news/family-uses-ai-clone-of-deceased-man-to-spare-his-80-year-old-mother-the-pain-of-knowing-the-truth.html?utm_source=rss&utm_medium=rss&utm_campaign=family-uses-ai-clone-of-deceased-man-to-spare-his-80-year-old-mother-the-pain-of-knowing-the-truth",
             "description": "A Chinese family sparked controversy online for using an AI-powered digital clone of a deceased man to communicate with his mother via video link. The...",
             "pubDate": "2026-04-22T17:13:48",
-            "image_url": "https://www.odditycentral.com/wp-content/uploads/2026/04/video-call2.jpg"
-        },
-        {
-            "title": "14-Year-Old Whiz Kid Is Building a Working Aircraft Engine by Hand",
-            "link": "https://www.odditycentral.com/news/14-year-old-whiz-kid-is-building-a-working-aircraft-engine-by-hand.html?utm_source=rss&utm_medium=rss&utm_campaign=14-year-old-whiz-kid-is-building-a-working-aircraft-engine-by-hand",
-            "description": "While most kids his age are busy playing video games, a young aeronautics enthusiast in China spends most of his time working on a functional jet engi...",
-            "pubDate": "2026-04-22T11:22:02",
-            "image_url": "https://www.odditycentral.com/wp-content/uploads/2026/04/Che-Jingang-engine2-750x442.webp"
+            "image_url": ""
         },
         {
             "title": "Restaurant Goes Viral for Its See-Through Pork Slices",
             "link": "https://www.odditycentral.com/funny/restaurant-goes-viral-for-its-see-through-pork-slices.html?utm_source=rss&utm_medium=rss&utm_campaign=restaurant-goes-viral-for-its-see-through-pork-slices",
             "description": "A popular all-you-can-eat restaurant in Japan recently went viral for its unbelievably thin pork slices dubbed \"stealth pork\". The post Restaurant Goe...",
             "pubDate": "2026-04-22T15:53:25",
-            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture6.png"
+            "image_url": ""
         },
         {
-            "title": "Turkish Politician Gets International Attention for His Impressive Mustache",
-            "link": "https://www.odditycentral.com/funny/turkish-politician-gets-international-attention-for-his-impressive-mustache.html?utm_source=rss&utm_medium=rss&utm_campaign=turkish-politician-gets-international-attention-for-his-impressive-mustache",
-            "description": "A local politician from Turkey recently gained international notoriety online thanks to his luscious mustache. The post Turkish Politician Gets Intern...",
-            "pubDate": "2026-04-21T21:26:32",
-            "image_url": "https://www.odditycentral.com/wp-content/uploads/2026/04/Orhan-Avci-mustache-750x422.webp"
+            "title": "14-Year-Old Whiz Kid Is Building a Working Aircraft Engine by Hand",
+            "link": "https://www.odditycentral.com/news/14-year-old-whiz-kid-is-building-a-working-aircraft-engine-by-hand.html?utm_source=rss&utm_medium=rss&utm_campaign=14-year-old-whiz-kid-is-building-a-working-aircraft-engine-by-hand",
+            "description": "While most kids his age are busy playing video games, a young aeronautics enthusiast in China spends most of his time working on a functional jet engi...",
+            "pubDate": "2026-04-22T11:22:02",
+            "image_url": ""
         },
         {
             "title": "Psychic who claims to talk to the dead says they share two regrets about life",
             "link": "https://metro.co.uk/2026/04/21/psychic-claims-talk-dead-says-share-two-regrets-life-28060053/",
             "description": "",
             "pubDate": "2026-04-21T15:33:01",
-            "image_url": "https://metro.co.uk/wp-content/uploads/2026/04/SEI_294028817-ad51.jpg?quality=90&strip=all&w=646"
+            "image_url": ""
         },
         {
             "title": "First new Nessie ‘sightings’ in months reignite mystery of the Loch Ness Monster",
             "link": "https://metro.co.uk/2026/04/15/first-new-nessie-sightings-months-reignite-mystery-loch-ness-monster-27974373/",
             "description": "American tourist Tony Inhorn was the first to report a sighting on March 1 after seeing a 'dark-greenish grey body'",
             "pubDate": "2026-04-15T10:39:59",
-            "image_url": "https://metro.co.uk/wp-content/uploads/2026/04/coverimages55614058-1d70.jpg?quality=90&strip=all&w=646"
+            "image_url": ""
         },
         {
             "title": "Woman starts sneezing out bugs after developing an infection",
             "link": "https://metro.co.uk/2026/04/10/woman-starts-sneezing-bugs-developing-horrific-infection-27922566/",
             "description": "The unusual ailment, which terrified those who witnessed it, was caused by a parasitic fly’s larvae.",
             "pubDate": "2026-04-10T15:51:21",
-            "image_url": "https://metro.co.uk/wp-content/uploads/2026/04/coverimages55606549-4388.jpg?quality=90&strip=all&w=334"
+            "image_url": ""
         }
     ]
 }
