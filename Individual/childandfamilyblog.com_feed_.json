@@ -2,8 +2,15 @@
     "title": "Individual feed for https://childandfamilyblog.com/feed/",
     "link": "https://childandfamilyblog.com/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-10T07:57:06.148376",
+    "lastBuildDate": "2026-04-22T16:11:00.762880",
     "items": [
+        {
+            "title": "Engaging fathers in individual treatment for intimate partner violence can improve outcomes for families",
+            "link": "https://childandfamilyblog.com/engaging-fathers-in-individual-treatment-for-intimate-partner-violence-can-improve-outcomes-for-families/?utm_source=rss&utm_medium=rss&utm_campaign=engaging-fathers-in-individual-treatment-for-intimate-partner-violence-can-improve-outcomes-for-families",
+            "description": "Key takeaways for caregivers In the United States, many children witness intimate partner violence, which puts them at risk for maltreatment and emoti...",
+            "pubDate": "2026-04-01T23:54:19",
+            "image_url": "https://childandfamilyblog.com/wp-content/uploads/2026/03/pexels-cottonbro-6603350-scaled.jpg"
+        },
         {
             "title": "Raising securely attached children: Why understanding baby’s mind matters",
             "link": "https://childandfamilyblog.com/secure-attachment-babies/?utm_source=rss&utm_medium=rss&utm_campaign=secure-attachment-babies",
@@ -31,13 +38,6 @@
             "description": "This blog post is based on research originally published in Turunç, G. & Kisbu, Y. (2025). Effects of pre- and post-displacement difficulties on paren...",
             "pubDate": "2025-12-10T23:59:44",
             "image_url": "https://childandfamilyblog.com/wp-content/uploads/2025/11/pexels-ahmed-akacha-3313934-6929741-scaled.jpg"
-        },
-        {
-            "title": "How to talk about adoption: Embracing multiple perspectives to support a child’s emotional well-being",
-            "link": "https://childandfamilyblog.com/how-talk-about-adoption-embracing-multiple-perspectives/?utm_source=rss&utm_medium=rss&utm_campaign=how-talk-about-adoption-embracing-multiple-perspectives",
-            "description": "Key takeaways for caregivers In adoptive families, open communication about the adoption is linked to children’s emotional well-being. Many people foc...",
-            "pubDate": "2025-11-28T23:45:24",
-            "image_url": "https://childandfamilyblog.com/wp-content/uploads/2025/10/pexels-pavel-danilyuk-8205410-scaled.jpg"
         }
     ]
 }

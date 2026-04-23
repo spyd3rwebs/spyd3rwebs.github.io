@@ -2,42 +2,42 @@
     "title": "Individual feed for https://techcrunch.com/feed/",
     "link": "https://techcrunch.com/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-10T07:57:27.719844",
+    "lastBuildDate": "2026-04-22T16:11:21.271706",
     "items": [
         {
-            "title": "Whoop launches a new blood test focused on women’s health",
-            "link": "https://techcrunch.com/2026/03/10/whoop-launches-a-new-blood-test-focused-on-womens-health/",
-            "description": "The wearable maker is launching a new panel focused on women's health through its Whoop Labs blood testing service. It's also adding a new feature to ...",
-            "pubDate": "2026-03-10T11:00:00",
+            "title": "NASA’s Artemis II Moon mission shows space-to-Earth laser comms can scale",
+            "link": "https://techcrunch.com/2026/04/22/nasas-artemis-ii-moon-mission-shows-space-to-earth-laser-comms-can-scale/",
+            "description": "Observable Space and Quantum Wave teamed up to capture data beamed back from space.",
+            "pubDate": "2026-04-22T21:09:45",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
+            "link": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
+            "description": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\"...",
+            "pubDate": "2026-04-22T20:51:51",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "France confirms data breach at government agency that manages citizens’ IDs",
+            "link": "https://techcrunch.com/2026/04/22/france-confirms-data-breach-at-government-agency-that-manages-citizens-ids/",
+            "description": "The French government agency that issues and manages national IDs, passports, and other documents announced that hackers stole the personal informatio...",
+            "pubDate": "2026-04-22T20:34:41",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
+            "link": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
+            "description": "The iPhone and iPad bug allowed law enforcement using forensic tools to read messages that had long been deleted by the Signal app.",
+            "pubDate": "2026-04-22T20:13:02",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "Uzbekistan’s Uzum valuation leaps over 50% in seven months to $2.3B",
-            "link": "https://techcrunch.com/2026/03/10/uzbekistans-uzum-valuation-rises-1-5x-in-seven-months-to-2-3b/",
-            "description": "Uzum now reaches 20 million users and processes $11B in payments as it expands its e-commerce and fintech ecosystem across Uzbekistan.",
-            "pubDate": "2026-03-10T08:15:00",
+            "title": "From the stage to the future: Where are Startup Battlefield’s alumni now?",
+            "link": "https://techcrunch.com/2026/04/22/from-the-stage-to-the-future-where-are-startup-battlefields-alumni-now/",
+            "description": "We wanted to show you what happens after the confetti falls. We checked in with some of our recent alumni, many of whom have sat down with us on Build...",
+            "pubDate": "2026-04-22T19:42:26",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Apple now makes one in four iPhones in India: report",
-            "link": "https://techcrunch.com/2026/03/09/apple-now-makes-one-in-four-iphones-in-india-report/",
-            "description": "Apple reportedly produced 55 million units in India last year, a shift accelerated as Apple faced growing uncertainty in China.",
-            "pubDate": "2026-03-10T07:04:43",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Yann LeCun’s AMI Labs raises $1.03 billion to build world models",
-            "link": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/",
-            "description": "AMI Labs, the new venture cofounded by Turing Prize winner Yann LeCun after he left Meta, has raised $1.03 billion at a $3.5 billion pre-money valuati...",
-            "pubDate": "2026-03-10T06:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "An iPhone-hacking toolkit used by Russian spies likely came from U.S military contractor",
-            "link": "https://techcrunch.com/2026/03/09/an-iphone-hacking-toolkit-used-by-russian-spies-likely-came-from-u-s-military-contractor/",
-            "description": "Google found a series of hacking tools they said were used by a Russian espionage group and a cybercriminal group in China. Sources from a U.S. govern...",
-            "pubDate": "2026-03-10T02:56:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         }
     ]
 }

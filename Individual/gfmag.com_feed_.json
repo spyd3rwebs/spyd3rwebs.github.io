@@ -2,42 +2,42 @@
     "title": "Individual feed for https://gfmag.com/feed/",
     "link": "https://gfmag.com/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-10T07:56:59.547701",
+    "lastBuildDate": "2026-04-22T16:10:56.693188",
     "items": [
         {
-            "title": "Sustainable Finance Awards 2026: Latin America",
-            "link": "https://gfmag.com/award/award-winners/sustainable-finance-awards-2026-latin-america/",
-            "description": "This year's regional winners advanced sustainability by issuing green, blue, social, and transition bonds while funding renewable energy projects acro...",
-            "pubDate": "2026-03-09T18:28:21",
-            "image_url": "https://public.flourish.studio/visualisation/27965619/thumbnail"
+            "title": "Private Credit Stress Test: What Breaks And What Holds",
+            "link": "https://gfmag.com/private-credit/private-credit-stress-test-2026/",
+            "description": "Private credit faces mounting stress from liquidity mismatches, fraud concerns, and macro pressures, even as bullish sentiment persist. The post Priva...",
+            "pubDate": "2026-04-22T07:30:00",
+            "image_url": "https://s44650.pcdn.co/wp-content/uploads/2026/04/Jun-Li.png"
         },
         {
-            "title": "Sustainable Finance Awards 2026: North America",
-            "link": "https://gfmag.com/award/award-winners/sustainable-finance-awards-2026-north-america/",
-            "description": "North American sustainable-finance issuance suffered due to ESG backlash and regulatory tensions, but Canada remained resilient and adaptation finance...",
-            "pubDate": "2026-03-09T13:19:08",
-            "image_url": "https://public.flourish.studio/visualisation/27960216/thumbnail"
+            "title": "Private Credit’s Next Bet: Intellectual Property",
+            "link": "https://gfmag.com/private-credit/private-credit-next-bet-intellectual-property/",
+            "description": "Asset-light companies reshape private credit as lenders embrace intellectual property collateral, despite valuation challenges, legal risks, and AI-dr...",
+            "pubDate": "2026-04-21T11:07:46",
+            "image_url": "https://s44650.pcdn.co/wp-content/uploads/2026/04/Steffen-Schellschmidt-Clifford-Chance.jpeg"
         },
         {
-            "title": "Sustainable Finance Awards 2026: Western Europe",
-            "link": "https://gfmag.com/award/award-winners/sustainable-finance-awards-2026-western-europe/",
-            "description": "Western Europe’s sustainable-finance market slowed in 2025, but stricter standards, improved disclosures, and major deals kept issuance strong across ...",
-            "pubDate": "2026-03-09T13:05:38",
-            "image_url": "https://public.flourish.studio/visualisation/27959553/thumbnail"
+            "title": "CFO Corner: Iker Etxezarreta Fraile, Faes Farma",
+            "link": "https://gfmag.com/executive-interviews/cfo-corner-iker-etxezarreta-fraile-faes-farma/",
+            "description": "Faes Farma operates in 16 countries, with a China joint venture and 40+ licensing deals; Iker Etxezarreta Fraile became CFO last July. The post CFO Co...",
+            "pubDate": "2026-04-21T11:06:19",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "Nordea’s Juho Maalahti: Strengthening Transparency And Alignment",
-            "link": "https://gfmag.com/award/winner-insights/nordeas-juho-maalahti-strengthening-transparency-and-alignment/",
-            "description": "Juho Maalahti, head of Sustainable Finance Advisory at Nordea—this year’s Best Bank for Sustainability Transparency in Western Europe—discusses the ne...",
-            "pubDate": "2026-03-09T12:19:35",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "title": "World’s Best Investment Banks 2026: Good Times Fizzle Away",
+            "link": "https://gfmag.com/award/worlds-best-investment-banks-2026-good-times-fizzle-away/",
+            "description": "A buoyant 2025 has transformed into a precarious 2026 rife with geopolitical instability, including the largest oil shock in history. The post World’s...",
+            "pubDate": "2026-04-21T10:54:43",
+            "image_url": "https://s44650.pcdn.co/wp-content/uploads/2026/04/Hoolihan-Lockey-1-1024x576.png"
         },
         {
-            "title": "QNB Türkiye’s Yeliz Ataay Arıkök: Hitting SF Milestones",
-            "link": "https://gfmag.com/award/winner-insights/qnb-turkiyes-yeliz-ataay-arikok-hitting-sf-milestones/",
-            "description": "Yeliz Ataay Arıkök, director of Treasury Sales and Finan-cial Institutions and chair of the Sustainability Committee at QNB Türkiye—this year’s Best B...",
-            "pubDate": "2026-03-09T12:18:33",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "World’s Best Investment Banks: Global Winners",
+            "link": "https://gfmag.com/award/award-winners/worlds-best-investment-banks-global-winners/",
+            "description": "Explore the top investment banks of 2025, highlighting their achievements and contributions across key global categories in the industry. The post Wor...",
+            "pubDate": "2026-04-21T10:52:10",
+            "image_url": "https://public.flourish.studio/visualisation/28627395/thumbnail"
         }
     ]
 }

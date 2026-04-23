@@ -2,42 +2,42 @@
     "title": "Individual feed for https://seekingalpha.com/feed.xml",
     "link": "https://seekingalpha.com/feed.xml",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-10T07:56:59.537157",
+    "lastBuildDate": "2026-04-22T16:10:56.686754",
     "items": [
         {
-            "title": "Rentokil: A Bug Business With Long-Term Bite",
-            "link": "https://seekingalpha.com/article/4880366-rentokil-a-bug-business-with-long-term-bite?source=feed_all_articles",
+            "title": "Preferred Bank (PFBC) Q1 2026 Earnings Call Transcript",
+            "link": "https://seekingalpha.com/article/4893037-preferred-bank-pfbc-q1-2026-earnings-call-transcript?source=feed_all_articles",
             "description": "",
-            "pubDate": "2026-03-10T12:55:00",
+            "pubDate": "2026-04-22T21:00:40",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Civista Bancshares, Inc. (CIVB) Q1 2026 Earnings Call Transcript",
+            "link": "https://seekingalpha.com/article/4893013-civista-bancshares-inc-civb-q1-2026-earnings-call-transcript?source=feed_all_articles",
+            "description": "",
+            "pubDate": "2026-04-22T21:00:36",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "Market Brief: The Rise Of Oil Perps In Crypto",
-            "link": "https://seekingalpha.com/article/4880381-market-brief-rise-oil-perps-crypto?source=feed_all_articles",
+            "title": "Warsh Advocates For Regime Change And Narrows The Definition Of Fed Independence",
+            "link": "https://seekingalpha.com/article/4893020-warsh-advocates-for-regime-change-and-narrows-the-definition-of-fed-independence?source=feed_all_articles",
             "description": "",
-            "pubDate": "2026-03-10T12:55:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "pubDate": "2026-04-22T20:55:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "Amplify Energy Is An Iran War Oil Trade",
-            "link": "https://seekingalpha.com/article/4880364-amplify-energy-is-an-iran-war-oil-trade?source=feed_all_articles",
+            "title": "FS KKR Capital: One Of The Weakest Links In The Private Credit Chain",
+            "link": "https://seekingalpha.com/article/4893019-fs-kkr-capital-one-of-the-weakest-links-in-the-private-credit-chain?source=feed_all_articles",
             "description": "",
-            "pubDate": "2026-03-10T12:50:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "C4 Therapeutics: Cemsidomide Progress Keeps The Long-Term Thesis Intact",
-            "link": "https://seekingalpha.com/article/4880380-c4-therapeutics-stock-cemsidomide-progress-keeps-long-term-thesis-intact?source=feed_all_articles",
-            "description": "",
-            "pubDate": "2026-03-10T12:49:49",
+            "pubDate": "2026-04-22T20:52:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "Alibaba: Macro Perspective On An 'Uninvestable' Stock",
-            "link": "https://seekingalpha.com/article/4880368-alibaba-macro-perspective-on-an-uninvestable-stock?source=feed_all_articles",
+            "title": "Grupo Aeroméxico, S.A.B. de C.V. (AERO) Q1 2026 Earnings Call Transcript",
+            "link": "https://seekingalpha.com/article/4893004-grupo-aeromexico-s-a-b-de-c-v-aero-q1-2026-earnings-call-transcript?source=feed_all_articles",
             "description": "",
-            "pubDate": "2026-03-10T12:45:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "pubDate": "2026-04-22T20:50:43",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         }
     ]
 }

@@ -2,63 +2,42 @@
     "title": "BUhealthAndWellness",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from BUhealthAndWellness, skipping any feeds with errors.",
-    "lastBuildDate": "2026-03-10T07:57:22.414105",
+    "lastBuildDate": "2026-04-22T16:11:17.392346",
     "items": [
         {
-            "title": "How to Choose the Best Health Plan",
-            "link": "https://www.webmd.com/health-insurance/lst/cm/listicle-choosing-health-insurance-plan",
-            "description": "",
-            "pubDate": "2026-03-10T08:47:46",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/hiv_and_barriers_slideshow/1800ss_getty_rf_woman_looking_at_medical_bills.jpg?resize=484px:*&output-quality=70"
+            "title": "Training Hard? 7 Ways Omega-3s Improve Your Fitness & Overall Health",
+            "link": "https://www.mindbodygreen.com/articles/training-hard-7-ways-omega-3s-improve-your-fitness-and-recovery-know-more-about-it",
+            "description": "And, how much you need a day.",
+            "pubDate": "2026-04-22T12:07:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
-            "title": "What to Do When Your Claim Is Denied",
-            "link": "https://www.webmd.com/health-insurance/cm/filing-health-insurance-appeal",
-            "description": "",
-            "pubDate": "2026-03-10T08:47:46",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/consumer_assets/site_images/articles/health_tools/tips_for_choosing_your_psoriasis_care_providers_slideshow/1800ss_getty_rf_health_insurance_claim_form.jpg?resize=484px:*&output-quality=70"
-        },
-        {
-            "title": "Strategies for Smarter Health Spending",
-            "link": "https://www.webmd.com/health-insurance/toc-smarter-health-spending",
-            "description": "Learn how to choose the right plan and navigate health insurance with confidence at every stage of life.",
-            "pubDate": "2026-03-10T08:47:46",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/other/doctor-checking-patient-heart-with-stethoscope-other/1800x1200-doctor-checking-patient-heart-with-stethoscope-other.jpg?resize=484px:*&output-quality=70"
-        },
-        {
-            "title": "Women Who Struggle With This Are At An Increased Risk For High Blood Pressure",
-            "link": "https://www.mindbodygreen.com/articles/women-who-struggle-with-sleep-have-greater-hypertension-risk-what-to-do-about-it",
-            "description": "One more reason to catch those zzz's.",
-            "pubDate": "2026-03-10T11:07:00",
+            "title": "New Research Has Identified A Groundbreaking Way To Manage Pain",
+            "link": "https://www.mindbodygreen.com/articles/study-identifies-connections-between-creativity-and-pain-management",
+            "description": "Get creative.",
+            "pubDate": "2026-04-22T11:18:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "Anxious All the Time? Your Daily Drink Habit Deserves a Second Look",
-            "link": "https://www.mindbodygreen.com/articles/those-who-drink-more-sugary-beverages-show-34-higher-anxiety-odds",
-            "description": "We had plenty of reasons to cut back on soda. Science just added one more.",
-            "pubDate": "2026-03-10T10:59:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "This Vitamin Majorly Reduces Dementia Risk (Per Research On 69,643 People)",
-            "link": "https://www.mindbodygreen.com/articles/this-vitamin-reduces-dementia-risk-says-research-on-69k-people-get-regular-checkups",
-            "description": "Here are the easiest ways to ensure sufficient levels.",
-            "pubDate": "2026-03-10T11:07:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "I've Been A Cosmetic Dermatologist For 24+ Years: 3 Tips To Smooth Cellulite",
-            "link": "https://www.mindbodygreen.com/articles/dermatologist-shares-3-natural-tips-to-smooth-cellulite-smart-topicals",
-            "description": "You can have cellulite no matter what products you use on your skin, how old you are, or how much you weigh.",
-            "pubDate": "2026-03-10T11:08:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "This Supplement May Support Brain Activity In Those With Depression",
-            "link": "https://www.mindbodygreen.com/articles/research-explores-how-probiotics-can-impact-depression-symptoms",
-            "description": "As much progress as we've made talking about mental health, treatments can still be hit or miss.",
-            "pubDate": "2026-03-10T10:40:00",
+            "title": "A Diet That’s Good For You & The Planet? Here’s How To Follow It",
+            "link": "https://www.mindbodygreen.com/articles/new-planetary-health-diet-study",
+            "description": "What's good for you is good for the planet.",
+            "pubDate": "2026-04-22T11:25:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "The Easiest Blood Sugar Upgrade You Can Make During The Workday",
+            "link": "https://www.mindbodygreen.com/articles/could-more-daylight-during-day-help-stabilize-blood-sugar-daylight-and-blood-sugar-control",
+            "description": "Balance your blood sugar without leaving your desk.",
+            "pubDate": "2026-04-22T12:27:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "This Surprising Factor Could Help Protect Against Cognitive Decline",
+            "link": "https://www.mindbodygreen.com/articles/this-factor-could-protect-against-cognitive-decline-study-finds",
+            "description": "Thanks, estrogen.",
+            "pubDate": "2026-04-22T10:47:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         }
     ]
 }

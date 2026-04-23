@@ -2,42 +2,42 @@
     "title": "Individual feed for https://www.medscape.com/cx/rssfeeds/2700.xml",
     "link": "https://www.medscape.com/cx/rssfeeds/2700.xml",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-10T07:59:36.287181",
+    "lastBuildDate": "2026-04-22T16:15:29.948056",
     "items": [
         {
-            "title": "No Stomach Cancer Risk With Long-Term PPI Use",
-            "link": "https://www.medscape.com/viewarticle/reassuring-new-data-long-term-ppi-use-and-stomach-cancer-2026a10007at?src=rss",
-            "description": "A large population-based analysis finds no association between prolonged PPI use and gastric non-cardia adenocarcinoma. Medscape Medical News",
-            "pubDate": "2026-03-10T12:14:53",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "title": "Crumbling NHS Hospitals to Face More Years of Risk and Cost",
+            "link": "https://www.medscape.com/viewarticle/crumbling-nhs-hospitals-face-years-more-risk-and-cost-2026a1000csb?src=rss",
+            "description": "Seven hospitals with dangerous RAAC concrete won't be replaced until 2032-2033, costing up to £140 million extra per year of delay. Medscape News UK",
+            "pubDate": "2026-04-22T19:10:22",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "How Hospital Medicine Is Poised to Evolve This Year",
-            "link": "https://www.medscape.com/viewarticle/how-hospital-medicine-poised-evolve-this-year-2026a10007ai?src=rss",
-            "description": "Changes are coming, but this remains true: Hospitalists will be asked for more as their expertise grows. Medscape Medical News",
-            "pubDate": "2026-03-10T12:08:22",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Experts Warn Psychiatric Symptoms May Mask Hidden Disease",
-            "link": "https://www.medscape.com/viewarticle/experts-warn-psychiatric-symptoms-may-mask-hidden-disease-2026a10007af?src=rss",
-            "description": "Takotsubo syndrome, frontotemporal dementia, gut-brain disorders, and tinnitus share psychiatric features that complicate their diagnosis and manageme...",
-            "pubDate": "2026-03-10T12:00:04",
+            "title": "Sexual Dysfunction in Digestive Diseases Often Missed",
+            "link": "https://www.medscape.com/viewarticle/sexual-dysfunction-digestive-diseases-often-missed-2026a1000cry?src=rss",
+            "description": "Digestive diseases and treatments may affect sexual function; however, clinicians address these concerns in a minority of patients despite unmet needs...",
+            "pubDate": "2026-04-22T17:47:23",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "Risk Factors for Early Development of Food Allergies",
-            "link": "https://www.medscape.com/viewarticle/early-skin-and-respiratory-allergies-predict-food-allergy-2026a10007ae?src=rss",
-            "description": "The study found multiple childhood food allergy risk factors but no link to vaccines. Medscape Medical News",
-            "pubDate": "2026-03-10T11:47:22",
+            "title": "Antibiotics After GI Infections Raise IBS Risk",
+            "link": "https://www.medscape.com/viewarticle/antibiotics-after-gi-infections-raise-ibs-risk-2026a1000crm?src=rss",
+            "description": "Use of antibiotics is linked to a higher risk of developing irritable bowel syndrome, especially when antibiotics are taken for gastrointestinal infec...",
+            "pubDate": "2026-04-22T15:56:35",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "Doctors Risk Becoming ‘Liability Sink’ for AI Errors",
-            "link": "https://www.medscape.com/viewarticle/doctors-risk-becoming-liability-sink-ai-errors-2026a1000785?src=rss",
-            "description": "Lawyers warn UK liability laws may not protect patients harmed by medical AI, as the NHS accelerates plans to embed the technology across healthcare. ...",
-            "pubDate": "2026-03-10T11:27:12",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "title": "Sleep Apnea in Women Often Missed After Menopause",
+            "link": "https://www.medscape.com/viewarticle/sleep-apnea-women-often-missed-after-menopause-2026a1000cri?src=rss",
+            "description": "Sleep apnea in women may increase after menopause, yet atypical symptoms and low clinical suspicion delay diagnosis in routine practice. Medscape News...",
+            "pubDate": "2026-04-22T15:46:07",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Doctors Being ‘Pushed to the Limit’: Poll",
+            "link": "https://www.medscape.com/s/viewarticle/doctors-being-pushed-limit-poll-2026a1000cqi?src=rss",
+            "description": "MDU survey of 1100 doctors in England finds nearly half report poor mental or physical health, with fatigue linked to patient harm. Press Association",
+            "pubDate": "2026-04-22T14:41:50",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         }
     ]
 }

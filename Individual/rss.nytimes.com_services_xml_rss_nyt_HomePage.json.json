@@ -2,42 +2,42 @@
     "title": "Individual feed for https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
     "link": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-10T07:57:12.311157",
+    "lastBuildDate": "2026-04-22T16:11:06.275857",
     "items": [
         {
-            "title": "Democrats Sued to Find Out Whether Trump Will Send Armed Officers to Election Sites",
-            "link": "https://www.nytimes.com/2026/03/10/us/politics/democrats-sue-to-find-out-if-trump-will-send-armed-officers-to-election-sites.html",
-            "description": "In a lawsuit filed Tuesday, the D.N.C. sought to compel the government to say whether it plans to deploy armed federal officers in this year’s electio...",
-            "pubDate": "2026-03-10T12:44:34",
-            "image_url": "https://static01.nyt.com/images/2026/03/09/multimedia/pol-dnc-hbqj/pol-dnc-hbqj-mediumSquareAt3X.jpg"
+            "title": "Wildfires in Georgia Destroy Homes and Set Off Evacuations",
+            "link": "https://www.nytimes.com/2026/04/22/us/georgia-wildfires-evacuations-homes-destroyed-smoke.html",
+            "description": "The fires are also causing poor air quality, expected to last into at least Thursday, for a corner of the Southeast.",
+            "pubDate": "2026-04-22T20:52:06",
+            "image_url": "https://static01.nyt.com/images/2026/04/22/multimedia/22xp-wildfires-promo-kzvj/22xp-wildfires-promo-kzvj-mediumSquareAt3X.jpg"
         },
         {
-            "title": "War and the Economy",
-            "link": "https://www.nytimes.com/2026/03/10/briefing/war-and-the-economy.html",
-            "description": "We look at the conflict’s global economic impact.",
-            "pubDate": "2026-03-10T12:30:39",
-            "image_url": "https://static01.nyt.com/images/2026/03/09/multimedia/10themorning-nl1/10themorning-nl1-mediumSquareAt3X.jpg"
+            "title": "Anthropic’s New Mythos A.I. Model Sets Off Global Alarms",
+            "link": "https://www.nytimes.com/2026/04/22/technology/anthropics-mythos-ai.html",
+            "description": "Mythos has triggered emergency responses from central banks and intelligence agencies globally, as Anthropic decides who has access to the powerful mo...",
+            "pubDate": "2026-04-22T20:48:53",
+            "image_url": "https://static01.nyt.com/images/2026/04/23/business/00biz-mythos-risk/00biz-mythos-risk-mediumSquareAt3X.jpg"
         },
         {
-            "title": "Trump Zigzags on When War Will End, and Investigators Search Epstein’s Ranch in New Mexico",
-            "link": "https://www.nytimes.com/2026/03/10/podcasts/the-headlines/trump-war-epstein-ranch-new-mexico.html",
-            "description": "Plus, space mirrors?",
-            "pubDate": "2026-03-10T11:00:09",
-            "image_url": "https://static01.nyt.com/images/2026/03/10/multimedia/10trump-Headlines-pvfg/10trump-Headlines-pvfg-mediumSquareAt3X.jpg"
+            "title": "2 Are Dead After ‘Chemical Emergency’ at a West Virginia Plant",
+            "link": "https://www.nytimes.com/2026/04/22/us/chemical-emergency-west-virginia-deaths.html",
+            "description": "As many as 21 others were treated at a hospital and at the scene after a “chemical release” of hydrogen sulfide at a plant in Nitro, W. Va., the autho...",
+            "pubDate": "2026-04-22T20:48:15",
+            "image_url": "https://static01.nyt.com/images/2026/04/22/multimedia/22xp-chemical-03/22xp-chemical-03-mediumSquareAt3X.jpg"
         },
         {
-            "title": "I Asked a Former Trump Official to Justify This War",
-            "link": "https://www.nytimes.com/2026/03/10/opinion/ezra-klein-podcast-nadia-schadlow.html",
-            "description": "Nadia Schadlow, a deputy national security adviser during Trump’s first term, explains how the U.S.-Israel war with Iran fits in with an “America Firs...",
-            "pubDate": "2026-03-10T10:03:52",
-            "image_url": "https://static01.nyt.com/images/2026/03/09/multimedia/eks-10-schadlow-bpfj/eks-10-schadlow-bpfj-mediumSquareAt3X.jpg"
+            "title": "Man Accused of Killing 3 in Spree Near Atlanta Dies in Jail",
+            "link": "https://www.nytimes.com/2026/04/22/us/atlanta-killings-suspect-jail-death.html",
+            "description": "Olaolukitan Adon Abel, a 26-year-old Navy veteran, had been charged with killing a man and two women in a series of attacks across suburban Atlanta.",
+            "pubDate": "2026-04-22T20:31:51",
+            "image_url": "https://static01.nyt.com/images/2026/04/22/multimedia/22nat-atlanta-death-gzlp/22nat-atlanta-death-gzlp-mediumSquareAt3X.jpg"
         },
         {
-            "title": "War Brings New Water Crises to an Already-Parched Iran",
-            "link": "https://www.nytimes.com/2026/03/10/climate/iran-war-water-crisis.html",
-            "description": "Iran has accused the United States of bombing a desalination plant on Qeshm Island. The country was already facing a severe water shortage.",
-            "pubDate": "2026-03-10T10:03:24",
-            "image_url": "https://static01.nyt.com/images/2026/03/10/multimedia/10cli-iran-water-cvjq/10cli-iran-water-cvjq-mediumSquareAt3X.jpg"
+            "title": "Celeste Rivas Hernandez Died of ‘Multiple Penetrating Injuries,’ Medical Examiner Says",
+            "link": "https://www.nytimes.com/2026/04/22/arts/music/d4vd-celeste-rivas-hernandez-cause-of-death.html",
+            "description": "The Los Angeles police sought to keep the findings secret for months as they investigated the singer D4vd, who was charged this week with the murder o...",
+            "pubDate": "2026-04-22T20:03:32",
+            "image_url": "https://static01.nyt.com/images/2026/04/19/multimedia/00cul-d4vd-second-arrest-qfvk/00cul-d4vd-second-arrest-qfvk-mediumSquareAt3X.jpg"
         }
     ]
 }

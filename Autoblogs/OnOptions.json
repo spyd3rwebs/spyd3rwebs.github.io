@@ -2,112 +2,112 @@
     "title": "OnOptions",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from OnOptions, skipping any feeds with errors.",
-    "lastBuildDate": "2026-03-10T07:57:17.932446",
+    "lastBuildDate": "2026-04-22T16:11:11.913486",
     "items": [
         {
-            "title": "My Colleague Lied to Me About a Shared Project",
-            "link": "https://www.inc.com/alison-green/my-colleague-lied-to-me-about-a-shared-project/91302814",
-            "description": "… and two other tricky workplace dilemmas.",
-            "pubDate": "2026-03-10T12:15:00",
-            "image_url": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/03/GettyImages-1362763039.jpg"
+            "title": "Cursor’s 25-year-old CEO is a former Google intern who just inked a $60 billion deal with SpaceX",
+            "link": "https://fortune.com/2026/04/22/who-is-cursor-25-year-old-ceo-michael-truell-tech-startups-csuite-elon-musk-spacex/",
+            "description": "From Google intern at 18 to a billionaire at 25, Cursor CEO Michael Truell's rise is one of Silicon Valley's fastest.",
+            "pubDate": "2026-04-22T20:36:07",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2270265262-e1776885634438.jpg?w=2048"
         },
         {
-            "title": "Anthropic’s Department of War lawsuit is even higher-stakes amid the AI boom",
-            "link": "https://fortune.com/2026/03/10/anthropic-department-of-war-lawsuit-even-higher-stakes-amid-ai-boom/",
-            "description": "Anthropic suing the U.S. Department of War perhaps wasn’t a surprise, but it was nevertheless a shock.",
-            "pubDate": "2026-03-10T12:18:43",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2261589193_f101a6-e1772131796790.jpg?w=2048"
+            "title": "A Popular Fast Food Chain Just Went All-In on MAHA With Its Latest Hire",
+            "link": "https://www.inc.com/leila-sheridan/steak-n-shake-maha-executive/91334736",
+            "description": "Steak ’n Shake has appointed its first-ever “Make America Healthy Again” officer.",
+            "pubDate": "2026-04-22T20:54:13",
+            "image_url": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/04/steak-n-shake-maha-inc-1289252806.jpg"
         },
         {
-            "title": "Buc-ee’s is loved by shoppers, so why did it get red-flagged by the Better Business Bureau? Here’s what you need to know",
-            "link": "https://www.fastcompany.com/91503593/buc-ees-stores-loved-by-shoppers-f-rating-red-flag-from-consumer-watchdog-authority-better-business-bureau-heres-why",
-            "description": "Loyal customers of Buc-ee’s have made the store a fan favorite, but the nonprofit Better Business Bureau tells another story, recently slapping the po...",
-            "pubDate": "2026-03-10T12:00:00",
-            "image_url": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/03/p-1-91503593-buc-ees-better-business-bureau.jpg"
+            "title": "This new EV battery from CATL can get to an 80% charge in under 4 minutes",
+            "link": "https://www.fastcompany.com/91530904/this-new-ev-battery-from-catl-can-get-to-an-80-charge-in-under-4-minutes",
+            "description": "A new battery from Chinese company CATL, the world’s largest electric vehicle battery manufacturer, can be fully recharged in under seven minutes. Cha...",
+            "pubDate": "2026-04-22T19:45:00",
+            "image_url": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/04/p-1-91530904-new-catl-battery.jpg"
         },
         {
-            "title": "3 science-backed ways to practice optimism at work (that aren’t phony or forced)",
-            "link": "https://www.fastcompany.com/91480356/3-science-backed-ways-to-practice-real-optimism-at-work-optimism-work",
-            "description": "Optimism has a branding problem at work. It often shows up as pressure to stay upbeat in meetings, reassurance that everything will work out, or encou...",
-            "pubDate": "2026-03-10T10:46:00",
-            "image_url": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/03/p-91480356-optimism-at-work.jpg"
+            "title": "Keep Up With Payroll Compliance",
+            "link": "https://www.inc.com/nellie-akalp/keep-up-with-payroll-compliance/91334088",
+            "description": "Payroll mistakes are costly. Here’s how to stay compliant as the requirements become more complex.",
+            "pubDate": "2026-04-22T19:19:00",
+            "image_url": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/04/INC-Masters-Fast-Company-publishing-2026-04-21T122354.178.png"
         },
         {
-            "title": "How camouflage became ‘the original deception’",
-            "link": "https://www.fastcompany.com/91504864/how-camouflage-became-the-original-deception",
-            "description": "It takes a few moments to see the spotted jaguar slinking through the dense, sun-dappled jungle scene projected onto a wall inside the International S...",
-            "pubDate": "2026-03-10T11:00:00",
-            "image_url": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/03/p-91504864-camouflage-exhibit-international-spy-museum.jpg"
+            "title": "Anthropic Investigates ‘Unauthorized Access’ to Its Ultra-Powerful Claude Mythos AI Model",
+            "link": "https://www.inc.com/chloe-aiello/anthropic-investigates-unauthorized-access-to-its-ultra-powerful-claude-mythos-ai-model/91334722",
+            "description": "Meanwhile, CISA, the U.S. Cybersecurity and Infrastructure Agency, reportedly does not have access to Claude Mythos.",
+            "pubDate": "2026-04-22T20:56:09",
+            "image_url": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/04/claude-mythos-hacked-discord-inc-2249797221.jpg"
         },
         {
-            "title": "Women are still being badly overlooked in hiring",
-            "link": "https://www.fastcompany.com/91504782/women-leadership-talent-overlooked-hiring",
-            "description": "Despite decades of scientific research , incredible advances in deep analytics and AI , and no shortage of good intentions, many organizations still s...",
-            "pubDate": "2026-03-10T10:30:00",
-            "image_url": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/03/p-1-91504782-women-leadership-talent-overlooked-hiring.jpg"
+            "title": "Google’s $750 Million Plan to Move AI From Experiments to the Real World",
+            "link": "https://www.inc.com/leila-sheridan/googles-750-million-plan-to-move-ai-from-experiments-to-the-real-world/91334694",
+            "description": "Google’s new strategy aims to solve one of AI’s biggest problems.",
+            "pubDate": "2026-04-22T19:23:51",
+            "image_url": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/04/google-cloud-750-million-ai-inc-2252915593.jpg"
         },
         {
-            "title": "Meet Throne Labs, the Company Making Public Bathrooms a Better Place to Go",
-            "link": "https://www.inc.com/bryce-covert/meet-throne-labs-the-company-making-public-bathrooms-a-better-place-to-go/91302017",
-            "description": "After a year of major growth, Jessica Heinzelman’s smart, modular public bathrooms are in 20 cities and counting.",
-            "pubDate": "2026-03-10T12:00:00",
-            "image_url": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/02/inc-web-throne-labs-1920x1080-1.jpg"
+            "title": "Best Buy CEO Corie Barry is stepping down: How she went from architect of a comeback to cautionary tale",
+            "link": "https://fortune.com/2026/04/22/best-buy-ceo-corie-barry-turnaround-covid-retail/",
+            "description": "Shares are up only 6% since she was appointed in 2019, vastly underperforming the S&P 500.",
+            "pubDate": "2026-04-22T20:25:57",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2241117576-e1776885817918.jpg?w=2048"
         },
         {
-            "title": "To Expand Reproductive Health Care Access, Cadence OTC Went to the Convenience Store",
-            "link": "https://www.inc.com/naomi-barr/to-expand-reproductive-health-care-access-cadence-otc-went-to-the-convenience-store/91302021",
-            "description": "Co-founder Samantha Miller has a simple goal: Make Plan B available everywhere condoms are sold.",
-            "pubDate": "2026-03-10T12:00:00",
-            "image_url": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/02/inc-samantha-miller-1920x1080-1.jpg"
+            "title": "Visa CMO: AI agents are your new customers — here’s how to sell to them",
+            "link": "https://fortune.com/2026/04/22/section-technology-visa-cmo-frank-cooper-b2ai-business-to-ai-agents-commerce-strategy/",
+            "description": "As AI takes over consumer decision-making, companies must rethink everything from product data to brand purpose — or risk being invisible.",
+            "pubDate": "2026-04-22T20:00:00",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/04/frank.png?w=2048"
         },
         {
-            "title": "Her Fluorescent Crops Give a Voice to Plants—and Power to Farmers",
-            "link": "https://www.inc.com/chloe-aiello/her-fluorescent-crops-give-a-voice-to-plants-and-power-to-farmers/91302019",
-            "description": "Shely Aronov’s InnerPlant has raised $53 million and partnered with John Deere to help plants alert farmers to pests and disease.",
-            "pubDate": "2026-03-10T12:00:00",
-            "image_url": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/02/inc-Shely-Aronov-InnerPlant-CEO-cofounder-1920x1080-1.jpg"
+            "title": "Federal appeals court blocks California law requiring federal agents to wear badges or ID because it ‘attempts to directly regulate the U.S.’",
+            "link": "https://fortune.com/2026/04/22/federal-appeals-court-california-law-federal-agents-identification/",
+            "description": "The three-judge panel said the law violated the Constitution. California lawyers say the law applied evenly to all law enforcement officers.",
+            "pubDate": "2026-04-22T19:38:24",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/04/AP26112655424048-e1776883026485.jpg?w=2048"
         },
         {
-            "title": "Why blended workforces fail without this new kind of leadership",
-            "link": "https://www.fastcompany.com/91493124/why-blended-workforces-fail-without-this-new-kind-of-leadership-leadership-blended-workforce",
-            "description": "Most organisations are no longer made up of one homogenous group of full-time employees. Instead, they’re becoming ecosystems. A mix of permanent empl...",
-            "pubDate": "2026-03-10T10:40:00",
-            "image_url": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/03/p-91493124-why-blended-workforces-fail-without-this-leadership.jpg"
+            "title": "Starbucks Sent Real Assistants to ‘The Devil Wears Prada 2’ Premiere—in Costume",
+            "link": "https://www.inc.com/annabel-burba/starbucks-sent-real-assistants-to-the-devil-wears-prada-2-premiere-in-costume/91334582",
+            "description": "The marketing stunt sparked praise, jokes, and backlash online.",
+            "pubDate": "2026-04-22T19:53:27",
+            "image_url": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/04/Starbucks-drinks-and-The-Devil-Wears-Prada-inc.jpg"
         },
         {
-            "title": "The AI risk that few organizations are governing",
-            "link": "https://fortune.com/2026/03/10/ai-risk-agents-few-organizations/",
-            "description": "You know how many human users have access to your financial systems. Do you know how many AI agents do?",
-            "pubDate": "2026-03-10T11:00:00",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/03/Raj-Sharma_Headshot_efe6d9-e1773094749653.jpg?w=2048"
+            "title": "David’s Bridal exec has a warning for every CEO obsessed with AI’s return-on-investment",
+            "link": "https://fortune.com/2026/04/22/davids-bridal-elina-vilk-ai-return-on-investment-warning/",
+            "description": "David's Bridal CBO Elina Vilk says companies chasing a discrete AI return-on-investment are asking the wrong question—and missing the real opportunity...",
+            "pubDate": "2026-04-22T20:10:30",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2270149817-e1776884885202.jpg?w=2048"
         },
         {
-            "title": "How President Trump Hijacked Oil Markets With Social Media Diplomacy",
-            "link": "https://www.inc.com/phil-rosen/president-trump-oil-prices-truth-social-media-iran-war/91314045",
-            "description": "Monday saw the most volatile swings in crude prices on record.",
-            "pubDate": "2026-03-10T12:49:27",
-            "image_url": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/03/5b8ecec5-31dd-458b-b824-30896d704256.jpg"
+            "title": "Yesway IPO: Stock price will be closely watched today as the convenience store chain makes its Nasdaq debut",
+            "link": "https://www.fastcompany.com/91530774/yesway-ipo-stock-price-today-convenience-store-chain-nasdaq-debut",
+            "description": "While its geographic footprint is all west of the Mississippi, convenience store operator Yesway Inc. is making New York City headlines this week with...",
+            "pubDate": "2026-04-22T17:20:00",
+            "image_url": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/04/p-1-91530774-yesway-ipo-stock.jpg"
         },
         {
-            "title": "AI isn’t killing jobs yet—CEOs are using layoffs to fund a $2.5 trillion arms race",
-            "link": "https://fortune.com/2026/03/10/ai-killing-jobs-ceos-using-layoffs-fund-trillion-arms-race/",
-            "description": "Also: All the news and watercooler chat from Fortune.",
-            "pubDate": "2026-03-10T10:41:30",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2170273841-e1773134998883.jpg?w=2048"
+            "title": "This fast-food chain just hired a “Chief MAHA Officer”",
+            "link": "https://www.fastcompany.com/91530748/this-fast-food-chain-just-hired-a-chief-maha-officer",
+            "description": "A burger joint obsessed with beef tallow fries is going all-in on the MAHA agenda. Steak ‘n Shake, a fast casual burger destination with 391 locations...",
+            "pubDate": "2026-04-22T20:15:00",
+            "image_url": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/04/p-1-91530748-fast-food-chain-chief-maha-officer.jpg"
         },
         {
-            "title": "AI can double output. Human biology can’t",
-            "link": "https://fortune.com/2026/03/10/ai-can-double-output-human-biology-cant/",
-            "description": "There's an AI burnout trap, and your productivity gains are fragile.",
-            "pubDate": "2026-03-10T11:05:00",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-1364004798-e1773095727410.jpg?w=2048"
+            "title": "How being honest about the process of ‘becoming’ leads to success",
+            "link": "https://www.fastcompany.com/91528756/how-being-honest-about-process-becoming-leads-success",
+            "description": "The great jazz trumpeter Miles Davis once said, “Sometimes you have to play a long time to be able to play like yourself.” This is why the best artist...",
+            "pubDate": "2026-04-22T17:39:17",
+            "image_url": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/04/p-91528756-being-honest-about-the-process-of-becoming.jpg"
         },
         {
-            "title": "Trump says Iran war is ‘very complete, pretty much’ sparking global stock rally",
-            "link": "https://fortune.com/2026/03/10/trump-iran-war-is-very-complete-pretty-much-stocks/",
-            "description": "But also, \"we’re going to go further.\"",
-            "pubDate": "2026-03-10T12:13:35",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2265661113.jpg?w=2048"
+            "title": "Everyone says this movie is terrible and it’s still about to make $70 million",
+            "link": "https://www.fastcompany.com/91530664/everyone-says-this-movie-is-terrible-and-its-still-about-to-make-70-million",
+            "description": "Michael is aiming for a record-breaking opening weekend. It’s also a critical flop. In a vacuum, the Michael Jackson biopic might sound like a perfect...",
+            "pubDate": "2026-04-22T18:30:00",
+            "image_url": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/04/p-1-91530664-michael-biopic.jpg"
         }
     ]
 }

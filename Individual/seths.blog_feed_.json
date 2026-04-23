@@ -2,42 +2,42 @@
     "title": "Individual feed for https://seths.blog/feed/",
     "link": "https://seths.blog/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-10T07:57:19.049153",
+    "lastBuildDate": "2026-04-22T16:11:13.042064",
     "items": [
         {
-            "title": "Small changes to big systems",
-            "link": "https://seths.blog/2026/03/small-changes-to-big-systems/",
-            "description": "A hardcover book printed in 1925 is almost indistinguishable from one printed yesterday. It’s easy to think not much has changed. But book publishing ...",
-            "pubDate": "2026-03-10T10:03:00",
+            "title": "The banal djinni",
+            "link": "https://seths.blog/2026/04/the-banal-djinni/",
+            "description": "Technology changes things. Sometimes better, sometimes worse. When a powerful new technology arrives, it offers us wishes. Too often, we waste them, a...",
+            "pubDate": "2026-04-22T10:03:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "The right sort of friction",
+            "link": "https://seths.blog/2026/04/the-right-sort-of-friction/",
+            "description": "If we remove impediments that are in the way of where our customers seek to go, they support us. But when we remove the friction that gives people tra...",
+            "pubDate": "2026-04-21T10:03:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "Considering infinity",
-            "link": "https://seths.blog/2026/03/considering-infinity/",
-            "description": "Endless, unlimited and more. These are building blocks of capitalism. Starbucks knows that they can’t get you to drink three coffees every morning, bu...",
-            "pubDate": "2026-03-09T10:03:00",
+            "title": "Is it sciatica?",
+            "link": "https://seths.blog/2026/04/is-it-sciatica/",
+            "description": "Sometimes, back pain is felt in the thighs or even the ankles. But treating the part that hurts does nothing to address the real problem. Most busines...",
+            "pubDate": "2026-04-20T10:03:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "The Petrillo complications",
+            "link": "https://seths.blog/2026/04/the-petrillo-complications/",
+            "description": "80 years ago, the most important person in the music business was James Petrillo. It’s difficult to imagine the head of the musician’s union on the co...",
+            "pubDate": "2026-04-19T10:03:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "Confused about donations",
-            "link": "https://seths.blog/2026/03/confused-about-donations/",
-            "description": "A suite at a New York Knicks game costs more than $30,000. Is that a donation to the team? Why do we differentiate between the money spent on a Super ...",
-            "pubDate": "2026-03-08T10:03:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "If they knew…",
-            "link": "https://seths.blog/2026/03/if-they-knew/",
-            "description": "Some organizations and marketers thrive on the uninformed consumer. They seek out people who don’t know, and who aren’t particularly good at decision ...",
-            "pubDate": "2026-03-07T10:03:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Tight rope standing",
-            "link": "https://seths.blog/2026/03/tight-rope-standing/",
-            "description": "It’s much easier to walk a tight rope than it is to simply stand in place. Forward momentum creates stability.",
-            "pubDate": "2026-03-06T10:03:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "title": "The book of concern",
+            "link": "https://seths.blog/2026/04/the-book-of-concern/",
+            "description": "“Wait a second.” That’s difficult advice. In a world that moves faster with each cycle, where urgencies are prioritized and last-minute saves are cele...",
+            "pubDate": "2026-04-18T10:03:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         }
     ]
 }

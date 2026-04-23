@@ -2,42 +2,42 @@
     "title": "Individual feed for https://finance.yahoo.com/news/rssindex",
     "link": "https://finance.yahoo.com/news/rssindex",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-10T07:57:18.648276",
+    "lastBuildDate": "2026-04-22T16:11:12.612982",
     "items": [
         {
-            "title": "Ringmetall acquires Turkish liner maker Makplast",
-            "link": "https://finance.yahoo.com/news/ringmetall-acquires-turkish-liner-maker-113716613.html",
+            "title": "Analyst Report: Equifax Inc",
+            "link": "https://finance.yahoo.com/research/reports/ARGUS_3702_AnalystReport_1776880442000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
             "description": "",
-            "pubDate": "2026-03-10T12:37:16",
-            "image_url": "https://media.zenfs.com/en/packaging_gateway_559/9369ba8fe60cf5d578cbf8a9e8da7fdf"
+            "pubDate": "2026-04-22T18:54:02",
+            "image_url": "https://s.yimg.com/uc/fin/img/non-sub-report-thumb.png"
         },
         {
-            "title": "BofA Cuts PT on Netflix, Inc. (NFLX) to $125 From $149 – Here’s Why",
-            "link": "https://finance.yahoo.com/news/bofa-cuts-pt-netflix-inc-113707515.html",
+            "title": "Analyst Report: United Airlines Holdings Inc",
+            "link": "https://finance.yahoo.com/research/reports/ARGUS_4407_AnalystReport_1776880442000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
             "description": "",
-            "pubDate": "2026-03-10T12:37:07",
-            "image_url": "https://media.zenfs.com/en/insidermonkey.com/44e9440e7a259c14f8ffdd3e47c6887e"
+            "pubDate": "2026-04-22T18:54:02",
+            "image_url": "https://s.yimg.com/uc/fin/img/non-sub-report-thumb.png"
         },
         {
-            "title": "Genesco FY26 sales rise 5% as Journeys drives growth",
-            "link": "https://finance.yahoo.com/news/genesco-fy26-sales-rise-5-113546942.html",
+            "title": "Analyst Report: Capital One Financial Corp",
+            "link": "https://finance.yahoo.com/research/reports/ARGUS_2854_AnalystReport_1776880442000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
             "description": "",
-            "pubDate": "2026-03-10T12:35:46",
-            "image_url": "https://media.zenfs.com/en/just_style_482/428fd665b5eab1d8d4bb1464c27e619b"
+            "pubDate": "2026-04-22T18:54:02",
+            "image_url": "https://s.yimg.com/uc/fin/img/non-sub-report-thumb.png"
         },
         {
-            "title": "Eli Lilly and Company (LLY) Set to Launch Oral Obesity Drug in Q2, Reuters Reports",
-            "link": "https://finance.yahoo.com/news/eli-lilly-company-lly-set-113443447.html",
+            "title": "Market Update: COF, EFX, UAL, MRNA",
+            "link": "https://finance.yahoo.com/research/reports/ARGUS_46817_MarketUpdate_1776879542000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
             "description": "",
-            "pubDate": "2026-03-10T12:34:43",
-            "image_url": "https://media.zenfs.com/en/insidermonkey.com/860932d32d923713fdffa5b1d444d8a3"
+            "pubDate": "2026-04-22T18:39:02",
+            "image_url": "https://s.yimg.com/uc/fin/img/non-sub-report-thumb.png"
         },
         {
-            "title": "Tesla, Inc. (TSLA) UK Car Sales Fall 37% Amid Heightening Chinese Competition, Reuters Reports",
-            "link": "https://finance.yahoo.com/news/tesla-inc-tsla-uk-car-113139218.html",
+            "title": "Warren Buffett dumped 77% of Amazon to buy surging media stock",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-dumped-77-amazon-003700673.html",
             "description": "",
-            "pubDate": "2026-03-10T12:31:39",
-            "image_url": "https://media.zenfs.com/en/insidermonkey.com/1277c6032fd09b727a10249a170024cf"
+            "pubDate": "2026-04-22T01:37:00",
+            "image_url": "https://media.zenfs.com/en/thestreet_881/0eb641225850472e04986f0e01376b75"
         }
     ]
 }

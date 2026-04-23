@@ -2,42 +2,42 @@
     "title": "Individual feed for https://www.therobotreport.com/feed/",
     "link": "https://www.therobotreport.com/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-10T07:57:17.045020",
+    "lastBuildDate": "2026-04-22T16:11:11.146282",
     "items": [
         {
-            "title": "PlusAI launches its upgraded autonomous driver for freight operations",
-            "link": "https://www.therobotreport.com/plusai-launches-its-upgraded-autonomous-driver-for-freight-operations/",
-            "description": "The upgraded driver can handle night driving and construction zone handling, PlusAI said, which are crucial for commercial freight operations. The pos...",
-            "pubDate": "2026-03-09T21:20:40",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/03/plusAI-featured.jpg"
+            "title": "Cruz’ing through the terminal: A&K Robotics lands $8M for autonomous mobility",
+            "link": "https://www.therobotreport.com/cruzing-through-the-terminal-ak-robotics-lands-8m-for-autonomous-mobility/",
+            "description": "Investment is led by Business Development Bank of Canada’s Industrial Innovation Venture Fund and Vantage Futures to expand production and R&D capacit...",
+            "pubDate": "2026-04-22T20:03:45",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/04/Cruz-Pod-White-YVR-landscape.jpg"
         },
         {
-            "title": "ABB boosts RobotStudio with NVIDIA Omniverse libraries",
-            "link": "https://www.therobotreport.com/abb-boosts-robotstudio-with-nvidia-omniverse-libraries/",
-            "description": "ABB will be releasing the subscription-based RobotStudio HyperReality simulator in the second half of 2026. The post ABB boosts RobotStudio with NVIDI...",
-            "pubDate": "2026-03-09T18:22:12",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/03/Leaderboard-Ad-RSE-Reg-Toay-V1.png"
+            "title": "Glydways brings in $170M to scale its AV technology",
+            "link": "https://www.therobotreport.com/glydways-brings-in-170m-to-scale-its-av-technology/",
+            "description": "Glydways plans to build networks of autonomous vehicle expressways that move people at 10 times the throughput of today's technology. The post Glydway...",
+            "pubDate": "2026-04-22T19:59:04",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/04/glydways-featured.jpg"
         },
         {
-            "title": "OpenAI robotics head resigns over Pentagon deal",
-            "link": "https://www.therobotreport.com/openai-robotics-head-resigns-over-pentagon-deal/",
-            "description": "\"AI has an important role in national security. But surveillance of Americans without judicial oversight and lethal autonomy without human authorizati...",
-            "pubDate": "2026-03-09T18:20:35",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/03/adobestock-openAI-featured.jpg"
+            "title": "Learn about the latest advancements in healthcare robotics at the Robotics Summit & Expo",
+            "link": "https://www.therobotreport.com/learn-about-the-latest-advancements-in-healthcare-robotics-at-the-robotics-summit-expo/",
+            "description": "Healthcare robotics experts from Harvard, ForceN, Rovex Technologies, SKA Robotics, Aethon, MassRobotics, and more will speak at the show. The post Le...",
+            "pubDate": "2026-04-22T17:54:23",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/04/AdobeStock-healthcarerobot-featured.jpg"
         },
         {
-            "title": "Humanoid developer Agility Robotics rebrands",
-            "link": "https://www.therobotreport.com/humanoid-developer-agility-robotics-rebrands/",
-            "description": "The company said the rebrand reflects its readiness to scale deployments and lead humanoid adoption across new industries. The post Humanoid developer...",
-            "pubDate": "2026-03-07T14:00:48",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/03/agility-logo.jpg"
+            "title": "Crewline secures $7.1M to automate construction’s most repetitive task",
+            "link": "https://www.therobotreport.com/crewline-secures-7-1m-to-automate-constructions-most-repetitive-task/",
+            "description": "Crewline automates construction rollers with retrofit kits, tackling labor shortages with a $7.1M seed round and $26M waitlist. The post Crewline secu...",
+            "pubDate": "2026-04-22T17:36:37",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/04/crewline-featured.jpg"
         },
         {
-            "title": "Plug-and-Play AI: Transforming robotics with modular skills",
-            "link": "https://www.therobotreport.com/plug-and-play-ai-transforming-robotics-with-modular-skills/",
-            "description": "Our guest this week is Dinesh Narayanan, Head of Commercialization, General Robotics. The post Plug-and-Play AI: Transforming robotics with modular sk...",
-            "pubDate": "2026-03-06T23:34:48",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/03/Dinesh-headshot.jpg"
+            "title": "HII partners with Path Robotics, GrayMatter Robotics to accelerate shipbuilding",
+            "link": "https://www.therobotreport.com/hii-partners-path-robotics-graymatter-robotics-accelerate-shipbuilding/",
+            "description": "GrayMatter Robotics and Path Robotics are both deepening their existing relationship with HII, one of the country's leading shipbuilders. The post HII...",
+            "pubDate": "2026-04-22T13:30:22",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/04/pathrobotics-featured.jpg"
         }
     ]
 }

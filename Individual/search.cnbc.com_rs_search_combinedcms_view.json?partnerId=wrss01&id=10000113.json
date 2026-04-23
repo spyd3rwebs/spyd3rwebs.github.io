@@ -2,42 +2,42 @@
     "title": "Individual feed for https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000113",
     "link": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000113",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-10T07:59:36.986824",
+    "lastBuildDate": "2026-04-22T16:15:30.694649",
     "items": [
         {
-            "title": "Warsh to meet Tillis as Senate confirmation remains blocked",
-            "link": "https://www.cnbc.com/2026/03/09/fed-warsh-tillis-nomination-senate.html",
-            "description": "Sen. Thom Tillis, R-N.C., has refused to advance Warsh's confirmation until a probe into Fed Chair Jerome Powell is dropped.",
-            "pubDate": "2026-03-10T12:11:09",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "China’s nudge, U.S. waiver and Iran tensions test India’s economic balancing act",
-            "link": "https://www.cnbc.com/2026/03/10/india-iran-oil-crisis-brics-diplomacy-us-china.html",
-            "description": "India is trying to preserve its long-standing neutral foreign policy as escalating tensions around Iran threaten its oil supply and expose New Delhi t...",
-            "pubDate": "2026-03-10T10:34:14",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Oil tankers transiting Strait of Hormuz 'must be very careful,' Iran Foreign Ministry warns",
-            "link": "https://www.cnbc.com/2026/03/09/iran-war-oil-tankers-strait-of-hormuz.html",
-            "description": "The price of crude oil has sharply spiked as the Strait of Hormuz has been effectively closed as the United States and Israel wage war on Iran.",
-            "pubDate": "2026-03-10T05:54:56",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Trump says Iran war will end 'very soon,' predicts lower oil prices",
-            "link": "https://www.cnbc.com/2026/03/09/trump-iran-war-end.html",
-            "description": "U.S. stock market indexes rose earlier in the day after an initial report that President Donald Trump said he believed the Iran war was largely finish...",
-            "pubDate": "2026-03-10T01:17:17",
+            "title": "Pirro says DOJ won't drop Fed probe, will appeal judge's order blocking Powell subpoenas",
+            "link": "https://www.cnbc.com/2026/04/22/fed-powell-trump-warsh-pirro-appeal.html",
+            "description": "Powell has accused the DOJ of targeting him for refusing to obey Trump's demand that the Fed sharply lower interest rates.",
+            "pubDate": "2026-04-22T20:46:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "Democrats threaten more Iran war powers votes, call for Hegseth, Rubio to testify",
-            "link": "https://www.cnbc.com/2026/03/09/iran-war-powers-votes-congress.html",
-            "description": "Democrats are vowing to interrupt normal order in the Senate unless Pete Hegseth and Marco Rubio testify publicly.",
-            "pubDate": "2026-03-10T01:03:19",
+            "title": "Virginia redistricting election win buoys congressional Democrats",
+            "link": "https://www.cnbc.com/2026/04/22/virginia-election-results-redistricting-congress-democrats.html",
+            "description": "Virginia voted by a slim margin on Tuesday to approve U.S. House district maps that could allow Democrats to flip four seats in the state this Novembe...",
+            "pubDate": "2026-04-22T20:08:37",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Bessent says 'many' U.S. allies have asked for currency swaps amid Iran war turbulence",
+            "link": "https://www.cnbc.com/2026/04/22/iran-war-treasury-uae-scott-bessent-currency-swaps.html",
+            "description": "The White House on Tuesday said the UAE had not requested a currency swap line.",
+            "pubDate": "2026-04-22T19:46:20",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Rep. David Scott, a Georgia Democrat seeking his 13th term in Congress, dies at age 80",
+            "link": "https://www.cnbc.com/2026/04/22/rep-david-scott-georgia-democrat-dies.html",
+            "description": "U.S. Rep. David Scott, a Georgia Democrat and the first Black chairman of the House Agriculture Committee, has died at age 80.",
+            "pubDate": "2026-04-22T18:59:05",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Thief who swiped purse of ex-DHS chief Kristi Noem gets 3 years in prison",
+            "link": "https://www.cnbc.com/2026/04/22/kristi-noem-dhs-thief-prison-sentence.html",
+            "description": "The man, Chilean national Mario Bustamante Leiva, \"came to Washington illegally to prey on citizens of the District,\" said U.S. Attorney Jeanine Pirro...",
+            "pubDate": "2026-04-22T18:38:04",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         }
     ]
 }

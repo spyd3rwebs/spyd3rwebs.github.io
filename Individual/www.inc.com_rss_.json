@@ -2,42 +2,42 @@
     "title": "Individual feed for https://www.inc.com/rss/",
     "link": "https://www.inc.com/rss/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-10T07:57:17.933134",
+    "lastBuildDate": "2026-04-22T16:11:11.914410",
     "items": [
         {
-            "title": "How President Trump Hijacked Oil Markets With Social Media Diplomacy",
-            "link": "https://www.inc.com/phil-rosen/president-trump-oil-prices-truth-social-media-iran-war/91314045",
-            "description": "Monday saw the most volatile swings in crude prices on record.",
-            "pubDate": "2026-03-10T12:49:27",
-            "image_url": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/03/5b8ecec5-31dd-458b-b824-30896d704256.jpg"
+            "title": "Anthropic Investigates ‘Unauthorized Access’ to Its Ultra-Powerful Claude Mythos AI Model",
+            "link": "https://www.inc.com/chloe-aiello/anthropic-investigates-unauthorized-access-to-its-ultra-powerful-claude-mythos-ai-model/91334722",
+            "description": "Meanwhile, CISA, the U.S. Cybersecurity and Infrastructure Agency, reportedly does not have access to Claude Mythos.",
+            "pubDate": "2026-04-22T20:56:09",
+            "image_url": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/04/claude-mythos-hacked-discord-inc-2249797221.jpg"
         },
         {
-            "title": "My Colleague Lied to Me About a Shared Project",
-            "link": "https://www.inc.com/alison-green/my-colleague-lied-to-me-about-a-shared-project/91302814",
-            "description": "… and two other tricky workplace dilemmas.",
-            "pubDate": "2026-03-10T12:15:00",
-            "image_url": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/03/GettyImages-1362763039.jpg"
+            "title": "A Popular Fast Food Chain Just Went All-In on MAHA With Its Latest Hire",
+            "link": "https://www.inc.com/leila-sheridan/steak-n-shake-maha-executive/91334736",
+            "description": "Steak ’n Shake has appointed its first-ever “Make America Healthy Again” officer.",
+            "pubDate": "2026-04-22T20:54:13",
+            "image_url": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/04/steak-n-shake-maha-inc-1289252806.jpg"
         },
         {
-            "title": "To Expand Reproductive Health Care Access, Cadence OTC Went to the Convenience Store",
-            "link": "https://www.inc.com/naomi-barr/to-expand-reproductive-health-care-access-cadence-otc-went-to-the-convenience-store/91302021",
-            "description": "Co-founder Samantha Miller has a simple goal: Make Plan B available everywhere condoms are sold.",
-            "pubDate": "2026-03-10T12:00:00",
-            "image_url": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/02/inc-samantha-miller-1920x1080-1.jpg"
+            "title": "Starbucks Sent Real Assistants to ‘The Devil Wears Prada 2’ Premiere—in Costume",
+            "link": "https://www.inc.com/annabel-burba/starbucks-sent-real-assistants-to-the-devil-wears-prada-2-premiere-in-costume/91334582",
+            "description": "The marketing stunt sparked praise, jokes, and backlash online.",
+            "pubDate": "2026-04-22T19:53:27",
+            "image_url": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/04/Starbucks-drinks-and-The-Devil-Wears-Prada-inc.jpg"
         },
         {
-            "title": "Her Fluorescent Crops Give a Voice to Plants—and Power to Farmers",
-            "link": "https://www.inc.com/chloe-aiello/her-fluorescent-crops-give-a-voice-to-plants-and-power-to-farmers/91302019",
-            "description": "Shely Aronov’s InnerPlant has raised $53 million and partnered with John Deere to help plants alert farmers to pests and disease.",
-            "pubDate": "2026-03-10T12:00:00",
-            "image_url": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/02/inc-Shely-Aronov-InnerPlant-CEO-cofounder-1920x1080-1.jpg"
+            "title": "Google’s $750 Million Plan to Move AI From Experiments to the Real World",
+            "link": "https://www.inc.com/leila-sheridan/googles-750-million-plan-to-move-ai-from-experiments-to-the-real-world/91334694",
+            "description": "Google’s new strategy aims to solve one of AI’s biggest problems.",
+            "pubDate": "2026-04-22T19:23:51",
+            "image_url": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/04/google-cloud-750-million-ai-inc-2252915593.jpg"
         },
         {
-            "title": "Meet Throne Labs, the Company Making Public Bathrooms a Better Place to Go",
-            "link": "https://www.inc.com/bryce-covert/meet-throne-labs-the-company-making-public-bathrooms-a-better-place-to-go/91302017",
-            "description": "After a year of major growth, Jessica Heinzelman’s smart, modular public bathrooms are in 20 cities and counting.",
-            "pubDate": "2026-03-10T12:00:00",
-            "image_url": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/02/inc-web-throne-labs-1920x1080-1.jpg"
+            "title": "Keep Up With Payroll Compliance",
+            "link": "https://www.inc.com/nellie-akalp/keep-up-with-payroll-compliance/91334088",
+            "description": "Payroll mistakes are costly. Here’s how to stay compliant as the requirements become more complex.",
+            "pubDate": "2026-04-22T19:19:00",
+            "image_url": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/04/INC-Masters-Fast-Company-publishing-2026-04-21T122354.178.png"
         }
     ]
 }

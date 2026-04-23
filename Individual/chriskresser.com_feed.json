@@ -2,42 +2,42 @@
     "title": "Individual feed for https://chriskresser.com/feed",
     "link": "https://chriskresser.com/feed",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-10T07:59:10.022822",
+    "lastBuildDate": "2026-04-22T16:13:01.479028",
     "items": [
         {
-            "title": "RHR: Beyond the Gut: The Microbiome’s Role in Sleep, Energy, and Longevity, with Dr. Zain Kassam",
-            "link": "https://chriskresser.com/beyond-the-gut-the-microbiomes-role-in-sleep-energy-and-longevity-with-dr-zain-kassam/",
-            "description": "In this episode of Revolution Health Radio, Chris sits down with gastroenterologist and microbiome researcher Dr. Zain Kassam to explore the rapidly e...",
-            "pubDate": "2026-03-10T08:02:09",
+            "title": "RHR: The GLP-1 Blind Spot: What Ozempic Won’t Do for Your Metabolic Health",
+            "link": "https://chriskresser.com/the-glp-1-blind-spot-what-ozempic-wont-do-for-your-metabolic-health/",
+            "description": "In this episode of Revolution Health Radio, Chris explores the science behind GLP-1 medications, including their powerful effects on appetite, weight ...",
+            "pubDate": "2026-04-21T08:02:04",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "RHR: The Gut-Brain Connection: How Your Microbiome Affects Your Mental Health",
-            "link": "https://chriskresser.com/the-gut-brain-connection-how-your-microbiome-affects-your-mental-health/",
-            "description": "Depression and anxiety are often treated as chemical imbalances in the brain—but what if the real problem starts in the gut? In this episode of Revolu...",
-            "pubDate": "2026-02-24T08:02:19",
+            "title": "RHR: Shaking Up the Salt Myth",
+            "link": "https://chriskresser.com/tomato-shaking-up-the-salt-myth/",
+            "description": "For decades, public health guidelines have warned that reducing sodium intake is essential for preventing high blood pressure and cardiovascular disea...",
+            "pubDate": "2026-04-14T08:02:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "RHR: Mouth Taping: Beyond the Hype—What the Science Really Says",
+            "link": "https://chriskresser.com/mouth-taping-beyond-the-hype-what-the-science-really-says/",
+            "description": "In this episode of Revolution Health Radio, Chris Kresser explores the viral trend of mouth taping and explains why the reality is more complex than t...",
+            "pubDate": "2026-04-07T08:02:08",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "RHR: Erythritol: The ‘Safe’ Sweetener That’s Anything But",
+            "link": "https://chriskresser.com/erythritol-the-safe-sweetener-thats-anything-but/",
+            "description": "Erythritol, a popular sweetener found in countless sugar-free and keto products, has long been considered a safe alternative to sugar. This episode of...",
+            "pubDate": "2026-03-31T08:02:01",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "RHR: Vitamin D: Why a Personalized Approach Is Best",
-            "link": "https://chriskresser.com/vitamin-d-why-a-personalized-approach-is-best/",
-            "description": "In this episode of Revolution Health Radio, Chris Kresser explains why vitamin D supplementation should never be one-size-fits-all. Drawing on new res...",
-            "pubDate": "2026-02-10T08:02:49",
+            "title": "RHR: Preserving Cognitive Function As You Age, with Tommy Wood",
+            "link": "https://chriskresser.com/preserving-cognitive-function-as-you-age-with-tommy-wood/",
+            "description": "In this episode of Revolution Health Radio, Chris Kresser is joined by neuroscientist and physician Dr. Tommy Wood to explore how cognitive function c...",
+            "pubDate": "2026-03-24T08:02:15",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "RHR: Cold Exposure: Why Sustained Beats Extreme",
-            "link": "https://chriskresser.com/cold-exposure-why-sustained-beats-extreme/",
-            "description": "Cold plunges and ice baths dominate social media, but do they really deliver the best metabolic benefits? In this episode of Revolution Health Radio, ...",
-            "pubDate": "2026-01-27T08:03:03",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "RHR: Why Your Sleep Schedule Matters As Much As Duration",
-            "link": "https://chriskresser.com/why-your-sleep-schedule-matters-as-much-as-duration/",
-            "description": "In this episode of Revolution Health Radio, Chris challenges the conventional focus on sleep duration and makes the case that sleep timing and circadi...",
-            "pubDate": "2026-01-13T08:05:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         }
     ]
 }

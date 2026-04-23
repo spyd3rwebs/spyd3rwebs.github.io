@@ -2,41 +2,41 @@
     "title": "Individual feed for https://abcnews.go.com/abcnews/usheadlines",
     "link": "https://abcnews.go.com/abcnews/usheadlines",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-10T07:54:50.837808",
+    "lastBuildDate": "2026-04-22T16:08:51.215346",
     "items": [
         {
-            "title": "FAA briefly grounds all JetBlue flights after a request from the airline",
-            "link": "https://abcnews.com/US/wireStory/faa-grounds-jetblue-flights-after-request-airline-130924151",
-            "description": "The Federal Aviation Administration briefly grounded all JetBlue flights due to a request from the airline",
-            "pubDate": "2026-03-10T11:27:18",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Wildflowers are blooming in the driest place in North America — but not for long",
-            "link": "https://abcnews.com/US/wireStory/wildflowers-blooming-driest-place-north-america-long-130922472",
-            "description": "Visitors are flocking to Death Valley National Park in California and Nevada to take in a rare phenomenon known as a superbloom",
-            "pubDate": "2026-03-10T11:27:14",
+            "title": "Democrats win in Virginia but it won't be the final say in a national redistricting competition",
+            "link": "https://abcnews.com/US/wireStory/democrats-win-virginia-final-national-redistricting-competition-132284429",
+            "description": "Democrats are celebrating an election win in Virginia that could put them slightly ahead in the national redistricting competition that President Dona...",
+            "pubDate": "2026-04-22T20:33:01",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "Dignified transfer for Kentucky soldier who was the 7th US service member to die in Iran war",
-            "link": "https://abcnews.com/US/wireStory/kentucky-soldier-saudi-arabia-7th-us-service-member-130910946",
-            "description": "Vice President JD Vance joined the grieving family of a Kentucky man who was the seventh U.S. service member to die in combat during the Iran war as h...",
-            "pubDate": "2026-03-10T11:26:53",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "title": "Federal appeals court blocks California law requiring federal agents to wear identification",
+            "link": "https://abcnews.com/US/wireStory/federal-appeals-court-blocks-california-law-requiring-federal-132281463",
+            "description": "An appeals court has blocked a California law passed in 2025 requiring federal immigration agents to wear a badge or some form of identification",
+            "pubDate": "2026-04-22T19:19:08",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "FBI hunts for clues after 2 men charged with lighting bombs at NYC protest",
-            "link": "https://abcnews.com/US/wireStory/fbi-hunts-clues-after-2-men-charged-lighting-130922851",
-            "description": "Investigators are trying to learn more about two Pennsylvania men accused of bringing homemade bombs to a protest outside the home of New York City’s ...",
-            "pubDate": "2026-03-10T11:10:36",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "title": "Houston changes ordinance limiting cooperation with ICE after pressure from governor",
+            "link": "https://abcnews.com/US/wireStory/houston-ordinance-limiting-cooperation-ice-after-pressure-governor-132281462",
+            "description": "A Houston city ordinance that limited police officers’ cooperation with federal immigration agents has been amended after Texas’ governor had threaten...",
+            "pubDate": "2026-04-22T19:17:13",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "New Mexico prosecutors launch search of Jeffrey Epstein's secluded former Zorro Ranch",
-            "link": "https://abcnews.com/US/wireStory/new-mexico-prosecutors-launch-search-jeffrey-epsteins-secluded-130918618",
-            "description": "State investigators have begun searching of a secluded ranch in New Mexico where financier and sex offender Jeffrey Epstein once entertained guests am...",
-            "pubDate": "2026-03-10T09:21:00",
+            "title": "6 people are charged in a plot to steal and resell dozens of cars from the DC area",
+            "link": "https://abcnews.com/US/wireStory/6-people-charged-plot-steal-resell-dozens-cars-132280801",
+            "description": "Six people have been charged with plotting to steal at least 20 cars from the Washington, D.C., area and sell them to buyers in the United States and ...",
+            "pubDate": "2026-04-22T18:56:43",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "The Gates Foundation is reviewing its Epstein ties as released emails raise questions for funders",
+            "link": "https://abcnews.com/US/wireStory/gates-foundation-reviewing-epstein-ties-released-emails-raise-132280805",
+            "description": "The Gates Foundation confirmed Wednesday that it is reviewing its ties to convicted sex offender Jeffrey Epstein",
+            "pubDate": "2026-04-22T18:56:41",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         }
     ]

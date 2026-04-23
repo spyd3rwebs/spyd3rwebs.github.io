@@ -2,28 +2,6 @@
     "title": "Individual feed for https://lead-mark.github.io/snippets/APUSnews.RSS",
     "link": "https://lead-mark.github.io/snippets/APUSnews.RSS",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-10T07:57:09.249045",
-    "items": [
-        {
-            "title": "Georgia voters choosing a successor to Marjorie Taylor Greene in US House",
-            "link": "https://apnews.com/article/georgia-congress-house-marjorie-greene-special-election-76dd6570a5deef7036650530aed3be93",
-            "description": "",
-            "pubDate": "2026-03-10T01:01:52",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "In a time of war with Iran, Americans unite in aggravation over sticker shock at the gas pump",
-            "link": "https://apnews.com/article/iran-war-gas-prices-trump-voters-648000c2a4ffe03f8d647b8e7371bb13",
-            "description": "",
-            "pubDate": "2026-03-10T01:01:30",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Dignified transfer for Kentucky soldier who was the 7th US service member to die in Iran war",
-            "link": "https://apnews.com/article/iran-war-us-military-soldier-died-40535c69cd3b8451e0926e808c3df43c",
-            "description": "Vice President JD Vance joined the grieving family of a Kentucky man who was the seventh U.S. service member to die in combat during the Iran war as h...",
-            "pubDate": "2026-03-09T15:43:14",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        }
-    ]
+    "lastBuildDate": "2026-04-22T16:11:03.476332",
+    "items": []
 }

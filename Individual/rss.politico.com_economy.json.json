@@ -2,8 +2,15 @@
     "title": "Individual feed for https://rss.politico.com/economy.xml",
     "link": "https://rss.politico.com/economy.xml",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-10T07:57:19.870298",
+    "lastBuildDate": "2026-04-22T16:11:13.994699",
     "items": [
+        {
+            "title": "Canada’s prime minister says economic ties with US are a weakness that must be corrected",
+            "link": "https://www.politico.com/news/2026/04/19/canadas-prime-minister-says-economic-ties-with-us-are-a-weakness-that-must-be-corrected-00880254",
+            "description": "“We have to take care of ourselves because we can’t rely on one foreign partner,” Mark Carney said in a video address. “We can’t control the disruptio...",
+            "pubDate": "2026-04-20T02:53:51",
+            "image_url": "https://static.politico.com/44/af/5f3bd03f4f90a29527dab3c9c411/china-canada-carney-29140.jpg"
+        },
         {
             "title": "Trump Keeps Gambling With the Economy — And Getting Away With It",
             "link": "https://www.politico.com/news/magazine/2026/03/05/trump-economy-risk-iran-oil-tariffs-tax-cuts-00812888",
@@ -16,28 +23,7 @@
             "link": "https://www.politico.com/live-updates/2026/02/26/congress/trump-immigration-midterms-gop-legislation-agenda-00799871",
             "description": "",
             "pubDate": "2026-02-26T13:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "‘I’ve won affordability’: Trump previews SOTU in Georgia rally",
-            "link": "https://www.politico.com/news/2026/02/19/trump-sotu-georgia-rally-00790155",
-            "description": "The president stopped in Marjorie Taylor Greene’s old district to defend his economic record.",
-            "pubDate": "2026-02-19T23:56:26",
-            "image_url": "https://static.politico.com/b7/7f/d6d3a2224ce2ad18ddf2de6d3ec3/trump-georgia-07318.jpg"
-        },
-        {
-            "title": "Trump in Iowa tries to shift the conversation back to the economy",
-            "link": "https://www.politico.com/news/2026/01/27/trump-iowa-shift-conversation-economy-00751246",
-            "description": "A brief swing through the farm state underscored administration fears about the midterms.",
-            "pubDate": "2026-01-28T01:10:41",
-            "image_url": "https://static.politico.com/a3/2a/53c1329140969af3d33d46437af2/trump-85804.jpg"
-        },
-        {
-            "title": "Americans give Trump low marks on handling of economy as midterms likely to center on affordability",
-            "link": "https://www.politico.com/news/2026/01/16/cnn-poll-americans-trump-economy-affordability-00733331",
-            "description": "Sixty-one percent of voters told a CNN poll released Friday that they disapprove of the way Trump is handling the economy.",
-            "pubDate": "2026-01-16T16:21:41",
-            "image_url": "https://static.politico.com/68/b2/5b9d44ab4d0c8b17f4ef174553ab/trump-99151.jpg"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         }
     ]
 }

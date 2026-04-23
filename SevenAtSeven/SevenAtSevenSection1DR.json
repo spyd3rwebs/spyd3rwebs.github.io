@@ -2,133 +2,112 @@
     "title": "SevenAtSevenSection1",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from SevenAtSevenSection1, skipping any feeds with errors.",
-    "lastBuildDate": "2026-03-10T07:54:54.734857",
+    "lastBuildDate": "2026-04-22T16:08:54.575457",
     "items": [
         {
-            "title": "GLP-1s have transformed weight loss and diabetes. Is addiction next?",
-            "link": "https://www.npr.org/2026/03/10/nx-s1-5739396/glp-1-ozempic-addiction-substance-use-disorders-weight-loss",
-            "description": "A large study found that people taking GLP-1 drugs like Ozempic for diabetes were less likely to be diagnosed with substance use disorder.",
-            "pubDate": "2026-03-10T11:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4800x2700+0+0/resize/4800x2700!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fee%2Fa2%2F842aae8b44e790aa621c2dbf8501%2Fnprgpl1-smallest.gif"
+            "title": "The tariff refund process has begun for businesses. What about customers?",
+            "link": "https://www.npr.org/2026/04/22/nx-s1-5791663/the-tariff-refund-customers",
+            "description": "While shipping companies are pledging refunds for customers who directly paid tariff fees, the situation is much trickier for retailers.",
+            "pubDate": "2026-04-22T18:32:09",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7327x4885+0+0/resize/7327x4885!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F20%2Fd7%2F93e17fa0451f84a31453f9adf367%2Fap26076097194483.jpg"
         },
         {
-            "title": "'Pro-worker AI,' streaming fatalities, and other fascinating new economic studies",
-            "link": "https://www.npr.org/sections/planet-money/2026/03/10/g-s1-112700/pro-worker-ai-streaming-fatalities-and-other-fascinating-new-economic-studies",
-            "description": "From artificial intelligence to fatalities from music streaming to the effects of immigrants on elderly health care, the Planet Money newsletter round...",
-            "pubDate": "2026-03-10T11:30:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1a%2F30%2F23b216ca4677a8bcf103f2d18657%2Fgettyimages-2191540119.jpg"
+            "title": "Iranians are leaving the country just to access the internet",
+            "link": "https://www.npr.org/2026/04/22/g-s1-118339/iran-internet-access-turkey",
+            "description": "Iran has cut off its access to the global internet. To find an internet connection, some Iranians are traveling across the border with Turkey — even j...",
+            "pubDate": "2026-04-22T16:12:09",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6592x4055+0+0/resize/6592x4055!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F05%2F59%2Fdb51cff74d82ba83477a71df6940%2Fap26061721060765.jpg"
         },
         {
-            "title": "Trump gives mixed messages about when the war with Iran will end",
-            "link": "https://www.npr.org/2026/03/10/nx-s1-5742828/iran-war-us-trump",
-            "description": "In a phone call with CBS News Monday, Trump said \"the war is very complete.\" But at a separate event with Republican lawmakers, he said the U.S. still...",
-            "pubDate": "2026-03-10T10:35:21",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb7%2Fd0%2Ff59399634a788a0fbe783627fbb3%2Fap26067414454574.jpg"
+            "title": "Gene therapy for a rare type of deafness shows lasting results",
+            "link": "https://www.npr.org/2026/04/22/nx-s1-5791478/gene-therapy-deafness-hearing",
+            "description": "Researchers say a gene therapy allowed deaf children and adults as old as 32 to hear for the first time. The benefits have persisted for more than two...",
+            "pubDate": "2026-04-22T16:00:04",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6122x4592+0+0/resize/6122x4592!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdd%2F92%2Fae8ebc8c41c89301296e3f598025%2Fdr-yilai-shu-examines-a-young-patient-at-the-eye-ent-hospital-of-fudan-university.jpg"
         },
         {
-            "title": "Trump gives mixed signals on Iran war. And, how Epstein built ties to scientists",
-            "link": "https://www.npr.org/2026/03/10/g-s1-113153/up-first-newsletter-iran-us-israel-lebanon-trump-new-york-protest-attack-epstein-lawsuit-immigration",
-            "description": "President Trump provided conflicting messages about when the U.S. and Israel's war with Iran will end. And, NPR investigates how late convicted sex of...",
-            "pubDate": "2026-03-10T12:12:10",
-            "image_url": "https://feeds.npr.org/1001/undefined"
+            "title": "Inside Linda McMahon's effort to dismantle the Department of Education",
+            "link": "https://www.npr.org/2026/04/22/nx-s1-5794689/from-professional-wrestling-to-the-department-of-education-inside-linda-mcmahons-effort-to-dismantle-the-department-of-education",
+            "description": "A former pro-wrestling executive, McMahon is now the education secretary Trump tasked with abolishing the agency. New Yorker writer Zach Helfand expla...",
+            "pubDate": "2026-04-22T16:21:52",
+            "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5794689"
         },
         {
-            "title": "Morning news brief",
-            "link": "https://www.npr.org/2026/03/10/nx-s1-5741660/newsbrief-trump-on-war-lebanon-israel-nyc-attacks",
-            "description": "Trump hails Iran successes but offers no end date, Lebanon wants talks with Israel, and two teens are charged in NYC attack attempt.",
-            "pubDate": "2026-03-10T10:08:58",
-            "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5741660"
+            "title": "Family influencers make the lifestyle look good. But kids pay the price, new book says",
+            "link": "https://www.npr.org/2026/04/22/nx-s1-5794005/like-follow-subscribe-influencer-book-review",
+            "description": "What does it mean to monetize your offspring? To turn their childhood into content? In Like, Follow, Subscribe Fortesa Latifi explores what drives par...",
+            "pubDate": "2026-04-22T15:46:32",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/993x1500+0+0/resize/993x1500!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F59%2Fcf%2Ffbb0e65b4c3a9edeff91ac22a67a%2Flikefollow.jpg"
         },
         {
-            "title": "Uzbekistan’s Uzum valuation leaps over 50% in seven months to $2.3B",
-            "link": "https://techcrunch.com/2026/03/10/uzbekistans-uzum-valuation-rises-1-5x-in-seven-months-to-2-3b/",
-            "description": "Uzum now reaches 20 million users and processes $11B in payments as it expands its e-commerce and fintech ecosystem across Uzbekistan.",
-            "pubDate": "2026-03-10T08:15:00",
+            "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
+            "link": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
+            "description": "The iPhone and iPad bug allowed law enforcement using forensic tools to read messages that had long been deleted by the Signal app.",
+            "pubDate": "2026-04-22T20:13:02",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Sweeping Zoning Reforms Presents Opportunities For Multifamily Investments",
+            "link": "https://www.biggerpockets.com/blog/sweeping-zoning-reforms-presents-opportunities-for-multifamily-investments",
+            "description": "With the affordability crisis stinging American pocketbooks and small landlords struggling to maintain cash flow amid high interest rates and property...",
+            "pubDate": "2026-04-22T18:01:51",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "BiggerPockets Pulse: Investor Sentiment Falls Amid International Turmoil and Renewed Economic Concerns",
+            "link": "https://www.biggerpockets.com/blog/pulse-q2-2026",
+            "description": "Retail investors’ hopes for improved market conditions are fading in the second quarter of 2026, but many investors still plan to actively grow their ...",
+            "pubDate": "2026-04-22T15:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "From the stage to the future: Where are Startup Battlefield’s alumni now?",
+            "link": "https://techcrunch.com/2026/04/22/from-the-stage-to-the-future-where-are-startup-battlefields-alumni-now/",
+            "description": "We wanted to show you what happens after the confetti falls. We checked in with some of our recent alumni, many of whom have sat down with us on Build...",
+            "pubDate": "2026-04-22T19:42:26",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
-            "title": "The Housing Market Freezes as Americans Brace for War",
-            "link": "https://www.biggerpockets.com/blog/on-the-market-406",
-            "description": "Could the war in Iran reverse all the interest rate relief we’ve received throughout the past year? With oil shooting up in price, unintended conseque...",
-            "pubDate": "2026-03-10T12:00:36",
+            "title": "France confirms data breach at government agency that manages citizens’ IDs",
+            "link": "https://techcrunch.com/2026/04/22/france-confirms-data-breach-at-government-agency-that-manages-citizens-ids/",
+            "description": "The French government agency that issues and manages national IDs, passports, and other documents announced that hackers stole the personal informatio...",
+            "pubDate": "2026-04-22T20:34:41",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
+            "link": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
+            "description": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\"...",
+            "pubDate": "2026-04-22T20:51:51",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Michael Zuber: Why the Average American Won’t Make It Without Rentals",
+            "link": "https://www.biggerpockets.com/blog/real-estate-1268",
+            "description": "By buying just One Rental at a Time, Michael Zuber was able to replace his entire W-2 income, scale from one rental to four, then to over 80 rental un...",
+            "pubDate": "2026-04-22T12:00:11",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "An iPhone-hacking toolkit used by Russian spies likely came from U.S military contractor",
-            "link": "https://techcrunch.com/2026/03/09/an-iphone-hacking-toolkit-used-by-russian-spies-likely-came-from-u-s-military-contractor/",
-            "description": "Google found a series of hacking tools they said were used by a Russian espionage group and a cybercriminal group in China. Sources from a U.S. govern...",
-            "pubDate": "2026-03-10T02:56:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "In a time of war with Iran, Americans unite in aggravation over sticker shock at the gas pump",
-            "link": "https://apnews.com/article/iran-war-gas-prices-trump-voters-648000c2a4ffe03f8d647b8e7371bb13",
-            "description": "",
-            "pubDate": "2026-03-10T01:01:30",
+            "title": "Google Cloud launches two new AI chips to compete with Nvidia",
+            "link": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
+            "description": "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now.",
+            "pubDate": "2026-04-22T19:39:27",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "Georgia voters choosing a successor to Marjorie Taylor Greene in US House",
-            "link": "https://apnews.com/article/georgia-congress-house-marjorie-greene-special-election-76dd6570a5deef7036650530aed3be93",
-            "description": "",
-            "pubDate": "2026-03-10T01:01:52",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "How America Could Soon Be Oversupplied with Homes",
+            "link": "https://www.biggerpockets.com/blog/on-the-market-418",
+            "description": "For years, we’ve been promised that a “tsunami” of homes would hit the market as Baby Boomers age, move into senior housing, and pass away. We’ve been...",
+            "pubDate": "2026-04-21T12:00:59",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "Yann LeCun’s AMI Labs raises $1.03 billion to build world models",
-            "link": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/",
-            "description": "AMI Labs, the new venture cofounded by Turing Prize winner Yann LeCun after he left Meta, has raised $1.03 billion at a $3.5 billion pre-money valuati...",
-            "pubDate": "2026-03-10T06:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Whoop launches a new blood test focused on women’s health",
-            "link": "https://techcrunch.com/2026/03/10/whoop-launches-a-new-blood-test-focused-on-womens-health/",
-            "description": "The wearable maker is launching a new panel focused on women's health through its Whoop Labs blood testing service. It's also adding a new feature to ...",
-            "pubDate": "2026-03-10T11:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Apple now makes one in four iPhones in India: report",
-            "link": "https://techcrunch.com/2026/03/09/apple-now-makes-one-in-four-iphones-in-india-report/",
-            "description": "Apple reportedly produced 55 million units in India last year, a shift accelerated as Apple faced growing uncertainty in China.",
-            "pubDate": "2026-03-10T07:04:43",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Dignified transfer for Kentucky soldier who was the 7th US service member to die in Iran war",
-            "link": "https://apnews.com/article/iran-war-us-military-soldier-died-40535c69cd3b8451e0926e808c3df43c",
-            "description": "Vice President JD Vance joined the grieving family of a Kentucky man who was the seventh U.S. service member to die in combat during the Iran war as h...",
-            "pubDate": "2026-03-09T15:43:14",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "California is Booming With New Investors—Here’s Why the Long-Term Prospects Could Become a Cash Cow",
-            "link": "https://www.biggerpockets.com/blog/why-california-is-booming-with-new-investors",
-            "description": "Wait, isn’t everyone meant to be leaving California? So why is the Golden State racking up new investors? What’s more, these investors aren’t Wall Str...",
-            "pubDate": "2026-03-09T18:27:45",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "What is Cost Segregation and Why Do Investors Keep Talking About It?",
-            "link": "https://www.biggerpockets.com/blog/what-is-cost-segregation",
-            "description": "This article is presented by Cost Segregation Guys. If you spend any time in real estate investing circles, you have probably heard someone mention co...",
-            "pubDate": "2026-03-09T18:40:34",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "How Dave Went from Broke, Living in Grandma’s Basement to Rental Millionaire",
-            "link": "https://www.biggerpockets.com/blog/real-estate-1249",
-            "description": "This investor started with $0 in the bank, waited tables to buy rental properties, secretly moved into a retirement community to save money on rent, a...",
-            "pubDate": "2026-03-09T12:00:26",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "From Homeless to Homeowner with a 7-Bedroom Rental Property",
-            "link": "https://www.biggerpockets.com/blog/rookie-689",
-            "description": "Feel like you’re still years away from investing in real estate? Maybe you’ve got shaky finances, or you think you need more education. Today’s guest ...",
-            "pubDate": "2026-03-09T12:00:43",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "title": "7 Passive Investments Paying 8%+ Every Year",
+            "link": "https://www.biggerpockets.com/blog/7-passive-investments-paying-8-percent-every-year",
+            "description": "Passive income is the engine of financial independence, whether you’re 30 or 65. With enough passive income from investments, working becomes optional...",
+            "pubDate": "2026-04-20T18:24:56",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         }
     ]
 }

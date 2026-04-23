@@ -2,8 +2,22 @@
     "title": "Individual feed for https://minimalistbaker.com/feed/",
     "link": "https://minimalistbaker.com/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-10T07:57:27.716386",
+    "lastBuildDate": "2026-04-22T16:11:21.269415",
     "items": [
+        {
+            "title": "Strawberries & Cream Chia Pudding",
+            "link": "https://minimalistbaker.com/strawberry-chia-pudding/",
+            "description": "Friends, welcome to a land where you can float on strawberry dream clouds all day long. This chia pudding is next-level but still ultra simple ( 5 ing...",
+            "pubDate": "2026-04-14T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2025/06/Strawberry-Chia-Pudding-5-680x1020.jpg"
+        },
+        {
+            "title": "Vegan Sweet Potato Chickpea Taco Salad",
+            "link": "https://minimalistbaker.com/vegan-chickpea-taco-salad/",
+            "description": "If you love our Sweet Potato Chickpea Tacos, get ready for another FAVE! Meet: the Vegan Sweet Potato Chickpea TACO SALAD! It’s got fresh kale + romai...",
+            "pubDate": "2026-03-11T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/05/Vegan-Sweet-Potato-Chickpea-Taco-Salad-7-680x1020.jpg"
+        },
         {
             "title": "Cheesy Jalapeño Cashew Dressing",
             "link": "https://minimalistbaker.com/vegan-cashew-dressing/",
@@ -17,20 +31,6 @@
             "description": "While recently making our tahini cookies for what felt like the millionth time, we thought, Why not add chocolate to this party? The result was even b...",
             "pubDate": "2026-02-10T09:00:00",
             "image_url": "https://minimalistbaker.com/wp-content/uploads/2025/06/Fudgy-Vegan-Chocolate-Tahini-Cookies-7-680x1020.jpg"
-        },
-        {
-            "title": "Vegan Gluten-Free Morning Glory Muffins",
-            "link": "https://minimalistbaker.com/vegan-gluten-free-morning-glory-muffins/",
-            "description": "Say hello to morning glory muffins, made vegan + gluten-free ! A classic treat originally created by Pam McKinstry in 1978 at her Nantucket restaurant...",
-            "pubDate": "2026-01-20T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/01/Vegan-Gluten-Free-Morning-Glory-Muffins-10-680x1020.jpg"
-        },
-        {
-            "title": "Creamy Curried Black Eyed Pea Soup",
-            "link": "https://minimalistbaker.com/curried-black-eyed-pea-soup/",
-            "description": "What’s that? You’d like an easy, delicious soup that practically makes itself and will make all of your wildest dreams come true!? Us too ! We can’t g...",
-            "pubDate": "2025-12-30T09:00:00",
-            "image_url": "https://minimalistbaker.com/wp-content/uploads/2025/06/Creamy-Curried-Vegan-Black-Eyed-Bean-Soup-8-680x1020.jpg"
         }
     ]
 }

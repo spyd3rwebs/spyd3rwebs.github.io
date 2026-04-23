@@ -2,42 +2,42 @@
     "title": "Individual feed for https://new.nsf.gov/rss/rss_www_news.xml",
     "link": "https://new.nsf.gov/rss/rss_www_news.xml",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-10T07:57:11.746181",
+    "lastBuildDate": "2026-04-22T16:11:05.705954",
     "items": [
         {
-            "title": "NSF-DOE Vera C. Rubin Observatory launches real-time discovery machine for monitoring the night sky",
-            "link": "https://www.nsf.gov/news/nsf-doe-vera-c-rubin-observatory-launches-real-time",
-            "description": "NSF-DOE Rubin Observatory has issued its first scientific alerts, enabling dynamic, real-time observation of the night sky. The alerts are expected to...",
-            "pubDate": "2026-02-25T18:00:11",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "title": "Podcast:  Increasing domestic critical minerals supplies",
+            "link": "https://www.nsf.gov/news/podcast-increasing-domestic-critical-minerals-supplies",
+            "description": "Critical minerals play an essential role in modern technologies, and a domestic supply is essential for national security. Elizabeth Holley discusses ...",
+            "pubDate": "2026-04-21T14:25:26",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "NSF to proceed with demolition and site restoration at Sacramento Peak Observatory",
-            "link": "https://www.nsf.gov/news/nsf-proceed-demolition-site-restoration-sacramento-peak",
-            "description": "The U.S. National Science Foundation announced today it will proceed with demolition and site restoration at the Sacramento Peak Observatory, also kno...",
-            "pubDate": "2026-02-24T15:00:07",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "title": "Podcast: The future of quantum computing",
+            "link": "https://www.nsf.gov/news/podcast-future-quantum-computing",
+            "description": "The future of quantum information science and engineering promises computers with unprecedented speed and capabilities. Mikhail Lukin, an NSF-supporte...",
+            "pubDate": "2026-04-14T14:29:10",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "NSF launches $100M National Quantum and Nanotechnology Research Infrastructure program",
-            "link": "https://www.nsf.gov/news/nsf-launches-100m-national-quantum-nanotechnology-research",
-            "description": "The U.S. National Science Foundation is investing up to $100 million to establish a nationwide network of open-access research facilities for quantum ...",
-            "pubDate": "2026-02-13T15:00:08",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "title": "NSF announces 2026 Graduate Research Fellowship Program award offers",
+            "link": "https://www.nsf.gov/news/nsf-announces-2026-graduate-research-fellowship-program",
+            "description": "The U.S. National Science Foundation (NSF) today announced that it has made offers and will award 2,500 Graduate Research Fellowships for the 2026-202...",
+            "pubDate": "2026-04-13T11:59:59",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "Transitioning NCAR-Wyoming Supercomputing Center operations",
-            "link": "https://www.nsf.gov/news/transitioning-ncar-wyoming-supercomputing-center-operations",
-            "description": "The U.S. National Science Foundation has informed the NSF National Center for Atmospheric Research (NCAR) that management and operations of the NCAR-W...",
-            "pubDate": "2026-02-12T21:19:42",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "title": "Podcast: AI-powered labs accelerating scientific discovery",
+            "link": "https://www.nsf.gov/news/podcast-ai-powered-labs-accelerating-scientific-discovery",
+            "description": "U.S. National Science Foundation-supported engineers are developing a bold new vision for chemical and materials discovery. Milad Abolhasani, a profes...",
+            "pubDate": "2026-04-07T16:54:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "NSF announces first AI-ENGAGE awards to modernize global agriculture",
-            "link": "https://www.nsf.gov/news/nsf-announces-first-ai-engage-awards-modernize-global",
-            "description": "The U.S. National Science Foundation, in coordination with partner agencies from Australia, India and Japan, today announced the first cohort of award...",
-            "pubDate": "2026-02-12T15:00:07",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "title": "NSF initiative aims to make every American worker, business and community AI-ready",
+            "link": "https://www.nsf.gov/news/nsf-initiative-aims-make-every-american-worker-business",
+            "description": "The U.S. National Science Foundation announced a new funding opportunity as part of an effort to enable all Americans to understand, apply and create ...",
+            "pubDate": "2026-03-25T17:00:05",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         }
     ]
 }

@@ -2,42 +2,42 @@
     "title": "Individual feed for https://www.economist.com/finance-and-economics/rss.xml",
     "link": "https://www.economist.com/finance-and-economics/rss.xml",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-10T07:56:59.542234",
+    "lastBuildDate": "2026-04-22T16:10:56.689268",
     "items": [
         {
-            "title": "The Iran energy shock reverberates across financial markets",
-            "link": "https://www.economist.com/finance-and-economics/2026/03/09/the-iran-energy-shock-reverberates-across-financial-markets",
-            "description": "For investors, the war is like the invasion of Ukraine all over again",
-            "pubDate": "2026-03-09T20:49:06",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "title": "Global energy markets are on the verge of a disaster",
+            "link": "https://www.economist.com/finance-and-economics/2026/04/21/global-energy-markets-are-on-the-verge-of-a-disaster",
+            "description": "Scenarios now range from bad to awful",
+            "pubDate": "2026-04-21T21:46:14",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "The Iran war puts Asia in an energy panic",
-            "link": "https://www.economist.com/finance-and-economics/2026/03/08/the-iran-war-puts-asia-in-an-energy-panic",
-            "description": "Stranded Gulf supplies are choking off the region’s economies",
-            "pubDate": "2026-03-08T18:48:39",
+            "title": "The stablecoin market has got too stable",
+            "link": "https://www.economist.com/finance-and-economics/2026/04/21/the-stablecoin-market-has-got-too-stable",
+            "description": "Rapid growth in dollar-backed crypto has stalled",
+            "pubDate": "2026-04-21T20:10:20",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "American corporate profits keep shrugging off global tumult",
+            "link": "https://www.economist.com/finance-and-economics/2026/04/20/american-corporate-profits-keep-shrugging-off-global-tumult",
+            "description": "Earnings expectations are through the roof",
+            "pubDate": "2026-04-20T20:49:36",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "Would America be in recession without the super-rich?",
-            "link": "https://www.economist.com/finance-and-economics/2026/03/08/would-america-be-in-recession-without-the-super-rich",
-            "description": "American anxieties are K-shaped. The economy is more like a backslash",
-            "pubDate": "2026-03-08T13:36:30",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "title": "Hormuz is (apparently) unblocked. Energy markets remain a mess",
+            "link": "https://www.economist.com/finance-and-economics/2026/04/17/hormuz-is-apparently-unblocked-energy-markets-remain-a-mess",
+            "description": "Mines, mistrust and missing ships will keep markets tight for months",
+            "pubDate": "2026-04-17T20:42:15",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
-            "title": "To understand why countries grow, look at their firms",
-            "link": "https://www.economist.com/finance-and-economics/2026/03/05/to-understand-why-countries-grow-look-at-their-firms",
-            "description": "The third way in development economics",
-            "pubDate": "2026-03-05T10:36:23",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "India’s economy is not as big as economists thought",
-            "link": "https://www.economist.com/finance-and-economics/2026/03/05/indias-economy-is-not-as-big-as-economists-thought",
-            "description": "But it is growing faster",
-            "pubDate": "2026-03-05T10:33:42",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "title": "Global imbalances are back. Who’s to blame?",
+            "link": "https://www.economist.com/finance-and-economics/2026/04/16/global-imbalances-are-back-whos-to-blame",
+            "description": "The suspects look familiar",
+            "pubDate": "2026-04-16T10:58:29",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         }
     ]
 }

@@ -2,42 +2,42 @@
     "title": "Individual feed for https://biggerpockets.com/blog/feed",
     "link": "https://biggerpockets.com/blog/feed",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-10T07:54:54.741280",
+    "lastBuildDate": "2026-04-22T16:08:54.585847",
     "items": [
         {
-            "title": "The Housing Market Freezes as Americans Brace for War",
-            "link": "https://www.biggerpockets.com/blog/on-the-market-406",
-            "description": "Could the war in Iran reverse all the interest rate relief we’ve received throughout the past year? With oil shooting up in price, unintended conseque...",
-            "pubDate": "2026-03-10T12:00:36",
+            "title": "Sweeping Zoning Reforms Presents Opportunities For Multifamily Investments",
+            "link": "https://www.biggerpockets.com/blog/sweeping-zoning-reforms-presents-opportunities-for-multifamily-investments",
+            "description": "With the affordability crisis stinging American pocketbooks and small landlords struggling to maintain cash flow amid high interest rates and property...",
+            "pubDate": "2026-04-22T18:01:51",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "BiggerPockets Pulse: Investor Sentiment Falls Amid International Turmoil and Renewed Economic Concerns",
+            "link": "https://www.biggerpockets.com/blog/pulse-q2-2026",
+            "description": "Retail investors’ hopes for improved market conditions are fading in the second quarter of 2026, but many investors still plan to actively grow their ...",
+            "pubDate": "2026-04-22T15:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Michael Zuber: Why the Average American Won’t Make It Without Rentals",
+            "link": "https://www.biggerpockets.com/blog/real-estate-1268",
+            "description": "By buying just One Rental at a Time, Michael Zuber was able to replace his entire W-2 income, scale from one rental to four, then to over 80 rental un...",
+            "pubDate": "2026-04-22T12:00:11",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "What is Cost Segregation and Why Do Investors Keep Talking About It?",
-            "link": "https://www.biggerpockets.com/blog/what-is-cost-segregation",
-            "description": "This article is presented by Cost Segregation Guys. If you spend any time in real estate investing circles, you have probably heard someone mention co...",
-            "pubDate": "2026-03-09T18:40:34",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "title": "How America Could Soon Be Oversupplied with Homes",
+            "link": "https://www.biggerpockets.com/blog/on-the-market-418",
+            "description": "For years, we’ve been promised that a “tsunami” of homes would hit the market as Baby Boomers age, move into senior housing, and pass away. We’ve been...",
+            "pubDate": "2026-04-21T12:00:59",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "California is Booming With New Investors—Here’s Why the Long-Term Prospects Could Become a Cash Cow",
-            "link": "https://www.biggerpockets.com/blog/why-california-is-booming-with-new-investors",
-            "description": "Wait, isn’t everyone meant to be leaving California? So why is the Golden State racking up new investors? What’s more, these investors aren’t Wall Str...",
-            "pubDate": "2026-03-09T18:27:45",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "From Homeless to Homeowner with a 7-Bedroom Rental Property",
-            "link": "https://www.biggerpockets.com/blog/rookie-689",
-            "description": "Feel like you’re still years away from investing in real estate? Maybe you’ve got shaky finances, or you think you need more education. Today’s guest ...",
-            "pubDate": "2026-03-09T12:00:43",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "How Dave Went from Broke, Living in Grandma’s Basement to Rental Millionaire",
-            "link": "https://www.biggerpockets.com/blog/real-estate-1249",
-            "description": "This investor started with $0 in the bank, waited tables to buy rental properties, secretly moved into a retirement community to save money on rent, a...",
-            "pubDate": "2026-03-09T12:00:26",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "title": "7 Passive Investments Paying 8%+ Every Year",
+            "link": "https://www.biggerpockets.com/blog/7-passive-investments-paying-8-percent-every-year",
+            "description": "Passive income is the engine of financial independence, whether you’re 30 or 65. With enough passive income from investments, working becomes optional...",
+            "pubDate": "2026-04-20T18:24:56",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         }
     ]
 }

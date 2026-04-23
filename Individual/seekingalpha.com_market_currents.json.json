@@ -2,42 +2,42 @@
     "title": "Individual feed for https://seekingalpha.com/market_currents.xml",
     "link": "https://seekingalpha.com/market_currents.xml",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-10T07:56:59.538155",
+    "lastBuildDate": "2026-04-22T16:10:56.687130",
     "items": [
         {
-            "title": "HeartBeam enters strategic AI collaboration with Mount Sinai",
-            "link": "https://seekingalpha.com/news/4562654-heartbeam-enters-strategic-ai-collaboration-with-mount-sinai?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+            "title": "Las Vegas Sands Non-GAAP EPS of $0.91 beats by $0.15, revenue of $3.59B beats by $240M",
+            "link": "https://seekingalpha.com/news/4578204-las-vegas-sands-non-gaap-eps-of-0_91-beats-by-0_15-revenue-of-3_59b-beats-by-240m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
             "description": "",
-            "pubDate": "2026-03-10T12:52:13",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "pubDate": "2026-04-22T21:08:52",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "Harley-Davidson gains after insider buying action",
-            "link": "https://seekingalpha.com/news/4562657-harley-davidson-gains-after-insider-buying-action?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+            "title": "First Merchants GAAP EPS of $0.45 misses by $0.44, revenue of $157M misses by $31.43M",
+            "link": "https://seekingalpha.com/news/4578202-first-merchants-gaap-eps-of-0_45-misses-by-0_44-revenue-of-157m-misses-by-31_43m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
             "description": "",
-            "pubDate": "2026-03-10T12:49:59",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "pubDate": "2026-04-22T21:08:15",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "Goldman Sachs' new product lets hedge funds take short/long bets on corporate loans - report",
-            "link": "https://seekingalpha.com/news/4562641-goldman-sachs-new-product-lets-hedge-funds-take-shortlong-bets-on-corporate-loans---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+            "title": "Kinder Morgan Non-GAAP EPS of $0.48 beats by $0.09, revenue of $4.83B beats by $280M",
+            "link": "https://seekingalpha.com/news/4578199-kinder-morgan-non-gaap-eps-of-0_48-beats-by-0_09-revenue-of-4_83b-beats-by-280m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
             "description": "",
-            "pubDate": "2026-03-10T12:49:32",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "pubDate": "2026-04-22T21:07:42",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "Realbotix reports FY results",
-            "link": "https://seekingalpha.com/news/4562659-realbotix-reports-fy-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+            "title": "Lam Research Non-GAAP EPS of $1.47 beats by $0.11, revenue of $5.84B beats by $80M",
+            "link": "https://seekingalpha.com/news/4578201-lam-research-non-gaap-eps-of-1_47-beats-by-0_11-revenue-of-5_84b-beats-by-80m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
             "description": "",
-            "pubDate": "2026-03-10T12:49:12",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "pubDate": "2026-04-22T21:07:28",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "BioNTech falls on outlook, departure of co-founders",
-            "link": "https://seekingalpha.com/news/4562655-biontech-stock-falls-exit-co-founders?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+            "title": "Banner GAAP EPS of $1.60 beats by $0.23, revenue of $169.3M in-line",
+            "link": "https://seekingalpha.com/news/4578200-banner-gaap-eps-of-1_60-beats-by-0_23-revenue-of-169_3m-in-line?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
             "description": "",
-            "pubDate": "2026-03-10T12:48:05",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "pubDate": "2026-04-22T21:07:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         }
     ]
 }

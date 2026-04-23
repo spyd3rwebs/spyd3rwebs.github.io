@@ -2,42 +2,42 @@
     "title": "Individual feed for https://medicalxpress.com/rss-feed/",
     "link": "https://medicalxpress.com/rss-feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-10T07:59:36.289498",
+    "lastBuildDate": "2026-04-22T16:15:29.950520",
     "items": [
         {
-            "title": "Movies reconstructed purely from mouse brain activity",
-            "link": "https://medicalxpress.com/news/2026-03-movies-reconstructed-purely-mouse-brain.html",
-            "description": "Scientists have successfully reconstructed videos purely from the brain activity of mice, showing what the mice were seeing, in a new study led by Uni...",
-            "pubDate": "2026-03-10T10:31:26",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "How voluntary exercise reshapes tryptophan metabolism through the gut microbiota",
-            "link": "https://medicalxpress.com/news/2026-03-voluntary-reshapes-tryptophan-metabolism-gut.html",
-            "description": "Something happens when a rat starts running. Not just the obvious things, the faster heart, the warming muscles, the rhythmic percussion of paws again...",
-            "pubDate": "2026-03-10T06:00:03",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Mouse brain study reveals why blockbuster weight-loss drugs may work differently in females and males",
-            "link": "https://medicalxpress.com/news/2026-03-mouse-brain-reveals-blockbuster-weight.html",
-            "description": "The drugs have names that sound like small planets: semaglutide, liraglutide, lixisenatide. Collectively, they belong to a class of glucagon-like pept...",
-            "pubDate": "2026-03-10T06:00:01",
+            "title": "Smart laser dimmer cuts neural crosstalk in brain-circuit imaging and control",
+            "link": "https://medicalxpress.com/news/2026-04-smart-laser-dimmer-neural-crosstalk.html",
+            "description": "A cross-disciplinary team led by Prof. Qu Jianan from the Department of Electronic and Computer Engineering and Prof. Julie L. Semmelhack from the Div...",
+            "pubDate": "2026-04-22T21:00:12",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "New Jersey's opioid gap persists as high-risk counties fall further behind",
-            "link": "https://medicalxpress.com/news/2026-03-jersey-opioid-gap-persists-high.html",
-            "description": "Opioids such as fentanyl are \"indiscriminate killers\" that can be misused by people from all walks of life. But where you live may be more influential...",
-            "pubDate": "2026-03-10T01:40:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "Virtual vs. in-person visits for new neurology patients show no impact on future care, finds study",
+            "link": "https://medicalxpress.com/news/2026-04-virtual-person-neurology-patients-impact.html",
+            "description": "For people who see a neurology clinician for the first time, a new study has found that being seen virtually vs. in person made no difference in how s...",
+            "pubDate": "2026-04-22T21:00:09",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "Why you can remember every word of a song from 25 years ago—but not why you walked into the room",
-            "link": "https://medicalxpress.com/news/2026-03-word-song-years-room.html",
-            "description": "While driving recently, a long-forgotten song came on the radio. I found myself singing along; not only did I know all the lyrics to a song I hadn't h...",
-            "pubDate": "2026-03-10T00:30:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "title": "In epilepsy, poor sleep is associated with dementia",
+            "link": "https://medicalxpress.com/news/2026-04-epilepsy-poor-dementia.html",
+            "description": "For people with epilepsy, getting poor sleep was associated with a higher risk of dementia compared to people without epilepsy, according to a study p...",
+            "pubDate": "2026-04-22T21:00:06",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Candidate breast cancer drug overloads tumors with 'surge' of toxic lipids",
+            "link": "https://medicalxpress.com/news/2026-04-candidate-breast-cancer-drug-overloads.html",
+            "description": "An experimental drug targeting triple-negative breast cancer overwhelms cancer cells with toxic fats, according to new tests on human-derived tumors i...",
+            "pubDate": "2026-04-22T20:40:06",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "How does imagination really work in the brain? New explanation upends what we knew",
+            "link": "https://medicalxpress.com/news/2026-04-brain-explanation-upends-knew.html",
+            "description": "Your brain is currently expending about a fifth of your body's energy, and almost none of that is being used for what you're doing right now. Reading ...",
+            "pubDate": "2026-04-22T20:40:02",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         }
     ]
 }

@@ -2,42 +2,42 @@
     "title": "Individual feed for https://healthy-food-life.com/feed",
     "link": "https://healthy-food-life.com/feed",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-10T07:59:33.078741",
+    "lastBuildDate": "2026-04-22T16:15:27.354578",
     "items": [
         {
-            "title": "Africa News: Latest Trends on the Dark Continent",
-            "link": "https://healthy-food-life.com/africa-news-latest-trends-on-the-dark-continent/",
-            "description": "Africa News: Latest Trends on the Dark Continent Africa, as a continent that has cultural riches and abundant natural resources,…",
-            "pubDate": "2026-03-07T13:54:27",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "title": "world trade issues: challenges and opportunities",
+            "link": "https://healthy-food-life.com/world-trade-issues-challenges-and-opportunities/",
+            "description": "World Trade Issues: Challenges and Opportunities World trade is currently faced with various issues that influence global economic growth. One…",
+            "pubDate": "2026-04-21T15:04:48",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "Asia News: Building a Strong Media Network in Asia",
-            "link": "https://healthy-food-life.com/asia-news-building-a-strong-media-network-in-asia/",
-            "description": "Berita Asia is a media network that is growing rapidly in the Asian region. Known for its commitment to providing…",
-            "pubDate": "2026-03-02T13:53:30",
+            "title": "Post-Pandemic German Economic Development",
+            "link": "https://healthy-food-life.com/post-pandemic-german-economic-development/",
+            "description": "Germany’s economic development after the COVID-19 pandemic shows promising signs of recovery even though it is still faced with various…",
+            "pubDate": "2026-04-16T15:03:21",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Energy Crisis in France: Solutions and Challenges",
+            "link": "https://healthy-food-life.com/energy-crisis-in-france-solutions-and-challenges/",
+            "description": "Energy Crisis in France: Solutions and Challenges The energy crisis in France has become a global spotlight, especially with increasing…",
+            "pubDate": "2026-04-11T15:02:58",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "European News: Latest Developments in the European Union",
-            "link": "https://healthy-food-life.com/european-news-latest-developments-in-the-european-union/",
-            "description": "Europe News: Latest Developments in the European Union The European Union (EU) continues to develop in the face of global…",
-            "pubDate": "2026-02-25T13:52:52",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "title": "Latest trends in English news",
+            "link": "https://healthy-food-life.com/latest-trends-in-english-news/",
+            "description": "The latest trends in English news highlight a dynamic landscape shaped by digital advancements, sociopolitical changes, and global events. With…",
+            "pubDate": "2026-04-06T15:01:54",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
-            "title": "America’s latest news: what you need to know",
-            "link": "https://healthy-food-life.com/americas-latest-news-what-you-need-to-know/",
-            "description": "Latest American News: What You Need to Know In an ever-changing world, news from the United States is often in…",
-            "pubDate": "2026-02-20T13:52:06",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Refugee Crisis in the Middle East: Challenges and Solutions",
-            "link": "https://healthy-food-life.com/refugee-crisis-in-the-middle-east-challenges-and-solutions/",
-            "description": "The refugee crisis in the Middle East has become one of the greatest humanitarian challenges of the 21st century. War,…",
-            "pubDate": "2026-02-15T13:51:08",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "title": "Energy Crisis in Japan: Innovative Solutions Implemented",
+            "link": "https://healthy-food-life.com/energy-crisis-in-japan-innovative-solutions-implemented/",
+            "description": "The energy crisis in Japan has become an urgent issue that requires serious attention. Since the Fukushima Daiichi accident in…",
+            "pubDate": "2026-04-01T15:00:41",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         }
     ]
 }

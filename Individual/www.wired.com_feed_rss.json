@@ -2,42 +2,42 @@
     "title": "Individual feed for https://www.wired.com/feed/rss",
     "link": "https://www.wired.com/feed/rss",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-10T07:57:27.719275",
+    "lastBuildDate": "2026-04-22T16:11:21.271310",
     "items": [
         {
-            "title": "8 Best Cheap Phones (2026), Tested and Reviewed",
-            "link": "https://www.wired.com/story/best-cheap-phones/",
-            "description": "There’s little reason to pay top dollar for a smartphone. These iPhones and Android devices—ranging from $100 to $600—stood up to WIRED’s testing.",
-            "pubDate": "2026-03-10T12:30:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "The Best Streaming Bundles and Streaming Deals of March 2026",
-            "link": "https://www.wired.com/story/best-streaming-deals-and-streaming-bundles/",
-            "description": "Here are the current best bundles from the most popular services.",
-            "pubDate": "2026-03-10T12:06:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "How Can a Locomotive Pull a Long Train That’s Much Heavier?",
-            "link": "https://www.wired.com/story/how-can-a-locomotive-pull-a-train-thats-much-heavier/",
-            "description": "For railroads, it’s all about managing static and kinetic friction.",
-            "pubDate": "2026-03-10T12:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "How to Responsibly Dispose of Your Electronics (2026)",
-            "link": "https://www.wired.com/story/how-to-responsibly-dispose-electronics/",
-            "description": "Get rid of old, broken, and unused devices—even Lightning cables—without adding to the e-waste problem.",
-            "pubDate": "2026-03-10T11:30:00",
+            "title": "5 AI Models Tried to Scam Me. Some of Them Were Scary Good",
+            "link": "https://www.wired.com/story/ai-model-phishing-attack-cybersecurity/",
+            "description": "The cyber capabilities of AI models have experts rattled. AI’s social skills may be just as dangerous.",
+            "pubDate": "2026-04-22T19:00:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "Use Microsoft PC Manager to Speed Up Your Windows 11 Computer",
-            "link": "https://www.wired.com/story/microsoft-pc-manager-speed-up-windows-11/",
-            "description": "Can you really get a Windows PC running like new again? Using this free tool from Microsoft, you can get pretty close.",
-            "pubDate": "2026-03-10T11:30:00",
+            "title": "New York Bans Government Employees from Insider Trading on Prediction Markets",
+            "link": "https://www.wired.com/story/new-york-bans-government-employees-prediction-markets/",
+            "description": "A new executive order seen by WIRED prohibits New York state employees from using insider knowledge to enrich themselves with prediction market bets.",
+            "pubDate": "2026-04-22T17:00:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "AI Tools Are Helping Mediocre North Korean Hackers Steal Millions",
+            "link": "https://www.wired.com/story/ai-tools-are-helping-mediocre-north-korean-hackers-steal-millions/",
+            "description": "One group of hackers used AI for everything from vibe coding their malware to creating fake company websites—and stole as much as $12 million in three...",
+            "pubDate": "2026-04-22T17:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "USAID Whistleblower Says It Was Even Worse Than People Knew",
+            "link": "https://www.wired.com/story/usaid-whistleblower-says-it-was-even-worse-than-people-knew/",
+            "description": "Political appointees wanted a quiet drawdown, the whistleblower says. DOGE wanted an execution.",
+            "pubDate": "2026-04-22T16:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Best Chromebooks (2026): Most Are Bad, but These Aren't",
+            "link": "https://www.wired.com/story/best-chromebooks/",
+            "description": "Chromebooks have a reputation for being cheap and crappy. But they don't have to be, and these are the Chromebooks that prove it.",
+            "pubDate": "2026-04-22T12:30:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         }
     ]
 }

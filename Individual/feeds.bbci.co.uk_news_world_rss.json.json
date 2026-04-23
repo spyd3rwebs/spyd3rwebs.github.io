@@ -2,42 +2,42 @@
     "title": "Individual feed for https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-10T07:57:09.249802",
+    "lastBuildDate": "2026-04-22T16:11:03.476981",
     "items": [
         {
-            "title": "Volkswagen to cut 50,000 jobs as profits drop",
-            "link": "https://www.bbc.com/news/articles/c4gqyyly9v8o?at_medium=RSS&at_campaign=rss",
-            "description": "Europe's largest carmaker said post-tax profits had dropped to their lowest level since 2016.",
-            "pubDate": "2026-03-10T12:29:25",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Family of child injured in Canada school shooting sues OpenAI",
-            "link": "https://www.bbc.com/news/articles/c309y25prnlo?at_medium=RSS&at_campaign=rss",
-            "description": "The family alleges the firm knew the perpetrator was planning a \"mass casualty event\" but failed to contact the authorities.",
-            "pubDate": "2026-03-10T12:27:55",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Five Iranian footballers granted Australian visas after anthem protest",
-            "link": "https://www.bbc.com/news/articles/cwy8e978xl8o?at_medium=RSS&at_campaign=rss",
-            "description": "Concern has grown for team after one critic called them \"wartime traitors\" for failing to salute during the Iranian anthem.",
-            "pubDate": "2026-03-10T11:38:32",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Uber rolls out women-only option in the US",
-            "link": "https://www.bbc.com/news/articles/cx2gvrzwdr7o?at_medium=RSS&at_campaign=rss",
-            "description": "The feature allows both women riders and drivers to be matched with other women for trips on the ride-sharing app.",
-            "pubDate": "2026-03-10T11:34:11",
+            "title": "Billionaire backer sues Trump family's crypto firm over alleged extortion",
+            "link": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss",
+            "description": "Billionaire investor Justin Sun is suing the family's World Liberty crypto venture after spending $45m on its tokens.",
+            "pubDate": "2026-04-22T19:10:42",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "Wildflowers blanket Death Valley in best display since 2016",
-            "link": "https://www.bbc.com/weather/articles/cp81r54e2ngo?at_medium=RSS&at_campaign=rss",
-            "description": "The California desert is seeing its most colourful display in a decade as flowers cover the region.",
-            "pubDate": "2026-03-10T11:09:47",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "title": "EU approves €90bn loan for Ukraine as pipeline is turned on ending deadlock",
+            "link": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss",
+            "description": "Ukraine says it has reopened the Druzhba pipeline, after months of stalemate over stalled oil supplies to neighbouring Hungary.",
+            "pubDate": "2026-04-22T18:48:44",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Nigeria's suspected coup plotters deny treason charges",
+            "link": "https://www.bbc.com/news/articles/c0krlxg384eo?at_medium=RSS&at_campaign=rss",
+            "description": "Allegations of a coup plot first surfaced last year when an Independence Day parade was cancelled.",
+            "pubDate": "2026-04-22T18:33:30",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Pope Leo criticises Equatorial Guinea prisons as he winds up Africa tour",
+            "link": "https://www.bbc.com/news/articles/c80m4822m1no?at_medium=RSS&at_campaign=rss",
+            "description": "The Pope gives a frank and passionate speech, the likes of which have characterised his tour of Africa.",
+            "pubDate": "2026-04-22T18:04:33",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "US and Iran in blockade standoff as Pakistan pushes for talks",
+            "link": "https://www.bbc.com/news/articles/c0q9xq7knq2o?at_medium=RSS&at_campaign=rss",
+            "description": "The mood in the Strait of Hormuz remains combustible despite Trump's ceasefire extension.",
+            "pubDate": "2026-04-22T17:19:36",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         }
     ]
 }

@@ -2,42 +2,42 @@
     "title": "Individual feed for https://www.marketbeat.com/feed/",
     "link": "https://www.marketbeat.com/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-10T07:56:59.544658",
+    "lastBuildDate": "2026-04-22T16:10:56.690747",
     "items": [
         {
-            "title": "Microsoft Positioned to Win AI Race With Dual-Model Strategy",
-            "link": "https://www.marketbeat.com/originals/microsoft-doubles-down-on-ai-with-azure-at-the-center/",
-            "description": "See how Microsoft’s AI partnerships could support Azure demand, why model choice matters less to Microsoft, and what analysts and charts imply for the...",
-            "pubDate": "2026-03-10T07:11:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "ZIM’s $35 Buyout: An Arbitrage Play With a Solid Floor",
-            "link": "https://www.marketbeat.com/originals/zims-35-buyout-an-arbitrage-play-with-a-solid-floor/",
-            "description": "ZIM Integrated Shipping Services presents a compelling investment case with its recent profitability and a pending all-cash acquisition offer.",
-            "pubDate": "2026-03-09T18:06:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "CooperCompanies Insiders Buy as Rebound Setup Forms",
-            "link": "https://www.insidertrades.com/education/coopercompanies-insiders-buy-as-rebound-setup-forms/",
-            "description": "See why CooperCompanies insider buying, ongoing buybacks, and a solid Q1 report keep the long-term outlook bullish despite early-March weakness.",
-            "pubDate": "2026-03-09T17:24:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Credo Technologies Hits Bottom: Now Is the Time to Buy",
-            "link": "https://www.marketbeat.com/originals/credo-technologies-hits-bottom-now-is-the-time-to-buy/",
-            "description": "Credo Technology is in a position to rebound robustly in 2026 as data center demand keeps it in hypergrowth mode and analysts and institutions accumul...",
-            "pubDate": "2026-03-09T15:28:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "5 High-Yield Stocks That Could Help Cushion Market Volatility",
-            "link": "https://www.marketbeat.com/stock-ideas/5-high-yield-stocks-that-could-help-cushion-market-volatility/",
-            "description": "Rising geopolitical tensions and crude oil prices above $100 have reignited inflation concerns, pushing investors to consider defensive portfolio posi...",
-            "pubDate": "2026-03-09T14:04:00",
+            "title": "These 3 Defense Giants Beat Q1 Estimates—So Why Did Their Stocks Still Fall?",
+            "link": "https://www.marketbeat.com/stock-ideas/these-3-defense-giants-beat-q1-estimates-so-why-did-their-stocks-still-fall/",
+            "description": "GE Aerospace, Northrop Grumman, and RTX each beat Q1 2026 earnings estimates but sold off after failing to raise full-year guidance, despite analyst M...",
+            "pubDate": "2026-04-22T15:50:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Tractor Supply’s 10% Culling: A Bruise, Not a Break",
+            "link": "https://www.marketbeat.com/originals/tractor-supplys-10-culling-a-bruise-not-a-break/",
+            "description": "Tractor Supply Company's recent stock decline may overshadow its steady revenue growth, reaffirmed annual guidance, and consistent dividend history.",
+            "pubDate": "2026-04-22T14:45:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Aehr Test Systems: Small AI Stock Sees Record AI Hyperscaler Order",
+            "link": "https://www.marketbeat.com/originals/aehr-test-systems-small-ai-stock-sees-record-ai-hyperscaler-order/",
+            "description": "Aehr Test Systems is a small AI stock that is seeing a rapid increase in demand. An AI hyperscaler just awarded the firm its largest order ever.",
+            "pubDate": "2026-04-22T14:10:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Lawmakers Bet Big on These 3 Stocks—Should You?",
+            "link": "https://www.marketbeat.com/stock-ideas/lawmakers-bet-big-on-these-3-stocks-should-you/",
+            "description": "Congressional disclosure filings from the past 90 days show lawmakers buying Netflix, Broadcom, and JPMorgan Chase, with AVGO purchases alone totaling...",
+            "pubDate": "2026-04-22T13:35:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Alcoa Rebounds as Aluminum Tightens, But a Q1 Miss Tests the Rally",
+            "link": "https://www.marketbeat.com/originals/alcoa-rebounds-as-aluminum-tightens-but-a-q1-miss-tests-the-rally/",
+            "description": "Alcoa missed Q1 2026 estimates, but aluminum prices above $3,557 per metric ton and Middle East supply disruptions keep the bullish case for AA stock ...",
+            "pubDate": "2026-04-22T13:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         }
     ]
 }

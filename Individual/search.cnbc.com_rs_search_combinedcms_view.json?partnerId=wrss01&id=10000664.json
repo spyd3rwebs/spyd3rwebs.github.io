@@ -2,42 +2,42 @@
     "title": "Individual feed for https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
     "link": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-10T07:56:59.532829",
+    "lastBuildDate": "2026-04-22T16:10:56.685099",
     "items": [
         {
-            "title": "Surging oil prices could wipe out benefits from Trump’s ‘big beautiful bill’",
-            "link": "https://www.cnbc.com/2026/03/10/rising-oil-prices-may-wipe-out-effects-of-trumps-big-beautiful-bill.html",
-            "description": "Estimates from Wall Street project that if oil prices stay elevated for too long, consumers will lose as much as they gain from the new tax law.",
-            "pubDate": "2026-03-10T12:56:23",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "title": "Bessent says 'many' U.S. allies have asked for currency swaps amid Iran war turbulence",
+            "link": "https://www.cnbc.com/2026/04/22/iran-war-treasury-uae-scott-bessent-currency-swaps.html",
+            "description": "The White House on Tuesday said the UAE had not requested a currency swap line.",
+            "pubDate": "2026-04-22T19:46:20",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "There's another energy market that may get hit harder than oil by Strait of Hormuz closure",
-            "link": "https://www.cnbc.com/2026/03/09/theres-another-energy-market-that-may-get-hit-harder-than-oil-by-strait-of-hormuz-closure.html",
-            "description": "Roughly 20% of global liquefied natural gas flows through the Strait.",
-            "pubDate": "2026-03-09T21:51:55",
+            "title": "Stocks making the biggest moves midday: Axe Compute, AST SpaceMobile, United Airlines, GE Vernova & more",
+            "link": "https://www.cnbc.com/2026/04/22/stocks-making-the-biggest-moves-midday-agpu-asts-ual-gev.html",
+            "description": "These are the stocks posting the largest moves midday.",
+            "pubDate": "2026-04-22T19:02:53",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Stocks making the biggest moves premarket: GE Vernova, Vertiv, Best Buy & more",
+            "link": "https://www.cnbc.com/2026/04/22/stocks-making-the-biggest-moves-premarket-gev-vrt-bby.html",
+            "description": "These are the stocks posting the largest moves premarket.",
+            "pubDate": "2026-04-22T12:43:39",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Stocks making the biggest moves premarket: Amazon, Apple, GE Aerospace, UnitedHealth & more",
+            "link": "https://www.cnbc.com/2026/04/21/stocks-making-the-biggest-moves-premarket-amzn-aapl-ge-unh.html",
+            "description": "These are the stocks posting the largest moves in early trading.",
+            "pubDate": "2026-04-22T11:36:49",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "Stocks making the biggest moves midday: Chevron, Hims and Hers, Xenon Pharma, Vertiv and more",
-            "link": "https://www.cnbc.com/2026/03/09/stocks-making-the-biggest-moves-midday-cvx-hims-xene-vrt-lite-.html",
-            "description": "These are some of the stocks posting the largest midday moves.",
-            "pubDate": "2026-03-09T19:56:36",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Three bear markets in stocks were caused by oil shocks — Here's how long they lasted",
-            "link": "https://www.cnbc.com/2026/03/09/heres-how-long-the-three-oil-shock-induced-bear-markets-lasted.html",
-            "description": "As the fallout in the oil markets from the U.S.-Iran war continues, here’s what severe oil shocks have done to the S&P 500 in the past.",
-            "pubDate": "2026-03-09T17:28:43",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "The $100 oil playbook: How pro investors are investing around this energy shock",
-            "link": "https://www.cnbc.com/2026/03/09/the-100-oil-playbook-how-pro-investors-are-investing-around-this-energy-shock.html",
-            "description": "Many say the focus now is on maintaining exposure to equities while diversifying across sectors and regions that can better withstand inflation and vo...",
-            "pubDate": "2026-03-09T17:13:36",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "title": "Trump administration discussing currency swap line with United Arab Emirates",
+            "link": "https://www.cnbc.com/2026/04/21/trump-iran-war-white-house-uae-currency-swap-line.html",
+            "description": "Such a move would provide liquidity in dollars to the oil-rich UAE, but could be politically tenuous for the administration amid higher prices at home...",
+            "pubDate": "2026-04-21T23:09:55",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         }
     ]
 }

@@ -2,77 +2,77 @@
     "title": "theBalancedBriefNLhealthAndWellness",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from theBalancedBriefNLhealthAndWellness, skipping any feeds with errors.",
-    "lastBuildDate": "2026-03-10T07:54:50.096838",
+    "lastBuildDate": "2026-04-22T16:08:50.487865",
     "items": [
         {
-            "title": "Movies reconstructed purely from mouse brain activity",
-            "link": "https://medicalxpress.com/news/2026-03-movies-reconstructed-purely-mouse-brain.html",
-            "description": "Scientists have successfully reconstructed videos purely from the brain activity of mice, showing what the mice were seeing, in a new study led by Uni...",
-            "pubDate": "2026-03-10T10:31:26",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "title": "Virtual vs. in-person visits for new neurology patients show no impact on future care, finds study",
+            "link": "https://medicalxpress.com/news/2026-04-virtual-person-neurology-patients-impact.html",
+            "description": "For people who see a neurology clinician for the first time, a new study has found that being seen virtually vs. in person made no difference in how s...",
+            "pubDate": "2026-04-22T21:00:09",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "New Jersey's opioid gap persists as high-risk counties fall further behind",
-            "link": "https://medicalxpress.com/news/2026-03-jersey-opioid-gap-persists-high.html",
-            "description": "Opioids such as fentanyl are \"indiscriminate killers\" that can be misused by people from all walks of life. But where you live may be more influential...",
-            "pubDate": "2026-03-10T01:40:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "title": "How does imagination really work in the brain? New explanation upends what we knew",
+            "link": "https://medicalxpress.com/news/2026-04-brain-explanation-upends-knew.html",
+            "description": "Your brain is currently expending about a fifth of your body's energy, and almost none of that is being used for what you're doing right now. Reading ...",
+            "pubDate": "2026-04-22T20:40:02",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "Why you can remember every word of a song from 25 years ago—but not why you walked into the room",
-            "link": "https://medicalxpress.com/news/2026-03-word-song-years-room.html",
-            "description": "While driving recently, a long-forgotten song came on the radio. I found myself singing along; not only did I know all the lyrics to a song I hadn't h...",
-            "pubDate": "2026-03-10T00:30:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "title": "In epilepsy, poor sleep is associated with dementia",
+            "link": "https://medicalxpress.com/news/2026-04-epilepsy-poor-dementia.html",
+            "description": "For people with epilepsy, getting poor sleep was associated with a higher risk of dementia compared to people without epilepsy, according to a study p...",
+            "pubDate": "2026-04-22T21:00:06",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "Mouse brain study reveals why blockbuster weight-loss drugs may work differently in females and males",
-            "link": "https://medicalxpress.com/news/2026-03-mouse-brain-reveals-blockbuster-weight.html",
-            "description": "The drugs have names that sound like small planets: semaglutide, liraglutide, lixisenatide. Collectively, they belong to a class of glucagon-like pept...",
-            "pubDate": "2026-03-10T06:00:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "title": "Smart laser dimmer cuts neural crosstalk in brain-circuit imaging and control",
+            "link": "https://medicalxpress.com/news/2026-04-smart-laser-dimmer-neural-crosstalk.html",
+            "description": "A cross-disciplinary team led by Prof. Qu Jianan from the Department of Electronic and Computer Engineering and Prof. Julie L. Semmelhack from the Div...",
+            "pubDate": "2026-04-22T21:00:12",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "How voluntary exercise reshapes tryptophan metabolism through the gut microbiota",
-            "link": "https://medicalxpress.com/news/2026-03-voluntary-reshapes-tryptophan-metabolism-gut.html",
-            "description": "Something happens when a rat starts running. Not just the obvious things, the faster heart, the warming muscles, the rhythmic percussion of paws again...",
-            "pubDate": "2026-03-10T06:00:03",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "RHR: Beyond the Gut: The Microbiome’s Role in Sleep, Energy, and Longevity, with Dr. Zain Kassam",
-            "link": "https://chriskresser.com/beyond-the-gut-the-microbiomes-role-in-sleep-energy-and-longevity-with-dr-zain-kassam/",
-            "description": "In this episode of Revolution Health Radio, Chris sits down with gastroenterologist and microbiome researcher Dr. Zain Kassam to explore the rapidly e...",
-            "pubDate": "2026-03-10T08:02:09",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "RHR: The Gut-Brain Connection: How Your Microbiome Affects Your Mental Health",
-            "link": "https://chriskresser.com/the-gut-brain-connection-how-your-microbiome-affects-your-mental-health/",
-            "description": "Depression and anxiety are often treated as chemical imbalances in the brain—but what if the real problem starts in the gut? In this episode of Revolu...",
-            "pubDate": "2026-02-24T08:02:19",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "RHR: Vitamin D: Why a Personalized Approach Is Best",
-            "link": "https://chriskresser.com/vitamin-d-why-a-personalized-approach-is-best/",
-            "description": "In this episode of Revolution Health Radio, Chris Kresser explains why vitamin D supplementation should never be one-size-fits-all. Drawing on new res...",
-            "pubDate": "2026-02-10T08:02:49",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "RHR: Cold Exposure: Why Sustained Beats Extreme",
-            "link": "https://chriskresser.com/cold-exposure-why-sustained-beats-extreme/",
-            "description": "Cold plunges and ice baths dominate social media, but do they really deliver the best metabolic benefits? In this episode of Revolution Health Radio, ...",
-            "pubDate": "2026-01-27T08:03:03",
+            "title": "Candidate breast cancer drug overloads tumors with 'surge' of toxic lipids",
+            "link": "https://medicalxpress.com/news/2026-04-candidate-breast-cancer-drug-overloads.html",
+            "description": "An experimental drug targeting triple-negative breast cancer overwhelms cancer cells with toxic fats, according to new tests on human-derived tumors i...",
+            "pubDate": "2026-04-22T20:40:06",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "RHR: Why Your Sleep Schedule Matters As Much As Duration",
-            "link": "https://chriskresser.com/why-your-sleep-schedule-matters-as-much-as-duration/",
-            "description": "In this episode of Revolution Health Radio, Chris challenges the conventional focus on sleep duration and makes the case that sleep timing and circadi...",
-            "pubDate": "2026-01-13T08:05:04",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "title": "RHR: The GLP-1 Blind Spot: What Ozempic Won’t Do for Your Metabolic Health",
+            "link": "https://chriskresser.com/the-glp-1-blind-spot-what-ozempic-wont-do-for-your-metabolic-health/",
+            "description": "In this episode of Revolution Health Radio, Chris explores the science behind GLP-1 medications, including their powerful effects on appetite, weight ...",
+            "pubDate": "2026-04-21T08:02:04",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "RHR: Shaking Up the Salt Myth",
+            "link": "https://chriskresser.com/tomato-shaking-up-the-salt-myth/",
+            "description": "For decades, public health guidelines have warned that reducing sodium intake is essential for preventing high blood pressure and cardiovascular disea...",
+            "pubDate": "2026-04-14T08:02:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "RHR: Mouth Taping: Beyond the Hype—What the Science Really Says",
+            "link": "https://chriskresser.com/mouth-taping-beyond-the-hype-what-the-science-really-says/",
+            "description": "In this episode of Revolution Health Radio, Chris Kresser explores the viral trend of mouth taping and explains why the reality is more complex than t...",
+            "pubDate": "2026-04-07T08:02:08",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "RHR: Erythritol: The ‘Safe’ Sweetener That’s Anything But",
+            "link": "https://chriskresser.com/erythritol-the-safe-sweetener-thats-anything-but/",
+            "description": "Erythritol, a popular sweetener found in countless sugar-free and keto products, has long been considered a safe alternative to sugar. This episode of...",
+            "pubDate": "2026-03-31T08:02:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "RHR: Preserving Cognitive Function As You Age, with Tommy Wood",
+            "link": "https://chriskresser.com/preserving-cognitive-function-as-you-age-with-tommy-wood/",
+            "description": "In this episode of Revolution Health Radio, Chris Kresser is joined by neuroscientist and physician Dr. Tommy Wood to explore how cognitive function c...",
+            "pubDate": "2026-03-24T08:02:15",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         }
     ]
 }

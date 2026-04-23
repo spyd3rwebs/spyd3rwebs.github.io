@@ -2,42 +2,42 @@
     "title": "Individual feed for https://www.worldfinance.com/feed",
     "link": "https://www.worldfinance.com/feed",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-10T07:56:59.550279",
+    "lastBuildDate": "2026-04-22T16:10:56.695625",
     "items": [
         {
             "title": "AI’s real frontier: understanding us",
             "link": "https://www.worldfinance.com/markets/ais-real-frontier-understanding-us",
             "description": "As the world debates whether AI will replace us, the more profound question is whether it can truly understand us. The next frontier of artificial int...",
             "pubDate": "2026-01-29T15:39:57",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Finding quality niches for infrastructure investments",
             "link": "https://www.worldfinance.com/markets/finding-quality-niches-for-infrastructure-investments",
             "description": "As the world races to rebuild its energy foundations, MPC Capital is finding strength in specialisation – investing in the overlooked niches of Europe...",
             "pubDate": "2026-01-28T10:58:37",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "The human algorithm of fintech innovation",
             "link": "https://www.worldfinance.com/strategy/the-human-algorithm-of-fintech-innovation",
             "description": "As fintech competition intensifies, leadership psychology has become a strategic differentiator. Understanding how founders think – and where their st...",
             "pubDate": "2026-01-27T14:37:55",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "The German economic miracle, then and now",
             "link": "https://www.worldfinance.com/strategy/the-german-economic-miracle-then-and-now",
             "description": "For 70 years, Germany embodied postwar recovery – prosperous, stable and admired. Now, as exports falter, populism grows and trust in politics erodes,...",
             "pubDate": "2026-01-26T17:09:22",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
             "title": "The birth of modern investing",
             "link": "https://www.worldfinance.com/wealth-management/the-birth-of-modern-investing",
             "description": "Half a century ago, a small group of University of Chicago economists redefined how we think about markets. Tune Out the Noise traces how their radica...",
             "pubDate": "2026-01-26T09:53:43",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         }
     ]
 }

@@ -2,42 +2,42 @@
     "title": "Individual feed for https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10001054",
     "link": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10001054",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-10T07:56:59.533880",
+    "lastBuildDate": "2026-04-22T16:10:56.685456",
     "items": [
         {
-            "title": "Dubai wealth flight to safety: Here's what to know",
-            "link": "https://www.cnbc.com/video/2026/03/06/dubai-wealth-flight-to-safety-heres-what-to-know.html",
-            "description": "The war in Iran is sparking a wealth flight from the UAE. CNBC's Robert Frank joins 'Squawk Box' with more.",
-            "pubDate": "2026-03-06T12:44:48",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "title": "NYC property tax controversy: Here's what to know",
+            "link": "https://www.cnbc.com/video/2026/04/22/nyc-property-tax-controversy-heres-what-to-know.html",
+            "description": "CNBC's Robert Frank joins 'Squawk Box' to discuss the latest attempt in New York to boost tax revenue.",
+            "pubDate": "2026-04-22T12:42:59",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "The wealthy once rushed to Dubai. Now they're scrambling to leave",
-            "link": "https://www.cnbc.com/2026/03/05/iran-war-dubai-rich.html",
-            "description": "Since the start of the U.S.-Iran war, Dubai's status as a haven for the global elite has been shattered.",
-            "pubDate": "2026-03-05T15:41:55",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "title": "Moncler shares struggle despite defying luxury's Middle East slump",
+            "link": "https://www.cnbc.com/2026/04/22/moncler-stock-q1-earnings-monc-luxury-iran-war-lvmh-kering-hermes.html",
+            "description": "Moncler earnings 'smashes' expectations following a series of underwhelming reports from European luxury players last week.",
+            "pubDate": "2026-04-22T08:57:42",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "Luxury stocks slump as Middle East conflict risks one of the sector’s 'few bright spots’",
-            "link": "https://www.cnbc.com/2026/03/03/luxury-stocks-iran-strikes-lvmh-kering-gucci-richemont.html",
-            "description": "The Middle East has been one of the few bright spots in a sector that is struggling to get sales back on track.",
-            "pubDate": "2026-03-03T13:45:32",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "title": "Kering looks to double profits as it unveils ambitious turnaround plan to revive Gucci",
+            "link": "https://www.cnbc.com/2026/04/16/kering-stock-ker-gucci-cmd-turnaround-profit-strategy.html",
+            "description": "The \"ReconKering\" strategy announced Thursday includes more than doubling its 2025 recurring operating margin of 11.1%.",
+            "pubDate": "2026-04-16T13:30:18",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "Rise of high net worth art loans: Here's what to know",
-            "link": "https://www.cnbc.com/video/2026/02/27/rise-of-high-net-worth-art-loans-heres-what-to-know.html",
-            "description": "The business of lending money to the wealthy against their art collection is becoming a booming industry. CNBC's Robert Frank joins 'Squawk Box' with ...",
-            "pubDate": "2026-02-27T12:51:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "title": "Luxury stocks fall as Iran war weighs on earnings; Hermes sinks 8%",
+            "link": "https://www.cnbc.com/2026/04/15/kering-stock-q1-earnings-gucci-sales-iran-war-middle-east-luxury.html",
+            "description": "Hermes said wholesale activity was \"significantly affected\" in the first quarter by lower sales to concession stores, particularly in the Middle East ...",
+            "pubDate": "2026-04-15T17:18:21",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "The blue wave of tax hikes: Here's what to know",
-            "link": "https://www.cnbc.com/video/2026/02/25/the-blue-wave-of-tax-hikes-heres-what-to-know.html",
-            "description": "Washington may be the next state to see the wealthy flee. CNBC's Robert Frank joins 'Squawk Box' with the details.",
-            "pubDate": "2026-02-25T12:48:21",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "title": "IRS audit rate for high earners falls: Here's what to know",
+            "link": "https://www.cnbc.com/video/2026/04/15/irs-audit-rate-for-high-earners-falls-heres-what-to-know.html",
+            "description": "It's Tax Day, and all income groups have seen their chances of getting audited decline in recent years, but the highest earners have seen the largest ...",
+            "pubDate": "2026-04-15T13:26:41",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         }
     ]
 }

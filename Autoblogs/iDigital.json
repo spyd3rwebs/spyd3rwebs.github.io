@@ -2,77 +2,77 @@
     "title": "iDigital",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from iDigital, skipping any feeds with errors.",
-    "lastBuildDate": "2026-03-10T07:57:17.042859",
+    "lastBuildDate": "2026-04-22T16:11:11.144462",
     "items": [
         {
-            "title": "The Download: murky AI surveillance laws, and the White House cracks down on defiant labs",
-            "link": "https://www.technologyreview.com/2026/03/09/1134050/the-download-ai-surveillance-laws-white-house-cracks-down-defiant-labs/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Is the Penta...",
-            "pubDate": "2026-03-09T14:57:44",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2023/04/eyevine01515040-thumb.jpeg?w=2910"
+            "title": "Crewline secures $7.1M to automate construction’s most repetitive task",
+            "link": "https://www.therobotreport.com/crewline-secures-7-1m-to-automate-constructions-most-repetitive-task/",
+            "description": "Crewline automates construction rollers with retrofit kits, tackling labor shortages with a $7.1M seed round and $26M waitlist. The post Crewline secu...",
+            "pubDate": "2026-04-22T17:36:37",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/04/crewline-featured.jpg"
         },
         {
-            "title": "The usability imperative for securing digital asset devices",
-            "link": "https://www.technologyreview.com/2026/03/09/1132352/the-usability-imperative-for-securing-digital-asset-devices/",
-            "description": "When Tony Fadell started working on the iPod, usability often trumped security. The result was an iterative process. Every time someone would find a s...",
-            "pubDate": "2026-03-09T15:00:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/02/X2A9908.jpg?w=3000"
+            "title": "Cruz’ing through the terminal: A&K Robotics lands $8M for autonomous mobility",
+            "link": "https://www.therobotreport.com/cruzing-through-the-terminal-ak-robotics-lands-8m-for-autonomous-mobility/",
+            "description": "Investment is led by Business Development Bank of Canada’s Industrial Innovation Venture Fund and Vantage Futures to expand production and R&D capacit...",
+            "pubDate": "2026-04-22T20:03:45",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/04/Cruz-Pod-White-YVR-landscape.jpg"
         },
         {
-            "title": "ABB boosts RobotStudio with NVIDIA Omniverse libraries",
-            "link": "https://www.therobotreport.com/abb-boosts-robotstudio-with-nvidia-omniverse-libraries/",
-            "description": "ABB will be releasing the subscription-based RobotStudio HyperReality simulator in the second half of 2026. The post ABB boosts RobotStudio with NVIDI...",
-            "pubDate": "2026-03-09T18:22:12",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/03/Leaderboard-Ad-RSE-Reg-Toay-V1.png"
+            "title": "AI needs a strong data fabric to deliver business value",
+            "link": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
+            "description": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and p...",
+            "pubDate": "2026-04-22T11:05:06",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/04/SAP-article-iStock-480794780.jpg"
         },
         {
-            "title": "OpenAI robotics head resigns over Pentagon deal",
-            "link": "https://www.therobotreport.com/openai-robotics-head-resigns-over-pentagon-deal/",
-            "description": "\"AI has an important role in national security. But surveillance of Americans without judicial oversight and lethal autonomy without human authorizati...",
-            "pubDate": "2026-03-09T18:20:35",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/03/adobestock-openAI-featured.jpg"
+            "title": "Glydways brings in $170M to scale its AV technology",
+            "link": "https://www.therobotreport.com/glydways-brings-in-170m-to-scale-its-av-technology/",
+            "description": "Glydways plans to build networks of autonomous vehicle expressways that move people at 10 times the throughput of today's technology. The post Glydway...",
+            "pubDate": "2026-04-22T19:59:04",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/04/glydways-featured.jpg"
         },
         {
-            "title": "PlusAI launches its upgraded autonomous driver for freight operations",
-            "link": "https://www.therobotreport.com/plusai-launches-its-upgraded-autonomous-driver-for-freight-operations/",
-            "description": "The upgraded driver can handle night driving and construction zone handling, PlusAI said, which are crucial for commercial freight operations. The pos...",
-            "pubDate": "2026-03-09T21:20:40",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/03/plusAI-featured.jpg"
+            "title": "There is no nature anymore",
+            "link": "https://www.technologyreview.com/2026/04/22/1135440/editors-letter-may-2026/",
+            "description": "When people talk about “nature,” they’re generally talking about things that aren’t made by human beings. Rocks. Reefs. Red wolves. But while there is...",
+            "pubDate": "2026-04-22T11:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/06/mat_debrief.png?w=1012"
         },
         {
-            "title": "How AI is turning the Iran conflict into theater",
-            "link": "https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/",
-            "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. “Anyone wann...",
-            "pubDate": "2026-03-09T16:11:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "title": "One town’s scheme to get rid of its geese",
+            "link": "https://www.technologyreview.com/2026/04/22/1135430/california-town-scheme-get-rid-geese/",
+            "description": "“Pull over!” I order my brother one sunny February afternoon. Our target is in sight: a gaggle of Canada geese, pecking at grass near the dog park. As...",
+            "pubDate": "2026-04-22T11:00:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/04/MJ26-front-dl_dispatch.png?w=636"
         },
         {
-            "title": "Humanoid developer Agility Robotics rebrands",
-            "link": "https://www.therobotreport.com/humanoid-developer-agility-robotics-rebrands/",
-            "description": "The company said the rebrand reflects its readiness to scale deployments and lead humanoid adoption across new industries. The post Humanoid developer...",
-            "pubDate": "2026-03-07T14:00:48",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/03/agility-logo.jpg"
+            "title": "Learn about the latest advancements in healthcare robotics at the Robotics Summit & Expo",
+            "link": "https://www.therobotreport.com/learn-about-the-latest-advancements-in-healthcare-robotics-at-the-robotics-summit-expo/",
+            "description": "Healthcare robotics experts from Harvard, ForceN, Rovex Technologies, SKA Robotics, Aethon, MassRobotics, and more will speak at the show. The post Le...",
+            "pubDate": "2026-04-22T17:54:23",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/04/AdobeStock-healthcarerobot-featured.jpg"
         },
         {
-            "title": "The Download: 10 things that matter in AI, plus Anthropic’s plan to sue the Pentagon",
-            "link": "https://www.technologyreview.com/2026/03/06/1133989/the-download-10-things-that-matter-in-ai-anthropics-plan-sue-pentagon/",
-            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Coming soon:...",
-            "pubDate": "2026-03-06T13:10:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/03/mittechreview_scamcompounds_final_opener2.jpg?w=3000"
+            "title": "The Download: introducing the 10 Things That Matter in AI Right Now",
+            "link": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing:...",
+            "pubDate": "2026-04-22T13:10:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/04/09_20_JFM_MIT_TheDownload.webp?w=2127"
         },
         {
-            "title": "Plug-and-Play AI: Transforming robotics with modular skills",
-            "link": "https://www.therobotreport.com/plug-and-play-ai-transforming-robotics-with-modular-skills/",
-            "description": "Our guest this week is Dinesh Narayanan, Head of Commercialization, General Robotics. The post Plug-and-Play AI: Transforming robotics with modular sk...",
-            "pubDate": "2026-03-06T23:34:48",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/03/Dinesh-headshot.jpg"
+            "title": "HII partners with Path Robotics, GrayMatter Robotics to accelerate shipbuilding",
+            "link": "https://www.therobotreport.com/hii-partners-path-robotics-graymatter-robotics-accelerate-shipbuilding/",
+            "description": "GrayMatter Robotics and Path Robotics are both deepening their existing relationship with HII, one of the country's leading shipbuilders. The post HII...",
+            "pubDate": "2026-04-22T13:30:22",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/04/pathrobotics-featured.jpg"
         },
         {
-            "title": "Is the Pentagon allowed to surveil Americans with AI?",
-            "link": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
-            "description": "The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question: Does the law a...",
-            "pubDate": "2026-03-06T19:21:22",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "title": "3 things Michelle Kim is into right now",
+            "link": "https://www.technologyreview.com/2026/04/22/1135423/3-things-michelle-kim/",
+            "description": "Isegye Idol If you thought K-pop was weird, virtual idols—humans who perform as anime-style digital characters via motion capture—will blow your mind....",
+            "pubDate": "2026-04-22T11:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -110,13 +110,6 @@
             "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/wHv1Wez7Ps9wYVYAo9fwT/14b41f606dbf1f5b17994be510407449/nuneybits_Hyper-realistic_image_of_a_retro_computer_with_a_glos_61ffb6e2-7c33-4d45-85f7-69c28693b3ec.webp?w=300&q=30"
         },
         {
-            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
-            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
-            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
-            "pubDate": "2021-10-29T00:18:48",
-            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
-        },
-        {
             "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
             "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
             "description": "By John P. Desmond, AI Trends Editor Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Ener...",
@@ -129,6 +122,13 @@
             "description": "By John P. Desmond, AI Trends Editor The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for ...",
             "pubDate": "2021-10-29T00:20:17",
             "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29SoftwareDev-ArmedServices-2-100x70.jpeg"
+        },
+        {
+            "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
+            "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
+            "description": "By AI Trends Staff While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a ris...",
+            "pubDate": "2021-10-29T00:18:48",
+            "image_url": "https://www.aitrends.com/wp-content/uploads/2021/10/10-29EEOCLogo-1-100x70.png"
         },
         {
             "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",

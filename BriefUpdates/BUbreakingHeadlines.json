@@ -2,98 +2,77 @@
     "title": "BUbreakingHeadlines",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from BUbreakingHeadlines, skipping any feeds with errors.",
-    "lastBuildDate": "2026-03-10T07:57:02.830602",
+    "lastBuildDate": "2026-04-22T16:10:57.649592",
     "items": [
         {
-            "title": "Pete Hegseth, Dan Caine hold news briefing as Iran launches new attacks",
-            "link": "https://www.cbsnews.com/news/pete-hegseth-dan-caine-news-briefing-pentagon-iran-war/",
-            "description": "Defense Secretary Pete Hegseth and Chairman of the Joint Chiefs of Staff Dan Caine are holding a news briefing as Iran launched new attacks Tuesday at...",
-            "pubDate": "2026-03-10T12:49:30",
+            "title": "D4vd murder case: Medical examiner report released on teen's cause of death",
+            "link": "https://abcnews.com/US/d4vd-murder-case-medical-examiner-report-released-teens/story?id=132282698",
+            "description": "D4vd has been charged with first-degree murder in connection with the death of the teen, Celeste Rivas Hernandez, officials said.",
+            "pubDate": "2026-04-22T19:58:29",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "Georgia voters choosing a successor to Marjorie Taylor Greene in US House",
-            "link": "https://apnews.com/article/georgia-congress-house-marjorie-greene-special-election-76dd6570a5deef7036650530aed3be93",
-            "description": "",
-            "pubDate": "2026-03-10T01:01:52",
+            "title": "Iran attacks ships in Strait of Hormuz after Trump extends ceasefire",
+            "link": "https://www.cbsnews.com/live-updates/iran-war-trump-ceasefire-strait-hormuz-ship-attacked-us-military-buildup/",
+            "description": "Iran renews attacks in the Strait of Hormuz after Trump says he's extending a ceasefire indefinitely, as thousands more U.S. forces head for the regio...",
+            "pubDate": "2026-04-22T20:30:48",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Iran war: Trump's pattern of setting unenforced deadlines",
+            "link": "https://abcnews.com/Politics/iran-war-trumps-pattern-setting-unenforced-deadlines/story?id=132258267",
+            "description": "This time around, the president did not provide a new deadline for how long the ceasefire extension will last.",
+            "pubDate": "2026-04-22T20:12:41",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "JetBlue ground stop lifted soon after it began",
-            "link": "https://www.cbsnews.com/news/faa-grounds-all-jetblue-flights-after-airline-asks-it-to-agency-says/",
-            "description": "Shortly after all JetBlue flights were grounded by the FAA due to what the agency said was a JetBlue request, the carrier said it had resumed operatio...",
-            "pubDate": "2026-03-10T12:55:22",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Iran live updates: Hegseth to address war, after Trump says it will be 'ended soon'",
-            "link": "https://abcnews.com/International/live-updates/iran-live-updates/?id=130893022",
-            "description": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28.",
-            "pubDate": "2026-03-10T12:50:37",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "As U.S.-Israeli war with Iran intensifies, Trump says it is \"ahead of schedule\"",
-            "link": "https://www.cbsnews.com/live-updates/us-iran-war-israel-stock-prices-down-oil-prices-up-despite-trump-reassurance/",
-            "description": "President Trump's assurances that a rising U.S. death toll and soaring energy prices will be temporary and worth the pain are failing to assuage jitte...",
-            "pubDate": "2026-03-10T12:04:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Russia and Ukraine both claim front-line progress with US-brokered talks on hold",
-            "link": "https://abcnews.com/International/wireStory/russia-ukraine-claim-front-line-progress-us-brokered-130925844",
-            "description": "Russian and Ukrainian officials are making contradictory claims of battlefield successes in their 4-year-old war",
-            "pubDate": "2026-03-10T12:13:55",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "In a time of war with Iran, Americans unite in aggravation over sticker shock at the gas pump",
-            "link": "https://apnews.com/article/iran-war-gas-prices-trump-voters-648000c2a4ffe03f8d647b8e7371bb13",
-            "description": "",
-            "pubDate": "2026-03-10T01:01:30",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Defiant Iran vows to keep fighting war with U.S. \"as long as it takes\"",
-            "link": "https://www.cbsnews.com/live-updates/us-war-iran-israel-vow-fight-on-oil-prices-markets-react-trump-war-end-soon/",
-            "description": "Markets stem losses as Trump says Iran war will end \"very soon,\" but Tehran says it's \"prepared to continue attacking\" indefinitely, and it won't let ...",
-            "pubDate": "2026-03-10T12:25:50",
+            "title": "Rep. David Scott, longtime Georgia lawmaker, dead at 80",
+            "link": "https://www.cbsnews.com/news/rep-david-scott-longtime-georgia-lawmaker-dead-at-80/",
+            "description": "U.S. Rep. David Scott, who represented Georgia's 13th District for over two decades, has died at 80 years old.",
+            "pubDate": "2026-04-22T20:40:37",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "Trump 'willing to live with' US report on missile strike near Iranian girls' school",
-            "link": "https://abcnews.com/Politics/trump-live-final-us-report-deadly-missile-strike/story?id=130916651",
-            "description": "President Donald Trump said on Monday he doesn't \"know enough\" about the strike on an Iranian elementary school that Iran says killed at least 168 peo...",
-            "pubDate": "2026-03-10T12:10:09",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Student who died after rush event had blood-alcohol level of 0.425%, autopsy says",
-            "link": "https://www.cbsnews.com/news/northern-arizona-university-student-hazing-death-blood-alcohol-level-autopsy/",
-            "description": "Three leaders from the Delta Tau Delta fraternity were arrested on suspicion of hazing after the death of Colin Daniel Martinez.",
-            "pubDate": "2026-03-10T11:44:29",
+            "title": "Watch: Sen. Maggie Hassan has heated exchange with RFK Jr. about grocery prices, pesticides",
+            "link": "https://www.cbsnews.com/video/watch-sen-maggie-hassan-rfk-jr-about-grocery-prices/",
+            "description": "Sen. Maggie Hassan slammed HHS Secretary Robert F. Kennedy Jr. on Wednesday over high grocery prices and Kennedy's position on the herbicide glyphosat...",
+            "pubDate": "2026-04-22T20:38:18",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "WATCH:  Gen Z turns to 'grandma hobbies' to fight screen time",
-            "link": "https://abcnews.com/US/video/gen-turn-grandma-hobbies-fight-screen-time-130925102",
-            "description": "ABC News' Danny New profiles people embracing old-school activities for fun.",
-            "pubDate": "2026-03-10T12:37:29",
+            "title": "Georgia Democratic Rep. David Scott dies at 80",
+            "link": "https://abcnews.com/Politics/georgia-democratic-rep-david-scott-died-sources/story?id=132279134",
+            "description": "Scott served in the House for more than 23 years.",
+            "pubDate": "2026-04-22T18:26:52",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "WATCH:  Tornado threat from Texas to Great Lakes",
-            "link": "https://abcnews.com/GMA/News/video/tornado-threat-texas-great-lakes-130926198",
-            "description": "Some 50 million Americans are on alert for potentially damaging storms, including possible tornadoes.",
-            "pubDate": "2026-03-10T12:39:26",
+            "title": "Virginia voters approve new congressional map favoring Democrats, CBS News projects",
+            "link": "https://www.cbsnews.com/news/virginia-redistricting-results-gerrymandering/",
+            "description": "Virginia voters on Tuesday approved a new congressional map that would give Democrats an advantage in 10 House districts, leaving just one safe Republ...",
+            "pubDate": "2026-04-22T20:25:25",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Watch: RFK Jr. accuses Sen. Blunt Rochester of grandstanding when asked about measles",
+            "link": "https://www.cbsnews.com/video/watch-rfk-jr-accuses-sen-blunt-rochester-of-grandstanding-when-asked-about-measles/",
+            "description": "Sen. Lisa Blunt Rochester had a pointed line of questioning with HHS Secretary Robert F. Kennedy Jr. on Wednesday about his response to measles outbre...",
+            "pubDate": "2026-04-22T20:46:17",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "Dignified transfer for Kentucky soldier who was the 7th US service member to die in Iran war",
-            "link": "https://apnews.com/article/iran-war-us-military-soldier-died-40535c69cd3b8451e0926e808c3df43c",
-            "description": "Vice President JD Vance joined the grieving family of a Kentucky man who was the seventh U.S. service member to die in combat during the Iran war as h...",
-            "pubDate": "2026-03-09T15:43:14",
+            "title": "WATCH:  Baby elephant makes debut on Earth Day",
+            "link": "https://abcnews.com/video/132266922/",
+            "description": "The elephant calf made her public debut as the first Asian elephant born at the National Zoo in more than 25 years.",
+            "pubDate": "2026-04-22T16:03:37",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "WATCH:  New Nat Geo doc highlights alarming decline of the honeybee",
+            "link": "https://abcnews.com/video/132283172/",
+            "description": "The new National Geographic documentary “Secret of the Bees” offers a glimpse into the world and importance of bees.",
+            "pubDate": "2026-04-22T20:09:33",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         }
     ]
 }

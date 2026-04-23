@@ -2,182 +2,182 @@
     "title": "Preventative",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from Preventative, skipping any feeds with errors.",
-    "lastBuildDate": "2026-03-10T07:59:15.471991",
+    "lastBuildDate": "2026-04-22T16:14:59.453160",
     "items": [
         {
-            "title": "Liberal Arts Education As a Counterbalance To Trumpian AI",
-            "link": "https://thehealthcareblog.com/blog/2026/03/10/liberal-arts-education-as-a-counterbalance-to-trumpian-ai/",
-            "description": "By MIKE MAGEE What’s wrong in the social science realm of health? Consider for example the mental health crises affecting teens across the nation, or ...",
-            "pubDate": "2026-03-10T07:21:00",
+            "title": "They’re in Remission, but Their Medical Bills Aren’t: Cancer Survivors Navigate Soaring Costs",
+            "link": "https://kffhealthnews.org/health-care-costs/cancer-survival-costs-testing-treatment-premiums-deductibles-trump/",
+            "description": "The costs of posttreatment care are forcing cancer survivors to make tough choices. GOP proposals to bring down health insurance costs won’t help peop...",
+            "pubDate": "2026-04-22T10:00:00",
+            "image_url": "https://kffhealthnews.org/wp-content/uploads/sites/2/2026/04/McLeod_01.jpg"
+        },
+        {
+            "title": "The Easiest Blood Sugar Upgrade You Can Make During The Workday",
+            "link": "https://www.mindbodygreen.com/articles/could-more-daylight-during-day-help-stabilize-blood-sugar-daylight-and-blood-sugar-control",
+            "description": "Balance your blood sugar without leaving your desk.",
+            "pubDate": "2026-04-22T12:27:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "California Lawmakers Seek Protections for Patients in ICE Custody",
+            "link": "https://kffhealthnews.org/health-industry/ice-custody-immigrant-patient-protection-california-legislation/",
+            "description": "Moving through the California Senate are two bills, informed by KFF Health News reporting, that would strengthen protections for patients brought to h...",
+            "pubDate": "2026-04-22T13:40:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "A Diet That’s Good For You & The Planet? Here’s How To Follow It",
+            "link": "https://www.mindbodygreen.com/articles/new-planetary-health-diet-study",
+            "description": "What's good for you is good for the planet.",
+            "pubDate": "2026-04-22T11:25:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Montana Moves Ahead With Doula Pay but Warns Medicaid Cuts Still May Come",
+            "link": "https://kffhealthnews.org/medicaid/doula-care-pregnancy-medicaid-montana-budget-cuts/",
+            "description": "Montana health officials say they’re seeking to add doula services to the state’s Medicaid program, reversing a previous statement that they would “no...",
+            "pubDate": "2026-04-22T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "This Surprising Factor Could Help Protect Against Cognitive Decline",
+            "link": "https://www.mindbodygreen.com/articles/this-factor-could-protect-against-cognitive-decline-study-finds",
+            "description": "Thanks, estrogen.",
+            "pubDate": "2026-04-22T10:47:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "California Lawmakers Seek Protections for Patients in ICE Custody",
+            "link": "https://kffhealthnews.org/health-industry/ice-custody-immigrant-patient-protection-california-legislation/",
+            "description": "Moving through the California Senate are two bills, informed by KFF Health News reporting, that would strengthen protections for patients brought to h...",
+            "pubDate": "2026-04-22T13:40:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Dayne Williams, Quantum Health",
+            "link": "https://thehealthcareblog.com/blog/2026/04/22/dayne-williams-quantum-health/",
+            "description": "Quantum Health is one of the biggest and original navigation companies. Dayne Williams came out of retirement to take over as CEO after Zane Burke ret...",
+            "pubDate": "2026-04-22T09:12:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Training Hard? 7 Ways Omega-3s Improve Your Fitness & Overall Health",
+            "link": "https://www.mindbodygreen.com/articles/training-hard-7-ways-omega-3s-improve-your-fitness-and-recovery-know-more-about-it",
+            "description": "And, how much you need a day.",
+            "pubDate": "2026-04-22T12:07:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "New Research Has Identified A Groundbreaking Way To Manage Pain",
+            "link": "https://www.mindbodygreen.com/articles/study-identifies-connections-between-creativity-and-pain-management",
+            "description": "Get creative.",
+            "pubDate": "2026-04-22T11:18:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Montana Moves Ahead With Doula Pay but Warns Medicaid Cuts Still May Come",
+            "link": "https://kffhealthnews.org/medicaid/doula-care-pregnancy-medicaid-montana-budget-cuts/",
+            "description": "Montana health officials say they’re seeking to add doula services to the state’s Medicaid program, reversing a previous statement that they would “no...",
+            "pubDate": "2026-04-22T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "What You Need to Know About Dim Light Disturbances",
+            "link": "https://www.healthywomen.org/condition/facts-about-night-blindness",
+            "description": "Picture this: It’s Friday night and you have plans to meet your BFF for dinner. You opt for a ride share, get in the car and notice the lights are gla...",
+            "pubDate": "2026-04-21T15:49:33",
+            "image_url": "https://www.healthywomen.org/media-library/oncoming-cars-on-highway-in-twilight-time.jpg?id=65580719&width=980"
+        },
+        {
+            "title": "When I Found Out I Was Autistic, I Finally Stopped Masking and Started Trusting Myself",
+            "link": "https://www.healthywomen.org/real-women-real-stories/i-was-diagnosed-with-autism-in-midlife",
+            "description": "April is Autism Acceptance Month . As told to Jacquelyne Froeber I’ve always known there was something different about my brain. And I’ve always been ...",
+            "pubDate": "2026-04-21T14:00:01",
+            "image_url": "https://www.healthywomen.org/media-library/taylor-heaton.png?id=65590858&width=980"
+        },
+        {
+            "title": "You Don’t Need to Suffer Through Hot Flashes",
+            "link": "https://www.healthywomen.org/your-health/menopause-treatment-for-hot-flashes",
+            "description": "You’re having dinner with friends when all of a sudden heat rises up in your body. You begin sweating. Your face turns red, and you may even have hear...",
+            "pubDate": "2026-04-21T17:22:08",
+            "image_url": "https://www.healthywomen.org/media-library/menopausal-mature-woman-having-hot-flash-at-home.jpg?id=65582301&width=980"
+        },
+        {
+            "title": "Your Brain on a Hot Flash",
+            "link": "https://www.healthywomen.org/your-health/understanding-hot-flashes",
+            "description": "Standing before 50 coworkers in the conference room, I was taking questions after giving a presentation when I felt the familiar stirrings of a hot fl...",
+            "pubDate": "2026-04-21T18:19:32",
+            "image_url": "https://www.healthywomen.org/media-library/cartoon-of-a-woman-having-a-hot-flash-in-the-office.jpg?id=65583893&width=980"
+        },
+        {
+            "title": "Philippe Pouletty, Carvolix",
+            "link": "https://thehealthcareblog.com/blog/2026/04/21/philippe-pouletty-carvolix/",
+            "description": "Philippe Pouletty is a physician who’s an inventor, French venture capitalist, and the founder of Carvolix. Carvolix is a medical technology company t...",
+            "pubDate": "2026-04-21T06:36:46",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "How to Avoid Shamea Morton’s Spa Nightmare",
+            "link": "https://blackhealthmatters.com/how-to-avoid-shamea-mortons-spa-nightmare/",
+            "description": "When Real Housewives of Atlanta cast member Shamea Morton shared a traumatic skincare experience resulting in a lawsuit against an Atlanta doctor, her...",
+            "pubDate": "2026-04-21T15:25:59",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Talking to Your Healthcare Provider About Vaccines",
+            "link": "https://www.healthywomen.org/your-health/talking-to-your-healthcare-provider-about-vaccines",
+            "description": "Español I was seven months pregnant in 1990 when I came down with a raging case of chickenpox. We were terrified we’d lose our son. In the early stage...",
+            "pubDate": "2026-04-20T19:04:59",
+            "image_url": "https://www.healthywomen.org/media-library/nurse-doing-a-vaccination-injection-with-a-needle-syringe.jpg?id=65574871&width=980"
+        },
+        {
+            "title": "Peter Stetson, TigerConnect",
+            "link": "https://thehealthcareblog.com/blog/2026/04/20/peter-stetson-tiger-connect/",
+            "description": "Peter Stetson is the CMIO of TigerConnect. It’s now calling itself an AI platform to connect people, especially workflows between doctors, nurses, EMT...",
+            "pubDate": "2026-04-20T08:45:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "A Unified Sense of Self",
+            "link": "https://thehealthcareblog.com/blog/2026/04/17/a-unified-sense-of-self/",
+            "description": "By MIKE MAGEE Stanford neuroscientist, David Eagleman, reminded us this week that “A coherent explanation of consciousness eludes modern science.” Tha...",
+            "pubDate": "2026-04-17T08:43:00",
             "image_url": "https://thehealthcareblog.com/wp-content/uploads/2019/03/849660338_medium-dr-mike-magee.jpg"
         },
         {
-            "title": "More Kids Are in ERs for Tooth Pain. Trump Cuts and RFK Jr.’s Anti-Fluoride Fight Aren’t Helping.",
-            "link": "https://kffhealthnews.org/news/article/dental-care-emergency-rooms-special-needs-medicaid-shortage-areas/",
-            "description": "Dentists, hygienists, and researchers say a shortage of rural dental care professionals and worsening oral hygiene since the covid-19 pandemic mean mo...",
-            "pubDate": "2026-03-10T10:00:00",
-            "image_url": "https://kffhealthnews.org/wp-content/uploads/sites/2/2026/02/DentalER_02.jpg"
+            "title": "Concierge Care for All: Yes, It Really Is That Simple",
+            "link": "https://thehealthcareblog.com/blog/2026/04/16/concierge-care-for-all-yes-it-really-is-that-simple/",
+            "description": "By MATTHEW HOLT & CLAUDE You’ll recall that a few weeks back I gave Claude some prompts and my entire corpus of work on THCB and asked it to write a p...",
+            "pubDate": "2026-04-16T05:10:58",
+            "image_url": "https://thehealthcareblog.com/wp-content/uploads/2019/07/Matthew-Holt-1.png"
         },
         {
-            "title": "Women Who Struggle With This Are At An Increased Risk For High Blood Pressure",
-            "link": "https://www.mindbodygreen.com/articles/women-who-struggle-with-sleep-have-greater-hypertension-risk-what-to-do-about-it",
-            "description": "One more reason to catch those zzz's.",
-            "pubDate": "2026-03-10T11:07:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "title": "Who Holds the Power in the Labor Room?",
+            "link": "https://blackhealthmatters.com/who-holds-the-power-in-the-labor-room/",
+            "description": "Cherise Doyley walked into a Florida hospital seeking care and found herself in a situation she never expected. According to reporting from ProPublica...",
+            "pubDate": "2026-04-16T17:17:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "I've Been A Cosmetic Dermatologist For 24+ Years: 3 Tips To Smooth Cellulite",
-            "link": "https://www.mindbodygreen.com/articles/dermatologist-shares-3-natural-tips-to-smooth-cellulite-smart-topicals",
-            "description": "You can have cellulite no matter what products you use on your skin, how old you are, or how much you weigh.",
-            "pubDate": "2026-03-10T11:08:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "title": "Winnie Harlow Is Embracing Vitiligo in a New Way",
+            "link": "https://blackhealthmatters.com/winnie-harlow-is-embracing-vitiligo-in-a-new-way/",
+            "description": "Winnie Harlow never saw herself on glossy magazine pages growing up. Now, she’s a beauty founder with vitiligo who sets the standards for who is consi...",
+            "pubDate": "2026-04-14T16:19:29",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "Banks Are Becoming Bulwarks Against Scams for Vulnerable Seniors",
-            "link": "https://kffhealthnews.org/news/article/banks-protect-seniors-financial-scams-dementia-cognitive-decline-new-old-age/",
-            "description": "Older Americans are losing billions of dollars annually to financial exploitation. Banks and investment firms are training employees to spot red flags...",
-            "pubDate": "2026-03-10T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "title": "K-Beauty vs. J-Beauty: Are These Products for Us?",
+            "link": "https://blackhealthmatters.com/k-beauty-vs-j-beauty-are-these-products-for-us/",
+            "description": "If you’re visiting your favorite beauty or off-price department store, you’ll notice the difference on the shelves. Brands you may not have heard of, ...",
+            "pubDate": "2026-04-09T15:59:48",
+            "image_url": "https://blackhealthmatters.com/wp-content/uploads/2026/04/Naturie-Hatomugi-Gel.png"
         },
         {
-            "title": "This Supplement May Support Brain Activity In Those With Depression",
-            "link": "https://www.mindbodygreen.com/articles/research-explores-how-probiotics-can-impact-depression-symptoms",
-            "description": "As much progress as we've made talking about mental health, treatments can still be hit or miss.",
-            "pubDate": "2026-03-10T10:40:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "This Vitamin Majorly Reduces Dementia Risk (Per Research On 69,643 People)",
-            "link": "https://www.mindbodygreen.com/articles/this-vitamin-reduces-dementia-risk-says-research-on-69k-people-get-regular-checkups",
-            "description": "Here are the easiest ways to ensure sufficient levels.",
-            "pubDate": "2026-03-10T11:07:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Anxious All the Time? Your Daily Drink Habit Deserves a Second Look",
-            "link": "https://www.mindbodygreen.com/articles/those-who-drink-more-sugary-beverages-show-34-higher-anxiety-odds",
-            "description": "We had plenty of reasons to cut back on soda. Science just added one more.",
-            "pubDate": "2026-03-10T10:59:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Florida no amplió Medicaid, pero igual algunos legisladores quieren imponer requisitos de trabajo",
-            "link": "https://kffhealthnews.org/news/article/florida-no-amplio-medicaid-pero-igual-algunos-legisladores-quieren-imponer-requisitos-de-trabajo/",
-            "description": "La medida desconcierta a defensores de la atención médica y a expertos en Medicaid. Algunos dudan, incluso, que sea legal bajo la principal ley de pol...",
-            "pubDate": "2026-03-09T12:19:12",
-            "image_url": "https://kffhealthnews.org/wp-content/uploads/sites/2/2026/02/Mastrototaro.jpg"
-        },
-        {
-            "title": "Florida Hasn’t Expanded Medicaid. Lawmakers Want To Add Work Requirements Anyway.",
-            "link": "https://kffhealthnews.org/news/article/florida-medicaid-work-requirements-expansion-one-big-beautiful-bill-act/",
-            "description": "Florida is not mandated to add work requirements for Medicaid, because the state has not expanded eligibility to more low-income adults. But lawmakers...",
-            "pubDate": "2026-03-09T10:00:00",
-            "image_url": "https://kffhealthnews.org/wp-content/uploads/sites/2/2026/02/Mastrototaro.jpg"
-        },
-        {
-            "title": "Newsom se enfrenta a Trump y RFK Jr. por la salud pública",
-            "link": "https://kffhealthnews.org/news/article/newsom-se-enfrenta-a-trump-y-rfk-jr-por-la-salud-publica/",
-            "description": "El gobernador de California, Gavin Newsom, se ha posicionado como un líder nacional en salud pública al impulsar políticas respaldadas por la ciencia,...",
-            "pubDate": "2026-03-09T14:57:38",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Lauren Ranalli, Town Square Health",
-            "link": "https://thehealthcareblog.com/blog/2026/03/06/lauren-ranalli-town-square-health/",
-            "description": "Lauren Ranalli is the VP of Patient & Community Engagement at Town Square Health, a brand new medical group setting itself up for the senior populatio...",
-            "pubDate": "2026-03-06T06:29:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "When Artificial Intelligence Starts Rewriting Reality",
-            "link": "https://thehealthcareblog.com/blog/2026/03/05/when-artificial-intelligence-starts-rewriting-reality/",
-            "description": "By BRIAN JOONDEPH Artificial intelligence is quickly becoming a core part of healthcare operations. It drafts clinical notes, summarizes patient visit...",
-            "pubDate": "2026-03-05T07:41:00",
-            "image_url": "https://thehealthcareblog.com/wp-content/uploads/2026/03/Brian-Joondeph-1-scaled.jpg"
-        },
-        {
-            "title": "Managing Side Effects of Head and Neck Cancer Treatments",
-            "link": "https://www.healthywomen.org/condition/side-effects-of-head-and-neck-cancer-treatments",
-            "description": "Head and neck cancer, which is cancer in the head or neck region, accounts for about 4% of all cancers in the United States. When it’s caught early, i...",
-            "pubDate": "2026-03-05T15:46:45",
-            "image_url": "https://www.healthywomen.org/media-library/receiving-chemotherapy-treatment.jpg?id=65155513&width=980"
-        },
-        {
-            "title": "My Mother and Grandmother Both Have Endometriosis, and Doctors Still Dismissed Me",
-            "link": "https://www.healthywomen.org/family-history-of-endometriosis-and-was-still-dismissed-me",
-            "description": "As told to Marnie Goodfriend March is Endometriosis Awareness Month . As a teenager, I knew that my periods weren’t normal. I was in a lot of pain, an...",
-            "pubDate": "2026-03-05T14:00:03",
-            "image_url": "https://www.healthywomen.org/media-library/kenzie-williams.jpg?id=65150098&width=980"
-        },
-        {
-            "title": "Me preparaba para una FIV cuando me diagnosticaron cáncer endometrial",
-            "link": "https://www.healthywomen.org/real-women-real-stories/me-diagnosticaron-cancer-endometrial-cuando-me-sometia-a-una-fiv",
-            "description": "English Tal como se relató a Jacquelyne Froeber Estaba en el trabajo cuando timbró mi teléfono celular. \"Tiene cáncer endometrial\", dijo el doctor que...",
-            "pubDate": "2026-03-04T15:55:00",
-            "image_url": "https://www.healthywomen.org/media-library/michele-leah.jpg?id=65150754&width=980"
-        },
-        {
-            "title": "I Was Preparing for IVF When I Was Diagnosed with Endometrial Cancer",
-            "link": "https://www.healthywomen.org/real-women-real-stories/ivf-journey-led-to-an-endometrial-cancer-diagnosis",
-            "description": "Español As told to Jacquelyne Froeber I was at work when my cell phone rang. “You have endometrial cancer,” said the doctor on the other end. I felt a...",
-            "pubDate": "2026-03-04T17:35:59",
-            "image_url": "https://www.healthywomen.org/media-library/michele-leah.jpg?id=65150754&width=980"
-        },
-        {
-            "title": "Follow the Mediterranean Diet and Lower Your Risk of … Everything",
-            "link": "https://www.healthywomen.org/your-wellness/mediterranean-diet-reduces-health-risks",
-            "description": "We’ve all heard that a Mediterranean diet rich in legumes, veggies, olive oil, fish and lean meats is good for us. The evidence is clear: It lowers th...",
-            "pubDate": "2026-03-04T15:00:41",
-            "image_url": "https://www.healthywomen.org/media-library/food-products-representing-the-mediterranean-diet.jpg?id=65150014&width=980"
-        },
-        {
-            "title": "Kerry Washington Gets Candid About Her Eating Disorder",
-            "link": "https://blackhealthmatters.com/kerry-washington-gets-candid-about-her-eating-disorder/",
-            "description": "Disordered eating impacts thousands of individuals, including actress Kerry Washington. The Scandal star and author shared details about how she copes...",
-            "pubDate": "2026-03-03T14:41:29",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Oren Nissim, Brook-ai – Figuring out RPM",
-            "link": "https://thehealthcareblog.com/blog/2026/03/03/oren-nissim-brook-ai-figuring-out-rpm/",
-            "description": "Oren Nissim is the CEO of Brook-ai which is making some waves in the remote care space. Their goals is to use remote patient monitoring to help provid...",
-            "pubDate": "2026-03-03T23:36:13",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Why Obesity Care Week Matters for Black Women",
-            "link": "https://blackhealthmatters.com/why-obesity-care-week-matters-for-black-women/",
-            "description": "From March 2nd-6th, the Obesity Action Coalition (OAC) is highlighting the importance of Obesity Care Week. World Obesity Day is also on March 4th. Th...",
-            "pubDate": "2026-03-03T18:28:24",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Miriam Paramore, RxUtility",
-            "link": "https://thehealthcareblog.com/blog/2026/03/02/miriam-paramore-rxutility/",
-            "description": "In this quickbite interview recorded at the Feb 2026 VIVE conference, I am talking with Miriam Paramore. Miriam is building RxUtility, which is helpin...",
-            "pubDate": "2026-03-02T22:57:50",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Lupito Nyong’o’s Fibroids Have Returned, She Now Has 50",
-            "link": "https://blackhealthmatters.com/lupito-nyongos-fibroids-have-returned-she-now-has-50/",
-            "description": "Last summer, Academy Award-winning actress Lupita Nyong’o revealed that she had 30 fibroids removed via myomectomy not long after winning her Oscar in...",
-            "pubDate": "2026-02-27T22:36:38",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "‘Real Housewives of Salt Lake City Star’ Mary M. Cosby’s Son Robert Cosby Jr. Dead At 23",
-            "link": "https://blackhealthmatters.com/real-housewives-of-salt-lake-city-star-mary-m-cosbys-son-robert-cosby-jr-dead-at-23/",
-            "description": "Robert Cosby Jr., the son of The Real Housewives of Salt Lake City cast member Mary M. Cosby, died Monday at 23. Cosby Jr. was the only child of the r...",
-            "pubDate": "2026-02-26T20:26:41",
-            "image_url": "https://blackhealthmatters.com/wp-content/uploads/2026/02/Marys-Son-e1772139778116.png"
-        },
-        {
-            "title": "Human Braiding Hair May Be a Health Hazard Too",
-            "link": "https://blackhealthmatters.com/human-braiding-hair-may-be-a-health-hazard-too/",
-            "description": "If you think switching to human hair for your protective styles is safer for your hair and health, think again. Consumer Reports followed up on the te...",
-            "pubDate": "2026-02-25T21:55:36",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "title": "Rebecca King Crews Reveals Her Parkinson’s Diagnosis",
+            "link": "https://blackhealthmatters.com/rebecca-king-crews-reveals-her-parkinsons-diagnosis/",
+            "description": "After being diagnosed with Parkinson’s Disease in 2015, Rebbeca King Crews and her husband, Terry Crews, host of America’s Got Talent, opened up about...",
+            "pubDate": "2026-04-08T05:16:14",
+            "image_url": "https://www.youtube.com/embed/KvnpzRenPbk"
         }
     ]
 }

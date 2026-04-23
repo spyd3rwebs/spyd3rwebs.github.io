@@ -2,112 +2,112 @@
     "title": "briefUpdatesHealthOffshootNL",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from briefUpdatesHealthOffshootNL, skipping any feeds with errors.",
-    "lastBuildDate": "2026-03-10T07:54:48.532318",
+    "lastBuildDate": "2026-04-22T16:08:49.044614",
     "items": [
         {
-            "title": "Under financial strain, primary care doctors unite",
-            "link": "https://www.npr.org/2026/03/10/nx-s1-5707306/under-financial-strain-primary-care-doctors-unite",
-            "description": "Under increasing financial stress, primary care practices across the U.S. are banding together in larger groups to negotiate more lucrative insurance ...",
-            "pubDate": "2026-03-10T10:59:56",
-            "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5707306"
+            "title": "Restrictions on obesity drug coverage force patients to pivot",
+            "link": "https://www.npr.org/2026/04/22/nx-s1-5794613/health-insurance-wegovy-zepbound",
+            "description": "Twelve million people lost coverage for Zepbound over the last year. The same number of people lost coverage for Wegovy, according to an analysis by G...",
+            "pubDate": "2026-04-22T14:25:13",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2667+0+0/resize/4000x2667!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F29%2F17%2F92fb52774d3aadeeeb33e3eb826c%2Fgp1-lena-22.jpg"
         },
         {
-            "title": "GLP-1s have transformed weight loss and diabetes. Is addiction next?",
-            "link": "https://www.npr.org/2026/03/10/nx-s1-5739396/glp-1-ozempic-addiction-substance-use-disorders-weight-loss",
-            "description": "A large study found that people taking GLP-1 drugs like Ozempic for diabetes were less likely to be diagnosed with substance use disorder.",
-            "pubDate": "2026-03-10T11:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4800x2700+0+0/resize/4800x2700!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fee%2Fa2%2F842aae8b44e790aa621c2dbf8501%2Fnprgpl1-smallest.gif"
+            "title": "Gene therapy for a rare type of deafness shows lasting results",
+            "link": "https://www.npr.org/2026/04/22/nx-s1-5791478/gene-therapy-deafness-hearing",
+            "description": "Researchers say a gene therapy allowed deaf children and adults as old as 32 to hear for the first time. The benefits have persisted for more than two...",
+            "pubDate": "2026-04-22T16:00:04",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6122x4592+0+0/resize/6122x4592!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdd%2F92%2Fae8ebc8c41c89301296e3f598025%2Fdr-yilai-shu-examines-a-young-patient-at-the-eye-ent-hospital-of-fudan-university.jpg"
         },
         {
-            "title": "Liberal Arts Education As a Counterbalance To Trumpian AI",
-            "link": "https://thehealthcareblog.com/blog/2026/03/10/liberal-arts-education-as-a-counterbalance-to-trumpian-ai/",
-            "description": "By MIKE MAGEE What’s wrong in the social science realm of health? Consider for example the mental health crises affecting teens across the nation, or ...",
-            "pubDate": "2026-03-10T07:21:00",
-            "image_url": "https://thehealthcareblog.com/wp-content/uploads/2019/03/849660338_medium-dr-mike-magee.jpg"
+            "title": "Trump administration delays rule aimed at improving disability access in schools",
+            "link": "https://www.npr.org/2026/04/22/nx-s1-5791680/doj-disability-web-access-delay-schools",
+            "description": "Schools, colleges and other public institutions originally had until this week to make online content accessible to people with disabilities. Now, the...",
+            "pubDate": "2026-04-22T10:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F19%2F2a%2Fdfe1d5a74303a0bd2bd6e3214f05%2Fkst-20260322-0818.jpg"
         },
         {
-            "title": "Why the 'mad scramble' to fill hormone therapy prescriptions for menopause",
-            "link": "https://www.npr.org/2026/03/10/nx-s1-5742817/menopause-hormone-therapy-shortages",
-            "description": "With the removal of FDA warning labels, hormone therapy to treat symptoms of menopause has grown in popularity. Now some patients are reporting delays...",
-            "pubDate": "2026-03-10T10:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1414+0+0/resize/2121x1414!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fff%2F0c%2Fb90bdc044d9880ec2d7f736921f6%2Fgettyimages-1454147665.jpg"
+            "title": "They’re in Remission, but Their Medical Bills Aren’t: Cancer Survivors Navigate Soaring Costs",
+            "link": "https://kffhealthnews.org/health-care-costs/cancer-survival-costs-testing-treatment-premiums-deductibles-trump/",
+            "description": "The costs of posttreatment care are forcing cancer survivors to make tough choices. GOP proposals to bring down health insurance costs won’t help peop...",
+            "pubDate": "2026-04-22T10:00:00",
+            "image_url": "https://kffhealthnews.org/wp-content/uploads/sites/2/2026/04/McLeod_01.jpg"
         },
         {
-            "title": "More Kids Are in ERs for Tooth Pain. Trump Cuts and RFK Jr.’s Anti-Fluoride Fight Aren’t Helping.",
-            "link": "https://kffhealthnews.org/news/article/dental-care-emergency-rooms-special-needs-medicaid-shortage-areas/",
-            "description": "Dentists, hygienists, and researchers say a shortage of rural dental care professionals and worsening oral hygiene since the covid-19 pandemic mean mo...",
-            "pubDate": "2026-03-10T10:00:00",
-            "image_url": "https://kffhealthnews.org/wp-content/uploads/sites/2/2026/02/DentalER_02.jpg"
+            "title": "Senators grill RFK Jr. on vaccines, drug prices and more at hearing",
+            "link": "https://www.npr.org/2026/04/22/nx-s1-5792840/rfk-jr-senate-house-budget-hearings-vaccines-cdc-medicaid",
+            "description": "Health Secretary Robert F. Kennedy Jr. faced tough questioning as he caps off seven hearings on the Hill in as many days. It's the first time he has t...",
+            "pubDate": "2026-04-22T10:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fea%2F8d%2Fb06b76624808a9b6542de1405ee7%2Fap26112579758608.jpg"
         },
         {
-            "title": "Banks Are Becoming Bulwarks Against Scams for Vulnerable Seniors",
-            "link": "https://kffhealthnews.org/news/article/banks-protect-seniors-financial-scams-dementia-cognitive-decline-new-old-age/",
-            "description": "Older Americans are losing billions of dollars annually to financial exploitation. Banks and investment firms are training employees to spot red flags...",
-            "pubDate": "2026-03-10T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "Dayne Williams, Quantum Health",
+            "link": "https://thehealthcareblog.com/blog/2026/04/22/dayne-williams-quantum-health/",
+            "description": "Quantum Health is one of the biggest and original navigation companies. Dayne Williams came out of retirement to take over as CEO after Zane Burke ret...",
+            "pubDate": "2026-04-22T09:12:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "Menopause hormone therapy is popular, so why the 'mad scramble' to fill prescriptions?",
-            "link": "https://www.npr.org/2026/03/09/nx-s1-5725504/menopause-hormone-therapy-is-popular-so-why-the-mad-scramble-to-fill-prescriptions",
-            "description": "With the removal of the black-box warning on hormone therapy for menopause, some providers and patients report shortages or delays, waiting for a phar...",
-            "pubDate": "2026-03-09T21:35:10",
-            "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5725504"
+            "title": "California Lawmakers Seek Protections for Patients in ICE Custody",
+            "link": "https://kffhealthnews.org/health-industry/ice-custody-immigrant-patient-protection-california-legislation/",
+            "description": "Moving through the California Senate are two bills, informed by KFF Health News reporting, that would strengthen protections for patients brought to h...",
+            "pubDate": "2026-04-22T13:40:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
-            "title": "Florida Hasn’t Expanded Medicaid. Lawmakers Want To Add Work Requirements Anyway.",
-            "link": "https://kffhealthnews.org/news/article/florida-medicaid-work-requirements-expansion-one-big-beautiful-bill-act/",
-            "description": "Florida is not mandated to add work requirements for Medicaid, because the state has not expanded eligibility to more low-income adults. But lawmakers...",
-            "pubDate": "2026-03-09T10:00:00",
-            "image_url": "https://kffhealthnews.org/wp-content/uploads/sites/2/2026/02/Mastrototaro.jpg"
+            "title": "Montana Moves Ahead With Doula Pay but Warns Medicaid Cuts Still May Come",
+            "link": "https://kffhealthnews.org/medicaid/doula-care-pregnancy-medicaid-montana-budget-cuts/",
+            "description": "Montana health officials say they’re seeking to add doula services to the state’s Medicaid program, reversing a previous statement that they would “no...",
+            "pubDate": "2026-04-22T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
-            "title": "Why young girls are disguised as boys in Afghanistan",
-            "link": "https://www.npr.org/2026/03/09/g-s1-112603/why-young-girls-are-disguised-as-boys-in-afghanistan",
-            "description": "The Taliban has released a video of an interrogation of a girl who passed as a boy. It's an age-old practice in this patriarchal society but now appea...",
-            "pubDate": "2026-03-09T16:33:17",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+0/resize/3000x1688!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F73%2F88%2F66bc483e4837bb6c0fc145523294%2Fnpr-bachaposh-final.jpg"
+            "title": "Montana Moves Ahead With Doula Pay but Warns Medicaid Cuts Still May Come",
+            "link": "https://kffhealthnews.org/medicaid/doula-care-pregnancy-medicaid-montana-budget-cuts/",
+            "description": "Montana health officials say they’re seeking to add doula services to the state’s Medicaid program, reversing a previous statement that they would “no...",
+            "pubDate": "2026-04-22T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
-            "title": "Florida no amplió Medicaid, pero igual algunos legisladores quieren imponer requisitos de trabajo",
-            "link": "https://kffhealthnews.org/news/article/florida-no-amplio-medicaid-pero-igual-algunos-legisladores-quieren-imponer-requisitos-de-trabajo/",
-            "description": "La medida desconcierta a defensores de la atención médica y a expertos en Medicaid. Algunos dudan, incluso, que sea legal bajo la principal ley de pol...",
-            "pubDate": "2026-03-09T12:19:12",
-            "image_url": "https://kffhealthnews.org/wp-content/uploads/sites/2/2026/02/Mastrototaro.jpg"
+            "title": "California Lawmakers Seek Protections for Patients in ICE Custody",
+            "link": "https://kffhealthnews.org/health-industry/ice-custody-immigrant-patient-protection-california-legislation/",
+            "description": "Moving through the California Senate are two bills, informed by KFF Health News reporting, that would strengthen protections for patients brought to h...",
+            "pubDate": "2026-04-22T13:40:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "Newsom se enfrenta a Trump y RFK Jr. por la salud pública",
-            "link": "https://kffhealthnews.org/news/article/newsom-se-enfrenta-a-trump-y-rfk-jr-por-la-salud-publica/",
-            "description": "El gobernador de California, Gavin Newsom, se ha posicionado como un líder nacional en salud pública al impulsar políticas respaldadas por la ciencia,...",
-            "pubDate": "2026-03-09T14:57:38",
+            "title": "Trump's order is a milestone for proponents of using psychedelics as medicine",
+            "link": "https://www.npr.org/2026/04/21/nx-s1-5791755/trumps-order-is-a-milestone-for-proponents-of-using-psychedelics-as-medicine",
+            "description": "President Trump has signed an executive order aimed at accelerating research and approval of psychedelics for treating mental health conditions, like ...",
+            "pubDate": "2026-04-21T21:10:47",
+            "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5791755"
+        },
+        {
+            "title": "Philippe Pouletty, Carvolix",
+            "link": "https://thehealthcareblog.com/blog/2026/04/21/philippe-pouletty-carvolix/",
+            "description": "Philippe Pouletty is a physician who’s an inventor, French venture capitalist, and the founder of Carvolix. Carvolix is a medical technology company t...",
+            "pubDate": "2026-04-21T06:36:46",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Peter Stetson, TigerConnect",
+            "link": "https://thehealthcareblog.com/blog/2026/04/20/peter-stetson-tiger-connect/",
+            "description": "Peter Stetson is the CMIO of TigerConnect. It’s now calling itself an AI platform to connect people, especially workflows between doctors, nurses, EMT...",
+            "pubDate": "2026-04-20T08:45:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "Lauren Ranalli, Town Square Health",
-            "link": "https://thehealthcareblog.com/blog/2026/03/06/lauren-ranalli-town-square-health/",
-            "description": "Lauren Ranalli is the VP of Patient & Community Engagement at Town Square Health, a brand new medical group setting itself up for the senior populatio...",
-            "pubDate": "2026-03-06T06:29:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "title": "A Unified Sense of Self",
+            "link": "https://thehealthcareblog.com/blog/2026/04/17/a-unified-sense-of-self/",
+            "description": "By MIKE MAGEE Stanford neuroscientist, David Eagleman, reminded us this week that “A coherent explanation of consciousness eludes modern science.” Tha...",
+            "pubDate": "2026-04-17T08:43:00",
+            "image_url": "https://thehealthcareblog.com/wp-content/uploads/2019/03/849660338_medium-dr-mike-magee.jpg"
         },
         {
-            "title": "When Artificial Intelligence Starts Rewriting Reality",
-            "link": "https://thehealthcareblog.com/blog/2026/03/05/when-artificial-intelligence-starts-rewriting-reality/",
-            "description": "By BRIAN JOONDEPH Artificial intelligence is quickly becoming a core part of healthcare operations. It drafts clinical notes, summarizes patient visit...",
-            "pubDate": "2026-03-05T07:41:00",
-            "image_url": "https://thehealthcareblog.com/wp-content/uploads/2026/03/Brian-Joondeph-1-scaled.jpg"
-        },
-        {
-            "title": "Oren Nissim, Brook-ai – Figuring out RPM",
-            "link": "https://thehealthcareblog.com/blog/2026/03/03/oren-nissim-brook-ai-figuring-out-rpm/",
-            "description": "Oren Nissim is the CEO of Brook-ai which is making some waves in the remote care space. Their goals is to use remote patient monitoring to help provid...",
-            "pubDate": "2026-03-03T23:36:13",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Miriam Paramore, RxUtility",
-            "link": "https://thehealthcareblog.com/blog/2026/03/02/miriam-paramore-rxutility/",
-            "description": "In this quickbite interview recorded at the Feb 2026 VIVE conference, I am talking with Miriam Paramore. Miriam is building RxUtility, which is helpin...",
-            "pubDate": "2026-03-02T22:57:50",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "title": "Concierge Care for All: Yes, It Really Is That Simple",
+            "link": "https://thehealthcareblog.com/blog/2026/04/16/concierge-care-for-all-yes-it-really-is-that-simple/",
+            "description": "By MATTHEW HOLT & CLAUDE You’ll recall that a few weeks back I gave Claude some prompts and my entire corpus of work on THCB and asked it to write a p...",
+            "pubDate": "2026-04-16T05:10:58",
+            "image_url": "https://thehealthcareblog.com/wp-content/uploads/2019/07/Matthew-Holt-1.png"
         }
     ]
 }

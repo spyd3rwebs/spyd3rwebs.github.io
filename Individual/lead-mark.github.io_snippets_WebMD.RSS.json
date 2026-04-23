@@ -2,28 +2,6 @@
     "title": "Individual feed for https://lead-mark.github.io/snippets/WebMD.RSS",
     "link": "https://lead-mark.github.io/snippets/WebMD.RSS",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-10T07:59:02.362864",
-    "items": [
-        {
-            "title": "Strategies for Smarter Health Spending",
-            "link": "https://www.webmd.com/health-insurance/toc-smarter-health-spending",
-            "description": "Learn how to choose the right plan and navigate health insurance with confidence at every stage of life.",
-            "pubDate": "2026-03-10T08:47:46",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/other/doctor-checking-patient-heart-with-stethoscope-other/1800x1200-doctor-checking-patient-heart-with-stethoscope-other.jpg?resize=484px:*&output-quality=70"
-        },
-        {
-            "title": "How to Choose the Best Health Plan",
-            "link": "https://www.webmd.com/health-insurance/lst/cm/listicle-choosing-health-insurance-plan",
-            "description": "",
-            "pubDate": "2026-03-10T08:47:46",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/hiv_and_barriers_slideshow/1800ss_getty_rf_woman_looking_at_medical_bills.jpg?resize=484px:*&output-quality=70"
-        },
-        {
-            "title": "What to Do When Your Claim Is Denied",
-            "link": "https://www.webmd.com/health-insurance/cm/filing-health-insurance-appeal",
-            "description": "",
-            "pubDate": "2026-03-10T08:47:46",
-            "image_url": "https://img.lb.wbmdstatic.com/vim/live/consumer_assets/site_images/articles/health_tools/tips_for_choosing_your_psoriasis_care_providers_slideshow/1800ss_getty_rf_health_insurance_claim_form.jpg?resize=484px:*&output-quality=70"
-        }
-    ]
+    "lastBuildDate": "2026-04-22T16:12:55.918311",
+    "items": []
 }

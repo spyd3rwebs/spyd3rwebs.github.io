@@ -2,42 +2,42 @@
     "title": "Individual feed for https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/world/rss.xml",
     "link": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/world/rss.xml",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-10T07:57:12.311585",
+    "lastBuildDate": "2026-04-22T16:11:06.276138",
     "items": [
         {
-            "title": "Live Updates: Trump Sends Mixed Signals on When Iran War Might End",
-            "link": "https://www.nytimes.com/live/2026/03/10/world/iran-war-trump-us-israel",
-            "description": "Facing pressure after a surge in energy prices, President Trump said the war would be over “very soon.” He later said the fighting would go on for at ...",
-            "pubDate": "2026-03-10T12:46:35",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "title": "Iran War Live Updates: Reported Seizure of Ships Injects New Uncertainty Over Peace Talks",
+            "link": "https://www.nytimes.com/live/2026/04/22/world/iran-war-trump-ceasefire-talks",
+            "description": "Iran’s Revolutionary Guards said they had seized two ships near the Strait of Hormuz. A Trump spokeswoman said the president did not view those action...",
+            "pubDate": "2026-04-22T21:08:55",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "Civilians Killed by Strikes in Gulf States Are Almost All Migrant Workers",
-            "link": "https://www.nytimes.com/2026/03/10/world/middleeast/iran-war-migrant-deaths.html",
-            "description": "Since the American-Israeli attack on Iran began, at least 12 civilians have been killed in oil-rich Gulf countries. All but one of them were foreign n...",
-            "pubDate": "2026-03-10T12:39:13",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Shots Fired at U.S. Consulate in Toronto, Police Say",
-            "link": "https://www.nytimes.com/2026/03/10/world/canada/us-consulate-toronto-shots.html",
-            "description": "The police said that there were no injuries. Television footage showed what appeared to be at least two bullet holes at the building’s entrance.",
-            "pubDate": "2026-03-10T12:32:39",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Australia Gives Asylum to Iranian Soccer Players",
-            "link": "https://www.nytimes.com/video/world/australia/100000010764895/australia-asylum-iran-women-soccer.html",
-            "description": "The Australian government is helping the Iranian national women’s soccer team after state media called the players “traitors” for refusing to sing the...",
-            "pubDate": "2026-03-10T12:31:59",
+            "title": "On Independence Day, Israel Honors Rabbi Who Called to ‘Flatten’ Gaza",
+            "link": "https://www.nytimes.com/2026/04/22/world/middleeast/israel-gaza-independence-day-rabbi-avraham-zarbiv.html",
+            "description": "Avraham Zarbiv became known on Israel’s right for demolishing buildings in Gaza. He lit a torch at a national ceremony on Tuesday evening.",
+            "pubDate": "2026-04-22T21:03:42",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
-            "title": "Here’s the latest.",
-            "link": "https://www.nytimes.com/live/2026/03/10/world/iran-war-trump-us-israel/heres-the-latest",
-            "description": "",
-            "pubDate": "2026-03-10T12:17:59",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "Anthropic’s New Mythos A.I. Model Sets Off Global Alarms",
+            "link": "https://www.nytimes.com/2026/04/22/technology/anthropics-mythos-ai.html",
+            "description": "Mythos has triggered emergency responses from central banks and intelligence agencies globally, as Anthropic decides who has access to the powerful mo...",
+            "pubDate": "2026-04-22T20:48:53",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Pope Leo, Visiting African Prison, Urges Inmates to Find Hope Amid Despair",
+            "link": "https://www.nytimes.com/2026/04/22/world/africa/pope-leo-equatorial-guinea.html",
+            "description": "“Life is not defined solely by one’s mistakes,” the pope told inmates being held in a port city of Equatorial Guinea.",
+            "pubDate": "2026-04-22T20:47:19",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "To Iran, Trump Blinked First by Extending the Cease-Fire",
+            "link": "https://www.nytimes.com/2026/04/22/world/middleeast/iran-trump-ceasefire.html",
+            "description": "Iran’s leaders believe that they can withstand an enduring standoff longer than President Trump. The strategy could be economically devastating for av...",
+            "pubDate": "2026-04-22T20:00:11",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         }
     ]
 }

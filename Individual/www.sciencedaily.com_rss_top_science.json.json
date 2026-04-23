@@ -2,42 +2,42 @@
     "title": "Individual feed for https://www.sciencedaily.com/rss/top/science.xml",
     "link": "https://www.sciencedaily.com/rss/top/science.xml",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-10T07:57:11.746822",
+    "lastBuildDate": "2026-04-22T16:11:05.706463",
     "items": [
         {
-            "title": "This 2-pound dinosaur is rewriting what scientists know about evolution",
-            "link": "https://www.sciencedaily.com/releases/2026/03/260309225231.htm",
-            "description": "A nearly complete dinosaur skeleton discovered in Patagonia is helping scientists crack the mystery of alvarezsaurs, a bizarre group of bird-like dino...",
-            "pubDate": "2026-03-10T11:50:39",
+            "title": "Ancient DNA reveals a lost population near Paris replaced by strangers",
+            "link": "https://www.sciencedaily.com/releases/2026/04/260421042800.htm",
+            "description": "Ancient DNA from a tomb near Paris reveals a shocking prehistoric reset: one population vanished and was replaced by newcomers from the south. The two...",
+            "pubDate": "2026-04-22T12:57:10",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Scientists stunned as JWST finds ice clouds on a giant alien planet",
+            "link": "https://www.sciencedaily.com/releases/2026/04/260422044618.htm",
+            "description": "Scientists have discovered unexpected water-ice clouds on a distant, Jupiter-like exoplanet, challenging current atmospheric models. By directly imagi...",
+            "pubDate": "2026-04-22T10:24:39",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "Scientists may have discovered a brand-new mineral on Mars",
-            "link": "https://www.sciencedaily.com/releases/2026/03/260309225228.htm",
-            "description": "Scientists studying Mars may have uncovered a brand-new mineral hidden in the planet’s ancient sulfate deposits. By combining laboratory experiments w...",
-            "pubDate": "2026-03-10T11:23:47",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "title": "DNA reveals a hidden pitviper species in China",
+            "link": "https://www.sciencedaily.com/releases/2026/04/260422044617.htm",
+            "description": "A vivid green pitviper hiding in Sichuan’s misty mountains has been revealed as a completely new species. Scientists had overlooked it for decades, as...",
+            "pubDate": "2026-04-22T10:15:51",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "Cosmic voids look empty but they may be tearing the universe apart",
-            "link": "https://www.sciencedaily.com/releases/2026/03/260309225236.htm",
-            "description": "Cosmic voids may seem like the emptiest places in the universe, stripped of matter, radiation, and even dark matter. But they’re far from nothing. Eve...",
-            "pubDate": "2026-03-10T11:10:26",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Stanford scientists say colorblindness may hide a deadly bladder cancer warning",
-            "link": "https://www.sciencedaily.com/releases/2026/03/260309225222.htm",
-            "description": "Colorblindness may be doing more than making traffic lights confusing — it could also be hiding a life-threatening warning sign. Researchers analyzing...",
-            "pubDate": "2026-03-10T06:49:43",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Scientists finally solve the mystery of yeast’s tiny centromeres",
-            "link": "https://www.sciencedaily.com/releases/2026/03/260308201606.htm",
-            "description": "Scientists have uncovered how brewer’s yeast developed its unusually tiny centromeres, the DNA regions that guide chromosome separation during cell di...",
-            "pubDate": "2026-03-10T05:30:58",
+            "title": "This “quantum” material fooled scientists and revealed something new",
+            "link": "https://www.sciencedaily.com/releases/2026/04/260421042819.htm",
+            "description": "A mysterious magnetic material once thought to host an exotic “quantum spin liquid” has turned out to be something entirely different—and possibly jus...",
+            "pubDate": "2026-04-22T08:18:44",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "This donut-shaped discovery just shattered a 150-year math rule",
+            "link": "https://www.sciencedaily.com/releases/2026/04/260421042816.htm",
+            "description": "A 150-year-old rule in geometry has been proven wrong. Mathematicians found two different doughnut-shaped surfaces that look identical when measured l...",
+            "pubDate": "2026-04-22T06:49:13",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         }
     ]
 }

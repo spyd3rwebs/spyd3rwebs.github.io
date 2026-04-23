@@ -2,902 +2,888 @@
     "title": "mbAInewsletter",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from mbAInewsletter, skipping any feeds with errors.",
-    "lastBuildDate": "2026-03-10T07:56:59.520692",
+    "lastBuildDate": "2026-04-22T16:10:56.680970",
     "items": [
         {
-            "title": "What to Do About Medical Debt",
-            "link": "https://www.thestreet.com/retirement/what-to-do-about-medical-debt",
-            "description": "Broadcast Retirement Network's Jeffrey Snyder discusses how to pay down medical debt with Bankrate's Ted Rossman. Jeffrey Snyder, Broadcast Retirement...",
-            "pubDate": "2026-03-10T12:30:00",
-            "image_url": "https://www.thestreet.com/.image/c_fit%2Ch_800%2Cw_1200/NDA6MDAwMDAwMDAyOTA1MzM3/thestreet.jpg"
+            "title": "Elevance Health Earnings And Guidance Hike Offset Cost Concerns",
+            "link": "https://www.benzinga.com/markets/earnings/26/04/51982484/elevance-health-earnings-and-guidance-hike-offset-cost-concerns",
+            "description": "Elevance Health tops Q1 estimates, lifts 2026 outlook, flags Medicaid cost pressure and CMS-related accrual amid steady revenue growth. Importance Ran...",
+            "pubDate": "2026-04-22T20:41:37",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2026/04/22/Elevance-Health-Photo-by-Jonathan-Weiss-.jpeg?optimize=medium&dpr=1&auto=webp&height=675&width=1200&fit=crop"
         },
         {
-            "title": "NVIDIA Corporation (NVDA) Adopts New Variable Compensation ​Plan for Fiscal 2027 Setting Target Cash Bonus of $4 Million for CEO Huang, Reuters Reports",
-            "link": "https://finance.yahoo.com/news/nvidia-corporation-nvda-adopts-variable-114515815.html",
+            "title": "Analyst Report: Capital One Financial Corp",
+            "link": "https://finance.yahoo.com/research/reports/ARGUS_2854_AnalystReport_1776880442000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
             "description": "",
-            "pubDate": "2026-03-10T12:45:15",
-            "image_url": "https://media.zenfs.com/en/insidermonkey.com/aa94e059977d3251b8b0630718e013fc"
+            "pubDate": "2026-04-22T18:54:02",
+            "image_url": "https://s.yimg.com/uc/fin/img/non-sub-report-thumb.png"
         },
         {
-            "title": "India Has Hit Its Stride: George Bogden on Why U.S.–India Relations Matter",
-            "link": "https://www.finance-monthly.com/india-has-hit-its-stride-george-bogden-on-why-u-s-india-relations-matter/",
-            "description": "In early February 2026, President Trump and Indian Prime Minister Narendra Modi announced a trade deal that trades lower U.S. tariffs for India’s comm...",
-            "pubDate": "2026-03-10T10:25:55",
-            "image_url": "https://www.finance-monthly.com/wp-content/uploads/2026/03/pexels-stuti-10974413-683x1024.jpg"
+            "title": "Airline CEOs warn that era of affordable air travel might be over",
+            "link": "https://www.thestreet.com/markets/airline-ceos-warn-that-era-of-affordable-air-travel-might-be-over",
+            "description": "A $49 one-way from Chicago to Los Angeles on a budget carrier. A $299 round trip flight from San Francisco to New York City. A $399 transatlantic flig...",
+            "pubDate": "2026-04-22T20:36:55",
+            "image_url": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAyOTM4OTU4/united-airlines.jpg?io=1&profile=rss"
         },
         {
-            "title": "BioNTech: Q4 Earnings Insights",
-            "link": "https://www.benzinga.com/insights/earnings/26/03/51151574/biontech-q4-earnings-insights",
+            "title": "OpenAI Briefs Governments On New Cyber AI Model Amid Anthropic Claude Rivalry",
+            "link": "https://www.benzinga.com/markets/private-markets/26/04/51982721/openai-briefs-governments-on-new-cyber-ai-model-amid-anthropic-claude-rivalry",
+            "description": "OpenAI met with various federal agencies, state governments, and Five Eyes allies to unveil its new GPT-5.4-Cyber model. Importance Rank: 1 read more",
+            "pubDate": "2026-04-22T20:49:41",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2026/04/22/Illustrative-Editorial-Of-Openai-Logo-On.jpeg?optimize=medium&dpr=1&auto=webp&height=675&width=1200&fit=crop"
+        },
+        {
+            "title": "Market Update: COF, EFX, UAL, MRNA",
+            "link": "https://finance.yahoo.com/research/reports/ARGUS_46817_MarketUpdate_1776879542000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+            "description": "",
+            "pubDate": "2026-04-22T18:39:02",
+            "image_url": "https://s.yimg.com/uc/fin/img/non-sub-report-thumb.png"
+        },
+        {
+            "title": "Research Finds Guaranteed Income in Retirement Can Actually Help You Live Longer",
+            "link": "https://money.com/annuity-income-longevity-study/?xid=moneyrss",
+            "description": "Guaranteed income in retirement may reduce stress and help retirees live longer, study suggests.",
+            "pubDate": "2026-04-22T20:10:57",
+            "image_url": "https://img.money.com/2026/04/News-Annuities-Live-Longer.jpg?quality=85"
+        },
+        {
+            "title": "Amazon's chic faux leather sofa drops by 38%",
+            "link": "https://www.thestreet.com/deals/vesgantti-100-faux-leather-sofa-amazon-sale",
+            "description": "\"The movable ottoman makes it easy to change the layout.\"",
+            "pubDate": "2026-04-22T21:03:00",
+            "image_url": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAyODQ0NzM3/amazon-logo.jpg?io=1&profile=rss"
+        },
+        {
+            "title": "What are active ETFs and how are they reshaping how Americans invest?",
+            "link": "https://www.foxbusiness.com/markets/what-active-etfs-how-reshaping-how-americans-invest",
+            "description": "Actively managed ETFs hit a $1 trillion milestone in the U.S. as investors look for funds that aim to outperform passive ETFs tracking market indexes.",
+            "pubDate": "2026-04-22T14:00:11",
+            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/09/wall-street-nyse-trader-american-flag-getty.jpg"
+        },
+        {
+            "title": "Analyst Report: United Airlines Holdings Inc",
+            "link": "https://finance.yahoo.com/research/reports/ARGUS_4407_AnalystReport_1776880442000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+            "description": "",
+            "pubDate": "2026-04-22T18:54:02",
+            "image_url": "https://s.yimg.com/uc/fin/img/non-sub-report-thumb.png"
+        },
+        {
+            "title": "Private Credit Stress Test: What Breaks And What Holds",
+            "link": "https://gfmag.com/private-credit/private-credit-stress-test-2026/",
+            "description": "Private credit faces mounting stress from liquidity mismatches, fraud concerns, and macro pressures, even as bullish sentiment persist. The post Priva...",
+            "pubDate": "2026-04-22T07:30:00",
+            "image_url": "https://s44650.pcdn.co/wp-content/uploads/2026/04/Jun-Li.png"
+        },
+        {
+            "title": "Trump's Marijuana Reclassification Plan Sparks Cannabis ETF Rally—Is A Breakout Finally Here?",
+            "link": "https://www.benzinga.com/etfs/sector-etfs/26/04/51982348/trumps-marijuana-reclassification-plan-sparks-cannabis-etf-rally-is-a-breakout-finally-here",
+            "description": "Cannabis ETFs surge as Trump signals Schedule III reclassification, boosting profit outlook and investor interest. Importance Rank: 2 read more",
+            "pubDate": "2026-04-22T20:37:24",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2026/04/22/Legality-Of-Cannabis--Legal-And-Illegal-.jpeg?optimize=medium&dpr=1&auto=webp&height=675&width=1200&fit=crop"
+        },
+        {
+            "title": "Optimize Cross-Border Executive Travel in Banking M&A",
+            "link": "https://www.finance-monthly.com/optimize-cross-border-executive-travel-in-banking-ma/",
+            "description": "In the first weeks of a cross-border bank merger, travel requests build faster than teams can process them. Senior executives are suddenly expected in...",
+            "pubDate": "2026-04-22T14:47:50",
+            "image_url": "https://www.finance-monthly.com/wp-content/uploads/2026/04/pexels-werner-pfennig-6950018-1024x682.jpg"
+        },
+        {
+            "title": "Private Credit Stress Test: What Breaks And What Holds",
+            "link": "https://gfmag.com/private-credit/private-credit-stress-test-2026/",
+            "description": "Private credit faces mounting stress from liquidity mismatches, fraud concerns, and macro pressures, even as bullish sentiment persist. The post Priva...",
+            "pubDate": "2026-04-22T07:30:00",
+            "image_url": "https://s44650.pcdn.co/wp-content/uploads/2026/04/Jun-Li.png"
+        },
+        {
+            "title": "Warren Buffett dumped 77% of Amazon to buy surging media stock",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-dumped-77-amazon-003700673.html",
+            "description": "",
+            "pubDate": "2026-04-22T01:37:00",
+            "image_url": "https://media.zenfs.com/en/thestreet_881/0eb641225850472e04986f0e01376b75"
+        },
+        {
+            "title": "How Much Does It Cost to Refinance a Mortgage?",
+            "link": "https://money.com/how-much-does-it-cost-to-refinance-mortgage/?xid=moneyrss",
+            "description": "Part of determining if a mortgage refinance is practical is weighing the balance between its benefits and costs.",
+            "pubDate": "2026-04-22T14:41:03",
+            "image_url": "https://img.money.com/2024/01/Explainer-Refinance-Mortgage-Cost.jpg?quality=85"
+        },
+        {
+            "title": "The fund managers and asset classes favoured by investors",
+            "link": "https://moneyweek.com/investments/the-fund-managers-and-asset-classes-favoured-by-investors",
+            "description": "Investors flocked to passive strategies in March. We reveal the most popular fund managers and asset classes.",
+            "pubDate": "2026-04-22T15:57:16",
+            "image_url": "https://cdn.mos.cms.futurecdn.net/v9PnLjDoc8RdZihEcg9jan-1280-80.jpg"
+        },
+        {
+            "title": "How Retail Investors Can Benefit From Private Equity's $226B Secondary Market",
+            "link": "https://www.benzinga.com/Opinion/26/04/51982611/how-retail-investors-can-benefit-from-private-equitys-226b-secondary-market",
             "description": "Importance Rank: 1 read more",
-            "pubDate": "2026-03-10T11:48:07",
-            "image_url": "https://cdn.benzinga.com/files/images/story/2025/11/06/analyst_ratings_6.jpg?optimize=medium&dpr=1&auto=webp&height=675&width=1200&fit=crop"
+            "pubDate": "2026-04-22T20:45:31",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2026/04/22/Private-Equitys-226B-Secondary-Market-Is.png?optimize=medium&dpr=1&auto=webp&height=675&width=1200&fit=crop"
         },
         {
-            "title": "Do You Need to Register as a Money Services Business?",
-            "link": "https://www.finance-monthly.com/do-you-need-to-register-as-a-money-services-business/",
-            "description": "The global financial services market is on a significant growth trajectory, projected to expand from $33.5 trillion in 2024 to nearly $45 trillion by ...",
-            "pubDate": "2026-03-10T10:17:29",
-            "image_url": "https://www.finance-monthly.com/wp-content/uploads/2026/03/pexels-audy-of-course-306413796-18804128-1024x682.jpg"
+            "title": "Best AI SaaS Investors: 10 Firms Turning Algorithms Into Everyday Productivity",
+            "link": "https://www.finance-monthly.com/best-ai-saas-investors-10-firms-turning-algorithms-into-everyday-productivity/",
+            "description": "The generative-AI hype cycle is over; now comes the hard work of shipping software that makes businesses measurably faster, smarter, and more profitab...",
+            "pubDate": "2026-04-22T13:53:25",
+            "image_url": "https://www.finance-monthly.com/wp-content/uploads/2026/04/pexels-markus-winkler-1430818-19867468-1024x683.jpg"
         },
         {
-            "title": "Trump says Iran war is ‘very complete, pretty much’ sparking global stock rally",
-            "link": "https://fortune.com/2026/03/10/trump-iran-war-is-very-complete-pretty-much-stocks/",
-            "description": "But also, \"we’re going to go further.\"",
-            "pubDate": "2026-03-10T12:13:35",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2265661113.jpg?w=2048"
+            "title": "$10 Billion Rush Into S&P 500 ETFs—What's Driving The SPY-Led Inflow Wave?",
+            "link": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/04/51982714/10-billion-rush-into-sp-500-etfs-whats-driving-the-spy-led-inflow-wave",
+            "description": "S&P 500 ETFs see massive inflows led by SPY as Iran tensions and Strait of Hormuz risks drive volatility, dip-buying, and a rebound. Importance Rank: ...",
+            "pubDate": "2026-04-22T20:49:25",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2026/04/22/SP-500-Set-To-Surge-Like-Never-Before-Be.jpeg?optimize=medium&dpr=1&auto=webp&height=675&width=1200&fit=crop"
         },
         {
-            "title": "Uzbekistan’s Uzum Hits $2.3B Valuation as Fintech Drives Growth",
-            "link": "https://www.finance-monthly.com/uzum-2-3b-valuation-fintech-growth/",
-            "description": "Uzbekistan’s Uzum Hits $2.3B Valuation as Fintech Drives Growth Key Takeaways• Uzum secures $131.5M from Oman sovereign funds, boosting its valuation ...",
-            "pubDate": "2026-03-10T10:59:35",
-            "image_url": "https://www.finance-monthly.com/wp-content/uploads/2026/03/ARM04166-_1_-_2_.jpg"
+            "title": "Best Buy CEO Corie Barry is stepping down: How she went from architect of a comeback to cautionary tale",
+            "link": "https://fortune.com/2026/04/22/best-buy-ceo-corie-barry-turnaround-covid-retail/",
+            "description": "Shares are up only 6% since she was appointed in 2019, vastly underperforming the S&P 500.",
+            "pubDate": "2026-04-22T20:25:57",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2241117576-e1776885817918.jpg?w=2048"
         },
         {
-            "title": "Nio Heads Into Q4 Earnings With Revenue Expected To Nearly Double",
-            "link": "https://www.benzinga.com/markets/earnings/26/03/51151366/nio-heads-into-q4-earnings-with-revenue-expected-to-nearly-double",
-            "description": "Ahead of Nio's fourth quarter earnings call, here is a list of essential information on the company's latest activities. Importance Rank: 1 read more",
-            "pubDate": "2026-03-10T11:38:34",
-            "image_url": "https://cdn.benzinga.com/files/images/story/2026/03/10/Logo-And-Name-Of-NIO-Inc--Mounted-On-A-T.jpeg?optimize=medium&dpr=1&auto=webp&height=675&width=1200&fit=crop"
+            "title": "Bessent torches Democrat's ‘sanctions relief’ claims, calls $14B Iran/Russia charge a DNC talking point",
+            "link": "https://www.foxbusiness.com/economy/bessent-torches-democrats-sanctions-relief-claims-14b-iran-russia-charge-dnc-talking-point",
+            "description": "Treasury Secretary Scott Bessent and Sen. Chris Coons clash over claims that Iran gained $14 billion from temporary U.S. sanctions relief on oil.",
+            "pubDate": "2026-04-22T19:37:58",
+            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/04/scott-bessent-testimony-waters-fight.jpg"
         },
         {
-            "title": "AI isn’t killing jobs yet—CEOs are using layoffs to fund a $2.5 trillion arms race",
-            "link": "https://fortune.com/2026/03/10/ai-killing-jobs-ceos-using-layoffs-fund-trillion-arms-race/",
-            "description": "Also: All the news and watercooler chat from Fortune.",
-            "pubDate": "2026-03-10T10:41:30",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2170273841-e1773134998883.jpg?w=2048"
+            "title": "Cursor’s 25-year-old CEO is a former Google intern who just inked a $60 billion deal with SpaceX",
+            "link": "https://fortune.com/2026/04/22/who-is-cursor-25-year-old-ceo-michael-truell-tech-startups-csuite-elon-musk-spacex/",
+            "description": "From Google intern at 18 to a billionaire at 25, Cursor CEO Michael Truell's rise is one of Silicon Valley's fastest.",
+            "pubDate": "2026-04-22T20:36:07",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2270265262-e1776885634438.jpg?w=2048"
         },
         {
-            "title": "Latest Technology Trends In Financial Services Industry 2026",
-            "link": "https://www.finance-monthly.com/latest-technology-trends-in-financial-services-industry-2026/",
-            "description": "If you are involved in financial services, you already know that the pressure is real. Margins are tightening. Regulations are expanding. Customers ex...",
-            "pubDate": "2026-03-10T10:54:26",
-            "image_url": "https://www.finance-monthly.com/wp-content/uploads/2026/03/Picture2.png"
+            "title": "From Maxed Out to Low: Business Credit Tips",
+            "link": "https://www.finance-monthly.com/from-maxed-out-to-low-business-credit-tips/",
+            "description": "In the early stages of business ownership, credit is often treated as a safety net, a necessary buffer to bridge the gap between irregular revenue and...",
+            "pubDate": "2026-04-22T09:21:32",
+            "image_url": "https://www.finance-monthly.com/wp-content/uploads/2026/04/pexels-aukid-phumsirichat-3095759-4691470-1024x682.jpg"
         },
         {
-            "title": "JPMorgan delivers a stark message for investors in stocks",
-            "link": "https://www.thestreet.com/investing/stocks/jpmorgan-delivers-a-stark-message-for-investors-in-stocks",
-            "description": "Wall Street's biggest bank is not telling investors to panic. But it is telling them to brace for more turbulence before things get better. Mislav Mat...",
-            "pubDate": "2026-03-10T11:33:00",
-            "image_url": "https://www.thestreet.com/.image/c_fit%2Ch_800%2Cw_1200/NDA6MDAwMDAwMDAyOTA2NzA0/day-three-of-iif-annual-membership-meeting.jpg"
+            "title": "Morgan Stanley exposes hidden threats to wealth",
+            "link": "https://www.thestreet.com/personal-finance/morgan-stanley-exposes-hidden-threats-to-wealth",
+            "description": "Most investors focus on market swings, but some of the biggest financial risks don’t come from Wall Street. Across client portfolios, a pattern has em...",
+            "pubDate": "2026-04-22T20:17:00",
+            "image_url": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAyOTQ5NTgz/morgan-stanley-office.jpg?io=1&profile=rss"
         },
         {
-            "title": "NIO Q4 Earnings Summary & Key Takeaways",
-            "link": "https://www.benzinga.com/insights/earnings/26/03/51151346/nio-q4-earnings-summary-key-takeaways",
-            "description": "Importance Rank: 1 read more",
-            "pubDate": "2026-03-10T11:38:08",
-            "image_url": "https://cdn.benzinga.com/files/images/story/2025/11/06/analyst_ratings_3.jpg?optimize=medium&dpr=1&auto=webp&height=675&width=1200&fit=crop"
+            "title": "Alaska Airlines flags tough quarter but sees steady travel demand",
+            "link": "https://www.thestreet.com/travel/alaska-airlines-flags-tough-quarter-but-sees-steady-travel-demand",
+            "description": "If you've booked a flight lately, you probably saw higher fares and fewer “too good to be true” deals than you did a few years ago. You might assume t...",
+            "pubDate": "2026-04-22T20:33:48",
+            "image_url": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAyOTUwMDMw/burbank-california-april-20-an-alaska-airlines-plane-takes-off-from-hollywood-burbank-airport-on-april-20-2026-in-burbank-california-alaska-airlines-will-report-first-quarter-earnings-today-after-the-.jpg?io=1&profile=rss"
         },
         {
-            "title": "Meta Platforms, Inc. (META) Says AI Rivals Will be Allowed on Whatsapp For a Year, Reuters Reports",
-            "link": "https://finance.yahoo.com/news/meta-platforms-inc-meta-says-114056589.html",
+            "title": "Analyst Report: Equifax Inc",
+            "link": "https://finance.yahoo.com/research/reports/ARGUS_3702_AnalystReport_1776880442000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
             "description": "",
-            "pubDate": "2026-03-10T12:40:56",
-            "image_url": "https://media.zenfs.com/en/insidermonkey.com/6b04d2113ba5542b5993a73ed6643a10"
+            "pubDate": "2026-04-22T18:54:02",
+            "image_url": "https://s.yimg.com/uc/fin/img/non-sub-report-thumb.png"
         },
         {
-            "title": "Amazon is selling a 5-shelf bathroom storage cabinet for just $36 that's perfect for small spaces",
-            "link": "https://www.thestreet.com/deals/lomojo-narrow-storage-cabinet-amazon-sale",
-            "description": "\"Small but practical and easy assembly.\"",
-            "pubDate": "2026-03-10T12:15:00",
-            "image_url": "https://www.thestreet.com/.image/c_fit%2Ch_800%2Cw_1200/NDA6MDAwMDAwMDAyNzg1MTU1/amazon-logo.jpg"
+            "title": "Why Wealthsimple's Rivals Are Refusing to Join the Swift Network",
+            "link": "https://www.finance-monthly.com/why-wealthsimples-rivals-are-refusing-to-join-the-swift-network/",
+            "description": "Wealthsimple just became the first Canadian fintech to join the global Society for Worldwide Interbank Financial Telecommunication (SWIFT) network. Th...",
+            "pubDate": "2026-04-22T13:28:50",
+            "image_url": "https://www.finance-monthly.com/wp-content/uploads/2026/04/pexels-mikhail-nilov-7534791-768x1024.jpg"
         },
         {
-            "title": "Fidelity, Hamilton Lane invest in Corastone private markets platform",
-            "link": "https://finance.yahoo.com/news/fidelity-hamilton-lane-invest-corastone-114858789.html",
+            "title": "These 3 Strategies Can Help Retirees Avoid a Big Portfolio Risk",
+            "link": "https://money.com/protect-retirement-savings-market-crash/?xid=moneyrss",
+            "description": "What you want to manage is sequence-of-returns risk, or the danger of a market downturn occurring shortly after retiring and forcing you to prematurel...",
+            "pubDate": "2026-04-22T17:15:25",
+            "image_url": "https://img.money.com/2026/04/Explainer-Risk-Retirement-Portfolio.jpg?quality=85"
+        },
+        {
+            "title": "How Much is an Emergency Vet Visit?",
+            "link": "https://money.com/how-much-is-an-emergency-vet-visit/?xid=moneyrss",
+            "description": "Money's guide of how much is an emergency vet visit.",
+            "pubDate": "2026-04-22T20:24:03",
+            "image_url": "https://img.money.com/2022/04/Fetch-Sponcon-How-Much-Emergency-Vet-Visit.jpg?quality=85"
+        },
+        {
+            "title": "Federal appeals court blocks California law requiring federal agents to wear badges or ID because it ‘attempts to directly regulate the U.S.’",
+            "link": "https://fortune.com/2026/04/22/federal-appeals-court-california-law-federal-agents-identification/",
+            "description": "The three-judge panel said the law violated the Constitution. California lawyers say the law applied evenly to all law enforcement officers.",
+            "pubDate": "2026-04-22T19:38:24",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/04/AP26112655424048-e1776883026485.jpg?w=2048"
+        },
+        {
+            "title": "UK Inflation Is Back Above 3%. The Harder Problem Is Growth",
+            "link": "https://www.finance-monthly.com/uk-inflation-growth-march-2026-analysis/",
+            "description": "UK inflation rose to 3.3% in March 2026, up from 3.0% in February, according to the Office for National Statistics. That is the headline. The harder p...",
+            "pubDate": "2026-04-22T15:21:43",
+            "image_url": "https://www.finance-monthly.com/wp-content/uploads/2026/04/960px-Petrol_Station_-_geograph.org_.uk_-_6315581.jpg"
+        },
+        {
+            "title": "Craftsman's cordless fan that cools for 24+ hours is $59, its lowest price all year",
+            "link": "https://www.thestreet.com/deals/craftsman-v20-max-cordless-fan-amazon-sale",
+            "description": "\"We love how it works with our current Craftsman V20 batteries.\"",
+            "pubDate": "2026-04-22T20:15:00",
+            "image_url": "https://www.thestreet.com/.image/MTY3NTQxMzE0NjM1MTc5Mzk5/craftsman-logo.jpg?io=1&profile=rss"
+        },
+        {
+            "title": "What Happens If You Owe the IRS Thousands of Dollars",
+            "link": "https://money.com/owe-irs-thousands-of-dollars/?xid=moneyrss",
+            "description": "Penalties and interest can add up quickly.",
+            "pubDate": "2026-04-22T20:00:28",
+            "image_url": "https://img.money.com/2026/03/Explainer-IRS-owe-10k.jpg?quality=85"
+        },
+        {
+            "title": "Visa CMO: AI agents are your new customers — here’s how to sell to them",
+            "link": "https://fortune.com/2026/04/22/section-technology-visa-cmo-frank-cooper-b2ai-business-to-ai-agents-commerce-strategy/",
+            "description": "As AI takes over consumer decision-making, companies must rethink everything from product data to brand purpose — or risk being invisible.",
+            "pubDate": "2026-04-22T20:00:00",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/04/frank.png?w=2048"
+        },
+        {
+            "title": "David’s Bridal exec has a warning for every CEO obsessed with AI’s return-on-investment",
+            "link": "https://fortune.com/2026/04/22/davids-bridal-elina-vilk-ai-return-on-investment-warning/",
+            "description": "David's Bridal CBO Elina Vilk says companies chasing a discrete AI return-on-investment are asking the wrong question—and missing the real opportunity...",
+            "pubDate": "2026-04-22T20:10:30",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2270149817-e1776884885202.jpg?w=2048"
+        },
+        {
+            "title": "Civista Bancshares, Inc. (CIVB) Q1 2026 Earnings Call Transcript",
+            "link": "https://seekingalpha.com/article/4893013-civista-bancshares-inc-civb-q1-2026-earnings-call-transcript?source=feed_all_articles",
             "description": "",
-            "pubDate": "2026-03-10T12:48:58",
-            "image_url": "https://media.zenfs.com/en/private_banker_international_938/45df5e9ba610b288bb67a757045ae09a"
-        },
-        {
-            "title": "Should You Buy Stocks That Everyone Hates?",
-            "link": "https://money.com/should-you-buy-hated-stocks/?xid=moneyrss",
-            "description": "Here's what to know about contrarian investing.",
-            "pubDate": "2026-03-10T00:00:56",
-            "image_url": "https://img.money.com/2026/02/Explainer-Stocks-Everyone-Hates.jpg?quality=85"
-        },
-        {
-            "title": "Anthropic’s Department of War lawsuit is even higher-stakes amid the AI boom",
-            "link": "https://fortune.com/2026/03/10/anthropic-department-of-war-lawsuit-even-higher-stakes-amid-ai-boom/",
-            "description": "Anthropic suing the U.S. Department of War perhaps wasn’t a surprise, but it was nevertheless a shock.",
-            "pubDate": "2026-03-10T12:18:43",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2261589193_f101a6-e1772131796790.jpg?w=2048"
-        },
-        {
-            "title": "Strategy Adds 18k Bitcoin, Both Guns Blazing Amid $11.5 Billion Mystery",
-            "link": "https://www.investors.com/news/mstr-stock-strategy-18k-bitcoin-both-guns-blazing-11-billion-mystery/?src=A00220&yptr=yahoo",
-            "description": "",
-            "pubDate": "2026-03-10T12:40:39",
-            "image_url": "https://media.zenfs.com/en/ibd.com/05f583ddc8e65f5258c2feabcd5a14f7"
-        },
-        {
-            "title": "AI can double output. Human biology can’t",
-            "link": "https://fortune.com/2026/03/10/ai-can-double-output-human-biology-cant/",
-            "description": "There's an AI burnout trap, and your productivity gains are fragile.",
-            "pubDate": "2026-03-10T11:05:00",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-1364004798-e1773095727410.jpg?w=2048"
-        },
-        {
-            "title": "BlackBerry, AMD Team Up To Power Faster, Smarter Machines From Cars To Robots",
-            "link": "https://www.benzinga.com/markets/tech/26/03/51151612/blackberry-amd-team-up-to-power-faster-smarter-machines-from-cars-to-robots",
-            "description": "BlackBerry QNX 8.0 adds support for AMD Ryzen Embedded processors, streamlining development for automotive, robotics, and medical tech. Importance Ran...",
-            "pubDate": "2026-03-10T11:49:51",
-            "image_url": "https://cdn.benzinga.com/files/images/story/2026/03/10/AMD-Signboard-At-Headquarters.jpeg?optimize=medium&dpr=1&auto=webp&height=675&width=1200&fit=crop"
-        },
-        {
-            "title": "The AI risk that few organizations are governing",
-            "link": "https://fortune.com/2026/03/10/ai-risk-agents-few-organizations/",
-            "description": "You know how many human users have access to your financial systems. Do you know how many AI agents do?",
-            "pubDate": "2026-03-10T11:00:00",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/03/Raj-Sharma_Headshot_efe6d9-e1773094749653.jpg?w=2048"
-        },
-        {
-            "title": "Pentagon Halts Anthropic AI Contract, $200M Deal in Jeopardy",
-            "link": "https://www.finance-monthly.com/pentagon-anthropic-ai-contract-risk/",
-            "description": "Pentagon Halts Anthropic AI Contract, $200M Deal in Jeopardy A $200 million Pentagon AI contract with Anthropic PBC is now in jeopardy after the milit...",
-            "pubDate": "2026-03-10T11:09:22",
-            "image_url": "https://www.finance-monthly.com/wp-content/uploads/2026/03/1709714218867-1024x576.png"
-        },
-        {
-            "title": "From Wearables To Robots: Texas Instruments Launches AI-Ready Microcontrollers",
-            "link": "https://www.benzinga.com/markets/tech/26/03/51151238/from-wearables-to-robots-texas-instruments-launches-ai-ready-microcontrollers",
-            "description": "Texas Instruments unveils new AI-enabled chips for faster, low-power processing in wearables and robotics. See the latest on TXN tech here. Importance...",
-            "pubDate": "2026-03-10T11:30:58",
-            "image_url": "https://cdn.benzinga.com/files/images/story/2026/03/10/Texas-Instruments-Sugar.jpeg?optimize=medium&dpr=1&auto=webp&height=675&width=1200&fit=crop"
-        },
-        {
-            "title": "5-star analyst revamps Micron stock price target before earnings",
-            "link": "https://www.thestreet.com/investing/stocks/5-star-analyst-revamps-micron-stock-price-target-before-earnings",
-            "description": "Micron Technology (MU) just got a massive bullish call from one of Wall Street’s finest just days before its next earnings report. Citi analysts led b...",
-            "pubDate": "2026-03-10T12:37:00",
-            "image_url": "https://www.thestreet.com/.image/c_fit%2Ch_800%2Cw_1200/NDA6MDAwMDAwMDAyOTA2NzQx/ceo-of-micron-technology-sanjay-mehrotra-speaks-during-an-event-on-microns-plan-to-invest-in-chips-manufacturing-with-us-president-joe-biden-out-of-frame-at-the-src-arena-in-syracuse-new-york-on-octob.jpg"
-        },
-        {
-            "title": "Standard Chartered to expand private banking team in Singapore – report",
-            "link": "https://finance.yahoo.com/news/standard-chartered-expand-private-banking-114424327.html",
-            "description": "",
-            "pubDate": "2026-03-10T12:44:24",
-            "image_url": "https://media.zenfs.com/en/private_banker_international_938/8875c246f6bd6db2af851094d776dd65"
-        },
-        {
-            "title": "Amazon is selling a gorgeous 3-piece boho quilt set for just $20",
-            "link": "https://www.thestreet.com/deals/wongs-bedding-3-piece-boho-quilt-set-amazon-sale",
-            "description": "\"It is lightweight enough to sleep with all year.\"",
-            "pubDate": "2026-03-10T11:30:00",
-            "image_url": "https://www.thestreet.com/.image/c_fit%2Ch_800%2Cw_1200/MjA5NzMwNjczNjkzNDM1NTYx/amazon-logo.jpg"
-        },
-        {
-            "title": "Polymarket Ropes In Palantir To Track Suspicious Sports Prediction Bets: Report",
-            "link": "https://stocktwits.com/news-articles/markets/equity/polymarket-pltr-stock-palantir-crackdown-insider-trading-sports-betting/cZdopaXRI7R",
-            "description": "Palantir and TWG AI will help Polymarket monitor trading activity, detect suspicious behavior, and report possible violations, according to a Bloomber...",
-            "pubDate": "2026-03-10T12:50:26",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Market Brief: The Rise Of Oil Perps In Crypto",
-            "link": "https://seekingalpha.com/article/4880381-market-brief-rise-oil-perps-crypto?source=feed_all_articles",
-            "description": "",
-            "pubDate": "2026-03-10T12:55:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Harley-Davidson gains after insider buying action",
-            "link": "https://seekingalpha.com/news/4562657-harley-davidson-gains-after-insider-buying-action?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-            "description": "",
-            "pubDate": "2026-03-10T12:49:59",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Asian shares surge, echoing rally on Wall Street as oil prices sank back to about $90",
-            "link": "https://abcnews.com/Business/wireStory/asian-shares-surge-echoing-rally-wall-street-oil-130923565",
-            "description": "Global shares have rebounded from their sharp declines a day before",
-            "pubDate": "2026-03-10T10:39:00",
+            "pubDate": "2026-04-22T21:00:36",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "North Korean leader's sister criticizes US-South Korea for joint drills",
-            "link": "https://abcnews.com/Business/wireStory/north-korean-leaders-sister-criticizes-us-south-korea-130925747",
-            "description": "The sister of North Korean leader Kim Jong Un has criticized the United States and South Korea for proceeding with their annual joint military exercis...",
-            "pubDate": "2026-03-10T12:15:22",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Georgia voters choosing a successor to Marjorie Taylor Greene in US House",
-            "link": "https://apnews.com/article/georgia-congress-house-marjorie-greene-special-election-76dd6570a5deef7036650530aed3be93",
+            "title": "Nasdaq, S&P 500 close at record highs as tech sector drives stock-market gains",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8f865b14-65f5-4ab2-a240-19eefef63059&mod=mw_rss_bulletins",
             "description": "",
-            "pubDate": "2026-03-10T01:01:52",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "pubDate": "2026-04-22T21:01:58",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "An already chaotic spring travel season is colliding with effects of Iran war",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c064fd41-aac6-4ac0-8057-805227ae9c3e&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2026-03-10T01:57:57",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "The Tornado Cash Trial Is Not Over Yet: Trump’s DOJ Moves To Retry Developer Roman Storm After Jury Deadlock",
-            "link": "https://stocktwits.com/news-articles/markets/cryptocurrency/the-tornado-cash-trial-is-not-over-yet-trump-doj-moves-to-retry-developer/cZdoYuPRI7G",
-            "description": "The government is seeking another attempt at securing convictions on two counts in Storm’s indictment – money laundering conspiracy and violations of ...",
-            "pubDate": "2026-03-10T12:32:12",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Microsoft Positioned to Win AI Race With Dual-Model Strategy",
-            "link": "https://www.marketbeat.com/originals/microsoft-doubles-down-on-ai-with-azure-at-the-center/",
-            "description": "See how Microsoft’s AI partnerships could support Azure demand, why model choice matters less to Microsoft, and what analysts and charts imply for the...",
-            "pubDate": "2026-03-10T07:11:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Goldman Sachs' new product lets hedge funds take short/long bets on corporate loans - report",
-            "link": "https://seekingalpha.com/news/4562641-goldman-sachs-new-product-lets-hedge-funds-take-shortlong-bets-on-corporate-loans---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-            "description": "",
-            "pubDate": "2026-03-10T12:49:32",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "C4 Therapeutics: Cemsidomide Progress Keeps The Long-Term Thesis Intact",
-            "link": "https://seekingalpha.com/article/4880380-c4-therapeutics-stock-cemsidomide-progress-keeps-long-term-thesis-intact?source=feed_all_articles",
-            "description": "",
-            "pubDate": "2026-03-10T12:49:49",
+            "title": "Tractor Supply’s 10% Culling: A Bruise, Not a Break",
+            "link": "https://www.marketbeat.com/originals/tractor-supplys-10-culling-a-bruise-not-a-break/",
+            "description": "Tractor Supply Company's recent stock decline may overshadow its steady revenue growth, reaffirmed annual guidance, and consistent dividend history.",
+            "pubDate": "2026-04-22T14:45:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "In a time of war with Iran, Americans unite in aggravation over sticker shock at the gas pump",
-            "link": "https://abcnews.com/Business/wireStory/time-war-iran-americans-unite-aggravation-sticker-shock-130922388",
-            "description": "It seems that a country divided on many fronts is finding common ground at the gas pumps",
-            "pubDate": "2026-03-10T08:30:55",
+            "title": "First Merchants GAAP EPS of $0.45 misses by $0.44, revenue of $157M misses by $31.43M",
+            "link": "https://seekingalpha.com/news/4578202-first-merchants-gaap-eps-of-0_45-misses-by-0_44-revenue-of-157m-misses-by-31_43m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+            "description": "",
+            "pubDate": "2026-04-22T21:08:15",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "QURE Stock’s Relentless Rally Continues Today — Here's Why HC Wainwright Is Bullish On uniQure",
-            "link": "https://stocktwits.com/news-articles/markets/equity/qure-stock-soars-following-rally-on-monday-on-fda-official-departure/cZdoYYgRIez",
-            "description": "H.C. Wainwright stated that the reported departure of a key U.S. Food and Drug Administration official at the end of April bodes well for uniQure.",
-            "pubDate": "2026-03-10T12:27:33",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "The 3 Things That Did Not Work Out for Kristi Noem",
-            "link": "https://www.dailysignal.com/2026/03/10/the-three-things-that-did-not-work-out-for-kristi-noem/",
-            "description": "Editor’s note: This is a lightly edited transcript of a segment from today’s edition of “Victor Davis Hanson: In His Own Words” with Daily Signal... R...",
-            "pubDate": "2026-03-10T11:30:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Amplify Energy Is An Iran War Oil Trade",
-            "link": "https://seekingalpha.com/article/4880364-amplify-energy-is-an-iran-war-oil-trade?source=feed_all_articles",
+            "title": "Iran attacks oil tankers in Strait of Hormuz, sending oil prices back above $100",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=11dc8ece-cded-485f-946c-99a9a297fd3e&mod=mw_rss_bulletins",
             "description": "",
-            "pubDate": "2026-03-10T12:50:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Alibaba: Macro Perspective On An 'Uninvestable' Stock",
-            "link": "https://seekingalpha.com/article/4880368-alibaba-macro-perspective-on-an-uninvestable-stock?source=feed_all_articles",
-            "description": "",
-            "pubDate": "2026-03-10T12:45:00",
+            "pubDate": "2026-04-22T19:47:22",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "HeartBeam enters strategic AI collaboration with Mount Sinai",
-            "link": "https://seekingalpha.com/news/4562654-heartbeam-enters-strategic-ai-collaboration-with-mount-sinai?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-            "description": "",
-            "pubDate": "2026-03-10T12:52:13",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "title": "Lawmakers Bet Big on These 3 Stocks—Should You?",
+            "link": "https://www.marketbeat.com/stock-ideas/lawmakers-bet-big-on-these-3-stocks-should-you/",
+            "description": "Congressional disclosure filings from the past 90 days show lawmakers buying Netflix, Broadcom, and JPMorgan Chase, with AVGO purchases alone totaling...",
+            "pubDate": "2026-04-22T13:35:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "Existing-home sales on economic calendar after small-business-optimism retreat",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f62b0076-1ce0-4bbb-980a-e52c0243e768&mod=mw_rss_bulletins",
+            "title": "Kinder Morgan Non-GAAP EPS of $0.48 beats by $0.09, revenue of $4.83B beats by $280M",
+            "link": "https://seekingalpha.com/news/4578199-kinder-morgan-non-gaap-eps-of-0_48-beats-by-0_09-revenue-of-4_83b-beats-by-280m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
             "description": "",
-            "pubDate": "2026-03-10T12:36:05",
+            "pubDate": "2026-04-22T21:07:42",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "A Redesigned Daily Signal for a New Era in Media",
+            "link": "https://www.dailysignal.com/2026/04/22/a-redesigned-daily-signal-for-a-new-era-in-media/",
+            "description": "When we created the Daily Signal nearly 12 years ago, we made a promise to you: We would never be content with the status quo. Innovation is part of o...",
+            "pubDate": "2026-04-22T19:27:30",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "QURE Stock’s Relentless Rally Continues Today — Here's Why HC Wainwright Is Bullish On uniQure",
-            "link": "https://stocktwits.com/news-articles/markets/equity/qure-stock-soars-following-rally-on-monday-on-fda-official-departure/cZdoYYgRIez",
-            "description": "H.C. Wainwright stated that the reported departure of a key U.S. Food and Drug Administration official at the end of April bodes well for uniQure.",
-            "pubDate": "2026-03-10T12:27:33",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Realbotix reports FY results",
-            "link": "https://seekingalpha.com/news/4562659-realbotix-reports-fy-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-            "description": "",
-            "pubDate": "2026-03-10T12:49:12",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "BioNTech falls on outlook, departure of co-founders",
-            "link": "https://seekingalpha.com/news/4562655-biontech-stock-falls-exit-co-founders?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-            "description": "",
-            "pubDate": "2026-03-10T12:48:05",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Futures point to extension of stock-market gains as oil slide continues",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e10e2e8d-648b-4aa8-870f-cf035d9c51a1&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2026-03-10T12:07:13",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "War with Iran delivers another shock to the global economy",
-            "link": "https://abcnews.com/Business/wireStory/war-iran-delivers-shock-global-economy-130923939",
-            "description": "The war with Iran is doing collateral damage to the world economy",
-            "pubDate": "2026-03-10T11:27:21",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Saudi Arabia oil giant Aramco reports 2025 profit of $104 billion, down from 2024",
-            "link": "https://abcnews.com/Business/wireStory/saudi-arabia-oil-giant-aramco-reports-2025-profit-130923942",
-            "description": "Saudi Arabia oil giant Aramco reports 2025 profit of $104 billion, down from 2024",
-            "pubDate": "2026-03-10T07:10:46",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "In a time of war with Iran, Americans unite in aggravation over sticker shock at the gas pump",
-            "link": "https://apnews.com/article/iran-war-gas-prices-trump-voters-648000c2a4ffe03f8d647b8e7371bb13",
-            "description": "",
-            "pubDate": "2026-03-10T01:01:30",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Surging oil prices could wipe out benefits from Trump’s ‘big beautiful bill’",
-            "link": "https://www.cnbc.com/2026/03/10/rising-oil-prices-may-wipe-out-effects-of-trumps-big-beautiful-bill.html",
-            "description": "Estimates from Wall Street project that if oil prices stay elevated for too long, consumers will lose as much as they gain from the new tax law.",
-            "pubDate": "2026-03-10T12:56:23",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Rentokil: A Bug Business With Long-Term Bite",
-            "link": "https://seekingalpha.com/article/4880366-rentokil-a-bug-business-with-long-term-bite?source=feed_all_articles",
-            "description": "",
-            "pubDate": "2026-03-10T12:55:00",
+            "title": "Stocks making the biggest moves premarket: GE Vernova, Vertiv, Best Buy & more",
+            "link": "https://www.cnbc.com/2026/04/22/stocks-making-the-biggest-moves-premarket-gev-vrt-bby.html",
+            "description": "These are the stocks posting the largest moves premarket.",
+            "pubDate": "2026-04-22T12:43:39",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "RIVN Stock Gains 4% Pre-Market After TD Cowen Upgrade: Analyst Sees Strong Demand For Upcoming R2 Models",
-            "link": "https://stocktwits.com/news-articles/markets/equity/rivn-stock-gains-pre-market-after-td-cowen-upgrade-analyst-sees-strong-demand-for-upcoming-r2-models/cZdopG6RI7b",
-            "description": "The firm believes the new lineup could significantly expand Rivian's addressable EV market.",
-            "pubDate": "2026-03-10T12:39:49",
+            "title": "More kids than ever are attending state-funded preschool, with California's surge leading the way",
+            "link": "https://abcnews.com/Business/wireStory/kids-attending-state-funded-preschool-californias-surge-leading-132280003",
+            "description": "More kids than ever are attending state-funded preschool in the U.S., 1.8 million of them the last school year",
+            "pubDate": "2026-04-22T18:12:16",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "IRS unveils proposed regulations for new Trump Accounts savings program",
-            "link": "https://www.foxbusiness.com/economy/irs-unveils-proposed-regulations-new-trump-accounts-savings-program",
-            "description": "The IRS and Treasury proposed new rules for Trump Accounts, including details for opening an account and taking the federal seed money if eligible to ...",
-            "pubDate": "2026-03-09T20:03:46",
-            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/12/baby-family-outside-playing-getty.jpg"
-        },
-        {
-            "title": "6 Best RV Insurance Companies of March 2026",
-            "link": "https://money.com/best-rv-insurance/?xid=moneyrss",
-            "description": "What to know about RV insurance RV insurance is essential for both full-time RV living and occasional trips. Premiums vary based on your driving recor...",
-            "pubDate": "2026-03-09T22:40:09",
-            "image_url": "https://img.money.com/2023/12/Best-RV-Insurance-mbci_o7wy3__rnovlx.jpg?quality=85"
-        },
-        {
-            "title": "The Income Limit That Can Temporarily Reduce Your Social Security Check",
-            "link": "https://money.com/social-security-income-limit-reduce-benefits/?xid=moneyrss",
-            "description": "Here's what you should know before you start receiving your benefits.",
-            "pubDate": "2026-03-09T23:00:52",
-            "image_url": "https://img.money.com/2026/03/Explainer-Social-Security-Check-Limit.jpg?quality=85"
-        },
-        {
-            "title": "US economic freedom surges in biggest annual increase in over two decades",
-            "link": "https://www.foxbusiness.com/economy/us-economic-freedom-surges-biggest-annual-increase-over-two-decades",
-            "description": "U.S. economic freedom score jumps 2.6 points in Heritage Foundation index, ending a five-year decline. America ranks 22nd globally in the annual repor...",
-            "pubDate": "2026-03-09T15:36:55",
-            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/03/wall-street-american-flag-people-getty.jpg"
-        },
-        {
-            "title": "Sustainable Finance Awards 2026: North America",
-            "link": "https://gfmag.com/award/award-winners/sustainable-finance-awards-2026-north-america/",
-            "description": "North American sustainable-finance issuance suffered due to ESG backlash and regulatory tensions, but Canada remained resilient and adaptation finance...",
-            "pubDate": "2026-03-09T13:19:08",
-            "image_url": "https://public.flourish.studio/visualisation/27960216/thumbnail"
-        },
-        {
-            "title": "Could defence stocks protect your portfolio from market disruption?",
-            "link": "https://moneyweek.com/investments/stocks-and-shares/defence-stocks",
-            "description": "Defence stocks are seeing heightened investor interest as the Middle East conflict intensifies",
-            "pubDate": "2026-03-09T17:38:46",
-            "image_url": "https://cdn.mos.cms.futurecdn.net/LB2aQjTTxNatDMCwswzsQF-1280-80.jpg"
-        },
-        {
-            "title": "Oracle expected to slash thousands of jobs as massive AI spending creates financial cash crisis",
-            "link": "https://www.foxbusiness.com/economy/oracle-expected-slash-thousands-jobs-massive-ai-spending-creates-financial-cash-crisis",
-            "description": "Oracle reportedly planning massive layoffs involving thousands of employees as AI spending creates cash crunch. Job cuts could reportedly affect 18% o...",
-            "pubDate": "2026-03-09T04:51:33",
-            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2021/12/oracle.jpg"
-        },
-        {
-            "title": "Sustainable Finance Awards 2026: North America",
-            "link": "https://gfmag.com/award/award-winners/sustainable-finance-awards-2026-north-america/",
-            "description": "North American sustainable-finance issuance suffered due to ESG backlash and regulatory tensions, but Canada remained resilient and adaptation finance...",
-            "pubDate": "2026-03-09T13:19:08",
-            "image_url": "https://public.flourish.studio/visualisation/27960216/thumbnail"
-        },
-        {
-            "title": "The top 10 most expensive streets in the UK revealed - do you live on one?",
-            "link": "https://moneyweek.com/investments/house-prices/streets-highest-house-prices-rightmove",
-            "description": "Buying a property on one of the most expensive streets in the UK will set you back by £12million. Where is it and which streets feature in the top 10 ...",
-            "pubDate": "2026-03-09T16:50:49",
-            "image_url": "https://cdn.mos.cms.futurecdn.net/A69An68RXZhQTxLE8U7ZZN-1280-80.jpg"
-        },
-        {
-            "title": "Fed officials closely monitor Iran conflict for potential inflation impact",
-            "link": "https://www.foxbusiness.com/economy/fed-officials-closely-monitor-iran-conflict-potential-inflation-impact",
-            "description": "Hostilities with Iran pose a potential risk for higher inflation as Federal Reserve policymakers monitor the energy price impact ahead of their next m...",
-            "pubDate": "2026-03-09T23:43:37",
-            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/03/neel-kashkari-interview-fox-business-getty.jpg"
-        },
-        {
-            "title": "Why Quantum Health Acquired Virtual Care Company CirrusMD",
-            "link": "https://dealbreaker.com/2026/03/why-quantum-health-acquired-virtual-care-company-cirrusmd",
-            "description": "Quantum Health acquired CirrusMD to add 24/7 physician chat to its healthcare navigation services and deliver faster clinical support.",
-            "pubDate": "2026-03-09T21:00:00",
-            "image_url": "https://dealbreaker.com/.image/c_fit%2Ch_800%2Cw_1200/MjAxNDQ1MzM1MjI5Mjc3NzQ5/digital-health.png"
-        },
-        {
-            "title": "Sustainable Finance Awards 2026: Latin America",
-            "link": "https://gfmag.com/award/award-winners/sustainable-finance-awards-2026-latin-america/",
-            "description": "This year's regional winners advanced sustainability by issuing green, blue, social, and transition bonds while funding renewable energy projects acro...",
-            "pubDate": "2026-03-09T18:28:21",
-            "image_url": "https://public.flourish.studio/visualisation/27965619/thumbnail"
-        },
-        {
-            "title": "It Took Years for Congress to Enact PBM Transparency, Delinking. What About Vertical Integration?",
-            "link": "https://dealbreaker.com/2026/03/it-took-years-for-congress-to-enact-pbm-transparency-delinking-what-about-vertical-integration",
-            "description": "Experts say the bipartisan Break Up Big Medicine Act — aimed at breaking up vertically integrated healthcare companies — faces slim chances of passing...",
-            "pubDate": "2026-03-09T19:00:00",
-            "image_url": "https://dealbreaker.com/.image/c_fit%2Ch_800%2Cw_1200/MTcxMjcxNjAyOTg0NDYyMzE4/capitol3.jpg"
-        },
-        {
-            "title": "Sustainable Finance Awards 2026: Latin America",
-            "link": "https://gfmag.com/award/award-winners/sustainable-finance-awards-2026-latin-america/",
-            "description": "This year's regional winners advanced sustainability by issuing green, blue, social, and transition bonds while funding renewable energy projects acro...",
-            "pubDate": "2026-03-09T18:28:21",
-            "image_url": "https://public.flourish.studio/visualisation/27965619/thumbnail"
-        },
-        {
-            "title": "The Heppner And Warner Rulings: Hobgoblin Consistency Or An Application Of Principle?",
-            "link": "https://dealbreaker.com/2026/03/the-heppner-and-warner-rulings-hobgoblin-consistency-or-an-application-of-principle",
-            "description": "Both cases suggest that use of GenAI tools in litigation should be handled with care.",
-            "pubDate": "2026-03-09T20:00:00",
-            "image_url": "https://dealbreaker.com/.image/c_fit%2Ch_800%2Cw_1200/MTYxMjc3MTIyNTUwOTAwMjEz/sanko-seisakusyo---tin-wind-up--tiny-zoomer-robots--front.jpg"
-        },
-        {
-            "title": "Sustainable Finance Awards 2026: Western Europe",
-            "link": "https://gfmag.com/award/award-winners/sustainable-finance-awards-2026-western-europe/",
-            "description": "Western Europe’s sustainable-finance market slowed in 2025, but stricter standards, improved disclosures, and major deals kept issuance strong across ...",
-            "pubDate": "2026-03-09T13:05:38",
-            "image_url": "https://public.flourish.studio/visualisation/27959553/thumbnail"
-        },
-        {
-            "title": "Sustainable Finance Awards 2026: Western Europe",
-            "link": "https://gfmag.com/award/award-winners/sustainable-finance-awards-2026-western-europe/",
-            "description": "Western Europe’s sustainable-finance market slowed in 2025, but stricter standards, improved disclosures, and major deals kept issuance strong across ...",
-            "pubDate": "2026-03-09T13:05:38",
-            "image_url": "https://public.flourish.studio/visualisation/27959553/thumbnail"
-        },
-        {
-            "title": "Will tapping oil reserves curb soaring gas prices?",
-            "link": "https://www.foxbusiness.com/economy/tapping-oil-reserves-curb-soaring-gas-prices",
-            "description": "G7 finance ministers weigh emergency oil reserve release as Middle East tensions send crude soaring above $115, threatening global economic stability.",
-            "pubDate": "2026-03-09T21:49:09",
-            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/11/people-gas-station-pump-getty.jpg"
-        },
-        {
-            "title": "When Florida Bar Said It Was Serious About Ethical Violations It MEANT To Say, ‘Yes, Sir. Glory To The MAGA Empire!’",
-            "link": "https://dealbreaker.com/2026/03/when-florida-bar-said-it-was-serious-about-ethical-violations-it-meant-to-say-yes-sir-glory-to-the-maga-empire",
-            "description": "That didn't take long...",
-            "pubDate": "2026-03-09T22:00:00",
-            "image_url": "https://dealbreaker.com/.image/c_fit%2Ch_800%2Cw_1200/MTc3MzQ1Mzk1MTQyMTc0NDU3/florida.jpg"
-        },
-        {
-            "title": "Corporate Legal Departments Are Done Subsidizing Biglaw’s Business Model",
-            "link": "https://dealbreaker.com/2026/03/corporate-legal-departments-are-done-subsidizing-biglaws-business-model",
-            "description": "Times they are a changin'.",
-            "pubDate": "2026-03-09T18:30:00",
-            "image_url": "https://dealbreaker.com/.image/c_fit%2Ch_800%2Cw_1200/MjAyMjc5NDI5OTU3NzU1OTE2/cash.jpg"
-        },
-        {
-            "title": "Three European stocks to buy for long-term growth and income",
-            "link": "https://moneyweek.com/investments/stocks-and-shares/three-european-stocks-for-long-term-growth-and-income",
-            "description": "Marcel Stotzel, portfolio manager at Fidelity European Trust, highlights three of his favourite European stocks for growth and income",
-            "pubDate": "2026-03-09T09:00:00",
-            "image_url": "https://cdn.mos.cms.futurecdn.net/xDH96aGGi9HSgPm8m5UTZG-1280-80.jpg"
-        },
-        {
-            "title": "The Simple Downsizing Strategy That Cuts Housing Costs and Stress in Retirement",
-            "link": "https://money.com/downsizing-done-right-simplify-life/?xid=moneyrss",
-            "description": "Here's what to think about before selling your home.",
-            "pubDate": "2026-03-09T23:00:10",
-            "image_url": "https://img.money.com/2025/12/Explainer-Downsizing-Simple-Life.jpg?quality=85"
-        },
-        {
-            "title": "The best soft-drinks stocks to buy to give your portfolio some fizz",
-            "link": "https://moneyweek.com/investments/retail-stocks/best-soft-drinks-stocks-to-buy",
-            "description": "Soft-drinks firms excel at turning sugar and water into profit, says Rupert Hargreaves. Here are the sector's best stocks",
-            "pubDate": "2026-03-09T10:00:00",
-            "image_url": "https://cdn.mos.cms.futurecdn.net/YKddYE8eBg2ZTK6HtD3SzW-1280-80.jpg"
-        },
-        {
-            "title": "5 Lesser-Known Costco Perks — and How to Take Advantage",
-            "link": "https://money.com/costco-hidden-perks/?xid=moneyrss",
-            "description": "Don't miss out on some of the wholesaler's best offerings.",
-            "pubDate": "2026-03-09T23:00:12",
-            "image_url": "https://img.money.com/2025/12/explainer-costco-hidden-perks.jpg?quality=85"
-        },
-        {
-            "title": "CooperCompanies Insiders Buy as Rebound Setup Forms",
-            "link": "https://www.insidertrades.com/education/coopercompanies-insiders-buy-as-rebound-setup-forms/",
-            "description": "See why CooperCompanies insider buying, ongoing buybacks, and a solid Q1 report keep the long-term outlook bullish despite early-March weakness.",
-            "pubDate": "2026-03-09T17:24:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "There's another energy market that may get hit harder than oil by Strait of Hormuz closure",
-            "link": "https://www.cnbc.com/2026/03/09/theres-another-energy-market-that-may-get-hit-harder-than-oil-by-strait-of-hormuz-closure.html",
-            "description": "Roughly 20% of global liquefied natural gas flows through the Strait.",
-            "pubDate": "2026-03-09T21:51:55",
+            "title": "Alcoa Rebounds as Aluminum Tightens, But a Q1 Miss Tests the Rally",
+            "link": "https://www.marketbeat.com/originals/alcoa-rebounds-as-aluminum-tightens-but-a-q1-miss-tests-the-rally/",
+            "description": "Alcoa missed Q1 2026 estimates, but aluminum prices above $3,557 per metric ton and Middle East supply disruptions keep the bullish case for AA stock ...",
+            "pubDate": "2026-04-22T13:00:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "Trump Slams Democrats for Shutting Down DHS Amid Terrorism Threats",
-            "link": "https://www.dailysignal.com/2026/03/09/trump-slams-democrats-for-shutting-down-dhs-amid-terrorism-threats/",
-            "description": "President Donald Trump slammed congressional Democrats for holding out on funding the Department of Homeland Security amid threats of terrorism from I...",
-            "pubDate": "2026-03-09T23:55:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Colorado Democrat’s Head-Scratching Reason for Killing His Own Bill to Decriminalize Prostitution",
-            "link": "https://www.dailysignal.com/2026/03/09/colorado-democrats-head-scratching-reason-killing-bill-decriminalize-prostitution/",
-            "description": "Colorado’s Republican House leader is calling foul after a Colorado state senator says he is effectively killing his own bill to decriminalize prostit...",
-            "pubDate": "2026-03-09T23:10:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Fears of 1970s-style stagflation arise with oil spike to $100. How big a threat is it?",
-            "link": "https://www.cnbc.com/2026/03/09/fears-of-1970s-style-stagflation-arise-with-oil-spike-to-100-how-big-a-threat-is-it.html",
-            "description": "High inflation and slow growth present a double threat, as measures like interest rate cuts and government spending only aggravate inflation.",
-            "pubDate": "2026-03-09T19:11:12",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Iran’s Selection of New Supreme Leader Tells World ‘Regime Isn’t Reformable’",
-            "link": "https://www.dailysignal.com/2026/03/09/irans-selection-of-new-supreme-leader-tells-world-regime-isnt-reformable/",
-            "description": "The selection of Mojtaba Khamenei, son of slain Iranian Supreme Leader Ali Khamenei, as Iran’s new supreme leader sends a clear message that “the regi...",
-            "pubDate": "2026-03-09T23:30:00",
+            "title": "Flight cuts are spreading as fuel costs surge. Higher fares are likely coming.",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=029da95f-3b3b-4641-8b4e-d8720c0539c5&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2026-04-22T17:43:03",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "Stocks making the biggest moves midday: Chevron, Hims and Hers, Xenon Pharma, Vertiv and more",
-            "link": "https://www.cnbc.com/2026/03/09/stocks-making-the-biggest-moves-midday-cvx-hims-xene-vrt-lite-.html",
-            "description": "These are some of the stocks posting the largest midday moves.",
-            "pubDate": "2026-03-09T19:56:36",
+            "title": "Warsh Advocates For Regime Change And Narrows The Definition Of Fed Independence",
+            "link": "https://seekingalpha.com/article/4893020-warsh-advocates-for-regime-change-and-narrows-the-definition-of-fed-independence?source=feed_all_articles",
+            "description": "",
+            "pubDate": "2026-04-22T20:55:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "One Of The Best Benefits Of Wealth: Buying Peace And Quiet",
+            "link": "https://www.financialsamurai.com/one-of-the-best-benefits-of-wealth-buying-peace-and-quiet/",
+            "description": "There are a lot of things wealth is good for, but one of the most underrated benefits is being able to buy peace and quiet. As I was sitting in the ho...",
+            "pubDate": "2026-04-22T15:48:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "‘Great’: Trump, Lake Celebrate Report That FBI Seized Arizona Election Records",
-            "link": "https://www.dailysignal.com/2026/03/09/great-trump-lake-celebrate-report-that-fbi-seized-arizona-election-records/",
-            "description": "President Donald Trump celebrated a report that the FBI obtained election records from Arizona’s largest county, a move that follows a federal raid la...",
-            "pubDate": "2026-03-09T23:40:00",
+            "title": "Kevin Warsh gave his preferred way for measuring inflation. It could come back to bite him",
+            "link": "https://www.cnbc.com/2026/04/22/kevin-warsh-inflation-trend-pce-trump.html",
+            "description": "But Bank of America economist Aditya Bhave warned Wednesday that such a recalculation might not pan out as the former Fed governor hopes.",
+            "pubDate": "2026-04-22T20:29:20",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "UAL Goes Silent On Airline Merger Speculation Following AAL Snub",
+            "link": "https://stocktwits.com/news-articles/markets/equity/ual-goes-silent-on-airline-merger-speculation-following-aal-snub/cZBBCayReb7",
+            "description": "A Bloomberg report earlier this month said that Kirby has floated a possible combination with American with senior government officials.",
+            "pubDate": "2026-04-22T20:07:26",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Water to surge into drought-depleted Lake Powell but at costs elsewhere",
+            "link": "https://abcnews.com/Business/wireStory/water-surge-drought-depleted-lake-powell-costs-132284521",
+            "description": "Desert canyons in eastern Utah will be churning this spring with huge volumes of water in a desperate attempt to keep a reservoir on the Colorado Rive...",
+            "pubDate": "2026-04-22T20:32:59",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Tradr Set to Launch Inverse ETFs on Lumentum and Sandisk",
+            "link": "https://stocktwits.com/news-articles/business/others/tradr-set-to-launch-inverse-et-fs-on-lumentum-and-sandisk/cZBByffRebe",
+            "description": "",
+            "pubDate": "2026-04-22T19:31:24",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Stocks making the biggest moves premarket: Amazon, Apple, GE Aerospace, UnitedHealth & more",
+            "link": "https://www.cnbc.com/2026/04/21/stocks-making-the-biggest-moves-premarket-amzn-aapl-ge-unh.html",
+            "description": "These are the stocks posting the largest moves in early trading.",
+            "pubDate": "2026-04-22T11:36:49",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Supreme Court rules for Michigan in its fight to shut down an aging energy pipeline",
+            "link": "https://abcnews.com/Business/wireStory/supreme-court-rules-michigan-fight-shut-aging-energy-132274250",
+            "description": "The Supreme Court has sided with Michigan in ruling that the state’s lawsuit seeking to shut down a section of an aging pipeline beneath a Great Lakes...",
+            "pubDate": "2026-04-22T15:51:42",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Nasdaq on pace for record close in final hour as tech leads stocks higher — live",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a18e94aa-dff9-4bcf-9585-b5df43b85d2f&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2026-04-22T20:06:21",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "These 3 Defense Giants Beat Q1 Estimates—So Why Did Their Stocks Still Fall?",
+            "link": "https://www.marketbeat.com/stock-ideas/these-3-defense-giants-beat-q1-estimates-so-why-did-their-stocks-still-fall/",
+            "description": "GE Aerospace, Northrop Grumman, and RTX each beat Q1 2026 earnings estimates but sold off after failing to raise full-year guidance, despite analyst M...",
+            "pubDate": "2026-04-22T15:50:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Preferred Bank (PFBC) Q1 2026 Earnings Call Transcript",
+            "link": "https://seekingalpha.com/article/4893037-preferred-bank-pfbc-q1-2026-earnings-call-transcript?source=feed_all_articles",
+            "description": "",
+            "pubDate": "2026-04-22T21:00:40",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "NYC property tax controversy: Here's what to know",
+            "link": "https://www.cnbc.com/video/2026/04/22/nyc-property-tax-controversy-heres-what-to-know.html",
+            "description": "CNBC's Robert Frank joins 'Squawk Box' to discuss the latest attempt in New York to boost tax revenue.",
+            "pubDate": "2026-04-22T12:42:59",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Trump extends Iran ceasefire — but market focus has already drifted elsewhere",
+            "link": "https://www.cnbc.com/2026/04/22/markets-shrug-at-trumps-iran-ceasefire-extension.html",
+            "description": "Prospects for further negotiations remain uncertain, with Tehran and Washington offering conflicting signals on the ceasefire's status.",
+            "pubDate": "2026-04-22T11:37:32",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Not the Usual 6-3: Supreme Court Clears Way for Lawsuit Over Suicide Bombing",
+            "link": "https://www.dailysignal.com/2026/04/22/not-the-usual-6-3-supreme-court-clears-way-for-lawsuit-over-suicide-bombing/",
+            "description": "The Supreme Court had another 6-3 ruling in deciding that a veteran wounded by a suicide bomber in Afghanistan could sue a military contractor. In an ...",
+            "pubDate": "2026-04-22T19:45:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "SpaceX says it can buy AI coding tool Cursor for $60B later this year",
+            "link": "https://abcnews.com/Business/wireStory/spacex-buy-ai-coding-tool-cursor-60b-year-132275603",
+            "description": "SpaceX says it has the rights to buy artificial intelligence coding tool Cursor for $60 billion later this year as Elon Musk’s space exploration and A...",
+            "pubDate": "2026-04-22T16:16:08",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Aehr Test Systems: Small AI Stock Sees Record AI Hyperscaler Order",
+            "link": "https://www.marketbeat.com/originals/aehr-test-systems-small-ai-stock-sees-record-ai-hyperscaler-order/",
+            "description": "Aehr Test Systems is a small AI stock that is seeing a rapid increase in demand. An AI hyperscaler just awarded the firm its largest order ever.",
+            "pubDate": "2026-04-22T14:10:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Why Is TORO Stock Surging Today?",
+            "link": "https://stocktwits.com/news-articles/markets/equity/why-is-toro-stock-surging-today-april-21/cZBBxezReb4",
+            "description": "The company declared a special dividend, which is taxable and payable in cash or stock.",
+            "pubDate": "2026-04-22T18:50:41",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Stocks making the biggest moves midday: Axe Compute, AST SpaceMobile, United Airlines, GE Vernova & more",
+            "link": "https://www.cnbc.com/2026/04/22/stocks-making-the-biggest-moves-midday-agpu-asts-ual-gev.html",
+            "description": "These are the stocks posting the largest moves midday.",
+            "pubDate": "2026-04-22T19:02:53",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Banner GAAP EPS of $1.60 beats by $0.23, revenue of $169.3M in-line",
+            "link": "https://seekingalpha.com/news/4578200-banner-gaap-eps-of-1_60-beats-by-0_23-revenue-of-169_3m-in-line?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+            "description": "",
+            "pubDate": "2026-04-22T21:07:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Moncler shares struggle despite defying luxury's Middle East slump",
+            "link": "https://www.cnbc.com/2026/04/22/moncler-stock-q1-earnings-monc-luxury-iran-war-lvmh-kering-hermes.html",
+            "description": "Moncler earnings 'smashes' expectations following a series of underwhelming reports from European luxury players last week.",
+            "pubDate": "2026-04-22T08:57:42",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "SNDK Tops S&P 500 Amid Optimism Around DRAM ETF’s $1B AUM",
+            "link": "https://stocktwits.com/news-articles/markets/equity/sndk-tops-s-and-p-500-amid-optimism-around-dram-etf-s-1-b-aum/cZBBCWRRebJ",
+            "description": "SanDisk stock surges on optimism around Nasdaq-100 and DRAM ETF.",
+            "pubDate": "2026-04-22T20:10:42",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "4 takeaways from Trump Fed pick Kevin Warsh’s confirmation hearing",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ed14db34-4d2a-4908-be5b-386001cab04d&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2026-04-22T17:10:06",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "SCORE Act Offers Permanent Fix to College Sports Disorder",
+            "link": "https://www.dailysignal.com/2026/04/22/score-act-fix-college-sports/",
+            "description": "College sports generate excitement and bring communities together in a unique way. They inspire pride in our schools, create lifelong memories, and en...",
+            "pubDate": "2026-04-22T20:06:15",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "QNB Türkiye’s Yeliz Ataay Arıkök: Hitting SF Milestones",
-            "link": "https://gfmag.com/award/winner-insights/qnb-turkiyes-yeliz-ataay-arikok-hitting-sf-milestones/",
-            "description": "Yeliz Ataay Arıkök, director of Treasury Sales and Finan-cial Institutions and chair of the Sustainability Committee at QNB Türkiye—this year’s Best B...",
-            "pubDate": "2026-03-09T12:18:33",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Credo Technologies Hits Bottom: Now Is the Time to Buy",
-            "link": "https://www.marketbeat.com/originals/credo-technologies-hits-bottom-now-is-the-time-to-buy/",
-            "description": "Credo Technology is in a position to rebound robustly in 2026 as data center demand keeps it in hypergrowth mode and analysts and institutions accumul...",
-            "pubDate": "2026-03-09T15:28:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "QNB Türkiye’s Yeliz Ataay Arıkök: Hitting SF Milestones",
-            "link": "https://gfmag.com/award/winner-insights/qnb-turkiyes-yeliz-ataay-arikok-hitting-sf-milestones/",
-            "description": "Yeliz Ataay Arıkök, director of Treasury Sales and Finan-cial Institutions and chair of the Sustainability Committee at QNB Türkiye—this year’s Best B...",
-            "pubDate": "2026-03-09T12:18:33",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "One year after Trump’s sovereignty threats, Canadians keep ‘elbows up’",
-            "link": "https://www.cnbc.com/2026/03/07/canada-boycott-trump-travel-alcohol-economy.html",
-            "description": "An unusual swell of Canadian patriotism seen after Trump's threats and tariffs last year has evolved into a new social and economic order.",
-            "pubDate": "2026-03-09T11:59:31",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Trump announces sanctions relief to ease oil prices, says Iran war to end soon",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=aac90f17-06fe-448e-9b2f-2afc8b3414e3&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2026-03-09T23:49:40",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Nordea’s Juho Maalahti: Strengthening Transparency And Alignment",
-            "link": "https://gfmag.com/award/winner-insights/nordeas-juho-maalahti-strengthening-transparency-and-alignment/",
-            "description": "Juho Maalahti, head of Sustainable Finance Advisory at Nordea—this year’s Best Bank for Sustainability Transparency in Western Europe—discusses the ne...",
-            "pubDate": "2026-03-09T12:19:35",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "The $100 oil playbook: How pro investors are investing around this energy shock",
-            "link": "https://www.cnbc.com/2026/03/09/the-100-oil-playbook-how-pro-investors-are-investing-around-this-energy-shock.html",
-            "description": "Many say the focus now is on maintaining exposure to equities while diversifying across sectors and regions that can better withstand inflation and vo...",
-            "pubDate": "2026-03-09T17:13:36",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Three bear markets in stocks were caused by oil shocks — Here's how long they lasted",
-            "link": "https://www.cnbc.com/2026/03/09/heres-how-long-the-three-oil-shock-induced-bear-markets-lasted.html",
-            "description": "As the fallout in the oil markets from the U.S.-Iran war continues, here’s what severe oil shocks have done to the S&P 500 in the past.",
-            "pubDate": "2026-03-09T17:28:43",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "The Iran energy shock reverberates across financial markets",
-            "link": "https://www.economist.com/finance-and-economics/2026/03/09/the-iran-energy-shock-reverberates-across-financial-markets",
-            "description": "For investors, the war is like the invasion of Ukraine all over again",
-            "pubDate": "2026-03-09T20:49:06",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Dignified transfer for Kentucky soldier who was the 7th US service member to die in Iran war",
-            "link": "https://apnews.com/article/iran-war-us-military-soldier-died-40535c69cd3b8451e0926e808c3df43c",
-            "description": "Vice President JD Vance joined the grieving family of a Kentucky man who was the seventh U.S. service member to die in combat during the Iran war as h...",
-            "pubDate": "2026-03-09T15:43:14",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "5 High-Yield Stocks That Could Help Cushion Market Volatility",
-            "link": "https://www.marketbeat.com/stock-ideas/5-high-yield-stocks-that-could-help-cushion-market-volatility/",
-            "description": "Rising geopolitical tensions and crude oil prices above $100 have reignited inflation concerns, pushing investors to consider defensive portfolio posi...",
-            "pubDate": "2026-03-09T14:04:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Big Tech stocks quietly gaining momentum — but don’t expect the bounce to last",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=259f2217-b12e-4ff9-a857-b93603da4656&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2026-03-09T22:34:16",
+            "title": "Senate Advances Massive Border Funding Plan. Will It Survive?",
+            "link": "https://www.dailysignal.com/2026/04/22/senate-advances-massive-border-funding-plan-will-it-survive/",
+            "description": "The Senate is rapidly pursuing a plan to inject funds into Department of Homeland Security immigration agencies that Democrats have denied funding. Co...",
+            "pubDate": "2026-04-22T20:18:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "ZIM’s $35 Buyout: An Arbitrage Play With a Solid Floor",
-            "link": "https://www.marketbeat.com/originals/zims-35-buyout-an-arbitrage-play-with-a-solid-floor/",
-            "description": "ZIM Integrated Shipping Services presents a compelling investment case with its recent profitability and a pending all-cash acquisition offer.",
-            "pubDate": "2026-03-09T18:06:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Nordea’s Juho Maalahti: Strengthening Transparency And Alignment",
-            "link": "https://gfmag.com/award/winner-insights/nordeas-juho-maalahti-strengthening-transparency-and-alignment/",
-            "description": "Juho Maalahti, head of Sustainable Finance Advisory at Nordea—this year’s Best Bank for Sustainability Transparency in Western Europe—discusses the ne...",
-            "pubDate": "2026-03-09T12:19:35",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "The Pain Of Selling A Home Too Soon In A Rising Market",
-            "link": "https://www.financialsamurai.com/the-pain-of-selling-a-home-too-soon-in-a-rising-market/",
-            "description": "Recently, a home in the beautiful Forest Hill neighborhood of San Francisco was listed for $2.4 million. It had four bedrooms, three bathrooms, and a ...",
-            "pubDate": "2026-03-09T12:18:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Social media and PR: SMEs need to raise their game",
-            "link": "https://moneyweek.com/economy/small-business/social-media-pr-for-smes",
-            "description": "Criticism on social media can be devastating for a business. Owners should learn how to respond, says David Prosser",
-            "pubDate": "2026-03-08T10:00:00",
-            "image_url": "https://cdn.mos.cms.futurecdn.net/yfv9JRtX8rgUhkvpbLZHAK-1280-80.jpg"
-        },
-        {
-            "title": "Would America be in recession without the super-rich?",
-            "link": "https://www.economist.com/finance-and-economics/2026/03/08/would-america-be-in-recession-without-the-super-rich",
-            "description": "American anxieties are K-shaped. The economy is more like a backslash",
-            "pubDate": "2026-03-08T13:36:30",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "The Iran war puts Asia in an energy panic",
-            "link": "https://www.economist.com/finance-and-economics/2026/03/08/the-iran-war-puts-asia-in-an-energy-panic",
-            "description": "Stranded Gulf supplies are choking off the region’s economies",
-            "pubDate": "2026-03-08T18:48:39",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Here's how the U.S.-Iran war is already hitting consumers' pocketbooks",
-            "link": "https://www.cnbc.com/2026/03/06/us-iran-war-gas-mortgage-markets.html",
-            "description": "The U.S.-Israeli strikes on Iran over the weekend gave way to a week with topsy-turvy markets, spiking mortgage rates and higher prices at the pump.",
-            "pubDate": "2026-03-06T17:01:36",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Dubai wealth flight to safety: Here's what to know",
-            "link": "https://www.cnbc.com/video/2026/03/06/dubai-wealth-flight-to-safety-heres-what-to-know.html",
-            "description": "The war in Iran is sparking a wealth flight from the UAE. CNBC's Robert Frank joins 'Squawk Box' with more.",
-            "pubDate": "2026-03-06T12:44:48",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "U.S. payrolls unexpectedly fell by 92,000 in February; unemployment rate rises to 4.4%",
-            "link": "https://www.cnbc.com/2026/03/06/february-2026-jobs-report.html",
-            "description": "Nonfarm payrolls were expected to increase 50,000 in February while the unemployment rate held steady at 4.3%.",
-            "pubDate": "2026-03-06T16:12:55",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "How Robinhood’s Venture Fund Listing Could Impact Fundrise Venture",
-            "link": "https://www.financialsamurai.com/robinhood-venture-fund-listings-impact-on-fundrise-venture-vcx/",
-            "description": "Robinhood is one of the most popular online brokerage firms today, especially among younger investors who actively trade. During COVID, Robinhood famo...",
-            "pubDate": "2026-03-06T10:18:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "San Francisco Fed's Daly says jobs report complicates interest rate call",
-            "link": "https://www.cnbc.com/2026/03/06/san-francisco-feds-daly-says-jobs-report-complicates-interest-rate-call.html",
-            "description": "Daly told CNBC on Friday that the weak February jobs report adds to a difficult policymaking environment.",
-            "pubDate": "2026-03-06T16:11:33",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Morgan Stanley cuts 2,500 jobs despite posting record revenue year across all divisions",
-            "link": "https://www.foxbusiness.com/markets/morgan-stanley-cuts-2500-jobs-despite-posting-record-revenue-year-across-all-divisions",
-            "description": "Morgan Stanley cuts 3% of workforce, affecting roughly 2,500 employees across investment banking and wealth management divisions in latest restructuri...",
-            "pubDate": "2026-03-05T03:40:25",
-            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/03/morgan-stanley-announces-layoffs.jpg"
-        },
-        {
-            "title": "India’s economy is not as big as economists thought",
-            "link": "https://www.economist.com/finance-and-economics/2026/03/05/indias-economy-is-not-as-big-as-economists-thought",
-            "description": "But it is growing faster",
-            "pubDate": "2026-03-05T10:33:42",
+            "title": "Edmunds: These are the best midsize trucks for off-roading in 2026",
+            "link": "https://abcnews.com/Business/wireStory/edmunds-best-midsize-trucks-off-roading-2026-132266648",
+            "description": "The best midsize off-road trucks for 2026 include the Chevy Colorado ZR2, GMC Canyon AT4X, Ford Ranger Raptor, Jeep Gladiator Rubicon and Toyota Tacom...",
+            "pubDate": "2026-04-22T13:22:45",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "The wealthy once rushed to Dubai. Now they're scrambling to leave",
-            "link": "https://www.cnbc.com/2026/03/05/iran-war-dubai-rich.html",
-            "description": "Since the start of the U.S.-Iran war, Dubai's status as a haven for the global elite has been shattered.",
-            "pubDate": "2026-03-05T15:41:55",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "To understand why countries grow, look at their firms",
-            "link": "https://www.economist.com/finance-and-economics/2026/03/05/to-understand-why-countries-grow-look-at-their-firms",
-            "description": "The third way in development economics",
-            "pubDate": "2026-03-05T10:36:23",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Treat Yourself To A Luxury Expense To Make Investing Worthwhile",
-            "link": "https://www.financialsamurai.com/treat-yourself-to-a-luxury-expense-to-make-investing-worthwhile/",
-            "description": "If you never spend your investment gains, what exactly are you investing for? This question hit me hard after a year of nonstop financial management, ...",
-            "pubDate": "2026-03-04T12:18:00",
+            "title": "Las Vegas Sands Non-GAAP EPS of $0.91 beats by $0.15, revenue of $3.59B beats by $240M",
+            "link": "https://seekingalpha.com/news/4578204-las-vegas-sands-non-gaap-eps-of-0_91-beats-by-0_15-revenue-of-3_59b-beats-by-240m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+            "description": "",
+            "pubDate": "2026-04-22T21:08:52",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "Blockchain analysts say traders may have used insider information to profit on Iran conflict bets",
-            "link": "https://www.foxbusiness.com/markets/blockchain-analysts-say-traders-may-have-used-insider-information-profit-iran-conflict-bets",
-            "description": "Suspected insider traders allegedly made $1.2 million betting on Iran strikes hours before they happened, sparking calls to ban war-related prediction...",
-            "pubDate": "2026-03-03T18:47:30",
-            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/03/iran-conflict-prediction-market.jpg"
+            "title": "DEI Not Dead as Top Law Firms Profited From Equity Audits",
+            "link": "https://www.dailysignal.com/2026/04/22/dei-not-dead-as-top-law-firms-profited-from-equity-audits/",
+            "description": "Diversity, equity, and inclusion policies may only look dead in corporate America, as high-priced racial equity audits for some of the largest firms h...",
+            "pubDate": "2026-04-22T19:05:31",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "Dow falls 400 points, oil spike moderates amid Middle East tensions",
-            "link": "https://www.foxbusiness.com/markets/us-stocks-march-3-2026-dow-falls-oil-spikes-middle-east-tensions",
-            "description": "U.S. stocks fell Tuesday as Middle East tensions drive oil prices higher, increasing investor fears of inflation and global trade disruptions.",
-            "pubDate": "2026-03-03T15:36:35",
+            "title": "Lam Research Non-GAAP EPS of $1.47 beats by $0.11, revenue of $5.84B beats by $80M",
+            "link": "https://seekingalpha.com/news/4578201-lam-research-non-gaap-eps-of-1_47-beats-by-0_11-revenue-of-5_84b-beats-by-80m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+            "description": "",
+            "pubDate": "2026-04-22T21:07:28",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "FS KKR Capital: One Of The Weakest Links In The Private Credit Chain",
+            "link": "https://seekingalpha.com/article/4893019-fs-kkr-capital-one-of-the-weakest-links-in-the-private-credit-chain?source=feed_all_articles",
+            "description": "",
+            "pubDate": "2026-04-22T20:52:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Bessent says 'many' U.S. allies have asked for currency swaps amid Iran war turbulence",
+            "link": "https://www.cnbc.com/2026/04/22/iran-war-treasury-uae-scott-bessent-currency-swaps.html",
+            "description": "The White House on Tuesday said the UAE had not requested a currency swap line.",
+            "pubDate": "2026-04-22T19:46:20",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "EXCLUSIVE: POET Stock Rallies To Near 11-Year High – Wolfpack Says Market Will ‘Render Its Verdict‘ By 2027",
+            "link": "https://stocktwits.com/news-articles/markets/equity/poet-stock-rallies-to-11-year-high-wolfpack-says-market-verdict-in-2027/cZBBUqlRebI",
+            "description": "Wolfpack Research told Stockwits that releasing its findings before the April 15 tax deadline was intended to help shareholders avoid the need to file...",
+            "pubDate": "2026-04-22T19:08:44",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Grupo Aeroméxico, S.A.B. de C.V. (AERO) Q1 2026 Earnings Call Transcript",
+            "link": "https://seekingalpha.com/article/4893004-grupo-aeromexico-s-a-b-de-c-v-aero-q1-2026-earnings-call-transcript?source=feed_all_articles",
+            "description": "",
+            "pubDate": "2026-04-22T20:50:43",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "World’s Best Investment Banks 2026: Good Times Fizzle Away",
+            "link": "https://gfmag.com/award/worlds-best-investment-banks-2026-good-times-fizzle-away/",
+            "description": "A buoyant 2025 has transformed into a precarious 2026 rife with geopolitical instability, including the largest oil shock in history. The post World’s...",
+            "pubDate": "2026-04-21T10:54:43",
+            "image_url": "https://s44650.pcdn.co/wp-content/uploads/2026/04/Hoolihan-Lockey-1-1024x576.png"
+        },
+        {
+            "title": "Who is Kevin Warsh, Trump's pick to succeed Jerome Powell as Fed chair?",
+            "link": "https://www.foxbusiness.com/economy/who-kevin-warsh-trumps-pick-succeed-jerome-powell-fed-chair",
+            "description": "President Donald Trump nominated former Federal Reserve Governor Kevin Warsh at the end of January to become chairman of the central bank.",
+            "pubDate": "2026-04-21T10:00:21",
+            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/04/kevin-warsh-hoover-institution-fox-news-004.jpg"
+        },
+        {
+            "title": "Looking for cheap home insurance? Don’t buy a period home",
+            "link": "https://moneyweek.com/investments/property/looking-for-cheap-home-insurance-dont-buy-a-period-home",
+            "description": "It costs significantly more to insure a property built before the First World War than one built after 2000, analysis suggests. How can you reduce hom...",
+            "pubDate": "2026-04-21T17:24:22",
+            "image_url": "https://cdn.mos.cms.futurecdn.net/3M9bCZ6S93KE2kQ8GnFLAQ-1280-80.jpg"
+        },
+        {
+            "title": "DOJ reportedly pursuing criminal antitrust probe of major meatpacking companies",
+            "link": "https://www.foxbusiness.com/economy/doj-reportedly-pursuing-criminal-antitrust-probe-major-meatpacking-companies",
+            "description": "The DOJ is reportedly investigating four major beef companies in a criminal antitrust probe after Trump claimed meatpackers manipulated cattle prices.",
+            "pubDate": "2026-04-21T17:19:49",
+            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2025/10/cattle-auction.png"
+        },
+        {
+            "title": "Why where you live could mean you face a higher inheritance tax bill",
+            "link": "https://moneyweek.com/personal-finance/inheritance-tax/why-where-you-live-could-mean-you-face-a-higher-inhertiance-tax-bill",
+            "description": "Here are the areas of the UK that are most likely to face an inheritance tax bill.",
+            "pubDate": "2026-04-21T15:51:22",
+            "image_url": "https://cdn.mos.cms.futurecdn.net/PZDcLMM7uGTF9YGCF4JsZB-1280-80.jpg"
+        },
+        {
+            "title": "World’s Best Investment Banks 2026: Good Times Fizzle Away",
+            "link": "https://gfmag.com/award/worlds-best-investment-banks-2026-good-times-fizzle-away/",
+            "description": "A buoyant 2025 has transformed into a precarious 2026 rife with geopolitical instability, including the largest oil shock in history. The post World’s...",
+            "pubDate": "2026-04-21T10:54:43",
+            "image_url": "https://s44650.pcdn.co/wp-content/uploads/2026/04/Hoolihan-Lockey-1-1024x576.png"
+        },
+        {
+            "title": "A beginner-friendly ETF portfolio that requires almost no maintenance and delivers long-term results",
+            "link": "https://www.foxbusiness.com/markets/a-beginner-friendly-etf-portfolio-that-requires-almost-no-maintenance-and-delivers-long-term-results",
+            "description": "For a portfolio to count as being both good and easy, it needs to be anchored with a hearty helping of stock market-tracking index funds.",
+            "pubDate": "2026-04-21T22:43:08",
             "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/03/traders-nyse-7-reuters.jpg"
         },
         {
-            "title": "Stanley Black & Decker to cut hundreds of jobs, shut Connecticut plant",
-            "link": "https://www.foxbusiness.com/markets/stanley-black-decker-cut-hundreds-jobs-shut-connecticut-plant",
-            "description": "Stanley Black & Decker will eliminate about 300 jobs and close a Connecticut tape-measure plant as demand declines, part of its multiyear restructurin...",
-            "pubDate": "2026-03-03T17:01:29",
-            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/03/stanley-black-decker-facility.jpg"
+            "title": "Tesla results: what to expect",
+            "link": "https://moneyweek.com/investments/tech-stocks/tesla-earnings-results",
+            "description": "Tesla will release its results this week as the big tech earnings season gets underway.",
+            "pubDate": "2026-04-21T17:33:33",
+            "image_url": "https://cdn.mos.cms.futurecdn.net/TDBvPTPyy5FVtGvftcr79P-1280-80.jpg"
         },
         {
-            "title": "Luxury stocks slump as Middle East conflict risks one of the sector’s 'few bright spots’",
-            "link": "https://www.cnbc.com/2026/03/03/luxury-stocks-iran-strikes-lvmh-kering-gucci-richemont.html",
-            "description": "The Middle East has been one of the few bright spots in a sector that is struggling to get sales back on track.",
-            "pubDate": "2026-03-03T13:45:32",
+            "title": "World’s Best Investment Banks: Global Winners",
+            "link": "https://gfmag.com/award/award-winners/worlds-best-investment-banks-global-winners/",
+            "description": "Explore the top investment banks of 2025, highlighting their achievements and contributions across key global categories in the industry. The post Wor...",
+            "pubDate": "2026-04-21T10:52:10",
+            "image_url": "https://public.flourish.studio/visualisation/28627395/thumbnail"
+        },
+        {
+            "title": "UK inflation rate rises to 3.3% as Iran war pushes prices higher",
+            "link": "https://moneyweek.com/economy/news/live/inflation-cpi-march-2026-report",
+            "description": "Live coverage of the March UK inflation data release as the Iran war’s impact on prices becomes known.",
+            "pubDate": "2026-04-21T15:31:43",
+            "image_url": "https://cdn.mos.cms.futurecdn.net/ohiN9DsPFMsgBekoSx2hrD-1280-80.jpg"
+        },
+        {
+            "title": "How does Fed chair nominee Kevin Warsh view the central bank's inflation goal?",
+            "link": "https://www.foxbusiness.com/economy/how-does-fed-chair-nominee-kevin-warsh-view-central-banks-inflation-goal",
+            "description": "Fed chair nominee Kevin Warsh is testifying before the Senate Banking Committee and has previously signaled support for a range-based approach to infl...",
+            "pubDate": "2026-04-21T11:00:52",
+            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/01/kevin-warsh-01.jpg"
+        },
+        {
+            "title": "Private Credit’s Next Bet: Intellectual Property",
+            "link": "https://gfmag.com/private-credit/private-credit-next-bet-intellectual-property/",
+            "description": "Asset-light companies reshape private credit as lenders embrace intellectual property collateral, despite valuation challenges, legal risks, and AI-dr...",
+            "pubDate": "2026-04-21T11:07:46",
+            "image_url": "https://s44650.pcdn.co/wp-content/uploads/2026/04/Steffen-Schellschmidt-Clifford-Chance.jpeg"
+        },
+        {
+            "title": "Trump says he wants 'somebody' to buy Spirit Airlines, opposes United-American merger",
+            "link": "https://www.foxbusiness.com/economy/trump-says-he-wants-somebody-buy-spirit-airlines-opposes-united-american-merger",
+            "description": "President Donald Trump says he wants someone to buy Spirit Airlines as the low-cost carrier battles bankruptcy and rising fuel costs threaten its reco...",
+            "pubDate": "2026-04-21T19:57:18",
+            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/04/spirit-airlines-kiosks.jpg"
+        },
+        {
+            "title": "Private Credit’s Next Bet: Intellectual Property",
+            "link": "https://gfmag.com/private-credit/private-credit-next-bet-intellectual-property/",
+            "description": "Asset-light companies reshape private credit as lenders embrace intellectual property collateral, despite valuation challenges, legal risks, and AI-dr...",
+            "pubDate": "2026-04-21T11:07:46",
+            "image_url": "https://s44650.pcdn.co/wp-content/uploads/2026/04/Steffen-Schellschmidt-Clifford-Chance.jpeg"
+        },
+        {
+            "title": "World’s Best Investment Banks: Global Winners",
+            "link": "https://gfmag.com/award/award-winners/worlds-best-investment-banks-global-winners/",
+            "description": "Explore the top investment banks of 2025, highlighting their achievements and contributions across key global categories in the industry. The post Wor...",
+            "pubDate": "2026-04-21T10:52:10",
+            "image_url": "https://public.flourish.studio/visualisation/28627395/thumbnail"
+        },
+        {
+            "title": "Tariff refunds begin on Monday. These retailers are due big paydays",
+            "link": "https://www.cnbc.com/2026/04/20/tariff-refunds-begin-on-monday-these-retailers-are-due-big-paydays.html",
+            "description": "U.S. importers, such as Walmart and Target, could be in line for billions in tariff refunds as the government launches its claims filing portal on Mon...",
+            "pubDate": "2026-04-21T13:31:58",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "The stablecoin market has got too stable",
+            "link": "https://www.economist.com/finance-and-economics/2026/04/21/the-stablecoin-market-has-got-too-stable",
+            "description": "Rapid growth in dollar-backed crypto has stalled",
+            "pubDate": "2026-04-21T20:10:20",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Chair nominee Kevin Warsh says Fed must ‘stay in its lane’ to maintain independence",
+            "link": "https://www.cnbc.com/2026/04/20/kevin-warsh-fed-confirmation-senate.html",
+            "description": "Warsh also expressed firm commitment to fighting inflation with only one mention of the labor market.",
+            "pubDate": "2026-04-21T13:18:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "CFO Corner: Iker Etxezarreta Fraile, Faes Farma",
+            "link": "https://gfmag.com/executive-interviews/cfo-corner-iker-etxezarreta-fraile-faes-farma/",
+            "description": "Faes Farma operates in 16 countries, with a China joint venture and 40+ licensing deals; Iker Etxezarreta Fraile became CFO last July. The post CFO Co...",
+            "pubDate": "2026-04-21T11:06:19",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Trump administration discussing currency swap line with United Arab Emirates",
+            "link": "https://www.cnbc.com/2026/04/21/trump-iran-war-white-house-uae-currency-swap-line.html",
+            "description": "Such a move would provide liquidity in dollars to the oil-rich UAE, but could be politically tenuous for the administration amid higher prices at home...",
+            "pubDate": "2026-04-21T23:09:55",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "‘New cards on the battlefield’: U.S., Iran ratchet up rhetoric with peace talks in limbo",
+            "link": "https://www.cnbc.com/2026/04/21/new-cards-on-the-battlefield-us-iran-ratchet-up-rhetoric-with-peace-talks-in-limbo.html",
+            "description": "American negotiators may be outmatched at the negotiating table by Iran's experienced diplomatic delegation, says analyst, ahead of potential high-sta...",
+            "pubDate": "2026-04-21T12:16:56",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Global energy markets are on the verge of a disaster",
+            "link": "https://www.economist.com/finance-and-economics/2026/04/21/global-energy-markets-are-on-the-verge-of-a-disaster",
+            "description": "Scenarios now range from bad to awful",
+            "pubDate": "2026-04-21T21:46:14",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "US ‘sitting on significant proven reserves’: Analyst says America can withstand Iran energy shock",
-            "link": "https://www.foxbusiness.com/markets/us-sitting-on-significant-proven-reserves-anaylist-america-withstand-iran-energy-shock",
-            "description": "U.S. energy security proves resilient, according to one analyst, as Iranian attacks disrupt Qatar LNG production and A domestic oil boom provides insu...",
-            "pubDate": "2026-03-02T16:19:08",
-            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/03/qatar-iran-oil-drone-strike.jpg"
-        },
-        {
-            "title": "Real Estate Is The Easiest And Safest Way To Profit From AI",
-            "link": "https://www.financialsamurai.com/real-estate-is-the-easiest-and-safest-way-to-profit-from-ai/",
-            "description": "All of us have three main options to profit from AI: 1) Invest in the right AI companies. 2) Work for the right AI companies. 3) Invest in real estate...",
-            "pubDate": "2026-03-02T12:18:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Rise of high net worth art loans: Here's what to know",
-            "link": "https://www.cnbc.com/video/2026/02/27/rise-of-high-net-worth-art-loans-heres-what-to-know.html",
-            "description": "The business of lending money to the wealthy against their art collection is becoming a booming industry. CNBC's Robert Frank joins 'Squawk Box' with ...",
-            "pubDate": "2026-02-27T12:51:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "An Inside Look at Block’s Mass Layoff Severance Package",
-            "link": "https://www.financialsamurai.com/blocks-mass-layoff-severance-package/",
-            "description": "In an aggressive move, Jack Dorsey, co-founder of Twitter (X) and Block (Square, Cash App), announced a mass layoff affecting about 4,000 employees ou...",
-            "pubDate": "2026-02-27T12:18:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "The blue wave of tax hikes: Here's what to know",
-            "link": "https://www.cnbc.com/video/2026/02/25/the-blue-wave-of-tax-hikes-heres-what-to-know.html",
-            "description": "Washington may be the next state to see the wealthy flee. CNBC's Robert Frank joins 'Squawk Box' with the details.",
-            "pubDate": "2026-02-25T12:48:21",
+            "title": "CFO Corner: Iker Etxezarreta Fraile, Faes Farma",
+            "link": "https://gfmag.com/executive-interviews/cfo-corner-iker-etxezarreta-fraile-faes-farma/",
+            "description": "Faes Farma operates in 16 countries, with a China joint venture and 40+ licensing deals; Iker Etxezarreta Fraile became CFO last July. The post CFO Co...",
+            "pubDate": "2026-04-21T11:06:19",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "United Airlines merger talk puts spotlight on American CEO's future, experts say",
+            "link": "https://www.foxbusiness.com/markets/united-airlines-merger-talk-puts-spotlight-american-ceos-future-experts-say",
+            "description": "United Airlines CEO Scott Kirby's reported pitch to President Trump for a United-American merger intensifies pressure on American CEO Robert Isom, ana...",
+            "pubDate": "2026-04-20T16:24:42",
+            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2026/04/united-american-airlines-san-francisco-airport.jpg"
+        },
+        {
+            "title": "Could S&P 500 ETFs alone fund your entire retirement?",
+            "link": "https://www.foxbusiness.com/markets/could-sp-500-etfs-alone-fund-your-entire-retirement",
+            "description": "Based on how the S&P 500 has performed over the past several years, it would be easy to think it's all you need in your portfolio. In reality, you pro...",
+            "pubDate": "2026-04-20T20:38:02",
+            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2024/02/Tax-planning-people-laptop.jpg"
+        },
+        {
+            "title": "Be Safe and Live: Don’t Work in AI When the Revolution Comes",
+            "link": "https://www.financialsamurai.com/be-safe-and-live-dont-work-in-ai-when-the-revolution-comes/",
+            "description": "For those who work in AI, let me share a cautionary tale based on history. You may be getting incredibly rich right now, but there’s little point in b...",
+            "pubDate": "2026-04-20T12:18:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "American corporate profits keep shrugging off global tumult",
+            "link": "https://www.economist.com/finance-and-economics/2026/04/20/american-corporate-profits-keep-shrugging-off-global-tumult",
+            "description": "Earnings expectations are through the roof",
+            "pubDate": "2026-04-20T20:49:36",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "TV shopping empire behind QVC, HSN files for bankruptcy amid mounting losses",
+            "link": "https://www.foxbusiness.com/markets/shopping-tv-empire-behind-qvc-hsn-files-bankruptcy-amid-mounting-losses",
+            "description": "The parent company of QVC and HSN filed for Chapter 11 bankruptcy as part of a major restructuring plan to slash billions in debt. The company says it...",
+            "pubDate": "2026-04-17T22:45:00",
+            "image_url": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2024/03/qvc.png"
+        },
+        {
+            "title": "How To Convince Yourself To Invest Aggressively For A Better Tomorrow",
+            "link": "https://www.financialsamurai.com/how-to-convince-yourself-to-invest-aggressively-for-a-better-tomorrow/",
+            "description": "One of the key ways to FIRE is to save and invest aggressively. You've forecasted your misery, therefore, you know that by the time your misery become...",
+            "pubDate": "2026-04-17T12:18:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Hormuz is (apparently) unblocked. Energy markets remain a mess",
+            "link": "https://www.economist.com/finance-and-economics/2026/04/17/hormuz-is-apparently-unblocked-energy-markets-remain-a-mess",
+            "description": "Mines, mistrust and missing ships will keep markets tight for months",
+            "pubDate": "2026-04-17T20:42:15",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Kering looks to double profits as it unveils ambitious turnaround plan to revive Gucci",
+            "link": "https://www.cnbc.com/2026/04/16/kering-stock-ker-gucci-cmd-turnaround-profit-strategy.html",
+            "description": "The \"ReconKering\" strategy announced Thursday includes more than doubling its 2025 recurring operating margin of 11.1%.",
+            "pubDate": "2026-04-16T13:30:18",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Global imbalances are back. Who’s to blame?",
+            "link": "https://www.economist.com/finance-and-economics/2026/04/16/global-imbalances-are-back-whos-to-blame",
+            "description": "The suspects look familiar",
+            "pubDate": "2026-04-16T10:58:29",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Investing More Than The Gift Tax Exclusion Limit Shouldn’t Be A Problem",
+            "link": "https://www.financialsamurai.com/investing-more-than-the-gift-tax-limit-shouldnt-be-a-problem/",
+            "description": "Every year or two, the market hands you a gift wrapped in anxiety. You watch your portfolio bleed, you refresh your brokerage app more than you should...",
+            "pubDate": "2026-04-15T12:18:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Luxury stocks fall as Iran war weighs on earnings; Hermes sinks 8%",
+            "link": "https://www.cnbc.com/2026/04/15/kering-stock-q1-earnings-gucci-sales-iran-war-middle-east-luxury.html",
+            "description": "Hermes said wholesale activity was \"significantly affected\" in the first quarter by lower sales to concession stores, particularly in the Middle East ...",
+            "pubDate": "2026-04-15T17:18:21",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "IRS audit rate for high earners falls: Here's what to know",
+            "link": "https://www.cnbc.com/video/2026/04/15/irs-audit-rate-for-high-earners-falls-heres-what-to-know.html",
+            "description": "It's Tax Day, and all income groups have seen their chances of getting audited decline in recent years, but the highest earners have seen the largest ...",
+            "pubDate": "2026-04-15T13:26:41",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "A Financial Dilemma: Save Your Parents, Your Children, or Yourself",
+            "link": "https://www.financialsamurai.com/a-financial-dilemma-save-your-parents-your-children-or-yourself/",
+            "description": "After publishing my piece on the shocking cost of eldercare, a question kept nagging at me that I couldn't shake: when money is finite and the people ...",
+            "pubDate": "2026-04-13T12:18:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "M&A Lawyer's Paul, Weiss Makeover: More Money, Less Soul?",
+            "link": "https://dealbreaker.com/2026/04/m-a-lawyers-paul-weiss-makeover-more-money-less-soul",
+            "description": "As revenue climbs, the firm’s identity crisis is getting harder to ignore.",
+            "pubDate": "2026-04-09T21:00:00",
+            "image_url": "https://dealbreaker.com/.image/c_fit%2Ch_675%2Cw_1200/MjIyNTUxMjgyNjA1MzY4NzY5/barshay.jpg"
+        },
+        {
+            "title": "Opening Bell: 4.9.26",
+            "link": "https://dealbreaker.com/2026/04/opening-bell-4-9-2026",
+            "description": "Parsing “peace”; OpenAI promises OpenIPO; Miami money influx peters out; and more!",
+            "pubDate": "2026-04-09T16:00:00",
+            "image_url": "https://dealbreaker.com/.image/c_fit%2Ch_675%2Cw_1200/MjIyMzkxMjk4NTYzMjUzNjk3/hormuz.jpg"
+        },
+        {
+            "title": "Very Soon, Thousands Of Individual Banknotes Of U.S. Paper Currency Could Say ‘Donald J. Trump Protects Pedophiles’",
+            "link": "https://dealbreaker.com/2026/04/very-soon-thousands-of-individual-banknotes-of-u-s-paper-currency-could-say-donald-j-trump-protects-pedophiles-",
+            "description": "In Trump's America, customized rubber stamps are cheap and plentiful.",
+            "pubDate": "2026-04-09T19:00:00",
+            "image_url": "https://dealbreaker.com/.image/c_fit%2Ch_675%2Cw_1200/MjEyMjc3MjM0MTU5ODU1MTEz/trump-coin.jpg"
+        },
+        {
+            "title": "Pentagon Proclaims 'Decisive Military Victory' As Ceasefire Takes Hold",
+            "link": "https://dealbreaker.com/2026/04/pentagon-proclaims-decisive-military-victory-as-ceasefire-takes-hold",
+            "description": "“We've destroyed Iran's defense industrial base, their ability to reconstitute those capabilities for years to come,” said Chairman of the Joint Chief...",
+            "pubDate": "2026-04-09T17:02:07",
+            "image_url": "https://dealbreaker.com/.image/c_fit%2Ch_675%2Cw_1200/MjIxNjk1NDc3ODkwOTUwNTkz/tehran-attack.jpg"
+        },
+        {
+            "title": "Pam Bondi To Congress: New Phone, Who Dis?",
+            "link": "https://dealbreaker.com/2026/04/pam-bondi-to-congress-new-phone-who-dis",
+            "description": "'The dog ate my subpoena!'",
+            "pubDate": "2026-04-09T18:00:00",
+            "image_url": "https://dealbreaker.com/.image/c_fit%2Ch_675%2Cw_1200/MjIyNDc5NjY1OTA0NzU2NTk4/pam-bondi-3.jpg"
         },
         {
             "title": "AI’s real frontier: understanding us",
             "link": "https://www.worldfinance.com/markets/ais-real-frontier-understanding-us",
             "description": "As the world debates whether AI will replace us, the more profound question is whether it can truly understand us. The next frontier of artificial int...",
             "pubDate": "2026-01-29T15:39:57",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "Finding quality niches for infrastructure investments",
             "link": "https://www.worldfinance.com/markets/finding-quality-niches-for-infrastructure-investments",
             "description": "As the world races to rebuild its energy foundations, MPC Capital is finding strength in specialisation – investing in the overlooked niches of Europe...",
             "pubDate": "2026-01-28T10:58:37",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "The human algorithm of fintech innovation",
             "link": "https://www.worldfinance.com/strategy/the-human-algorithm-of-fintech-innovation",
             "description": "As fintech competition intensifies, leadership psychology has become a strategic differentiator. Understanding how founders think – and where their st...",
             "pubDate": "2026-01-27T14:37:55",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "The birth of modern investing",
-            "link": "https://www.worldfinance.com/wealth-management/the-birth-of-modern-investing",
-            "description": "Half a century ago, a small group of University of Chicago economists redefined how we think about markets. Tune Out the Noise traces how their radica...",
-            "pubDate": "2026-01-26T09:53:43",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "The German economic miracle, then and now",
             "link": "https://www.worldfinance.com/strategy/the-german-economic-miracle-then-and-now",
             "description": "For 70 years, Germany embodied postwar recovery – prosperous, stable and admired. Now, as exports falter, populism grows and trust in politics erodes,...",
             "pubDate": "2026-01-26T17:09:22",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "The birth of modern investing",
+            "link": "https://www.worldfinance.com/wealth-management/the-birth-of-modern-investing",
+            "description": "Half a century ago, a small group of University of Chicago economists redefined how we think about markets. Tune Out the Noise traces how their radica...",
+            "pubDate": "2026-01-26T09:53:43",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Tech, Media & Telecom Roundup: Market Talk",
+            "link": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-5908c510?mod=rss_Technology",
+            "description": "DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
+            "pubDate": "2025-01-27T17:28:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
@@ -905,35 +891,28 @@
             "link": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology",
             "description": "The Chinese upstart says it has trained high-performing AI models cheaply, without using the most advanced chips.",
             "pubDate": "2025-01-27T18:17:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "Reid Hoffman Raises $24.6 Million for AI Cancer-Research Startup",
             "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology",
             "description": "The LinkedIn co-founder is starting Manas AI with “The Emperor of All Maladies” author Siddhartha Mukherjee.",
             "pubDate": "2025-01-27T13:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Tech, Media & Telecom Roundup: Market Talk",
-            "link": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-5908c510?mod=rss_Technology",
-            "description": "DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
-            "pubDate": "2025-01-27T17:28:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "Silicon Valley Is Raving About a Made-in-China AI Model",
             "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology",
             "description": "DeepSeek is called “amazing and impressive” despite working with less-advanced chips.",
             "pubDate": "2025-01-27T14:36:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "Can an App Replace a Personal Trainer? I Tested Nearly a Dozen to Find Out",
             "link": "https://www.wsj.com/articles/strength-training-apps-review-950a2d19?mod=rss_Technology",
             "description": "Apps can add flexibility and freshness to your routine. Just try not to get injured.",
             "pubDate": "2025-01-26T14:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         }
     ]
 }

@@ -2,42 +2,42 @@
     "title": "Individual feed for https://feeds.washingtonpost.com/rss/politics",
     "link": "https://feeds.washingtonpost.com/rss/politics",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-10T07:54:46.316426",
+    "lastBuildDate": "2026-04-22T16:08:44.917717",
     "items": [
         {
-            "title": "Australia grants asylum to 5 Iranian women’s soccer players after Trump pressure",
-            "link": "https://www.washingtonpost.com/politics/2026/03/09/trump-iran-soccer-womens-asylum-australia/",
-            "description": "The late-night visa approval came after a days-long operation, authorities said. The players had been criticized back home after they stood silently d...",
-            "pubDate": "2026-03-10T12:23:37",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Iran war’s oil shock fuels GOP political anxiety",
-            "link": "https://www.washingtonpost.com/politics/2026/03/10/iran-war-gas-prices-gop-anxiety/",
-            "description": "Higher oil prices have intensified some Republicans’ warnings about the political risks of a long conflict as President Trump sends conflicting messag...",
-            "pubDate": "2026-03-10T11:00:43",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Democrats argue Trump’s China policy risks ‘strategic failure’",
-            "link": "https://www.washingtonpost.com/national-security/2026/03/10/trump-china-democrats/",
-            "description": "A new report, issued ahead of the president’s summit with Xi Jinping, takes aim at the administration’s record on trade, diplomacy and other aspects o...",
-            "pubDate": "2026-03-10T11:00:00",
+            "title": "Democratic Rep. David Scott of Georgia dies at 80",
+            "link": "https://www.washingtonpost.com/politics/2026/04/22/david-scott-death-georgia-congress/",
+            "description": "The lawmaker, who had served in the chamber since 2003, was seeking a 13th term in his safely Democratic district.",
+            "pubDate": "2026-04-22T20:38:21",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "In Trump’s Washington, Congress has little power left",
-            "link": "https://www.washingtonpost.com/politics/2026/03/10/congress-trump-power-rules-war-spending/",
-            "description": "Trump’s second presidency has accelerated the growth of executive power at the expense of the legislative branch, raising concerns about the balance o...",
-            "pubDate": "2026-03-10T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "title": "Clearing Strait of Hormuz of mines could take 6 months, Pentagon tells Congress",
+            "link": "https://www.washingtonpost.com/national-security/2026/04/22/iran-hormuz-mines/",
+            "description": "The Pentagon assessment, shared in a classified briefing for lawmakers, suggests gasoline and oil prices could remain elevated through the midterm ele...",
+            "pubDate": "2026-04-22T19:43:49",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "Justice Ketanji Brown Jackson criticizes Supreme Court emergency rulings",
-            "link": "https://www.washingtonpost.com/politics/2026/03/09/supreme-court-ketanji-brown-jackson-emergency-docket-rulings/",
-            "description": "During a public forum, Jackson and conservative Justice Brett M. Kavanaugh offered differing views of President Trump’s wins before the high court.",
-            "pubDate": "2026-03-10T02:36:24",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "title": "Tracking who Trump is appointing to fill key administration roles",
+            "link": "https://www.washingtonpost.com/politics/interactive/2025/trump-appointee-tracker/",
+            "description": "Follow President Trump’s progress filling over 800 positions, among about 1,300 that require Senate confirmation, in this tracker from The Washington ...",
+            "pubDate": "2026-04-22T18:42:13",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "White House pushes imminent easing of controls on marijuana",
+            "link": "https://www.washingtonpost.com/politics/2026/04/22/trump-marijuana-rescheduling/",
+            "description": "Under an administration plan, marijuana would be moved to Schedule III, like some common prescription painkillers. It now has the same Schedule I clas...",
+            "pubDate": "2026-04-22T18:14:02",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Supreme Court allows soldier to sue contractor over suicide bombing",
+            "link": "https://www.washingtonpost.com/politics/2026/04/22/supreme-court-hencely/",
+            "description": "The ruling will make it easier for troops hurt in combat zones to win damages as contractors become a larger part of military operations around the wo...",
+            "pubDate": "2026-04-22T15:56:51",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         }
     ]
 }

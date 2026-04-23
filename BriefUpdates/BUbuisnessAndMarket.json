@@ -2,77 +2,77 @@
     "title": "BUbuisnessAndMarket",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from BUbuisnessAndMarket, skipping any feeds with errors.",
-    "lastBuildDate": "2026-03-10T07:57:10.788772",
+    "lastBuildDate": "2026-04-22T16:11:04.923465",
     "items": [
         {
-            "title": "AI isn’t killing jobs yet—CEOs are using layoffs to fund a $2.5 trillion arms race",
-            "link": "https://fortune.com/2026/03/10/ai-killing-jobs-ceos-using-layoffs-fund-trillion-arms-race/",
-            "description": "Also: All the news and watercooler chat from Fortune.",
-            "pubDate": "2026-03-10T10:41:30",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2170273841-e1773134998883.jpg?w=2048"
+            "title": "Visa CMO: AI agents are your new customers — here’s how to sell to them",
+            "link": "https://fortune.com/2026/04/22/section-technology-visa-cmo-frank-cooper-b2ai-business-to-ai-agents-commerce-strategy/",
+            "description": "As AI takes over consumer decision-making, companies must rethink everything from product data to brand purpose — or risk being invisible.",
+            "pubDate": "2026-04-22T20:00:00",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/04/frank.png?w=2048"
         },
         {
-            "title": "Trump says Iran war is ‘very complete, pretty much’ sparking global stock rally",
-            "link": "https://fortune.com/2026/03/10/trump-iran-war-is-very-complete-pretty-much-stocks/",
-            "description": "But also, \"we’re going to go further.\"",
-            "pubDate": "2026-03-10T12:13:35",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2265661113.jpg?w=2048"
+            "title": "Federal appeals court blocks California law requiring federal agents to wear badges or ID because it ‘attempts to directly regulate the U.S.’",
+            "link": "https://fortune.com/2026/04/22/federal-appeals-court-california-law-federal-agents-identification/",
+            "description": "The three-judge panel said the law violated the Constitution. California lawyers say the law applied evenly to all law enforcement officers.",
+            "pubDate": "2026-04-22T19:38:24",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/04/AP26112655424048-e1776883026485.jpg?w=2048"
         },
         {
-            "title": "AI can double output. Human biology can’t",
-            "link": "https://fortune.com/2026/03/10/ai-can-double-output-human-biology-cant/",
-            "description": "There's an AI burnout trap, and your productivity gains are fragile.",
-            "pubDate": "2026-03-10T11:05:00",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-1364004798-e1773095727410.jpg?w=2048"
+            "title": "Cursor’s 25-year-old CEO is a former Google intern who just inked a $60 billion deal with SpaceX",
+            "link": "https://fortune.com/2026/04/22/who-is-cursor-25-year-old-ceo-michael-truell-tech-startups-csuite-elon-musk-spacex/",
+            "description": "From Google intern at 18 to a billionaire at 25, Cursor CEO Michael Truell's rise is one of Silicon Valley's fastest.",
+            "pubDate": "2026-04-22T20:36:07",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2270265262-e1776885634438.jpg?w=2048"
         },
         {
-            "title": "Anthropic’s Department of War lawsuit is even higher-stakes amid the AI boom",
-            "link": "https://fortune.com/2026/03/10/anthropic-department-of-war-lawsuit-even-higher-stakes-amid-ai-boom/",
-            "description": "Anthropic suing the U.S. Department of War perhaps wasn’t a surprise, but it was nevertheless a shock.",
-            "pubDate": "2026-03-10T12:18:43",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2261589193_f101a6-e1772131796790.jpg?w=2048"
+            "title": "David’s Bridal exec has a warning for every CEO obsessed with AI’s return-on-investment",
+            "link": "https://fortune.com/2026/04/22/davids-bridal-elina-vilk-ai-return-on-investment-warning/",
+            "description": "David's Bridal CBO Elina Vilk says companies chasing a discrete AI return-on-investment are asking the wrong question—and missing the real opportunity...",
+            "pubDate": "2026-04-22T20:10:30",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2270149817-e1776884885202.jpg?w=2048"
         },
         {
-            "title": "The AI risk that few organizations are governing",
-            "link": "https://fortune.com/2026/03/10/ai-risk-agents-few-organizations/",
-            "description": "You know how many human users have access to your financial systems. Do you know how many AI agents do?",
-            "pubDate": "2026-03-10T11:00:00",
-            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/03/Raj-Sharma_Headshot_efe6d9-e1773094749653.jpg?w=2048"
+            "title": "Best Buy CEO Corie Barry is stepping down: How she went from architect of a comeback to cautionary tale",
+            "link": "https://fortune.com/2026/04/22/best-buy-ceo-corie-barry-turnaround-covid-retail/",
+            "description": "Shares are up only 6% since she was appointed in 2019, vastly underperforming the S&P 500.",
+            "pubDate": "2026-04-22T20:25:57",
+            "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/04/GettyImages-2241117576-e1776885817918.jpg?w=2048"
         },
         {
-            "title": "Existing-home sales on economic calendar after small-business-optimism retreat",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f62b0076-1ce0-4bbb-980a-e52c0243e768&mod=mw_rss_bulletins",
+            "title": "Iran attacks oil tankers in Strait of Hormuz, sending oil prices back above $100",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=11dc8ece-cded-485f-946c-99a9a297fd3e&mod=mw_rss_bulletins",
             "description": "",
-            "pubDate": "2026-03-10T12:36:05",
+            "pubDate": "2026-04-22T19:47:22",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "Futures point to extension of stock-market gains as oil slide continues",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=e10e2e8d-648b-4aa8-870f-cf035d9c51a1&mod=mw_rss_bulletins",
+            "title": "4 takeaways from Trump Fed pick Kevin Warsh’s confirmation hearing",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=ed14db34-4d2a-4908-be5b-386001cab04d&mod=mw_rss_bulletins",
             "description": "",
-            "pubDate": "2026-03-10T12:07:13",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "An already chaotic spring travel season is colliding with effects of Iran war",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=c064fd41-aac6-4ac0-8057-805227ae9c3e&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2026-03-10T01:57:57",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Trump announces sanctions relief to ease oil prices, says Iran war to end soon",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=aac90f17-06fe-448e-9b2f-2afc8b3414e3&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2026-03-09T23:49:40",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Big Tech stocks quietly gaining momentum — but don’t expect the bounce to last",
-            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=259f2217-b12e-4ff9-a857-b93603da4656&mod=mw_rss_bulletins",
-            "description": "",
-            "pubDate": "2026-03-09T22:34:16",
+            "pubDate": "2026-04-22T17:10:06",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Nasdaq on pace for record close in final hour as tech leads stocks higher — live",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=a18e94aa-dff9-4bcf-9585-b5df43b85d2f&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2026-04-22T20:06:21",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Flight cuts are spreading as fuel costs surge. Higher fares are likely coming.",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=029da95f-3b3b-4641-8b4e-d8720c0539c5&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2026-04-22T17:43:03",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Nasdaq, S&P 500 close at record highs as tech sector drives stock-market gains",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=8f865b14-65f5-4ab2-a240-19eefef63059&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2026-04-22T21:01:58",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         }
     ]
 }

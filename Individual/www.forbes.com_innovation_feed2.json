@@ -2,42 +2,42 @@
     "title": "Individual feed for https://www.forbes.com/innovation/feed2",
     "link": "https://www.forbes.com/innovation/feed2",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-10T07:57:19.048614",
+    "lastBuildDate": "2026-04-22T16:11:13.041308",
     "items": [
         {
-            "title": "Whoop Has A New Service For Women’s Health And Cycle Tracking",
-            "link": "https://www.forbes.com/sites/andrewwilliams/2026/03/10/whoop-has-a-new-service-for-womens-health-and-cycle-tracking/",
-            "description": "A new blood panel offered by Whoop analyzes 11 body stats to add insight on cycle regulation and a person's hormone levels. It's coming to U.S. Whoop ...",
-            "pubDate": "2026-03-10T12:04:15",
-            "image_url": "https://imageio.forbes.com/specials-images/imageserve/69afe13be9a0bf6085bd344e/0x0.jpg"
+            "title": "iOS 26.4.2: Apple Issues Unexpected iPhone Update To Block FBI Data Extraction Method",
+            "link": "https://www.forbes.com/sites/davidphelan/2026/04/22/ios-2642-apple-issues-unexpected-iphone-update-to-block-fbi-data-extraction-method/",
+            "description": "Apple has released a new iPhone update — that has taken many by surprise — to address a vulnerability that was recently exploited by the FBI.",
+            "pubDate": "2026-04-22T21:05:52",
+            "image_url": "https://imageio.forbes.com/specials-images/imageserve/69a89dd24b8a0538e24e9c45/0x0.jpg"
         },
         {
-            "title": "Is Europe Poised To Lead the Quantum Computing Race?",
-            "link": "https://www.forbes.com/sites/sabbirrangwala/2026/03/10/is-europe-poised-to-lead-the-quantum-computing-race/",
-            "description": "Europe's strengths across multiple dimensions have resulted in creating successful initiatives in quantum technologies. Will this translate into comme...",
-            "pubDate": "2026-03-10T12:00:57",
-            "image_url": "https://imageio.forbes.com/specials-images/imageserve/69af5da63700bdde2cfde484/0x0.jpg?width=960"
+            "title": "Google Splits Its AI Chip. Here’s Why It Matters For Enterprises.",
+            "link": "https://www.forbes.com/sites/maribellopez/2026/04/22/google-splits-its-ai-chip-heres-why-it-matters-for-enterprises/",
+            "description": "Google's 8th-gen TPUs split training and inference into two chips. Here's what it means for enterprise AI infrastructure strategy in 2026.",
+            "pubDate": "2026-04-22T20:53:10",
+            "image_url": "https://imageio.forbes.com/specials-images/imageserve/69e924bd968e359ee2d36937/0x0.jpg"
         },
         {
-            "title": "Air Force Acquires Mobile Units Making Fuel From Air And Electricity",
-            "link": "https://www.forbes.com/sites/davidhambling/2026/03/10/air-force-acquires-mobile-units-making-fuel-from-air-and-electricity/",
-            "description": "The U.S. Air Force is acquiring AIRCO's containerized system which can produce aviation fuel anywhere int he world, with the first unit to be delivere...",
-            "pubDate": "2026-03-10T12:00:00",
-            "image_url": "https://imageio.forbes.com/specials-images/imageserve/69aa9b83a8e42f7250745d83/0x0.jpg"
+            "title": "Sovereign AI: Why Owning The Full Stack Is The New Strategic Imperative",
+            "link": "https://www.forbes.com/sites/chuckbrooks/2026/04/22/sovereign-ai-why-owning-the-full-stack-is-the-new-strategic-imperative/",
+            "description": "The central question is no longer whether an organization will use AI. It is how much of that AI the organization will actually own.",
+            "pubDate": "2026-04-22T20:02:04",
+            "image_url": "https://imageio.forbes.com/specials-images/imageserve/69e91800205edf9f30627ec2/0x0.jpg"
         },
         {
-            "title": "Steam Frame VR Confirmed For 2026 Release Alongside Steam Machine",
-            "link": "https://www.forbes.com/sites/andrewwilliams/2026/03/10/steam-frame-vr-confirmed-for-2026-release-alongside-steam-machine/",
-            "description": "Despite skyrocketing RAM and storage prices, Steam has confirmed its plans to release the Steam Frame and Steam machine in 2026, although the pricing ...",
-            "pubDate": "2026-03-10T11:58:03",
-            "image_url": "https://imageio.forbes.com/specials-images/imageserve/69aff640f9bd7b0c0023edeb/0x0.jpg"
+            "title": "‘Pragmata’: A Parental Odyssey",
+            "link": "https://www.forbes.com/sites/mitchwallace/2026/04/22/pragmata-a-parental-odyssey/",
+            "description": "Capcom's brand new IP delivers on gameplay innovation and an emotional story.",
+            "pubDate": "2026-04-22T19:29:54",
+            "image_url": "https://imageio.forbes.com/specials-images/imageserve/69e907fe8c560f6461dc1361/0x0.jpg"
         },
         {
-            "title": "New Interactive Sky Formula 1 Features Let Viewers Take The Wheel",
-            "link": "https://www.forbes.com/sites/johnarcher/2026/03/10/new-interactive-sky-formula-1-features-let-viewers-take-the-wheel/",
-            "description": "New side-bar interface lets you access race replays, driver cams, background details, live in-race standings and more on your terms.",
-            "pubDate": "2026-03-10T11:07:13",
-            "image_url": "https://imageio.forbes.com/specials-images/imageserve/69afec1e2dbe288204356d98/0x0.png?width=960"
+            "title": "A Car Rental Stock Soared 700% In A Month. Is It A Meme Stock?",
+            "link": "https://www.forbes.com/sites/aliciapark/2026/04/22/a-car-rental-stock-is-up-700-in-one-month-is-it-a-meme-stock/",
+            "description": "Avis shares have skyrocketed in a matter of weeks, reminding investors of memestocks like GameStop.",
+            "pubDate": "2026-04-22T19:21:42",
+            "image_url": "https://imageio.forbes.com/specials-images/imageserve/69e91170c2516ee9f298ba25/0x0.jpg?width=960&precrop=5142%2C2893%2Cx0%2Cy265"
         }
     ]
 }

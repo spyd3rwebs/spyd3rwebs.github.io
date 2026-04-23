@@ -2,42 +2,42 @@
     "title": "Individual feed for https://feeds.feedburner.com/KevinMd-MedicalWeblog",
     "link": "https://feeds.feedburner.com/KevinMd-MedicalWeblog",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-10T07:59:36.285926",
+    "lastBuildDate": "2026-04-22T16:15:29.947013",
     "items": [
         {
-            "title": "Physician neutrality: a beacon of ethics in a divided world",
-            "link": "https://kevinmd.com/2026/03/physician-neutrality-a-beacon-of-ethics-in-a-divided-world.html",
-            "description": "I watched with horror, grief, and tears in my eyes as the events of the last week unfolded. We witnessed a catastrophic massacre of Iranians seeking n...",
-            "pubDate": "2026-03-09T22:00:42",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Pharmaceutical advertising dangers: Why drug ads hurt patients",
-            "link": "https://kevinmd.com/2026/03/pharmaceutical-advertising-dangers-why-drug-ads-hurt-patients.html",
-            "description": "One of the absolute worst ideas anyone in the government ever had was letting pharmaceutical companies advertise directly to the public. A public with...",
-            "pubDate": "2026-03-09T20:00:52",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "How to handle clinical disagreement with patients",
-            "link": "https://kevinmd.com/2026/03/how-to-handle-clinical-disagreement-with-patients.html",
-            "description": "One of the hardest moments in medicine is not making a diagnosis. It is not writing the prescription. It is sitting across from a patient who wants so...",
-            "pubDate": "2026-03-09T19:00:10",
+            "title": "The deadly reality of eclampsia and maternal mortality in Nigeria",
+            "link": "https://kevinmd.com/2026/04/the-deadly-reality-of-eclampsia-and-maternal-mortality-in-nigeria.html",
+            "description": "Eclampsia is one of the most severe complications of pregnancy. It occurs when a woman with preeclampsia, a condition characterized by dangerously hig...",
+            "pubDate": "2026-04-22T12:00:18",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "The economic shift from fee-for-service to direct primary care",
-            "link": "https://kevinmd.com/2026/03/the-economic-shift-from-fee-for-service-to-direct-primary-care.html",
-            "description": "According to the Primary Care Collaborative, primary care accounts for roughly 5 percent of health care spending, yet it influences nearly 90 percent ...",
-            "pubDate": "2026-03-09T18:00:31",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "title": "Why cervical cancer screening drops after menopause, and why that’s dangerous [PODCAST]",
+            "link": "https://kevinmd.com/2026/04/why-cervical-cancer-screening-drops-after-menopause-and-why-thats-dangerous-podcast.html",
+            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! What if the moment women stop seeing their gynecologist is exactly wh...",
+            "pubDate": "2026-04-22T00:00:52",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "The quiet paradox of physician mental health and medication",
-            "link": "https://kevinmd.com/2026/03/the-quiet-paradox-of-physician-mental-health-and-medication.html",
-            "description": "Physicians are trained, above all, to project steadiness. Long before we feel it, we learn to perform it. The lesson begins early in training. The pag...",
-            "pubDate": "2026-03-09T17:00:42",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "title": "How xenotransplantation could finally solve organ shortages",
+            "link": "https://kevinmd.com/2026/04/how-xenotransplantation-could-finally-solve-organ-shortages.html",
+            "description": "13 Americans will die today waiting for an organ transplant. That is a sobering line. Despite remarkable advances in transplantation medicine, the Uni...",
+            "pubDate": "2026-04-21T22:00:33",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "How medication-assisted treatment impacts oral health",
+            "link": "https://kevinmd.com/2026/04/how-medication-assisted-treatment-impacts-oral-health.html",
+            "description": "Medication-assisted treatment (MAT) helps manage withdrawal symptoms and cravings in individuals battling opioid addiction. Despite their effectivenes...",
+            "pubDate": "2026-04-21T20:00:31",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Physician-owned hospitals get a narrow CMS opening",
+            "link": "https://kevinmd.com/2026/04/physician-owned-hospitals-get-a-narrow-cms-opening.html",
+            "description": "You were told physician-owned hospitals were finished. That the 2010 legislation closing them out of Medicare was permanent. That if you wanted to own...",
+            "pubDate": "2026-04-21T18:00:09",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         }
     ]
 }

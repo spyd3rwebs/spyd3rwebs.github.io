@@ -2,14 +2,14 @@
     "title": "Individual feed for https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
     "link": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-03-10T07:57:27.715906",
+    "lastBuildDate": "2026-04-22T16:11:21.268883",
     "items": [
         {
             "title": "Jobless claims fall to lowest level since mid-May",
             "link": "https://www.marketwatch.com/story/jobless-claims-fall-to-lowest-level-since-mid-may-bda58e3b?mod=mw_rss_marketpulse",
             "description": "",
             "pubDate": "2025-07-03T13:36:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
             "title": "Jobless claims stay low in latest week",
@@ -23,21 +23,21 @@
             "link": "https://www.marketwatch.com/story/consumer-credit-growth-soars-in-december-d405d18e?mod=mw_rss_marketpulse",
             "description": "",
             "pubDate": "2025-02-07T20:26:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "U.S. productivity slows down in fourth quarter while unit labor costs accelerate",
             "link": "https://www.marketwatch.com/story/u-s-productivity-slows-down-in-fourth-quarter-while-unit-labor-costs-accelerate-3c2b9092?mod=mw_rss_marketpulse",
             "description": "",
             "pubDate": "2025-02-06T13:34:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
             "title": "Beyond to buy rights to Buy Buy Baby brand and reunite it with Bed Bath & Beyond",
             "link": "https://www.marketwatch.com/story/beyond-to-buy-rights-to-buy-buy-baby-brand-and-reunite-it-with-bed-bath-beyond-4383c6be?mod=mw_rss_marketpulse",
             "description": "",
             "pubDate": "2025-02-03T13:46:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         }
     ]
 }
