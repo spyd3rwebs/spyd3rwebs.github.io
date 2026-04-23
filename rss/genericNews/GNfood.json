@@ -2,70 +2,70 @@
     "title": "GNfood",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from GNfood, skipping any feeds with errors.",
-    "lastBuildDate": "2026-04-23T15:50:00.578959",
+    "lastBuildDate": "2026-04-23T16:22:35.610821",
     "items": [
         {
             "title": "Baked Sweet Hawaiian Chicken",
             "link": "https://therecipecritic.com/baked-sweet-hawaiian-chicken/",
             "description": "I’m updating my “Tuesday night dinner that feels like we’re in Hawaii” with double the sauce! You guys asked, so…",
             "pubDate": "2026-04-22T13:00:00",
-            "image_url": ""
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2026/04/hawaiian-chicken.jpg"
         },
         {
             "title": "No-Bake Strawberry Cream Pie",
             "link": "https://therecipecritic.com/no-bake-strawberry-cream-pie/",
             "description": "When it’s too hot to even think about turning on the oven, this no bake strawberry cream pie is exactly…",
             "pubDate": "2026-04-20T13:00:00",
-            "image_url": ""
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2026/04/no-bake-strawberry-pie-hero.jpg"
         },
         {
             "title": "Mexican Macaroni Salad",
             "link": "https://therecipecritic.com/mexican-macaroni-salad/",
             "description": "This Mexican macaroni salad is a fun twist on a classic! It’s creamy, tangy, and full of flavor with crisp…",
             "pubDate": "2026-04-19T13:00:00",
-            "image_url": ""
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2026/03/mexican-pasta-salad-4-1.jpg"
         },
         {
             "title": "Skirt Steak Marinade",
             "link": "https://therecipecritic.com/skirt-steak-marinade/",
             "description": "This Skirt Steak Marinade is the kind of marinade that makes you feel like you know what you’re doing with…",
             "pubDate": "2026-04-18T13:00:00",
-            "image_url": ""
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2021/06/skirtsteak2.jpg"
         },
         {
             "title": "Weekly Meal Plan #85",
             "link": "https://therecipecritic.com/weekly-meal-plan-85/",
             "description": "You know that moment when 5 pm hits and everyone’s suddenly starving, and you have no plan? Yeah… not this…",
             "pubDate": "2026-04-17T13:00:00",
-            "image_url": ""
+            "image_url": "https://therecipecritic.com/wp-content/uploads/2026/04/Week-85-Meal-Plan-Collage-.jpg"
         },
         {
             "title": "Strawberries & Cream Chia Pudding",
             "link": "https://minimalistbaker.com/strawberry-chia-pudding/",
             "description": "Friends, welcome to a land where you can float on strawberry dream clouds all day long. This chia pudding is next-level but still ultra simple ( 5 ing...",
             "pubDate": "2026-04-14T09:00:00",
-            "image_url": ""
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2025/06/Strawberry-Chia-Pudding-5-680x1020.jpg"
         },
         {
             "title": "Vegan Sweet Potato Chickpea Taco Salad",
             "link": "https://minimalistbaker.com/vegan-chickpea-taco-salad/",
             "description": "If you love our Sweet Potato Chickpea Tacos, get ready for another FAVE! Meet: the Vegan Sweet Potato Chickpea TACO SALAD! It’s got fresh kale + romai...",
             "pubDate": "2026-03-11T09:00:00",
-            "image_url": ""
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/05/Vegan-Sweet-Potato-Chickpea-Taco-Salad-7-680x1020.jpg"
         },
         {
             "title": "Cheesy Jalapeño Cashew Dressing",
             "link": "https://minimalistbaker.com/vegan-cashew-dressing/",
             "description": "Move over, Ranch, there’s a new creamy dressing in town that’s stealing our hearts! This cheesy jalapeño cashew dressing is our new go-to for salads, ...",
             "pubDate": "2026-03-10T09:00:00",
-            "image_url": ""
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/05/Vegan-Cashew-Jalapeno-Dressing-4-680x1020.jpg"
         },
         {
             "title": "Fudgy Chocolate Tahini Cookies (1 Bowl!)",
             "link": "https://minimalistbaker.com/chocolate-tahini-cookies/",
             "description": "While recently making our tahini cookies for what felt like the millionth time, we thought, Why not add chocolate to this party? The result was even b...",
             "pubDate": "2026-02-10T09:00:00",
-            "image_url": ""
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2025/06/Fudgy-Vegan-Chocolate-Tahini-Cookies-7-680x1020.jpg"
         }
     ]
 }

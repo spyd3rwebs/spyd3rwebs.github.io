@@ -1,0 +1,43 @@
+{
+    "title": "Individual feed for https://api.axios.com/feed/",
+    "link": "https://api.axios.com/feed/",
+    "description": "Individual feed output.",
+    "lastBuildDate": "2026-04-23T16:20:14.456192",
+    "items": [
+        {
+            "title": "Meta to lay off 8,000 as part of AI efficiency push",
+            "link": "https://www.axios.com/2026/04/23/meta-layoffs-ai-efficiency-push",
+            "description": "Meta told staff Thursday it plans to lay off roughly 8,000 people, or around 10% of the company, two sources confirmed to Axios. Why it matters: The c...",
+            "pubDate": "2026-04-23T20:54:02",
+            "image_url": "https://images.axios.com/237Pr5qwiY8aBzxkc1T07vBQdbg=/1366x768/smart/2025/05/28/231437-1748474077406.jpg"
+        },
+        {
+            "title": "Iran deploys more mines in the Strait of Hormuz, sources say",
+            "link": "https://www.axios.com/2026/04/23/iran-strait-hormuz-mines-trump",
+            "description": "Iran's Islamic Revolutionary Guard Corps (IRGC) navy laid more mines in the Strait of Hormuz this week, according to a U.S. official and a source with...",
+            "pubDate": "2026-04-23T20:26:50",
+            "image_url": "https://images.axios.com/U52DtpA80POEESbqRUMIRecJnk0=/0x0:7778x4375/1366x768/2026/04/23/1776970230851.jpeg"
+        },
+        {
+            "title": "U.S. accuses China of \"industrial-scale\" campaigns to steal AI secrets",
+            "link": "https://www.axios.com/2026/04/23/us-china-ai-theft-distillation",
+            "description": "The Trump administration on Thursday accused China-backed actors of running \"deliberate, industrial-scale campaigns\" to distill and copy American fron...",
+            "pubDate": "2026-04-23T17:17:46",
+            "image_url": "https://images.axios.com/wBqz2KvFISI94izUns7uP4A987g=/0x0:1920x1080/1920x1080/2018/07/20/1532048602763.gif"
+        },
+        {
+            "title": "U.S. sailor en route to Strait of Hormuz sidelined by monkey attack",
+            "link": "https://www.axios.com/2026/04/23/us-sailor-monkey-attack-iran",
+            "description": "A U.S. Navy sailor assigned to a minesweeping ship that's headed to the Strait of Hormuz was medically evacuated to his home port after he was scratch...",
+            "pubDate": "2026-04-23T17:08:01",
+            "image_url": "https://images.axios.com/f2EZ2JZFm7jOV8_1CxIrhOY5inI=/0x0:6000x3375/1366x768/2026/04/23/1776954539608.jpg"
+        },
+        {
+            "title": "Scoop: Trump reclassifies medical marijuana",
+            "link": "https://www.axios.com/2026/04/22/trump-marijuana-rule-change",
+            "description": "President Trump's acting attorney general ordered the immediate reclassification of FDA-approved and state-licensed marijuana as a less dangerous drug...",
+            "pubDate": "2026-04-23T13:54:16",
+            "image_url": "https://images.axios.com/Xhn68rZt11pdPNgrzUJpv0RQCF4=/0x412:4000x2662/1366x768/2026/04/22/1776872117793.jpg"
+        }
+    ]
+}

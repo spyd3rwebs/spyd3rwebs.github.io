@@ -1,0 +1,43 @@
+{
+    "title": "Individual feed for https://khn.org/feed",
+    "link": "https://khn.org/feed",
+    "description": "Individual feed output.",
+    "lastBuildDate": "2026-04-23T16:24:41.481661",
+    "items": [
+        {
+            "title": "Watch: Acknowledging Health Care’s Great Divide",
+            "link": "https://kffhealthnews.org/health-industry/health-care-policy-political-divide-david-blumenthal-interview/",
+            "description": "As part of her \"How Would You Fix It?\" series, podcast host Julie Rovner chats with health policy expert David Blumenthal about how politics can gum u...",
+            "pubDate": "2026-04-23T20:00:58",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Watch: Acknowledging Health Care’s Great Divide",
+            "link": "https://kffhealthnews.org/health-industry/health-care-policy-political-divide-david-blumenthal-interview/",
+            "description": "As part of her \"How Would You Fix It?\" series, podcast host Julie Rovner chats with health policy expert David Blumenthal about how politics can gum u...",
+            "pubDate": "2026-04-23T20:00:58",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Food Stamp Work Rules Don’t Increase Employment, Researchers Say",
+            "link": "https://kffhealthnews.org/medicaid/food-stamps-snap-work-requirements-hunger-west-virginia-foodbanks/",
+            "description": "Work requirements will encourage people who are able to work to seek and maintain jobs, proponents say. But researchers haven’t found that they lower ...",
+            "pubDate": "2026-04-23T10:00:00",
+            "image_url": "https://kffhealthnews.org/wp-content/uploads/sites/8/2026/04/SNAP_01.jpg?w=1270"
+        },
+        {
+            "title": "Medigap Premiums Leap, and Consumers Have Few Alternatives",
+            "link": "https://kffhealthnews.org/medicare/medigap-medicare-advantage-premiums-rate-increase-few-alternatives/",
+            "description": "Millions of people rely on the supplemental insurance to offset the deductibles, copayments, and other costs faced by enrollees in the traditional Med...",
+            "pubDate": "2026-04-23T10:00:00",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Food Stamp Work Rules Don’t Increase Employment, Researchers Say",
+            "link": "https://kffhealthnews.org/medicaid/food-stamps-snap-work-requirements-hunger-west-virginia-foodbanks/",
+            "description": "Work requirements will encourage people who are able to work to seek and maintain jobs, proponents say. But researchers haven’t found that they lower ...",
+            "pubDate": "2026-04-23T10:00:00",
+            "image_url": "https://kffhealthnews.org/wp-content/uploads/sites/8/2026/04/SNAP_01.jpg?w=1270"
+        }
+    ]
+}

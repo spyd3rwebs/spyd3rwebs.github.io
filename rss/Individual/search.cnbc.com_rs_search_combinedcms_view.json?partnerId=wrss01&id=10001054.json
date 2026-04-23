@@ -1,0 +1,43 @@
+{
+    "title": "Individual feed for https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10001054",
+    "link": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10001054",
+    "description": "Individual feed output.",
+    "lastBuildDate": "2026-04-23T16:22:29.970803",
+    "items": [
+        {
+            "title": "What $1 million buys you in real estate around the world",
+            "link": "https://www.cnbc.com/2026/04/23/luxury-real-estate.html",
+            "description": "Luxury real estate in most major markets around the world continues to become more expensive, as the wealthy grow wealthier and more mobile.",
+            "pubDate": "2026-04-23T19:52:40",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "LVMH CEO Arnault warns of 'world catastrophe' if Middle East conflict is not resolved",
+            "link": "https://www.cnbc.com/2026/04/23/lvmh-ceo-arnault-iran-war-middle-east-stock-luxury.html",
+            "description": "Arnault warned of \"very serious\" economic consequences of the Iran war after the conflict hit the luxury conglomerates first-quarter sales last week.",
+            "pubDate": "2026-04-23T13:20:31",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Moncler shares struggle despite defying luxury's Middle East slump",
+            "link": "https://www.cnbc.com/2026/04/22/moncler-stock-q1-earnings-monc-luxury-iran-war-lvmh-kering-hermes.html",
+            "description": "Moncler earnings 'smashes' expectations following a series of underwhelming reports from European luxury players last week.",
+            "pubDate": "2026-04-23T06:36:22",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "NYC property tax controversy: Here's what to know",
+            "link": "https://www.cnbc.com/video/2026/04/22/nyc-property-tax-controversy-heres-what-to-know.html",
+            "description": "CNBC's Robert Frank joins 'Squawk Box' to discuss the latest attempt in New York to boost tax revenue.",
+            "pubDate": "2026-04-22T12:42:59",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Kering looks to double profits as it unveils ambitious turnaround plan to revive Gucci",
+            "link": "https://www.cnbc.com/2026/04/16/kering-stock-ker-gucci-cmd-turnaround-profit-strategy.html",
+            "description": "The \"ReconKering\" strategy announced Thursday includes more than doubling its 2025 recurring operating margin of 11.1%.",
+            "pubDate": "2026-04-16T13:30:18",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture2.png"
+        }
+    ]
+}

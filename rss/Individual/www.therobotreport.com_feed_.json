@@ -1,0 +1,43 @@
+{
+    "title": "Individual feed for https://www.therobotreport.com/feed/",
+    "link": "https://www.therobotreport.com/feed/",
+    "description": "Individual feed output.",
+    "lastBuildDate": "2026-04-23T16:22:44.128582",
+    "items": [
+        {
+            "title": "GM’s Mikell Taylor to lead Women in Robotics Breakfast at the Robotics Summit",
+            "link": "https://www.therobotreport.com/gms-mikell-taylor-lead-women-in-robotics-breakfast-2026-robotics-summit/",
+            "description": "Mikell Taylor has spent 25 years making robots, from a robotic prom date to uncrewed underwater vehicles and industrial robotic systems. The post GM’s...",
+            "pubDate": "2026-04-23T21:05:40",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/03/mlt_headshot_jan26-copy.jpg"
+        },
+        {
+            "title": "Pudu Robotics raises nearly $150M as it targets industrial applications",
+            "link": "https://www.therobotreport.com/pudu-robotics-raises-nearly-150m-targets-industrial-applications/",
+            "description": "Pudu plans to use the funding to develop its embodied AI, grow its product portfolio, and expand in global markets beyond service robots. The post Pud...",
+            "pubDate": "2026-04-23T20:20:48",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/04/pudurobotics-featured.jpg"
+        },
+        {
+            "title": "End of an era: Honeywell hands warehouse automation reins to AIP",
+            "link": "https://www.therobotreport.com/end-of-an-era-honeywell-hands-warehouse-automation-reins-to-aip/",
+            "description": "Honeywell to sell its Intelligrated and Transnorm warehouse automation brands to American Industrial Partners by late 2026. The post End of an era: Ho...",
+            "pubDate": "2026-04-23T17:28:29",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/04/honeywell-intelligrated-robot-featured.jpg"
+        },
+        {
+            "title": "Reliable Robotics raises funding for fully automated aircraft",
+            "link": "https://www.therobotreport.com/reliable-robotics-raises-funding-fully-automated-aircraft/",
+            "description": "Reliable Robotics has raised $160 million as it continues to develop and work toward FAA certification for its Reliable Autonomy System for civilian a...",
+            "pubDate": "2026-04-23T13:58:58",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/04/Reliable_Robotics_funding.jpg"
+        },
+        {
+            "title": "From EVs to robotics: Tesla targets 10M Optimus units with new Texas plant",
+            "link": "https://www.therobotreport.com/from-evs-to-robotics-tesla-targets-10m-optimus-units-with-new-texas-plant/",
+            "description": "Tesla begins Optimus production in Q2 2026, replacing Fremont’s legacy car lines, breaking ground in Texas as it scales toward a robotics-first future...",
+            "pubDate": "2026-04-22T22:49:12",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/04/tesla-optimus-site-texas.jpg"
+        }
+    ]
+}

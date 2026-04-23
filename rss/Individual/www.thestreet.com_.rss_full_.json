@@ -1,0 +1,43 @@
+{
+    "title": "Individual feed for https://www.thestreet.com/.rss/full/",
+    "link": "https://www.thestreet.com/.rss/full/",
+    "description": "Individual feed output.",
+    "lastBuildDate": "2026-04-23T16:22:29.977013",
+    "items": [
+        {
+            "title": "The troubling silver supply problem most investors are missing",
+            "link": "https://www.thestreet.com/investing/the-troubling-silver-supply-problem-most-investors-are-missing",
+            "description": "On a quick look at the price chart, silver seems like standard volatility. Recently, spot prices have hovered around the high‑$70s to $80 per ounce, w...",
+            "pubDate": "2026-04-23T21:17:00",
+            "image_url": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAyOTUxMzg4/silver-bullion-bars-9999-fine-background-3d-rendering-isolated-on-white-background-stockpack-gettyimages.jpg?io=1&profile=rss"
+        },
+        {
+            "title": "American Express CEO says cardholders aren't affected by Iran War — its stock still fell for this specific reason",
+            "link": "https://www.thestreet.com/investing/stocks/american-express-ceo-says-cardholders-arent-affected-by-iran-war-are-resilient-its-stock-still-fell-for-this-specific-reason",
+            "description": "Investors might be worried about a return of high inflation amid a conflict in the Middle East, but American Express says there's no signs of slowdown...",
+            "pubDate": "2026-04-23T21:03:22",
+            "image_url": "https://www.thestreet.com/.image/MjE3ODM4MTQzMDY2MzUxMjA2/american-express-platinum-card-lead-rd-091825.jpg?io=1&profile=rss"
+        },
+        {
+            "title": "Walmart's UV-resistant patio umbrella only costs $24",
+            "link": "https://www.thestreet.com/deals/ainfox-7-foot-patio-umbrella-walmart-flash-deal",
+            "description": "It features a 7.5-foot canopy and has over 2,400 perfect ratings.",
+            "pubDate": "2026-04-23T21:03:00",
+            "image_url": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAyNzk5OTMw/walmart-logo.jpg?io=1&profile=rss"
+        },
+        {
+            "title": "Fidelity spotlights options-based ETF for protection",
+            "link": "https://www.thestreet.com/investing/fidelity-spotlights-options-based-etf-for-protection",
+            "description": "Market swings this year have tested portfolios that once looked untouchable, leaving everyday investors searching for ways to protect gains without ex...",
+            "pubDate": "2026-04-23T21:00:00",
+            "image_url": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAyOTQ5Mzkz/a-group-of-investors-brainstorming.jpg?io=1&profile=rss"
+        },
+        {
+            "title": "Walmart and Target face new self-checkout retail theft problems",
+            "link": "https://www.thestreet.com/retail/walmart-and-target-face-new-self-checkout-retail-theft-problems",
+            "description": "Self-checkout takes work once done by retail employees and makes consumers do it. That's something many retail chains try to sell as a positive, rathe...",
+            "pubDate": "2026-04-23T20:33:00",
+            "image_url": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAyOTUxNTk0/self_checkout_retail_cp_042326.jpg?io=1&profile=rss"
+        }
+    ]
+}

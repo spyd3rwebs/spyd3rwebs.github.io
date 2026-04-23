@@ -1,0 +1,43 @@
+{
+    "title": "Individual feed for https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000113",
+    "link": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000113",
+    "description": "Individual feed output.",
+    "lastBuildDate": "2026-04-23T16:25:03.650917",
+    "items": [
+        {
+            "title": "Kevin Warsh hearing takeaways: Trump Fed chair nominee defends finances, says president never demanded rate cuts",
+            "link": "https://www.cnbc.com/2026/04/21/kevin-warsh-fed-confirmation-hearing-trump-live-updates.html",
+            "description": "Fed chair nominee Kevin Warsh's confirmation hearing before the Senate Banking Committee will bring questions about interest rates and his personal we...",
+            "pubDate": "2026-04-23T21:16:25",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "DOJ watchdog investigating handling of Jeffrey Epstein files",
+            "link": "https://www.cnbc.com/2026/04/23/epstein-files-doj-audit.html",
+            "description": "Congress passed the Jeffrey Epstein files law in November after then-Attorney General Pam Bondi reneged on a promise to release the DOJ's investigator...",
+            "pubDate": "2026-04-23T20:02:17",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "White House warns of 'industrial-scale' efforts in China to rip off U.S. AI tech",
+            "link": "https://www.cnbc.com/2026/04/23/trump-china-ai-technology.html",
+            "description": "The U.S. government has previously accused China of targeting American AI technology and intellectual property.",
+            "pubDate": "2026-04-23T19:10:21",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Trump orders Navy to 'shoot and kill any boat' laying mines in Hormuz Strait",
+            "link": "https://www.cnbc.com/2026/04/23/trump-hormuz-strait-iran-war.html",
+            "description": "Trump's post shows the U.S. ratcheting up tensions with Iran over the strait, which has been largely choked off to oil tanker traffic since the war be...",
+            "pubDate": "2026-04-23T16:45:14",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Trump's lack of focus on economy is spooking Republicans as 2026 election looms",
+            "link": "https://www.cnbc.com/2026/04/23/trump-economy-2026-election-republicans-democrats.html",
+            "description": "President Donald Trump has been posting a lot on social media about his White House ballroom, the Iran war, and Pope Leo XIV. Not much about rising ga...",
+            "pubDate": "2026-04-23T12:13:24",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture7.png"
+        }
+    ]
+}

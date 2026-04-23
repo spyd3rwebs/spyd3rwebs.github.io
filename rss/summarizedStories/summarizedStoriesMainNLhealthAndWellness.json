@@ -2,147 +2,168 @@
     "title": "summarizedStoriesMainNLhealthAndWellness",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from summarizedStoriesMainNLhealthAndWellness, skipping any feeds with errors.",
-    "lastBuildDate": "2026-04-23T15:47:21.857274",
+    "lastBuildDate": "2026-04-23T16:19:58.163465",
     "items": [
         {
-            "title": "New targeted therapy shows promise against aggressive childhood and adult cancers",
-            "link": "https://medicalxpress.com/news/2026-04-therapy-aggressive-childhood-adult-cancers.html",
-            "description": "Researchers at the University of British Columbia Faculty of Medicine have developed a new targeted cancer therapy that can precisely seek out and des...",
-            "pubDate": "2026-04-23T20:20:01",
-            "image_url": ""
+            "title": "What Happens to Your Body When You Drink Enough Water",
+            "link": "https://www.webmd.com/a-to-z-guides/ss/slideshow-drink-enough-water",
+            "description": "",
+            "pubDate": "2026-04-23T16:04:58",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/other/man_drinking_bottle_of_water_in_summer_heat_other/1800x1200_man_drinking_bottle_of_water_in_summer_heat_other.jpg?resize=484px:*&output-quality=70"
         },
         {
             "title": "Small-bites fascial closure reduces long-term risk of incisional hernia after midline laparotomy",
             "link": "https://www.2minutemedicine.com/small-bites-fascial-closure-reduces-long-term-risk-of-incisional-hernia-after-midline-laparotomy/",
             "description": "1. The small-bites fascial closure technique reduced the long-term incidence of incisional hernias compared to the traditional large-bites technique a...",
             "pubDate": "2026-04-23T14:30:40",
-            "image_url": ""
-        },
-        {
-            "title": "One-Month Limit Imposed on Ramipril 1.25-mg Supplies",
-            "link": "https://www.medscape.com/viewarticle/one-month-limit-imposed-ramipril-1-25mg-supplies-2026a1000cyi?src=rss",
-            "description": "New shortage protocol allows UK pharmacists to restrict dispensing as supply pressures hit a drug used by millions. Medscape News UK",
-            "pubDate": "2026-04-23T19:30:30",
-            "image_url": ""
-        },
-        {
-            "title": "Gradually, then suddenly: Dr. Robert Wachter on health care’s giant AI leap [PODCAST]",
-            "link": "https://kevinmd.com/2026/04/gradually-then-suddenly-dr-robert-wachter-on-health-cares-giant-ai-leap-podcast.html",
-            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! What if the biggest problem with electronic health records was not th...",
-            "pubDate": "2026-04-23T00:00:28",
-            "image_url": ""
-        },
-        {
-            "title": "Human cell model recreates Alzheimer's-linked tau pathology and synapse loss",
-            "link": "https://medicalxpress.com/news/2026-04-human-cell-recreates-alzheimer-linked.html",
-            "description": "Researchers at LMU have developed a human cell model that replicates key mechanisms of neurodegenerative diseases—with potential for novel therapies. ...",
-            "pubDate": "2026-04-23T20:40:05",
-            "image_url": ""
-        },
-        {
-            "title": "Challenges of Placebo Arms in Weight-Loss Drug Trials",
-            "link": "https://www.medscape.com/viewarticle/challenges-placebo-arms-weight-loss-drug-trials-2026a1000cy7?src=rss",
-            "description": "Drugmakers continue to test weight-loss medicines against dummy pills and shots, even with a growing number of effective approved obesity drugs. This ...",
-            "pubDate": "2026-04-23T18:27:56",
-            "image_url": ""
-        },
-        {
-            "title": "What Happens to Your Body When You Drink Enough Water",
-            "link": "https://www.webmd.com/a-to-z-guides/ss/slideshow-drink-enough-water",
-            "description": "",
-            "pubDate": "2026-04-23T16:04:58",
-            "image_url": ""
-        },
-        {
-            "title": "Most Americans worried about brain health, but few know how to protect it",
-            "link": "https://medicalxpress.com/news/2026-04-americans-brain-health.html",
-            "description": "Nearly all Americans are worried about their brain health as they age, ranking as important or more so than their physical health, a new Alzheimer's A...",
-            "pubDate": "2026-04-23T20:40:01",
-            "image_url": ""
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/09/Suture_of_cesarean_edited-300x150.jpg"
         },
         {
             "title": "TikTok “Fibermaxxing” trend targets gut microbiome health",
             "link": "https://www.2minutemedicine.com/tiktok-fibermaxxing-trend-targets-gut-microbiome-health/",
             "description": "1. The viral “Fibermaxxing” trend prioritizes high-volume whole-food fiber intake to optimize gut microbiome diversity and improve metabolic satiety. ...",
             "pubDate": "2026-04-23T14:00:59",
-            "image_url": ""
-        },
-        {
-            "title": "How to treat chronic pain and depression together",
-            "link": "https://kevinmd.com/2026/04/how-to-treat-chronic-pain-and-depression-together.html",
-            "description": "As a physician who has spent years managing patients with persistent pain, I often encounter the same frustrating cycle. A patient arrives with unrele...",
-            "pubDate": "2026-04-23T18:00:51",
-            "image_url": ""
-        },
-        {
-            "title": "Why early detection technology and precision medicine are failing patients",
-            "link": "https://kevinmd.com/2026/04/why-early-detection-technology-and-precision-medicine-are-failing-patients.html",
-            "description": "The tools to detect serious disease years before symptoms appear already exist. What we are waiting on is a health care system structured to use them....",
-            "pubDate": "2026-04-23T12:00:58",
-            "image_url": ""
-        },
-        {
-            "title": "Transforming sepsis care with rapid host response diagnostics",
-            "link": "https://kevinmd.com/2026/04/transforming-sepsis-care-with-rapid-host-response-diagnostics.html",
-            "description": "In busy emergency departments, sepsis is often discussed as something we “cannot miss” rather than a diagnosis we can confidently make. Patients may a...",
-            "pubDate": "2026-04-23T16:00:24",
-            "image_url": ""
-        },
-        {
-            "title": "Long-acting HIV shots appeal to many but uptake remains low",
-            "link": "https://medicalxpress.com/news/2026-04-hiv-shots-appeal-uptake.html",
-            "description": "When it comes to HIV medication, many patients think they'd prefer an occasional injection over a daily pill, but uptake remains an issue, according t...",
-            "pubDate": "2026-04-23T20:00:10",
-            "image_url": ""
-        },
-        {
-            "title": "UK Biobank Members' Health Data Found for Sale on Alibaba",
-            "link": "https://www.medscape.com/s/viewarticle/uk-biobank-members-health-data-found-sale-alibaba-2026a1000cyu?src=rss",
-            "description": "The UK government confirmed the breach after Biobank data on all 500,000 members appeared listed for sale, though names and addresses were not include...",
-            "pubDate": "2026-04-23T20:21:25",
-            "image_url": ""
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2019/04/food-300x150.jpg"
         },
         {
             "title": "8 Ways to Get the Protein You Need",
             "link": "https://www.webmd.com/healthy-aging/ss/slideshow-how-to-get-protein",
             "description": "",
             "pubDate": "2026-04-23T16:04:58",
-            "image_url": ""
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/foods-to-eat-lung-cancer-slideshow/1800ss-getty-rf-lean-protein.jpg?resize=484px:*&output-quality=70"
         },
         {
             "title": "Increased childhood intake of ultra-processed foods is associated with a higher body mass index in young adulthood",
             "link": "https://www.2minutemedicine.com/increased-childhood-intake-of-ultra-processed-foods-is-associated-with-a-higher-body-mass-index-in-young-adulthood/",
             "description": "1. Greater childhood intake of ultra-processed foods was associated with higher body mass index in young adulthood. 2. The association was most eviden...",
             "pubDate": "2026-04-23T00:00:24",
-            "image_url": ""
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2014/03/family_eating_fast_food-300x150.jpg"
         },
         {
-            "title": "Lonapegsomatropin Shows Long-Term Benefit in Adult GHD",
-            "link": "https://www.medscape.com/viewarticle/lonapegsomatropin-shows-long-term-benefit-adult-ghd-2026a1000cyp?src=rss",
-            "description": "A 52-week extension study showed that the drug continues to maintain favorable body composition with no safety issues. Medscape Medical News",
-            "pubDate": "2026-04-23T19:58:37",
-            "image_url": ""
+            "title": "Meghan Trainor on Building Confidence and Healthy Habits",
+            "link": "https://www.webmd.com/fitness-exercise/features/meghan-trainor-love-who-you-are",
+            "description": "Meghan shares how she’s tuning out criticism, prioritizing her health, and building habits that help her feel stronger than ever.",
+            "pubDate": "2026-04-23T16:04:58",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/1800x1200-Meghan-Trainor.jpg?resize=484px:*&output-quality=70"
         },
         {
-            "title": "Colorectal Cancer Predicted to Keep Rising in Younger Adults",
-            "link": "https://www.medscape.com/viewarticle/colorectal-cancer-predicted-keep-rising-younger-adults-2026a1000cy5?src=rss",
-            "description": "Researchers say the rise in colorectal cancer among Americans younger than 45 is likely to keep accelerating over the next decade. Medscape Medical Ne...",
-            "pubDate": "2026-04-23T18:01:20",
-            "image_url": ""
+            "title": "Human cell model recreates Alzheimer's-linked tau pathology and synapse loss",
+            "link": "https://medicalxpress.com/news/2026-04-human-cell-recreates-alzheimer-linked.html",
+            "description": "Researchers at LMU have developed a human cell model that replicates key mechanisms of neurodegenerative diseases—with potential for novel therapies. ...",
+            "pubDate": "2026-04-23T20:40:05",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "A global fertility reversal is unfolding, and it could upend who becomes parent in decades ahead",
-            "link": "https://medicalxpress.com/news/2026-04-global-fertility-reversal-unfolding-upend.html",
-            "description": "With few exceptions, birth rates are falling worldwide. What does this mean? Put simply, the fertility rate describes the average number of children a...",
-            "pubDate": "2026-04-23T20:20:07",
-            "image_url": ""
+            "title": "Challenges of Placebo Arms in Weight-Loss Drug Trials",
+            "link": "https://www.medscape.com/viewarticle/challenges-placebo-arms-weight-loss-drug-trials-2026a1000cy7?src=rss",
+            "description": "Drugmakers continue to test weight-loss medicines against dummy pills and shots, even with a growing number of effective approved obesity drugs. This ...",
+            "pubDate": "2026-04-23T18:27:56",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "DMR Slows Post-Tirzepatide Weight Regain",
+            "link": "https://www.medscape.com/viewarticle/duodenal-mucosal-resurfacing-slows-post-tirzepatide-weight-2026a1000cz4?src=rss",
+            "description": "Early results from a pilot study show the minimally invasive endoscopic intervention reduces the weight gain that occurs following discontinuation of ...",
+            "pubDate": "2026-04-23T20:58:16",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "One-Month Limit Imposed on Ramipril 1.25-mg Supplies",
+            "link": "https://www.medscape.com/viewarticle/one-month-limit-imposed-ramipril-1-25mg-supplies-2026a1000cyi?src=rss",
+            "description": "New shortage protocol allows UK pharmacists to restrict dispensing as supply pressures hit a drug used by millions. Medscape News UK",
+            "pubDate": "2026-04-23T19:30:30",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "How to treat chronic pain and depression together",
+            "link": "https://kevinmd.com/2026/04/how-to-treat-chronic-pain-and-depression-together.html",
+            "description": "As a physician who has spent years managing patients with persistent pain, I often encounter the same frustrating cycle. A patient arrives with unrele...",
+            "pubDate": "2026-04-23T18:00:51",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Why early detection technology and precision medicine are failing patients",
+            "link": "https://kevinmd.com/2026/04/why-early-detection-technology-and-precision-medicine-are-failing-patients.html",
+            "description": "The tools to detect serious disease years before symptoms appear already exist. What we are waiting on is a health care system structured to use them....",
+            "pubDate": "2026-04-23T12:00:58",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Most Americans worried about brain health, but few know how to protect it",
+            "link": "https://medicalxpress.com/news/2026-04-americans-brain-health.html",
+            "description": "Nearly all Americans are worried about their brain health as they age, ranking as important or more so than their physical health, a new Alzheimer's A...",
+            "pubDate": "2026-04-23T20:40:01",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "How research laboratory culture shapes mentorship in academic life",
             "link": "https://kevinmd.com/2026/04/how-research-laboratory-culture-shapes-mentorship-in-academic-life.html",
             "description": "Every research mentor eventually faces a difficult question: What, and who, will continue when the work is no longer theirs to carry forward? We often...",
             "pubDate": "2026-04-23T14:00:26",
-            "image_url": ""
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "UK Biobank Members' Health Data Found for Sale on Alibaba",
+            "link": "https://www.medscape.com/s/viewarticle/uk-biobank-members-health-data-found-sale-alibaba-2026a1000cyu?src=rss",
+            "description": "The UK government confirmed the breach after Biobank data on all 500,000 members appeared listed for sale, though names and addresses were not include...",
+            "pubDate": "2026-04-23T20:21:25",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Dopamine deficiency found to drive memory impairment in Alzheimer's disease",
+            "link": "https://medicalxpress.com/news/2026-04-dopamine-deficiency-memory-impairment-alzheimer.html",
+            "description": "Why do memories fade in Alzheimer's disease—and can they be restored? University of California, Irvine researchers have uncovered a key mechanism unde...",
+            "pubDate": "2026-04-23T21:10:01",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Lonapegsomatropin Shows Long-Term Benefit in Adult GHD",
+            "link": "https://www.medscape.com/viewarticle/lonapegsomatropin-shows-long-term-benefit-adult-ghd-2026a1000cyp?src=rss",
+            "description": "A 52-week extension study showed that the drug continues to maintain favorable body composition with no safety issues. Medscape Medical News",
+            "pubDate": "2026-04-23T19:58:37",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Gradually, then suddenly: Dr. Robert Wachter on health care’s giant AI leap [PODCAST]",
+            "link": "https://kevinmd.com/2026/04/gradually-then-suddenly-dr-robert-wachter-on-health-cares-giant-ai-leap-podcast.html",
+            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! What if the biggest problem with electronic health records was not th...",
+            "pubDate": "2026-04-23T00:00:28",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Genetic test forecasts chemo response in breast cancer",
+            "link": "https://medicalxpress.com/news/2026-04-genetic-chemo-response-breast-cancer.html",
+            "description": "A new study from Karolinska Institutet shows that gene analysis of breast cancer tumors can identify patients who do not benefit from chemotherapy giv...",
+            "pubDate": "2026-04-23T21:00:06",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Faulty tRNA 'translators' accumulate with age and may scramble protein building",
+            "link": "https://medicalxpress.com/news/2026-04-faulty-trna-accumulate-age-scramble.html",
+            "description": "Cells manufacture proteins by following instructions encoded in messenger RNA, which is read in three-letter groups called codons. To translate this m...",
+            "pubDate": "2026-04-23T21:00:04",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Transforming sepsis care with rapid host response diagnostics",
+            "link": "https://kevinmd.com/2026/04/transforming-sepsis-care-with-rapid-host-response-diagnostics.html",
+            "description": "In busy emergency departments, sepsis is often discussed as something we “cannot miss” rather than a diagnosis we can confidently make. Patients may a...",
+            "pubDate": "2026-04-23T16:00:24",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "The Scan by 2 Minute Medicine®: TikTok “Fibermaxxing” trend targets gut microbiome diversity, Jennifer Aniston’s “Strength for 50+” ritual spotlights photobiomodulation, American Lung Association issues respiratory warning over viral “mouth taping” fad, and Psychiatric Times highlights initiative to close the schizophrenia mortality gap",
+            "link": "https://www.2minutemedicine.com/the-scan-by-2-minute-medicine-tiktok-fibermaxxing-trend-targets-gut-microbiome-diversity-jennifer-anistons-strength-for-50-ritual-spotlights-photobiomodulation-american-lung/",
+            "description": "The Scan by 2 Minute Medicine® is a pharmaceutical and biotech newsletter and exclusive benefit for 2 Minute Medicine Plus subscribers. TikTok “Fiberm...",
+            "pubDate": "2026-04-22T17:43:18",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2022/09/the-scan_logo_2022-09-06-2-e1662468176454-300x150.png"
+        },
+        {
+            "title": "Pelvic floor muscle training may reduce postpartum stress urinary incontinence",
+            "link": "https://www.2minutemedicine.com/pelvic-floor-muscle-training-may-reduce-postpartum-stress-urinary-incontinence/",
+            "description": "1. Pelvic floor workout reduced the incidence of stress urinary incontinence at 6 weeks postpartum. Evidence Rating Level: 1 (Excellent) Study Rundown...",
+            "pubDate": "2026-04-22T16:00:53",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2018/06/freestocks-org-71789-unsplash-300x150.jpg"
         }
     ]
 }

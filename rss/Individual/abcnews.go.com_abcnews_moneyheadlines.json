@@ -1,0 +1,43 @@
+{
+    "title": "Individual feed for https://abcnews.go.com/abcnews/moneyheadlines",
+    "link": "https://abcnews.go.com/abcnews/moneyheadlines",
+    "description": "Individual feed output.",
+    "lastBuildDate": "2026-04-23T16:22:29.971232",
+    "items": [
+        {
+            "title": "Kellogg is putting toys back into some cereal boxes as a 'Toy Story 5' tie-in",
+            "link": "https://abcnews.com/Business/wireStory/kellogg-putting-toys-back-cereal-boxes-toy-story-132324723",
+            "description": "If you’ve missed rooting around in your cereal box for a toy, you’re in luck",
+            "pubDate": "2026-04-23T20:30:49",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Average US long-term mortgage rate slips to 6.23%, its third weekly drop",
+            "link": "https://abcnews.com/Business/wireStory/average-us-long-term-mortgage-rate-slips-623-132319335",
+            "description": "The average long-term U.S. mortgage rate dropped for the third week in a row, easing borrowing costs for prospective homebuyers as the spring homebuyi...",
+            "pubDate": "2026-04-23T17:17:26",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "UK and French governments sign a 3-year deal to curb migrant crossings in English Channel",
+            "link": "https://abcnews.com/Business/wireStory/uk-french-governments-sign-3-year-deal-curb-132318803",
+            "description": "The U.K. and French governments have signed a new multimillion-euro deal to reduce migrant crossings in the English Channel",
+            "pubDate": "2026-04-23T16:57:15",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Union Pacific profit climbed 5% as it builds the case for its acquisition of rival Norfolk Southern",
+            "link": "https://abcnews.com/Business/wireStory/union-pacific-profit-climbed-5-builds-case-acquisition-132310434",
+            "description": "Union Pacific delivered 5% higher earnings in the first quarter as the railroad worked to prepare its case to convince regulators that its $85 billion...",
+            "pubDate": "2026-04-23T16:25:41",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Warner Bros shareholders approve Paramount's $81B takeover of the Hollywood giant",
+            "link": "https://abcnews.com/Business/wireStory/warner-bros-shareholders-vote-paramounts-81-billion-takeover-132298964",
+            "description": "An $81 billion Warner-Paramount mega merger has received shareholders’ stamp of approval, propelling a deal that could vastly reshape Hollywood and th...",
+            "pubDate": "2026-04-23T15:36:30",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture9.png"
+        }
+    ]
+}

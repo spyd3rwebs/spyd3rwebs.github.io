@@ -1,0 +1,43 @@
+{
+    "title": "Individual feed for https://www.marketbeat.com/feed/",
+    "link": "https://www.marketbeat.com/feed/",
+    "description": "Individual feed output.",
+    "lastBuildDate": "2026-04-23T16:22:29.975927",
+    "items": [
+        {
+            "title": "The Cannabis Sector's Billion-Dollar Tax Cut",
+            "link": "https://www.marketbeat.com/originals/the-cannabis-sectors-billion-dollar-tax-cut/",
+            "description": "A federal tax code change is set to boost the profitability of top cannabis operators, transforming their cash flow profile and profitability metrics.",
+            "pubDate": "2026-04-23T14:40:00",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "USA Rare Earth's $2.8B Power Play to Secure the Supply Chain",
+            "link": "https://www.marketbeat.com/originals/usa-rare-earths-28b-power-play-to-secure-the-supply-chain/",
+            "description": "USA Rare Earth is establishing an independent rare earth supply chain via a major Brazilian acquisition and a pivotal European processing partnership.",
+            "pubDate": "2026-04-23T14:05:00",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "More Than Just Dirt: Caterpillar Is the AI Stock Nobody Saw Coming",
+            "link": "https://www.marketbeat.com/originals/more-than-just-dirt-caterpillar-is-the-ai-stock-nobody-saw-coming/",
+            "description": "Caterpillar is transforming from an industrial leader into a key power provider for the AI data center boom and a pioneer in automation technology.",
+            "pubDate": "2026-04-23T13:30:00",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Ternus the Page: Apple's Engineering Prodigy Takes the Reins",
+            "link": "https://www.marketbeat.com/originals/ternus-the-page-apples-engineering-prodigy-takes-the-reins/",
+            "description": "Apple names John Ternus CEO as Tim Cook steps down, signaling a shift toward hardware innovation and a device-focused AI strategy for AAPL stock",
+            "pubDate": "2026-04-23T12:55:00",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "3 AI Small-Cap Stocks With Strong Insider and Institutional Buy-In",
+            "link": "https://www.insidertrades.com/education/3-ai-small-cap-stocks-with-strong-insider-and-institutional-buy-in/",
+            "description": "Small-cap stocks are getting a boost in 2026 as capital inflows increase, and insiders are also buying, highlighting opportunities for investors.",
+            "pubDate": "2026-04-23T12:25:00",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture1.png"
+        }
+    ]
+}

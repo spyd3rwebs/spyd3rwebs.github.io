@@ -1,0 +1,43 @@
+{
+    "title": "Individual feed for http://feeds.benzinga.com/benzinga",
+    "link": "http://feeds.benzinga.com/benzinga",
+    "description": "Individual feed output.",
+    "lastBuildDate": "2026-04-23T16:22:29.975473",
+    "items": [
+        {
+            "title": "Figma Stock Is On The Move: The Chart Tells An Interesting Story",
+            "link": "https://www.benzinga.com/trading-ideas/movers/26/04/52013641/figma-stock-is-on-the-move-the-chart-tells-an-interesting-story",
+            "description": "Figma shares are trading lower Thursday, extending its recent downtrend and showing notable underperformance relative to the broader market. Importanc...",
+            "pubDate": "2026-04-23T20:03:24",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2026/04/23/Figma-Ai.jpeg?optimize=medium&dpr=1&auto=webp&height=675&width=1200&fit=crop"
+        },
+        {
+            "title": "Why Is Helen of Troy Stock Gaining Today?",
+            "link": "https://www.benzinga.com/markets/earnings/26/04/52013560/why-is-helen-of-troy-stock-gaining-today",
+            "description": "Helen of Troy Limited surges as strong earnings beat and upbeat long-term outlook outweigh margin pressure and weak segments. Importance Rank: 1 read ...",
+            "pubDate": "2026-04-23T20:00:56",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2026/04/23/Konskie--Poland---May-29--2024-Helen-Of-.jpeg?optimize=medium&dpr=1&auto=webp&height=675&width=1200&fit=crop"
+        },
+        {
+            "title": "Cramer Names 'The Stocks That Got Away' — SanDisk Is Number 1",
+            "link": "https://www.benzinga.com/markets/tech/26/04/52013521/cramer-names-the-stocks-that-got-away-sandisk-is-number-1",
+            "description": "Jim Cramer names stocks that he regrets not buying, with SanDisk at the top of the list. Importance Rank: 1 read more",
+            "pubDate": "2026-04-23T19:59:46",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2026/04/23/Jim-Cramer--AI-Is-Bigger-Than-Rate-Cuts.jpeg?optimize=medium&dpr=1&auto=webp&height=675&width=1200&fit=crop"
+        },
+        {
+            "title": "Why SanDisk Stock Is Retreating From Wednesday's All-Time Highs",
+            "link": "https://www.benzinga.com/trading-ideas/movers/26/04/52013405/why-sandisk-stock-is-retreating-from-wednesdays-all-time-highs",
+            "description": "SanDisk Corp (NASDAQ: SNDK) shares are trading lower Thursday afternoon as risk-off flows lifted oil on Hormuz tensions and pressured tech. Importance...",
+            "pubDate": "2026-04-23T19:55:10",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2026/04/23/SanDisk-Bangkok--Thailand---February-05-.jpeg?optimize=medium&dpr=1&auto=webp&height=675&width=1200&fit=crop"
+        },
+        {
+            "title": "Dr Pepper Parent Cranks Up Profits Despite Inflation Drag",
+            "link": "https://www.benzinga.com/markets/earnings/26/04/52013252/dr-pepper-parent-cranks-up-profits-despite-inflation-drag",
+            "description": "Keurig Dr Pepper (KDP) shares rise as Q1 earnings beat analyst expectations, driven by strong sales growth and pricing power. Importance Rank: 1 read ...",
+            "pubDate": "2026-04-23T19:47:52",
+            "image_url": "https://cdn.benzinga.com/files/images/story/2026/04/23/Los-Angeles--California--United-States--.jpeg?optimize=medium&dpr=1&auto=webp&height=675&width=1200&fit=crop"
+        }
+    ]
+}

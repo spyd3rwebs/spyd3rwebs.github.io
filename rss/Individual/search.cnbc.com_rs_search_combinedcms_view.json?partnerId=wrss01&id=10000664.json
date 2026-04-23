@@ -1,0 +1,43 @@
+{
+    "title": "Individual feed for https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+    "link": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+    "description": "Individual feed output.",
+    "lastBuildDate": "2026-04-23T16:22:29.970340",
+    "items": [
+        {
+            "title": "Stocks making the biggest moves midday: Texas Instruments, United Rentals, Wex, Penn Entertainment & more",
+            "link": "https://www.cnbc.com/2026/04/23/stocks-making-the-biggest-moves-midday-txn-uri-wex-penn.html",
+            "description": "These are the stocks posting the largest moves midday.",
+            "pubDate": "2026-04-23T20:20:08",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Traders are betting on big moves in Intel on earnings",
+            "link": "https://www.cnbc.com/2026/04/23/traders-are-betting-on-big-moves-in-intel-on-earnings.html",
+            "description": "Semiconductor stocks are powering the U.S. equity market to records and traders are predicting that means a big swing in shares of Intel after earning...",
+            "pubDate": "2026-04-23T18:59:29",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Risky meme trading is back. A trading rule change may have lit the fuse",
+            "link": "https://www.cnbc.com/2026/04/23/risky-meme-trading-is-back-a-trading-rule-change-may-have-lit-the-fuse.html",
+            "description": "A regulatory shift is expected to remove barriers to rapid-fire trading and help revive a meme-stock frenzy.",
+            "pubDate": "2026-04-23T18:15:49",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Kalshi traders don't see Strait of Hormuz traffic returning to normal until July",
+            "link": "https://www.cnbc.com/2026/04/23/kalshi-bettors-see-strait-of-hormuz-traffic-normal-by-july.html",
+            "description": "Chances that traffic returns to normal fell below 50% on Wednesday, according to Kalshi bettors, despite the U.S. and Iran extending the ceasefire.",
+            "pubDate": "2026-04-23T15:19:40",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Stocks making the biggest moves premarket: Honeywell, Nokia, Netflix, IBM, Tesla & more",
+            "link": "https://www.cnbc.com/2026/04/23/stocks-making-the-biggest-moves-premarket-hon-nok-nflx-ibm-tsla.html",
+            "description": "These are the stocks posting the largest moves before the bell.",
+            "pubDate": "2026-04-23T12:26:41",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture9.png"
+        }
+    ]
+}

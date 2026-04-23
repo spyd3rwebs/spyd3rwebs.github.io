@@ -1,0 +1,43 @@
+{
+    "title": "Individual feed for https://www.cbsnews.com/latest/rss/main",
+    "link": "https://www.cbsnews.com/latest/rss/main",
+    "description": "Individual feed output.",
+    "lastBuildDate": "2026-04-23T16:22:36.645387",
+    "items": [
+        {
+            "title": "Michael Tilson Thomas on his love of music | 60 Minutes Archive",
+            "link": "https://www.cbsnews.com/video/michael-tilson-thomas-on-his-love-of-music-60-minutes-archive/",
+            "description": "In 2000, Morley Safer spoke with conductor Michael Tilson Thomas about his love of music, music's message and more. Thomas, who died Wednesday at age ...",
+            "pubDate": "2026-04-23T21:16:56",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "At least 10 people injured in shooting at Mall of Louisiana, police say",
+            "link": "https://www.cbsnews.com/live-updates/shooting-mall-of-louisiana/",
+            "description": "Police said the shooting appeared to have happened after two groups of people got into an argument in the mall's food court.",
+            "pubDate": "2026-04-23T21:16:44",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Shooting at Louisiana mall stemmed from argument between two groups, police say",
+            "link": "https://www.cbsnews.com/video/shooting-at-louisiana-mall-stemmed-from-argument-between-two-groups-police-say/",
+            "description": "Police in Baton Rouge say a shooting broke out Thursday at the Mall of Louisiana after an argument between two groups of people. Multiple people were ...",
+            "pubDate": "2026-04-23T21:01:33",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Meta to cut 8,000 jobs as it charges into AI",
+            "link": "https://www.cbsnews.com/news/meta-layoffs-8000-ai-job-cuts/",
+            "description": "Meta plans to lay off roughly 10% of its workforce as the technology giant steps up its spending on artificial intelligence.",
+            "pubDate": "2026-04-23T20:49:22",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Here's how much interest a $15,000 money market account can earn now",
+            "link": "https://www.cbsnews.com/news/how-much-interest-15000-money-market-account-earn-april-2026/",
+            "description": "interest earnings on a $15,000 money market account can still be significant. Here's what savers need to know now.",
+            "pubDate": "2026-04-23T20:42:25",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture1.png"
+        }
+    ]
+}

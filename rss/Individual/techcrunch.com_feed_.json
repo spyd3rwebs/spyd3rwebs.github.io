@@ -1,0 +1,43 @@
+{
+    "title": "Individual feed for https://techcrunch.com/feed/",
+    "link": "https://techcrunch.com/feed/",
+    "description": "Individual feed output.",
+    "lastBuildDate": "2026-04-23T16:22:52.738425",
+    "items": [
+        {
+            "title": "Instagram tests a new ‘Instants’ app for sharing disappearing photos",
+            "link": "https://techcrunch.com/2026/04/23/instagram-tests-a-new-instants-app-for-sharing-disappearing-photos/",
+            "description": "The app lets users share disappearing photos with their friends that can be viewed only once and remain available for 24 hours.",
+            "pubDate": "2026-04-23T21:03:53",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Meet Noscroll, an AI bot that does your doomscrolling for you",
+            "link": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
+            "description": "Noscroll wants to cure doomscrolling with an AI bot that reads the internet for you.",
+            "pubDate": "2026-04-23T20:38:25",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Trump’s pick to run US cyber agency CISA asks to drop out",
+            "link": "https://techcrunch.com/2026/04/23/trumps-pick-to-run-us-cyber-agency-cisa-asks-to-drop-out/",
+            "description": "Sean Plankey has requested to withdraw his name to run the U.S. cybersecurity agency after a tumultuous year of chaotic temporary leadership.",
+            "pubDate": "2026-04-23T20:33:48",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Don’t stop hiring humans — stop hiring the wrong humans, Artisan’s founder says",
+            "link": "https://techcrunch.com/2026/04/23/dont-stop-hiring-humans-stop-hiring-the-wrong-humans-artisans-founder-says/",
+            "description": "Artisan may be known for their bold “Stop Hiring Humans” campaign but the reality is every founder needs to assemble the right team if they want to sc...",
+            "pubDate": "2026-04-23T19:49:38",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
+            "link": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
+            "description": "OpenAI says its latest model offers increased capabilities across a broad variety of categories.",
+            "pubDate": "2026-04-23T19:29:29",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture3.png"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Individual feed for https://www.economist.com/finance-and-economics/rss.xml",
+    "link": "https://www.economist.com/finance-and-economics/rss.xml",
+    "description": "Individual feed output.",
+    "lastBuildDate": "2026-04-23T16:22:29.974817",
+    "items": [
+        {
+            "title": "Wanted: a new finance writer",
+            "link": "https://www.economist.com/finance-and-economics/2026/04/23/wanted-a-new-finance-writer",
+            "description": "An opportunity to join the staff of The Economist",
+            "pubDate": "2026-04-23T17:45:12",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Has the World Bank performed a U-turn on industrial policy?",
+            "link": "https://www.economist.com/finance-and-economics/2026/04/23/has-the-world-bank-performed-a-u-turn-on-industrial-policy",
+            "description": "Interventionists who think so should read its new report more closely",
+            "pubDate": "2026-04-23T10:16:41",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Renewables are shining. The Iran war amplifies their appeal",
+            "link": "https://www.economist.com/finance-and-economics/2026/04/23/renewables-are-shining-the-iran-war-amplifies-their-appeal",
+            "description": "Two new reports are a must-read of energy-starved governments",
+            "pubDate": "2026-04-23T10:16:25",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Xi Jinping wants a powerful currency. America’s war has helped",
+            "link": "https://www.economist.com/finance-and-economics/2026/04/23/xi-jinping-wants-a-powerful-currency-americas-war-has-helped",
+            "description": "More countries are starting to use China’s payment infrastructure",
+            "pubDate": "2026-04-23T10:15:53",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Chinamaxxing is starting to catch on, in China",
+            "link": "https://www.economist.com/finance-and-economics/2026/04/23/chinamaxxing-is-starting-to-catch-on-in-china",
+            "description": "It’s a boon for the tourist trade",
+            "pubDate": "2026-04-23T10:15:39",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture6.png"
+        }
+    ]
+}

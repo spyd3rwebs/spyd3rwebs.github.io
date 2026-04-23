@@ -1,0 +1,43 @@
+{
+    "title": "Individual feed for https://moxie.foxnews.com/google-publisher/politics.xml",
+    "link": "https://moxie.foxnews.com/google-publisher/politics.xml",
+    "description": "Individual feed output.",
+    "lastBuildDate": "2026-04-23T16:22:48.277544",
+    "items": [
+        {
+            "title": "Howard Lutnick shuts down Dem questions over Jeffrey Epstein at budget hearing",
+            "link": "https://www.foxnews.com/politics/howard-lutnick-shuts-dem-questions-jeffrey-epstein-budget-hearing",
+            "description": "Commerce Secretary Howard Lutnick repeatedly shut down questions about his ties to Jeffrey Epstein during a House Appropriations Committee hearing.",
+            "pubDate": "2026-04-23T20:48:29",
+            "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/howard-lutnick-commerce-hearing.png?ve=1&tl=1"
+        },
+        {
+            "title": "Trump praises ousted Navy Secretary Phelan amid tensions with Pentagon leadership",
+            "link": "https://www.foxnews.com/politics/trump-praises-ousted-navy-secretary-phelan-amid-tensions-pentagon-leadership",
+            "description": "Sources say Navy Secretary John Phelan was removed after months of tensions with Pentagon leaders over shipbuilding programs and chain-of-command issu...",
+            "pubDate": "2026-04-23T20:42:37",
+            "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/hegseth-phelan.jpeg?ve=1&tl=1"
+        },
+        {
+            "title": "‘VEXIT’ movement reignites as red state invites disenfranchised Virginians to ‘Best Virginia’",
+            "link": "https://www.foxnews.com/politics/vexit-movement-reignites-red-state-invites-disenfranchised-virginians-best-virginia",
+            "description": "West Virginia leaders push VEXIT, calling on disaffected Virginians to join the Mountain State after approval of a new 10-1 congressional district map...",
+            "pubDate": "2026-04-23T20:39:23",
+            "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/west-virginia-welcome.jpg?ve=1&tl=1"
+        },
+        {
+            "title": "Republicans fail to attach SAVE America Act to party-line funding package",
+            "link": "https://www.foxnews.com/politics/republicans-fail-attach-save-america-act-party-line-funding-package-",
+            "description": "Senate Republicans Tom Tillis, Lisa Murkowski, Susan Collins and Mitch McConnell voted against a voter ID amendment to the GOP immigration enforcement...",
+            "pubDate": "2026-04-23T20:23:25",
+            "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/tillis-murkowsi-collins-mcconnell.jpeg?ve=1&tl=1"
+        },
+        {
+            "title": "Trump border czar Tom Homan wants Pope Leo XIV to ride along with ICE agents: 'They don't understand'",
+            "link": "https://www.foxnews.com/politics/trump-border-czar-tom-homan-wants-pope-leo-xiv-ride-along-ice-agents-dont-understand",
+            "description": "Tom Homan invites Pope Leo XIV to join ICE officers on a ride-along amid the ongoing feud between the Vatican and the Trump administration on immigrat...",
+            "pubDate": "2026-04-23T19:59:11",
+            "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/pope-leo-tom-homan.png?ve=1&tl=1"
+        }
+    ]
+}

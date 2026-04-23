@@ -1,0 +1,43 @@
+{
+    "title": "Individual feed for https://stocktwits.com/sitemap/rss_feed.xml",
+    "link": "https://stocktwits.com/sitemap/rss_feed.xml",
+    "description": "Individual feed output.",
+    "lastBuildDate": "2026-04-23T16:22:29.973956",
+    "items": [
+        {
+            "title": "META To Cut 8,000 Workers To Offset Heavy AI Spending: Report",
+            "link": "https://stocktwits.com/news-articles/markets/equity/meta-to-cut-8-000-workers-to-offset-heavy-ai-spending-report/cZBQEg9ReRC",
+            "description": "Meta will lay off 10% of its workforce to offset the heavy spending it intends to make for AI advancements.",
+            "pubDate": "2026-04-23T20:04:35",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "SKLZ Stock Soars To Its Highest In 33 Months After Winning A $420M Lawsuit",
+            "link": "https://stocktwits.com/news-articles/markets/equity/sklz-stock-soars-to-its-highest-in-33-months-after-winning-a-420m-lawsuit/cZBQd5aReRy",
+            "description": "SKLZ wins court case against Israel-based rival Papaya Gaming.",
+            "pubDate": "2026-04-23T19:17:56",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "JPMorgan Had A Chat With Robinhood Management Ahead Of Earnings Next Week — Why Did It Lower Its Target Valuation Multiple?",
+            "link": "https://stocktwits.com/news-articles/markets/equity/jp-morgan-had-a-chat-with-robinhood-management-ahead-of-earnings-next-week-why-did-it-lower-its-target-valuation-multiple-1/cZBQPivReRU",
+            "description": "For the first quarter, analysts estimate Robinhood’s revenue at $1.14 billion and earnings per share at $0.39, according to Fiscal AI.",
+            "pubDate": "2026-04-23T18:53:43",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Regeneron's Gene Therapy For Genetic Hearing Loss Gets Accelerated FDA Nod — Drug Pricing Deal With White House To Be Announced Today",
+            "link": "https://stocktwits.com/news-articles/markets/equity/regeneron-gene-therapy-hearing-loss-free-drug-pricing-deal-trump/cZBQPXzReRx",
+            "description": "Regeneron is only one of the 17 pharmaceutical companies that have not yet agreed to lower U.S. drug prices following letters sent by the Trump admini...",
+            "pubDate": "2026-04-23T18:50:39",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "LMT Stock On Track To Register Eighth Consecutive Session Of Losses – Lockheed Remains Confident About Meeting 2026 Guidance",
+            "link": "https://stocktwits.com/news-articles/markets/equity/why-is-lockheed-martin-stock-extending-its-eight-session-losing-streak/cZBQPcsReRD",
+            "description": "Lockheed Martin said the government’s focus on defense industrial base investment and modernization spending has created a favorable environment for t...",
+            "pubDate": "2026-04-23T18:39:12",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture3.png"
+        }
+    ]
+}

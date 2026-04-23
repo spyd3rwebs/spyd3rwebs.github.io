@@ -1,0 +1,43 @@
+{
+    "title": "Individual feed for https://thehealthcareblog.com/feed",
+    "link": "https://thehealthcareblog.com/feed",
+    "description": "Individual feed output.",
+    "lastBuildDate": "2026-04-23T16:24:41.484580",
+    "items": [
+        {
+            "title": "Adrian Owen & Faraz Shafaghi, Creyos",
+            "link": "https://thehealthcareblog.com/blog/2026/04/23/adrian-owen-faraz-shafaghi-creyos/",
+            "description": "I spoke with neuroscientist Adrian Owen, co-founder and Chief Scientific Officer & Faraz Shafaghi, Chief Product Officer, at neurological testing comp...",
+            "pubDate": "2026-04-23T18:01:56",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Dayne Williams, Quantum Health",
+            "link": "https://thehealthcareblog.com/blog/2026/04/22/dayne-williams-quantum-health/",
+            "description": "Quantum Health is one of the biggest and original navigation companies. Dayne Williams came out of retirement to take over as CEO after Zane Burke ret...",
+            "pubDate": "2026-04-22T09:12:00",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Philippe Pouletty, Carvolix",
+            "link": "https://thehealthcareblog.com/blog/2026/04/21/philippe-pouletty-carvolix/",
+            "description": "Philippe Pouletty is a physician who’s an inventor, French venture capitalist, and the founder of Carvolix. Carvolix is a medical technology company t...",
+            "pubDate": "2026-04-21T06:36:46",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Peter Stetson, TigerConnect",
+            "link": "https://thehealthcareblog.com/blog/2026/04/20/peter-stetson-tiger-connect/",
+            "description": "Peter Stetson is the CMIO of TigerConnect. It’s now calling itself an AI platform to connect people, especially workflows between doctors, nurses, EMT...",
+            "pubDate": "2026-04-20T08:45:00",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "A Unified Sense of Self",
+            "link": "https://thehealthcareblog.com/blog/2026/04/17/a-unified-sense-of-self/",
+            "description": "By MIKE MAGEE Stanford neuroscientist, David Eagleman, reminded us this week that “A coherent explanation of consciousness eludes modern science.” Tha...",
+            "pubDate": "2026-04-17T08:43:00",
+            "image_url": "https://thehealthcareblog.com/wp-content/uploads/2019/03/849660338_medium-dr-mike-magee.jpg"
+        }
+    ]
+}

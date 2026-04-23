@@ -1,0 +1,43 @@
+{
+    "title": "Individual feed for https://seekingalpha.com/market_currents.xml",
+    "link": "https://seekingalpha.com/market_currents.xml",
+    "description": "Individual feed output.",
+    "lastBuildDate": "2026-04-23T16:22:29.973038",
+    "items": [
+        {
+            "title": "SAP SE Non-GAAP EPS of €1.72 beats by €0.06, revenue of €9.56B beats by €10M",
+            "link": "https://seekingalpha.com/news/4578986-sap-se-non-gaap-eps-of-172-beats-by-006-revenue-of-956b-beats-by-10m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+            "description": "",
+            "pubDate": "2026-04-23T21:20:38",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Betterware de Mexico SAB de CV GAAP EPS of MXN 7.54, revenue of MXN 3.51B",
+            "link": "https://seekingalpha.com/news/4578989-betterware-de-mexico-sab-de-cv-gaap-eps-of-mxn-754-revenue-of-mxn-351b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+            "description": "",
+            "pubDate": "2026-04-23T21:20:31",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Financial Institutions GAAP EPS of $1.04 beats by $0.12, revenue of $62.66M misses by $0.1M",
+            "link": "https://seekingalpha.com/news/4578988-financial-institutions-gaap-eps-of-1_04-beats-by-0_12-revenue-of-62_66m-misses-by-0_1m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+            "description": "",
+            "pubDate": "2026-04-23T21:20:14",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Edwards Lifesciences Non-GAAP EPS of $0.78 beats by $0.05, revenue of $1.65B beats by $50M",
+            "link": "https://seekingalpha.com/news/4578984-edwards-lifesciences-non-gaap-eps-of-0_78-beats-by-0_05-revenue-of-1_65b-beats-by-50m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+            "description": "",
+            "pubDate": "2026-04-23T21:18:40",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Coursera Non-GAAP EPS of $0.07, revenue of $195.7M",
+            "link": "https://seekingalpha.com/news/4578980-coursera-non-gaap-eps-of-007-revenue-of-1957m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+            "description": "",
+            "pubDate": "2026-04-23T21:16:19",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture7.png"
+        }
+    ]
+}

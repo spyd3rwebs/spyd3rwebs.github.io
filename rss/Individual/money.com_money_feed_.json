@@ -1,0 +1,43 @@
+{
+    "title": "Individual feed for https://money.com/money/feed/",
+    "link": "https://money.com/money/feed/",
+    "description": "Individual feed output.",
+    "lastBuildDate": "2026-04-23T16:22:29.977446",
+    "items": [
+        {
+            "title": "What Happens to Your Brokerage Account When You Die — And Why Many People Haven’t Set It Up Right",
+            "link": "https://money.com/what-happens-to-brokerage-account-when-you-die/?xid=moneyrss",
+            "description": "The process can get complicated if you don't identify a beneficiary.",
+            "pubDate": "2026-04-23T20:00:16",
+            "image_url": "https://img.money.com/2026/04/Explainer-Brokerage-After-Death.jpg?quality=85"
+        },
+        {
+            "title": "Crypto Curious? Here’s a Step-by-Step Guide to Buying Bitcoin for the First Time",
+            "link": "https://money.com/how-to-buy-bitcoin-first-time/?xid=moneyrss",
+            "description": "The first step is choosing an exchange.",
+            "pubDate": "2026-04-23T19:18:30",
+            "image_url": "https://img.money.com/2026/04/Sponsorship-Crypto-Curious-Guide.jpg?quality=85"
+        },
+        {
+            "title": "When the IRS Will Contact You if You Owe Taxes, and What to Do",
+            "link": "https://money.com/when-irs-contacts-you-if-you-owe-taxes/?xid=moneyrss",
+            "description": "The IRS sends out notices to taxpayers who owe money.",
+            "pubDate": "2026-04-23T19:00:56",
+            "image_url": "https://img.money.com/2026/04/Explainer-IRS-Debt-Clock.jpg?quality=85"
+        },
+        {
+            "title": "Robert Kiyosaki’s Real Definition of Wealth — and How to Reach It Faster",
+            "link": "https://money.com/robert-kiyosaki-definition-of-wealth/?xid=moneyrss",
+            "description": "The author of \"Rich Dad Poor Dad\" recommends focusing on cash flow.",
+            "pubDate": "2026-04-23T19:00:20",
+            "image_url": "https://img.money.com/2026/01/Explainer-Robert-Kiyosaki-Definition.jpg?quality=85"
+        },
+        {
+            "title": "The Anxiety Many Savers Have — and How to Lower It",
+            "link": "https://money.com/saver-anxiety-and-how-to-lower-it/?xid=moneyrss",
+            "description": "The bucket approach to retirement saving can help.",
+            "pubDate": "2026-04-23T18:00:45",
+            "image_url": "https://img.money.com/2025/12/Explainer-Saver-Anxiety.jpg?quality=85"
+        }
+    ]
+}
