@@ -2,42 +2,42 @@
     "title": "Individual feed for https://www.economist.com/finance-and-economics/rss.xml",
     "link": "https://www.economist.com/finance-and-economics/rss.xml",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-04-22T16:10:56.689268",
+    "lastBuildDate": "2026-04-23T09:36:29.238455",
     "items": [
+        {
+            "title": "Has the World Bank performed a U-turn on industrial policy?",
+            "link": "https://www.economist.com/finance-and-economics/2026/04/23/has-the-world-bank-performed-a-u-turn-on-industrial-policy",
+            "description": "Interventionists who think so should read its new report more closely",
+            "pubDate": "2026-04-23T10:16:41",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Renewables are shining. The Iran war amplifies their appeal",
+            "link": "https://www.economist.com/finance-and-economics/2026/04/23/renewables-are-shining-the-iran-war-amplifies-their-appeal",
+            "description": "Two new reports are a must-read of energy-starved governments",
+            "pubDate": "2026-04-23T10:16:25",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Xi Jinping wants a powerful currency. America’s war has helped",
+            "link": "https://www.economist.com/finance-and-economics/2026/04/23/xi-jinping-wants-a-powerful-currency-americas-war-has-helped",
+            "description": "More countries are starting to use China’s payment infrastructure",
+            "pubDate": "2026-04-23T10:15:53",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Chinamaxxing is starting to catch on, in China",
+            "link": "https://www.economist.com/finance-and-economics/2026/04/23/chinamaxxing-is-starting-to-catch-on-in-china",
+            "description": "It’s a boon for the tourist trade",
+            "pubDate": "2026-04-23T10:15:39",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
         {
             "title": "Global energy markets are on the verge of a disaster",
             "link": "https://www.economist.com/finance-and-economics/2026/04/21/global-energy-markets-are-on-the-verge-of-a-disaster",
             "description": "Scenarios now range from bad to awful",
             "pubDate": "2026-04-21T21:46:14",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "The stablecoin market has got too stable",
-            "link": "https://www.economist.com/finance-and-economics/2026/04/21/the-stablecoin-market-has-got-too-stable",
-            "description": "Rapid growth in dollar-backed crypto has stalled",
-            "pubDate": "2026-04-21T20:10:20",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "American corporate profits keep shrugging off global tumult",
-            "link": "https://www.economist.com/finance-and-economics/2026/04/20/american-corporate-profits-keep-shrugging-off-global-tumult",
-            "description": "Earnings expectations are through the roof",
-            "pubDate": "2026-04-20T20:49:36",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Hormuz is (apparently) unblocked. Energy markets remain a mess",
-            "link": "https://www.economist.com/finance-and-economics/2026/04/17/hormuz-is-apparently-unblocked-energy-markets-remain-a-mess",
-            "description": "Mines, mistrust and missing ships will keep markets tight for months",
-            "pubDate": "2026-04-17T20:42:15",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Global imbalances are back. Who’s to blame?",
-            "link": "https://www.economist.com/finance-and-economics/2026/04/16/global-imbalances-are-back-whos-to-blame",
-            "description": "The suspects look familiar",
-            "pubDate": "2026-04-16T10:58:29",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         }
     ]
 }

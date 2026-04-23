@@ -2,42 +2,42 @@
     "title": "Individual feed for https://seekingalpha.com/feed.xml",
     "link": "https://seekingalpha.com/feed.xml",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-04-22T16:10:56.686754",
+    "lastBuildDate": "2026-04-23T09:36:29.235772",
     "items": [
         {
-            "title": "Preferred Bank (PFBC) Q1 2026 Earnings Call Transcript",
-            "link": "https://seekingalpha.com/article/4893037-preferred-bank-pfbc-q1-2026-earnings-call-transcript?source=feed_all_articles",
+            "title": "NextEra Energy, Inc. 2026 Q1 - Results - Earnings Call Presentation",
+            "link": "https://seekingalpha.com/article/4893406-nextera-energy-inc-2026-q1-results-earnings-call-presentation?source=feed_all_articles",
             "description": "",
-            "pubDate": "2026-04-22T21:00:40",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Civista Bancshares, Inc. (CIVB) Q1 2026 Earnings Call Transcript",
-            "link": "https://seekingalpha.com/article/4893013-civista-bancshares-inc-civb-q1-2026-earnings-call-transcript?source=feed_all_articles",
-            "description": "",
-            "pubDate": "2026-04-22T21:00:36",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Warsh Advocates For Regime Change And Narrows The Definition Of Fed Independence",
-            "link": "https://seekingalpha.com/article/4893020-warsh-advocates-for-regime-change-and-narrows-the-definition-of-fed-independence?source=feed_all_articles",
-            "description": "",
-            "pubDate": "2026-04-22T20:55:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "FS KKR Capital: One Of The Weakest Links In The Private Credit Chain",
-            "link": "https://seekingalpha.com/article/4893019-fs-kkr-capital-one-of-the-weakest-links-in-the-private-credit-chain?source=feed_all_articles",
-            "description": "",
-            "pubDate": "2026-04-22T20:52:00",
+            "pubDate": "2026-04-23T14:33:50",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "Grupo Aeroméxico, S.A.B. de C.V. (AERO) Q1 2026 Earnings Call Transcript",
-            "link": "https://seekingalpha.com/article/4893004-grupo-aeromexico-s-a-b-de-c-v-aero-q1-2026-earnings-call-transcript?source=feed_all_articles",
+            "title": "Live Oak Bancshares, Inc. 2026 Q1 - Results - Earnings Call Presentation",
+            "link": "https://seekingalpha.com/article/4893405-live-oak-bancshares-inc-2026-q1-results-earnings-call-presentation?source=feed_all_articles",
             "description": "",
-            "pubDate": "2026-04-22T20:50:43",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "pubDate": "2026-04-23T14:33:09",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Medpace Holdings, Inc. 2026 Q1 - Results - Earnings Call Presentation",
+            "link": "https://seekingalpha.com/article/4893404-medpace-holdings-inc-2026-q1-results-earnings-call-presentation?source=feed_all_articles",
+            "description": "",
+            "pubDate": "2026-04-23T14:32:18",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Huntington Bancshares Incorporated 2026 Q1 - Results - Earnings Call Presentation",
+            "link": "https://seekingalpha.com/article/4893403-huntington-bancshares-incorporated-2026-q1-results-earnings-call-presentation?source=feed_all_articles",
+            "description": "",
+            "pubDate": "2026-04-23T14:31:41",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Orion Oyj (ORINF) Q1 2026 Earnings Call Transcript",
+            "link": "https://seekingalpha.com/article/4893349-orion-oyj-orinf-q1-2026-earnings-call-transcript?source=feed_all_articles",
+            "description": "",
+            "pubDate": "2026-04-23T14:31:34",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         }
     ]
 }

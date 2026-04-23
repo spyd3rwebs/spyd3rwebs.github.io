@@ -2,84 +2,91 @@
     "title": "Preventative",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from Preventative, skipping any feeds with errors.",
-    "lastBuildDate": "2026-04-22T16:14:59.453160",
+    "lastBuildDate": "2026-04-23T09:39:16.554945",
     "items": [
         {
-            "title": "They’re in Remission, but Their Medical Bills Aren’t: Cancer Survivors Navigate Soaring Costs",
-            "link": "https://kffhealthnews.org/health-care-costs/cancer-survival-costs-testing-treatment-premiums-deductibles-trump/",
-            "description": "The costs of posttreatment care are forcing cancer survivors to make tough choices. GOP proposals to bring down health insurance costs won’t help peop...",
-            "pubDate": "2026-04-22T10:00:00",
-            "image_url": "https://kffhealthnews.org/wp-content/uploads/sites/2/2026/04/McLeod_01.jpg"
+            "title": "Food Stamp Work Rules Don’t Increase Employment, Researchers Say",
+            "link": "https://kffhealthnews.org/medicaid/food-stamps-snap-work-requirements-hunger-west-virginia-foodbanks/",
+            "description": "Work requirements will encourage people who are able to work to seek and maintain jobs, proponents say. But researchers haven’t found that they lower ...",
+            "pubDate": "2026-04-23T10:00:00",
+            "image_url": "https://kffhealthnews.org/wp-content/uploads/sites/8/2026/04/SNAP_01.jpg?w=1270"
         },
         {
-            "title": "The Easiest Blood Sugar Upgrade You Can Make During The Workday",
-            "link": "https://www.mindbodygreen.com/articles/could-more-daylight-during-day-help-stabilize-blood-sugar-daylight-and-blood-sugar-control",
-            "description": "Balance your blood sugar without leaving your desk.",
-            "pubDate": "2026-04-22T12:27:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "title": "Food Stamp Work Rules Don’t Increase Employment, Researchers Say",
+            "link": "https://kffhealthnews.org/medicaid/food-stamps-snap-work-requirements-hunger-west-virginia-foodbanks/",
+            "description": "Work requirements will encourage people who are able to work to seek and maintain jobs, proponents say. But researchers haven’t found that they lower ...",
+            "pubDate": "2026-04-23T10:00:00",
+            "image_url": "https://kffhealthnews.org/wp-content/uploads/sites/8/2026/04/SNAP_01.jpg?w=1270"
         },
         {
-            "title": "California Lawmakers Seek Protections for Patients in ICE Custody",
-            "link": "https://kffhealthnews.org/health-industry/ice-custody-immigrant-patient-protection-california-legislation/",
-            "description": "Moving through the California Senate are two bills, informed by KFF Health News reporting, that would strengthen protections for patients brought to h...",
-            "pubDate": "2026-04-22T13:40:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "A Diet That’s Good For You & The Planet? Here’s How To Follow It",
-            "link": "https://www.mindbodygreen.com/articles/new-planetary-health-diet-study",
-            "description": "What's good for you is good for the planet.",
-            "pubDate": "2026-04-22T11:25:00",
+            "title": "Researchers Analyzed 450k Diets — This Eating Habit Stood Out For Cancer Prevention",
+            "link": "https://www.mindbodygreen.com/articles/this-heart-healthy-diet-may-also-shield-you-from-cancer-heres-how-another-benefit-of-this",
+            "description": "Yet another benefit of this eating pattern",
+            "pubDate": "2026-04-23T11:12:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "Montana Moves Ahead With Doula Pay but Warns Medicaid Cuts Still May Come",
-            "link": "https://kffhealthnews.org/medicaid/doula-care-pregnancy-medicaid-montana-budget-cuts/",
-            "description": "Montana health officials say they’re seeking to add doula services to the state’s Medicaid program, reversing a previous statement that they would “no...",
-            "pubDate": "2026-04-22T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "title": "How Women Can Prevent Injury While Weightlifting In Their 40s & Beyond",
+            "link": "https://www.mindbodygreen.com/articles/how-women-can-build-muscle-without-heavy-weights-and-avoid-injury-fractures-become",
+            "description": "Because certain fractures become much more common in perimenopause.",
+            "pubDate": "2026-04-23T11:26:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "This Surprising Factor Could Help Protect Against Cognitive Decline",
-            "link": "https://www.mindbodygreen.com/articles/this-factor-could-protect-against-cognitive-decline-study-finds",
-            "description": "Thanks, estrogen.",
-            "pubDate": "2026-04-22T10:47:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "title": "In Need Of Sun, Rest & Relaxation? (Who Isn't?) Try This Hotspot",
+            "link": "https://www.mindbodygreen.com/articles/wellness-travel-in-playa-del-carmen-mexico-hotels-restaurants",
+            "description": "Welcome to Playa del Carmen, Mexico's premier resort destination, located in the heart of the Riviera Maya.",
+            "pubDate": "2026-04-23T12:11:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Medigap Premiums Leap, and Consumers Have Few Alternatives",
+            "link": "https://kffhealthnews.org/medicare/medigap-medicare-advantage-premiums-rate-increase-few-alternatives/",
+            "description": "Millions of people rely on the supplemental insurance to offset the deductibles, copayments, and other costs faced by enrollees in the traditional Med...",
+            "pubDate": "2026-04-23T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "From Zone 0 To VO2 Max: A Smarter Approach To Cardio & Strength",
+            "link": "https://www.mindbodygreen.com/articles/zone-0-to-vo2-max-smarter-approach-to-cardio-and-strength",
+            "description": "Zone 0 is trending. Here's what it does & doesn't do for longevity",
+            "pubDate": "2026-04-23T11:04:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Medigap Premiums Leap, and Consumers Have Few Alternatives",
+            "link": "https://kffhealthnews.org/medicare/medigap-medicare-advantage-premiums-rate-increase-few-alternatives/",
+            "description": "Millions of people rely on the supplemental insurance to offset the deductibles, copayments, and other costs faced by enrollees in the traditional Med...",
+            "pubDate": "2026-04-23T10:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Wish You Could Fall Asleep In Seconds? This May Change Your Mind",
+            "link": "https://www.mindbodygreen.com/articles/wish-you-could-fall-asleep-in-seconds-this-may-change-your-mind-one-of-the-most-common",
+            "description": "One of the most common sleep myths...busted.",
+            "pubDate": "2026-04-23T10:49:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
             "title": "California Lawmakers Seek Protections for Patients in ICE Custody",
             "link": "https://kffhealthnews.org/health-industry/ice-custody-immigrant-patient-protection-california-legislation/",
             "description": "Moving through the California Senate are two bills, informed by KFF Health News reporting, that would strengthen protections for patients brought to h...",
             "pubDate": "2026-04-22T13:40:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Dayne Williams, Quantum Health",
             "link": "https://thehealthcareblog.com/blog/2026/04/22/dayne-williams-quantum-health/",
             "description": "Quantum Health is one of the biggest and original navigation companies. Dayne Williams came out of retirement to take over as CEO after Zane Burke ret...",
             "pubDate": "2026-04-22T09:12:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
-            "title": "Training Hard? 7 Ways Omega-3s Improve Your Fitness & Overall Health",
-            "link": "https://www.mindbodygreen.com/articles/training-hard-7-ways-omega-3s-improve-your-fitness-and-recovery-know-more-about-it",
-            "description": "And, how much you need a day.",
-            "pubDate": "2026-04-22T12:07:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "New Research Has Identified A Groundbreaking Way To Manage Pain",
-            "link": "https://www.mindbodygreen.com/articles/study-identifies-connections-between-creativity-and-pain-management",
-            "description": "Get creative.",
-            "pubDate": "2026-04-22T11:18:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Montana Moves Ahead With Doula Pay but Warns Medicaid Cuts Still May Come",
-            "link": "https://kffhealthnews.org/medicaid/doula-care-pregnancy-medicaid-montana-budget-cuts/",
-            "description": "Montana health officials say they’re seeking to add doula services to the state’s Medicaid program, reversing a previous statement that they would “no...",
-            "pubDate": "2026-04-22T10:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "title": "You Don’t Need to Suffer Through Hot Flashes",
+            "link": "https://www.healthywomen.org/your-health/menopause-treatment-for-hot-flashes",
+            "description": "You’re having dinner with friends when all of a sudden heat rises up in your body. You begin sweating. Your face turns red, and you may even have hear...",
+            "pubDate": "2026-04-21T17:22:08",
+            "image_url": "https://www.healthywomen.org/media-library/menopausal-mature-woman-having-hot-flash-at-home.jpg?id=65582301&width=980"
         },
         {
             "title": "What You Need to Know About Dim Light Disturbances",
@@ -96,13 +103,6 @@
             "image_url": "https://www.healthywomen.org/media-library/taylor-heaton.png?id=65590858&width=980"
         },
         {
-            "title": "You Don’t Need to Suffer Through Hot Flashes",
-            "link": "https://www.healthywomen.org/your-health/menopause-treatment-for-hot-flashes",
-            "description": "You’re having dinner with friends when all of a sudden heat rises up in your body. You begin sweating. Your face turns red, and you may even have hear...",
-            "pubDate": "2026-04-21T17:22:08",
-            "image_url": "https://www.healthywomen.org/media-library/menopausal-mature-woman-having-hot-flash-at-home.jpg?id=65582301&width=980"
-        },
-        {
             "title": "Your Brain on a Hot Flash",
             "link": "https://www.healthywomen.org/your-health/understanding-hot-flashes",
             "description": "Standing before 50 coworkers in the conference room, I was taking questions after giving a presentation when I felt the familiar stirrings of a hot fl...",
@@ -114,14 +114,14 @@
             "link": "https://thehealthcareblog.com/blog/2026/04/21/philippe-pouletty-carvolix/",
             "description": "Philippe Pouletty is a physician who’s an inventor, French venture capitalist, and the founder of Carvolix. Carvolix is a medical technology company t...",
             "pubDate": "2026-04-21T06:36:46",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         },
         {
             "title": "How to Avoid Shamea Morton’s Spa Nightmare",
             "link": "https://blackhealthmatters.com/how-to-avoid-shamea-mortons-spa-nightmare/",
             "description": "When Real Housewives of Atlanta cast member Shamea Morton shared a traumatic skincare experience resulting in a lawsuit against an Atlanta doctor, her...",
             "pubDate": "2026-04-21T15:25:59",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Talking to Your Healthcare Provider About Vaccines",
@@ -135,7 +135,7 @@
             "link": "https://thehealthcareblog.com/blog/2026/04/20/peter-stetson-tiger-connect/",
             "description": "Peter Stetson is the CMIO of TigerConnect. It’s now calling itself an AI platform to connect people, especially workflows between doctors, nurses, EMT...",
             "pubDate": "2026-04-20T08:45:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "A Unified Sense of Self",
@@ -156,14 +156,14 @@
             "link": "https://blackhealthmatters.com/who-holds-the-power-in-the-labor-room/",
             "description": "Cherise Doyley walked into a Florida hospital seeking care and found herself in a situation she never expected. According to reporting from ProPublica...",
             "pubDate": "2026-04-16T17:17:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
             "title": "Winnie Harlow Is Embracing Vitiligo in a New Way",
             "link": "https://blackhealthmatters.com/winnie-harlow-is-embracing-vitiligo-in-a-new-way/",
             "description": "Winnie Harlow never saw herself on glossy magazine pages growing up. Now, she’s a beauty founder with vitiligo who sets the standards for who is consi...",
             "pubDate": "2026-04-14T16:19:29",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "K-Beauty vs. J-Beauty: Are These Products for Us?",

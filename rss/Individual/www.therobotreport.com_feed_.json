@@ -2,8 +2,22 @@
     "title": "Individual feed for https://www.therobotreport.com/feed/",
     "link": "https://www.therobotreport.com/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-04-22T16:11:11.146282",
+    "lastBuildDate": "2026-04-23T09:37:01.713003",
     "items": [
+        {
+            "title": "Reliable Robotics raises funding for fully automated aircraft",
+            "link": "https://www.therobotreport.com/reliable-robotics-raises-funding-fully-automated-aircraft/",
+            "description": "Reliable Robotics has raised $160 million as it continues to develop and work toward FAA certification for its Reliable Autonomy System for civilian a...",
+            "pubDate": "2026-04-23T13:58:58",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/04/Reliable_Robotics_funding.jpg"
+        },
+        {
+            "title": "From EVs to robotics: Tesla targets 10M Optimus units with new Texas plant",
+            "link": "https://www.therobotreport.com/from-evs-to-robotics-tesla-targets-10m-optimus-units-with-new-texas-plant/",
+            "description": "Tesla begins Optimus production in Q2 2026, replacing Fremont’s legacy car lines, breaking ground in Texas as it scales toward a robotics-first future...",
+            "pubDate": "2026-04-22T22:49:12",
+            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/04/tesla-optimus-site-texas.jpg"
+        },
         {
             "title": "Cruz’ing through the terminal: A&K Robotics lands $8M for autonomous mobility",
             "link": "https://www.therobotreport.com/cruzing-through-the-terminal-ak-robotics-lands-8m-for-autonomous-mobility/",
@@ -24,20 +38,6 @@
             "description": "Healthcare robotics experts from Harvard, ForceN, Rovex Technologies, SKA Robotics, Aethon, MassRobotics, and more will speak at the show. The post Le...",
             "pubDate": "2026-04-22T17:54:23",
             "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/04/AdobeStock-healthcarerobot-featured.jpg"
-        },
-        {
-            "title": "Crewline secures $7.1M to automate construction’s most repetitive task",
-            "link": "https://www.therobotreport.com/crewline-secures-7-1m-to-automate-constructions-most-repetitive-task/",
-            "description": "Crewline automates construction rollers with retrofit kits, tackling labor shortages with a $7.1M seed round and $26M waitlist. The post Crewline secu...",
-            "pubDate": "2026-04-22T17:36:37",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/04/crewline-featured.jpg"
-        },
-        {
-            "title": "HII partners with Path Robotics, GrayMatter Robotics to accelerate shipbuilding",
-            "link": "https://www.therobotreport.com/hii-partners-path-robotics-graymatter-robotics-accelerate-shipbuilding/",
-            "description": "GrayMatter Robotics and Path Robotics are both deepening their existing relationship with HII, one of the country's leading shipbuilders. The post HII...",
-            "pubDate": "2026-04-22T13:30:22",
-            "image_url": "https://www.therobotreport.com/wp-content/uploads/2026/04/pathrobotics-featured.jpg"
         }
     ]
 }

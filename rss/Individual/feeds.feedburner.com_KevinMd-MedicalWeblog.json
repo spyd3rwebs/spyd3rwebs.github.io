@@ -2,42 +2,42 @@
     "title": "Individual feed for https://feeds.feedburner.com/KevinMd-MedicalWeblog",
     "link": "https://feeds.feedburner.com/KevinMd-MedicalWeblog",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-04-22T16:15:29.947013",
+    "lastBuildDate": "2026-04-23T09:39:39.793552",
     "items": [
         {
-            "title": "The deadly reality of eclampsia and maternal mortality in Nigeria",
-            "link": "https://kevinmd.com/2026/04/the-deadly-reality-of-eclampsia-and-maternal-mortality-in-nigeria.html",
-            "description": "Eclampsia is one of the most severe complications of pregnancy. It occurs when a woman with preeclampsia, a condition characterized by dangerously hig...",
-            "pubDate": "2026-04-22T12:00:18",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "title": "Gradually, then suddenly: Dr. Robert Wachter on health care’s giant AI leap [PODCAST]",
+            "link": "https://kevinmd.com/2026/04/gradually-then-suddenly-dr-robert-wachter-on-health-cares-giant-ai-leap-podcast.html",
+            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! What if the biggest problem with electronic health records was not th...",
+            "pubDate": "2026-04-23T00:00:28",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "Why cervical cancer screening drops after menopause, and why that’s dangerous [PODCAST]",
-            "link": "https://kevinmd.com/2026/04/why-cervical-cancer-screening-drops-after-menopause-and-why-thats-dangerous-podcast.html",
-            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! What if the moment women stop seeing their gynecologist is exactly wh...",
-            "pubDate": "2026-04-22T00:00:52",
+            "title": "The continuum of fertility care: Why IVF is not the only option",
+            "link": "https://kevinmd.com/2026/04/the-continuum-of-fertility-care-why-ivf-is-not-the-only-option.html",
+            "description": "At a time when one in five married American couples experience infertility, and one in three American men have a low sperm count, concerns around fert...",
+            "pubDate": "2026-04-22T22:00:13",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Physician autonomy is not separate from patient care",
+            "link": "https://kevinmd.com/2026/04/physician-autonomy-is-not-separate-from-patient-care.html",
+            "description": "Recently, I came across the Charter of the Soignés (“those being cared for”) by French physician and writer Martin Winckler from The School of Caregiv...",
+            "pubDate": "2026-04-22T21:00:33",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Why heart failure care requires spaced repetition for doctors",
+            "link": "https://kevinmd.com/2026/04/why-heart-failure-care-requires-spaced-repetition-for-doctors.html",
+            "description": "It is 4:50 p.m. on a Thursday. Your last patient is a 67-year-old with heart failure with reduced ejection fraction. He has been hospitalized twice th...",
+            "pubDate": "2026-04-22T20:00:11",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "How xenotransplantation could finally solve organ shortages",
-            "link": "https://kevinmd.com/2026/04/how-xenotransplantation-could-finally-solve-organ-shortages.html",
-            "description": "13 Americans will die today waiting for an organ transplant. That is a sobering line. Despite remarkable advances in transplantation medicine, the Uni...",
-            "pubDate": "2026-04-21T22:00:33",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "How medication-assisted treatment impacts oral health",
-            "link": "https://kevinmd.com/2026/04/how-medication-assisted-treatment-impacts-oral-health.html",
-            "description": "Medication-assisted treatment (MAT) helps manage withdrawal symptoms and cravings in individuals battling opioid addiction. Despite their effectivenes...",
-            "pubDate": "2026-04-21T20:00:31",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Physician-owned hospitals get a narrow CMS opening",
-            "link": "https://kevinmd.com/2026/04/physician-owned-hospitals-get-a-narrow-cms-opening.html",
-            "description": "You were told physician-owned hospitals were finished. That the 2010 legislation closing them out of Medicare was permanent. That if you wanted to own...",
-            "pubDate": "2026-04-21T18:00:09",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "51 cases that reframe methylene blue serotonin syndrome",
+            "link": "https://kevinmd.com/2026/04/51-cases-that-reframe-methylene-blue-serotonin-syndrome.html",
+            "description": "A patient walks into my office. She is 52, exhausted, brain-fogged, gaining weight, and six years into sertraline 100 mg. I mention methylene blue as ...",
+            "pubDate": "2026-04-22T19:00:58",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         }
     ]
 }

@@ -2,42 +2,42 @@
     "title": "Individual feed for https://money.com/money/feed/",
     "link": "https://money.com/money/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-04-22T16:10:56.692663",
+    "lastBuildDate": "2026-04-23T09:36:29.241761",
     "items": [
         {
-            "title": "How Much is an Emergency Vet Visit?",
-            "link": "https://money.com/how-much-is-an-emergency-vet-visit/?xid=moneyrss",
-            "description": "Money's guide of how much is an emergency vet visit.",
-            "pubDate": "2026-04-22T20:24:03",
-            "image_url": "https://img.money.com/2022/04/Fetch-Sponcon-How-Much-Emergency-Vet-Visit.jpg?quality=85"
+            "title": "StubHub to Refund $10 Million in Fees: Do You Qualify?",
+            "link": "https://money.com/ftc-stubhub-refunds-eligibility/?xid=moneyrss",
+            "description": "Exactly which fees will be refunded or how much individual consumers can expect to receive has yet to be disclosed.",
+            "pubDate": "2026-04-23T13:08:12",
+            "image_url": "https://img.money.com/2026/04/News-Stubhub-Refunds-Qualify.jpg?quality=85"
         },
         {
-            "title": "Research Finds Guaranteed Income in Retirement Can Actually Help You Live Longer",
-            "link": "https://money.com/annuity-income-longevity-study/?xid=moneyrss",
-            "description": "Guaranteed income in retirement may reduce stress and help retirees live longer, study suggests.",
-            "pubDate": "2026-04-22T20:10:57",
-            "image_url": "https://img.money.com/2026/04/News-Annuities-Live-Longer.jpg?quality=85"
+            "title": "My Mom Has $0 Saved for Retirement. Will I Be Responsible for Her Bills?",
+            "link": "https://money.com/mom-58-no-retirement-savings-401k-help/?xid=moneyrss",
+            "description": "Tyler End, a certified financial planner and co-founder of Retirable, says he's seen this type of situation before.",
+            "pubDate": "2026-04-23T01:17:24",
+            "image_url": "https://img.money.com/2026/01/Explainer-Mom-401k-58.jpg?quality=85"
         },
         {
-            "title": "What Happens If You Owe the IRS Thousands of Dollars",
-            "link": "https://money.com/owe-irs-thousands-of-dollars/?xid=moneyrss",
-            "description": "Penalties and interest can add up quickly.",
-            "pubDate": "2026-04-22T20:00:28",
-            "image_url": "https://img.money.com/2026/03/Explainer-IRS-owe-10k.jpg?quality=85"
+            "title": "3 Signs You’re Withdrawing Too Much From Your Retirement Accounts",
+            "link": "https://money.com/signs-youre-overspending-retirement/?xid=moneyrss",
+            "description": "If your withdrawals exceed portfolio growth or you're creeping into a higher tax bracket, it may be time to make a change.",
+            "pubDate": "2026-04-23T00:00:14",
+            "image_url": "https://img.money.com/2026/01/Explainer-Withdrawing-Retirement.jpg?quality=85"
         },
         {
-            "title": "These 3 Strategies Can Help Retirees Avoid a Big Portfolio Risk",
-            "link": "https://money.com/protect-retirement-savings-market-crash/?xid=moneyrss",
-            "description": "What you want to manage is sequence-of-returns risk, or the danger of a market downturn occurring shortly after retiring and forcing you to prematurel...",
-            "pubDate": "2026-04-22T17:15:25",
-            "image_url": "https://img.money.com/2026/04/Explainer-Risk-Retirement-Portfolio.jpg?quality=85"
+            "title": "The Hidden Tax Trap Waiting for Retirees — and How to Avoid It",
+            "link": "https://money.com/hidden-tax-trap-for-retirees/?xid=moneyrss",
+            "description": "Here's what you need to know about taxes on required minimum distributions (RMDs).",
+            "pubDate": "2026-04-22T23:00:24",
+            "image_url": "https://img.money.com/2025/12/Explainer-Tax-Trap-Retirees.jpg?quality=85"
         },
         {
-            "title": "How Much Does It Cost to Refinance a Mortgage?",
-            "link": "https://money.com/how-much-does-it-cost-to-refinance-mortgage/?xid=moneyrss",
-            "description": "Part of determining if a mortgage refinance is practical is weighing the balance between its benefits and costs.",
-            "pubDate": "2026-04-22T14:41:03",
-            "image_url": "https://img.money.com/2024/01/Explainer-Refinance-Mortgage-Cost.jpg?quality=85"
+            "title": "We Asked 19 Companies if They Plan to Give Customers Tariff Refunds. Only 3 Replied",
+            "link": "https://money.com/companies-giving-tariff-refunds/?xid=moneyrss",
+            "description": "Everyday people can't use the government's new tariff refund portal, but brands could share the wealth with customers. In theory.",
+            "pubDate": "2026-04-22T22:06:20",
+            "image_url": "https://img.money.com/2026/04/News-Company-Tariff-Refunds.jpg?quality=85"
         }
     ]
 }

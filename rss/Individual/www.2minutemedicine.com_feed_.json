@@ -2,8 +2,29 @@
     "title": "Individual feed for https://www.2minutemedicine.com/feed/",
     "link": "https://www.2minutemedicine.com/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-04-22T16:15:29.949118",
+    "lastBuildDate": "2026-04-23T09:39:39.795056",
     "items": [
+        {
+            "title": "Small-bites fascial closure reduces long-term risk of incisional hernia after midline laparotomy",
+            "link": "https://www.2minutemedicine.com/small-bites-fascial-closure-reduces-long-term-risk-of-incisional-hernia-after-midline-laparotomy/",
+            "description": "1. The small-bites fascial closure technique reduced the long-term incidence of incisional hernias compared to the traditional large-bites technique a...",
+            "pubDate": "2026-04-23T14:30:40",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/09/Suture_of_cesarean_edited-300x150.jpg"
+        },
+        {
+            "title": "TikTok “Fibermaxxing” trend targets gut microbiome health",
+            "link": "https://www.2minutemedicine.com/tiktok-fibermaxxing-trend-targets-gut-microbiome-health/",
+            "description": "1. The viral “Fibermaxxing” trend prioritizes high-volume whole-food fiber intake to optimize gut microbiome diversity and improve metabolic satiety. ...",
+            "pubDate": "2026-04-23T14:00:59",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2019/04/food-300x150.jpg"
+        },
+        {
+            "title": "Increased childhood intake of ultra-processed foods is associated with a higher body mass index in young adulthood",
+            "link": "https://www.2minutemedicine.com/increased-childhood-intake-of-ultra-processed-foods-is-associated-with-a-higher-body-mass-index-in-young-adulthood/",
+            "description": "1. Greater childhood intake of ultra-processed foods was associated with higher body mass index in young adulthood. 2. The association was most eviden...",
+            "pubDate": "2026-04-23T00:00:24",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2014/03/family_eating_fast_food-300x150.jpg"
+        },
         {
             "title": "The Scan by 2 Minute Medicine®: TikTok “Fibermaxxing” trend targets gut microbiome diversity, Jennifer Aniston’s “Strength for 50+” ritual spotlights photobiomodulation, American Lung Association issues respiratory warning over viral “mouth taping” fad, and Psychiatric Times highlights initiative to close the schizophrenia mortality gap",
             "link": "https://www.2minutemedicine.com/the-scan-by-2-minute-medicine-tiktok-fibermaxxing-trend-targets-gut-microbiome-diversity-jennifer-anistons-strength-for-50-ritual-spotlights-photobiomodulation-american-lung/",
@@ -17,27 +38,6 @@
             "description": "1. Pelvic floor workout reduced the incidence of stress urinary incontinence at 6 weeks postpartum. Evidence Rating Level: 1 (Excellent) Study Rundown...",
             "pubDate": "2026-04-22T16:00:53",
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2018/06/freestocks-org-71789-unsplash-300x150.jpg"
-        },
-        {
-            "title": "Increasing the volume of pericapsular nerve block may not improve postoperative pain control after total hip arthroplasty",
-            "link": "https://www.2minutemedicine.com/increasing-the-volume-of-pericapsular-nerve-block-may-not-improve-postoperative-pain-control-after-total-hip-arthroplasty/",
-            "description": "1. Higher-volume pericapsular nerve group block did not provide better postoperative analgesia than the conventional-volume block after primary total ...",
-            "pubDate": "2026-04-22T00:00:10",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2013/04/14538_lores-e1544028756500-300x150.jpg"
-        },
-        {
-            "title": "Physical therapy yields modest improvements in chronic low back pain",
-            "link": "https://www.2minutemedicine.com/physical-therapy-yields-modest-improvements-in-chronic-low-back-pain/",
-            "description": "1. In this randomized controlled trial, physical therapy (PT) was associated with a modest improvement in function compared with cognitive behavioural...",
-            "pubDate": "2026-04-21T04:30:18",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2016/01/exercisepreg_edited-300x150.jpg"
-        },
-        {
-            "title": "Proximal hypoglossal nerve stimulation found effective for obstructive sleep apnea",
-            "link": "https://www.2minutemedicine.com/proximal-hypoglossal-nerve-stimulation-found-effective-for-obstructive-sleep-apnea/",
-            "description": "1. In this randomized controlled trial, proximal hypoglossal nerve stimulation (pHGNS) was effective in improving obstructive sleep apnea (OSA) in adu...",
-            "pubDate": "2026-04-21T04:00:46",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/02/512px-Jackie_Martinez_in_BW_sleeping_with_a_book-300x200.jpg"
         }
     ]
 }

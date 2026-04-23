@@ -2,8 +2,22 @@
     "title": "Individual feed for https://gfmag.com/feed/",
     "link": "https://gfmag.com/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-04-22T16:10:56.693188",
+    "lastBuildDate": "2026-04-23T09:36:29.242221",
     "items": [
+        {
+            "title": "How Autonomous Treasury Fixes Slow Cash Checks",
+            "link": "https://gfmag.com/capital-raising-corporate-finance/how-autonomous-treasury-fixes-slow-cash-checks/",
+            "description": "The advent of autonomous treasury has ignited a competitive push, complete with aggressive industry targets. Not all companies will want to proceed at...",
+            "pubDate": "2026-04-23T11:34:05",
+            "image_url": "https://s44650.pcdn.co/wp-content/uploads/2026/04/John-Stevens-Headshot.jpeg"
+        },
+        {
+            "title": "Hungary: Crossroads Ahead",
+            "link": "https://gfmag.com/emerging-frontier-markets/hungary-crossroads-ahead/",
+            "description": "Hungary heads into a pivotal election this month with an improving economy but nagging questions about economic policy, governance, and FDI performanc...",
+            "pubDate": "2026-04-23T11:31:36",
+            "image_url": "https://s44650.pcdn.co/wp-content/uploads/2023/03/943985c3fb9b9d88a5df89add1bab1bd.jpg"
+        },
         {
             "title": "Private Credit Stress Test: What Breaks And What Holds",
             "link": "https://gfmag.com/private-credit/private-credit-stress-test-2026/",
@@ -23,21 +37,7 @@
             "link": "https://gfmag.com/executive-interviews/cfo-corner-iker-etxezarreta-fraile-faes-farma/",
             "description": "Faes Farma operates in 16 countries, with a China joint venture and 40+ licensing deals; Iker Etxezarreta Fraile became CFO last July. The post CFO Co...",
             "pubDate": "2026-04-21T11:06:19",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "World’s Best Investment Banks 2026: Good Times Fizzle Away",
-            "link": "https://gfmag.com/award/worlds-best-investment-banks-2026-good-times-fizzle-away/",
-            "description": "A buoyant 2025 has transformed into a precarious 2026 rife with geopolitical instability, including the largest oil shock in history. The post World’s...",
-            "pubDate": "2026-04-21T10:54:43",
-            "image_url": "https://s44650.pcdn.co/wp-content/uploads/2026/04/Hoolihan-Lockey-1-1024x576.png"
-        },
-        {
-            "title": "World’s Best Investment Banks: Global Winners",
-            "link": "https://gfmag.com/award/award-winners/worlds-best-investment-banks-global-winners/",
-            "description": "Explore the top investment banks of 2025, highlighting their achievements and contributions across key global categories in the industry. The post Wor...",
-            "pubDate": "2026-04-21T10:52:10",
-            "image_url": "https://public.flourish.studio/visualisation/28627395/thumbnail"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         }
     ]
 }

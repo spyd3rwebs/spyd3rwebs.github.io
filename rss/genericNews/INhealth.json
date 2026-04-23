@@ -1,0 +1,43 @@
+{
+    "title": "INhealth",
+    "link": "http://example.com/interleaved_feed.json",
+    "description": "This is a randomly ordered feed of the most recent entries from INhealth, skipping any feeds with errors.",
+    "lastBuildDate": "2026-04-23T09:38:50.936656",
+    "items": [
+        {
+            "title": "Wish You Could Fall Asleep In Seconds? This May Change Your Mind",
+            "link": "https://www.mindbodygreen.com/articles/wish-you-could-fall-asleep-in-seconds-this-may-change-your-mind-one-of-the-most-common",
+            "description": "One of the most common sleep myths...busted.",
+            "pubDate": "2026-04-23T10:49:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "How Women Can Prevent Injury While Weightlifting In Their 40s & Beyond",
+            "link": "https://www.mindbodygreen.com/articles/how-women-can-build-muscle-without-heavy-weights-and-avoid-injury-fractures-become",
+            "description": "Because certain fractures become much more common in perimenopause.",
+            "pubDate": "2026-04-23T11:26:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Researchers Analyzed 450k Diets — This Eating Habit Stood Out For Cancer Prevention",
+            "link": "https://www.mindbodygreen.com/articles/this-heart-healthy-diet-may-also-shield-you-from-cancer-heres-how-another-benefit-of-this",
+            "description": "Yet another benefit of this eating pattern",
+            "pubDate": "2026-04-23T11:12:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Nearly 70% Of Americans Are Deficient In This Mineral & Blood Tests Miss It",
+            "link": "https://www.mindbodygreen.com/articles/nearly-70-of-americans-are-deficient-in-this-mineral",
+            "description": "Plus, four tips to fix it.",
+            "pubDate": "2026-04-23T10:42:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "In Need Of Sun, Rest & Relaxation? (Who Isn't?) Try This Hotspot",
+            "link": "https://www.mindbodygreen.com/articles/wellness-travel-in-playa-del-carmen-mexico-hotels-restaurants",
+            "description": "Welcome to Playa del Carmen, Mexico's premier resort destination, located in the heart of the Riviera Maya.",
+            "pubDate": "2026-04-23T12:11:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        }
+    ]
+}

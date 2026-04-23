@@ -2,14 +2,14 @@
     "title": "Individual feed for https://www.onthisday.com/rss/today-in-history.xml",
     "link": "https://www.onthisday.com/rss/today-in-history.xml",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-04-22T16:08:55.219978",
+    "lastBuildDate": "2026-04-23T09:34:14.624688",
     "items": [
         {
-            "title": "Today in History for 22nd April 2026",
-            "link": "https://www.onthisday.com/day/april/22",
-            "description": "Historical Events 1601 - First expedition of the English East India Company to the Spice Islands of the Moluccas departs Torbay 1988 - Women are allow...",
-            "pubDate": "2026-04-22T05:02:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "title": "Today in History for 23rd April 2026",
+            "link": "https://www.onthisday.com/day/april/23",
+            "description": "Historical Events 1516 - Duke Wilhelm IV of Bavaria endorses \"The German Beer Purity Law\" (Reinheitsgebot) and adds to it standards for the sale of be...",
+            "pubDate": "2026-04-23T05:02:02",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         }
     ]
 }

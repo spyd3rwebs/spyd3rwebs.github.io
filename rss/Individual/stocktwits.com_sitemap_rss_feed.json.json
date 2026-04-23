@@ -2,42 +2,42 @@
     "title": "Individual feed for https://stocktwits.com/sitemap/rss_feed.xml",
     "link": "https://stocktwits.com/sitemap/rss_feed.xml",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-04-22T16:10:56.688125",
+    "lastBuildDate": "2026-04-23T09:36:29.237380",
     "items": [
         {
-            "title": "SNDK Tops S&P 500 Amid Optimism Around DRAM ETF’s $1B AUM",
-            "link": "https://stocktwits.com/news-articles/markets/equity/sndk-tops-s-and-p-500-amid-optimism-around-dram-etf-s-1-b-aum/cZBBCWRRebJ",
-            "description": "SanDisk stock surges on optimism around Nasdaq-100 and DRAM ETF.",
-            "pubDate": "2026-04-22T20:10:42",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "UAL Goes Silent On Airline Merger Speculation Following AAL Snub",
-            "link": "https://stocktwits.com/news-articles/markets/equity/ual-goes-silent-on-airline-merger-speculation-following-aal-snub/cZBBCayReb7",
-            "description": "A Bloomberg report earlier this month said that Kirby has floated a possible combination with American with senior government officials.",
-            "pubDate": "2026-04-22T20:07:26",
+            "title": "ZenaTech Registers Phoenix Aero LLC in Ukraine and Establishes Lviv as Base for its Counter-UAS and Interceptor Drone Systems Manufacturing and Testing",
+            "link": "https://stocktwits.com/news-articles/business/others/zena-tech-registers-phoenix-aero-llc-in-ukraine-and-establishes-lviv-as-base-for-its-counter-uas-and-interceptor-drone-systems-manufacturing-and-testing/cZBfU4gReRf",
+            "description": "",
+            "pubDate": "2026-04-23T14:20:37",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "Tradr Set to Launch Inverse ETFs on Lumentum and Sandisk",
-            "link": "https://stocktwits.com/news-articles/business/others/tradr-set-to-launch-inverse-et-fs-on-lumentum-and-sandisk/cZBByffRebe",
+            "title": "Crypto Is a Casino – Bitcoin's Collapse Is ‘Inevitable’ As Transfusions Run Out, Says Industry Insider",
+            "link": "https://stocktwits.com/news-articles/markets/cryptocurrency/crypto-is-a-casino-bitcoin-collapse-is-inevitable-as-transfusions-run-out/cZBfUT4ReRO",
+            "description": "The founder of CoinEx and ViaBTC said the 2028 halving will be the real test for Bitcoin, especially if it fails to reach a new high after the event.",
+            "pubDate": "2026-04-23T14:15:29",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Tradr Debuts Short ETFs on Lumentum and Sandisk",
+            "link": "https://stocktwits.com/news-articles/business/others/tradr-debuts-short-et-fs-on-lumentum-and-sandisk/cZBfxUPReRa",
             "description": "",
-            "pubDate": "2026-04-22T19:31:24",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+            "pubDate": "2026-04-23T14:10:28",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "EXCLUSIVE: POET Stock Rallies To Near 11-Year High – Wolfpack Says Market Will ‘Render Its Verdict‘ By 2027",
-            "link": "https://stocktwits.com/news-articles/markets/equity/poet-stock-rallies-to-11-year-high-wolfpack-says-market-verdict-in-2027/cZBBUqlRebI",
-            "description": "Wolfpack Research told Stockwits that releasing its findings before the April 15 tax deadline was intended to help shareholders avoid the need to file...",
-            "pubDate": "2026-04-22T19:08:44",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "title": "TXN Stock Extends Gains To 6th Consecutive Week — Why Are Analysts Bullish?",
+            "link": "https://stocktwits.com/news-articles/markets/equity/txn-stock-extends-gains-6th-week-analysts-bullish/cZBfwaLReRe",
+            "description": "Strong earnings and guidance from Texas Instruments sparked a wave of analyst upgrades and price target hikes.",
+            "pubDate": "2026-04-23T13:09:42",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         },
         {
-            "title": "Why Is TORO Stock Surging Today?",
-            "link": "https://stocktwits.com/news-articles/markets/equity/why-is-toro-stock-surging-today-april-21/cZBBxezReb4",
-            "description": "The company declared a special dividend, which is taxable and payable in cash or stock.",
-            "pubDate": "2026-04-22T18:50:41",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "title": "Bitcoin’s $80K Problem Ahead: Over Half Of Short-Term BTC Holders Are About To Hit A Profit Zone",
+            "link": "https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-is-burning-4-4-million-in-profit-every-hour-warning-sign/cZBfwdiReRI",
+            "description": "A move toward $80,000 would push more than 54% of recent buyers into profit, a level that has historically coincided with the exhaustion of bear marke...",
+            "pubDate": "2026-04-23T13:03:23",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         }
     ]
 }

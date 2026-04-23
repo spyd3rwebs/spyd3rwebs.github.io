@@ -2,42 +2,42 @@
     "title": "Individual feed for https://www.cbsnews.com/latest/rss/main",
     "link": "https://www.cbsnews.com/latest/rss/main",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-04-22T16:11:03.478461",
+    "lastBuildDate": "2026-04-23T09:36:37.476453",
     "items": [
         {
-            "title": "Watch: RFK Jr. accuses Sen. Blunt Rochester of grandstanding when asked about measles",
-            "link": "https://www.cbsnews.com/video/watch-rfk-jr-accuses-sen-blunt-rochester-of-grandstanding-when-asked-about-measles/",
-            "description": "Sen. Lisa Blunt Rochester had a pointed line of questioning with HHS Secretary Robert F. Kennedy Jr. on Wednesday about his response to measles outbre...",
-            "pubDate": "2026-04-22T20:46:17",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "What are today's HELOC and home equity loan interest rates?",
+            "link": "https://www.cbsnews.com/news/todays-heloc-and-home-equity-loan-interest-rates/",
+            "description": "HELOCs and home equity loans offer homeowners an affordable way to borrow money now. Here are the rates for each.",
+            "pubDate": "2026-04-23T14:25:11",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "Rep. David Scott, longtime Georgia lawmaker, dead at 80",
-            "link": "https://www.cbsnews.com/news/rep-david-scott-longtime-georgia-lawmaker-dead-at-80/",
-            "description": "U.S. Rep. David Scott, who represented Georgia's 13th District for over two decades, has died at 80 years old.",
-            "pubDate": "2026-04-22T20:40:37",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "How Big Brothers Big Sisters has helped provide opportunity, mentorship to millions",
+            "link": "https://www.cbsnews.com/video/how-big-brothers-big-sisters-has-helped-provide-opportunity-mentorship-to-millions/",
+            "description": "In the series \"USA to Z,\" \"CBS Mornings\" looks at how the nonprofit Big Brothers Big Sisters of America has provided opportunities and mentorship for ...",
+            "pubDate": "2026-04-23T14:23:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "Watch: Sen. Maggie Hassan has heated exchange with RFK Jr. about grocery prices, pesticides",
-            "link": "https://www.cbsnews.com/video/watch-sen-maggie-hassan-rfk-jr-about-grocery-prices/",
-            "description": "Sen. Maggie Hassan slammed HHS Secretary Robert F. Kennedy Jr. on Wednesday over high grocery prices and Kennedy's position on the herbicide glyphosat...",
-            "pubDate": "2026-04-22T20:38:18",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "title": "\"A breaking point\": Inside the 68-day DHS shutdown",
+            "link": "https://www.cbsnews.com/news/dhs-shutdown-breaking-point/",
+            "description": "In a department built to respond to catastrophic threats, employees have been reduced to bartering for office supplies.",
+            "pubDate": "2026-04-23T14:20:15",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "Iran attacks ships in Strait of Hormuz after Trump extends ceasefire",
-            "link": "https://www.cbsnews.com/live-updates/iran-war-trump-ceasefire-strait-hormuz-ship-attacked-us-military-buildup/",
-            "description": "Iran renews attacks in the Strait of Hormuz after Trump says he's extending a ceasefire indefinitely, as thousands more U.S. forces head for the regio...",
-            "pubDate": "2026-04-22T20:30:48",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Virginia voters approve new congressional map favoring Democrats, CBS News projects",
-            "link": "https://www.cbsnews.com/news/virginia-redistricting-results-gerrymandering/",
-            "description": "Virginia voters on Tuesday approved a new congressional map that would give Democrats an advantage in 10 House districts, leaving just one safe Republ...",
-            "pubDate": "2026-04-22T20:25:25",
+            "title": "What are today's mortgage and mortgage refinance interest rates?",
+            "link": "https://www.cbsnews.com/news/what-are-todays-mortgage-and-mortgage-refinance-interest-rates/",
+            "description": "Knowing today's mortgage rates can help new homebuyers and homeowners looking to lock in a good deal.",
+            "pubDate": "2026-04-23T14:20:02",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "What is the price of silver today?",
+            "link": "https://www.cbsnews.com/news/what-is-the-price-of-silver-today/",
+            "description": "Silver can play a critical role in a diversified portfolio. Here's how much it costs per ounce right now.",
+            "pubDate": "2026-04-23T14:18:12",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
         }
     ]
 }

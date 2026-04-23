@@ -1,10 +1,10 @@
-Title: briefUpdatesMainNLbreakingNews
+Title: summarizedStoriesMainNLbreakingNews
 https://abcnews.go.com/abcnews/topstories
 https://lead-mark.github.io/snippets/APUSnews.RSS
 https://www.yahoo.com/news/rss
 https://www.cbsnews.com/latest/rss/main
 
-Title: briefUpdatesMainNLhealthAndWellness
+Title: summarizedStoriesMainNLhealthAndWellness
 https://lead-mark.github.io/snippets/WebMD.RSS
 https://feeds.feedburner.com/KevinMd-MedicalWeblog
 https://www.medscape.com/cx/rssfeeds/2700.xml
@@ -12,61 +12,61 @@ https://medicalxpress.com/rss-feed/
 https://www.physiciansweekly.com/feed/
 https://www.2minutemedicine.com/feed/
 
-Title: briefUpdatesMainNLbusinessAndMarkets
+Title: summarizedStoriesMainNLbusinessAndMarkets
 https://www.inc.com/rss/
 https://www.fastcompany.com/latest/rss
 https://fortune.com/feed/fortune-feeds/?id=3230629
 http://feeds.marketwatch.com/marketwatch/bulletins
 
-Title: briefUpdatesMainNLscienceAndDiscovery
+Title: summarizedStoriesMainNLscienceAndDiscovery
 https://new.nsf.gov/rss/rss_www_news.xml
 https://www.sciencedaily.com/rss/top/science.xml
 
-Title: briefUpdatesMainNLpolitics
+Title: summarizedStoriesMainNLpolitics
 https://api.axios.com/feed/
 https://www.immigrationreform.com/feed/
 https://rss.politico.com/economy.xml
 
-Title: briefUpdatesPoliticsOffshootNL
+Title: summarizedStoriesPoliticsOffshootNL
 https://feeds.a.dj.com/rss/RSSWSJD.xml
 https://feeds.washingtonpost.com/rss/politics
 https://api.axios.com/feed/
 https://rss.politico.com/economy.xml
 
-Title: briefUpdatesBreakingOffshootNL
+Title: summarizedStoriesBreakingOffshootNL
 https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
 https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/world/rss.xml
 https://feeds.npr.org/1001/rss.xml
 
-Title: briefUpdatesHealthOffshootNL
+Title: summarizedStoriesHealthOffshootNL
 https://khn.org/feed
 https://thehealthcareblog.com/feed
 https://www.npr.org/rss/rss.php?id=1128
 
-Title: theBalancedBriefNLhealthAndWellness
+Title: bothSidesHeadlinesNLhealthAndWellness
 https://medicalxpress.com/rss-feed/
 https://www.physiciansweekly.com/feed/
 https://chriskresser.com/feed
 
-Title: theBalancedBriefNLbreakingNews
+Title: bothSidesHeadlinesNLbreakingNews
 https://www.yahoo.com/news/rss
 https://abcnews.go.com/abcnews/usheadlines
 
-Title: theBalancedBriefNLtech
+Title: bothSidesHeadlinesNLtech
 https://www.wired.com/feed/rss
 https://techcrunch.com/feed/
 
-Title: theBalancedBriefNLmoneyAndMarkets
+Title: bothSidesHeadlinesNLmoneyAndMarkets
 https://feeds.a.dj.com/rss/RSSMarketsMain.xml
 https://www.allbusiness.com/feeds/feed.rss
 https://feeds.content.dowjones.io/public/rss/mw_topstories
 
-Title: theBalancedBriefNLmindYourBusiness
+Title: bothSidesHeadlinesNLmindYourBusiness
 https://smallbiztrends.com/feed/
 https://www.forbes.com/innovation/feed2
 https://seths.blog/feed/
 
-Title: SevenAtSevenSection1
+Title: morningNewsSection1
 https://techcrunch.com/feed/
 https://lead-mark.github.io/snippets/APUSnews.RSS
 https://biggerpockets.com/blog/feed
@@ -95,7 +95,7 @@ https://www.theguardian.com/world/rss
 
 Title: Tech
 https://techcrunch.com/feed/
-https://lead-mark.github.io/snippets/InboxNews/INtech.xml
+https://lead-mark.github.io/snippets/genericNews/GNtech.xml
 
 Title: Health
 https://lead-mark.github.io/snippets/WebMD.RSS
@@ -111,17 +111,17 @@ Title: Entertainment
 https://feeds-api.dotdashmeredith.com/v1/rss/google/79365970-e87d-4fb6-966a-1c657b08f44f
 https://www.tmz.com/rss.xml
 
-Title: LCallDR
+Title: PNallDR
 https://redstate.com/feed
 https://www.newsmax.com/rss/Politics/1/
 https://moxie.foxnews.com/google-publisher/politics.xml
 
-Title: MBallSectionsDR
+Title: FMallSectionsDR
 https://www.washingtontimes.com/rss/headlines/news/politics/
 https://www.nationalreview.com/feed/
 https://thefederalist.com/feed/
 
-Title: mbAInewsletter
+Title: FMaInewsletter
 https://fortune.com/feed/fortune-feeds/?id=3230629
 http://feeds.marketwatch.com/marketwatch/bulletins
 https://feeds.a.dj.com/rss/RSSWSJD.xml
@@ -154,13 +154,13 @@ https://www.finance-monthly.com/feed/
 https://dealbreaker.com/.rss/full/
 https://www.worldfinance.com/feed
 
-Title: BUbreakingHeadlines
+Title: SSbreakingHeadlines
 https://abcnews.go.com/abcnews/topstories
 https://lead-mark.github.io/snippets/APUSnews.RSS
 https://www.yahoo.com/news/rss
 https://www.cbsnews.com/latest/rss/main
 
-Title: SevenAtSevenLastSection
+Title: morningNewsLastSection
 https://bookriot.com/feed/
 https://childandfamilyblog.com/feed/
 https://lead-mark.github.io/snippets/WebMD.RSS
@@ -170,20 +170,20 @@ https://www.younghouselove.com/feed/
 https://www.themarshallproject.org/rss/recent.rss
 https://juliaberolzheimer.com/feed/
 
-Title: SevenAtSevenSportsAndEntertainment
+Title: morningNewsSportsAndEntertainment
 https://www.tmz.com/rss.xml
 https://lead-mark.github.io/snippets/ScreenRantMovies.RSS
 https://www.eonline.com/syndication/feeds/rssfeeds/topstories.xml
 
-Title: INartsAndEnt
+Title: GNartsAndEnt
 https://www.tmz.com/rss.xml
 https://lead-mark.github.io/snippets/ScreenRantMovies.RSS
 
-Title: INfood
+Title: GNfood
 https://minimalistbaker.com/feed/
 https://therecipecritic.com/feed/
 
-Title: INtravel
+Title: GNtravel
 https://thepointsguy.com/feed/
 
 Title: INtopBackup
@@ -193,35 +193,35 @@ https://feeds.npr.org/1001/rss.xml
 https://www.cbsnews.com/latest/rss/main
 
 Title: INall
-https://lead-mark.github.io/snippets/InboxNews/INartsAndEnt.xml
-https://lead-mark.github.io/snippets/InboxNews/INfinance.xml
-https://lead-mark.github.io/snippets/InboxNews/INhealth.xml
-https://lead-mark.github.io/snippets/InboxNews/INtech.xml
-https://lead-mark.github.io/snippets/InboxNews/INtravel.xml
+https://lead-mark.github.io/snippets/genericNews/GNartsAndEnt.xml
+https://lead-mark.github.io/snippets/genericNews/GNfinance.xml
+https://lead-mark.github.io/snippets/genericNews/INhealth.xml
+https://lead-mark.github.io/snippets/genericNews/GNtech.xml
+https://lead-mark.github.io/snippets/genericNews/GNtravel.xml
 
-Title: BUbuisnessAndMarket
+Title: SSbusinessAndMarket
 https://fortune.com/feed/fortune-feeds/?id=3230629
 http://feeds.marketwatch.com/marketwatch/bulletins
 
-Title: BUscience
+Title: SSscience
 https://new.nsf.gov/rss/rss_www_news.xml
 https://www.sciencedaily.com/rss/top/science.xml
 
-Title: BUbreakingSectionTwo
+Title: SSbreakingSectionTwo
 https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
 https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/world/rss.xml
 https://fortune.com/feed/fortune-feeds/?id=3230629
 
-Title: TGaceAllStories
+Title: HFaceAllStories
 https://ragingbull.com/feed/
 https://feeds.content.dowjones.io/public/rss/mw_topstories
 https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=15839069
 
-Title: TGRoss
+Title: HFRoss
 https://stocksurgedaily.com/feed/
 https://stocksurgedaily.com/feed/
 
-Title: INsmh
+Title: WNwildNews
 https://lead-mark.github.io/snippets/APweirdnews.xml
 https://lead-mark.github.io/snippets/weird_news.rss
 https://feeds.feedburner.com/OddityCentral
@@ -250,17 +250,17 @@ Title: SFM
 https://finance.yahoo.com/news/rssindex
 https://feeds.a.dj.com/rss/RSSMarketsMain.xml
 
-Title: MYB
+Title: BSHmindYourBusiness
 https://www.forbes.com/innovation/feed2
 https://seths.blog/feed/
 
-Title: BUpolitics
+Title: SSpolitics
 https://www.immigrationreform.com/feed/
 https://rss.politico.com/economy.xml
 https://feeds.a.dj.com/rss/RSSWSJD.xml
 https://www.washingtontimes.com/rss/headlines/news/politics/
 
-Title: SevenAtSevenPolitics
+Title: morningNewsPolitics
 https://blogs.cfainstitute.org/investor/feed/
 https://moxie.foxnews.com/google-publisher/politics.xml
 https://fortune.com/feed/fortune-feeds/?id=3230629
@@ -268,15 +268,15 @@ https://www.washingtontimes.com/rss/headlines/news/politics/
 https://www.nationalreview.com/feed/
 https://thefederalist.com/feed/
 
-Title: BUhealthAndWellness
+Title: SShealthAndWellness
 https://lead-mark.github.io/snippets/WebMD.RSS
 https://www.mindbodygreen.com/rss/featured.xml
 
-Title: INtech
+Title: GNtech
 https://www.wired.com/feed/rss
 https://techcrunch.com/feed/
 
-Title: INmaster
+Title: GNmaster
 https://feeds.content.dowjones.io/public/rss/mw_marketpulse
 https://minimalistbaker.com/feed/
 https://therecipecritic.com/feed/
@@ -292,7 +292,7 @@ https://lead-mark.github.io/snippets/WebMD.RSS
 https://www.nothankstocake.com/feed/
 https://www.mindbodygreen.com/rss/featured.xml
 
-Title: INfinance
+Title: GNfinance
 https://feeds.a.dj.com/rss/RSSMarketsMain.xml
 https://feeds.content.dowjones.io/public/rss/mw_topstories
 

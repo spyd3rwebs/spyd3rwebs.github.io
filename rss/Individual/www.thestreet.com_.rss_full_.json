@@ -2,42 +2,42 @@
     "title": "Individual feed for https://www.thestreet.com/.rss/full/",
     "link": "https://www.thestreet.com/.rss/full/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-04-22T16:10:56.692221",
+    "lastBuildDate": "2026-04-23T09:36:29.241292",
     "items": [
         {
-            "title": "Amazon's chic faux leather sofa drops by 38%",
-            "link": "https://www.thestreet.com/deals/vesgantti-100-faux-leather-sofa-amazon-sale",
-            "description": "\"The movable ottoman makes it easy to change the layout.\"",
-            "pubDate": "2026-04-22T21:03:00",
-            "image_url": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAyODQ0NzM3/amazon-logo.jpg?io=1&profile=rss"
+            "title": "Another airline shuts down after losing license, all flights off",
+            "link": "https://www.thestreet.com/travel/another-airline-shuts-down-after-losing-license-all-flights-off",
+            "description": "Between the jet fuel crisis and the regular challenges that have been plaguing many smaller airlines over the last year, many have been forced to shut...",
+            "pubDate": "2026-04-23T14:34:54",
+            "image_url": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAyODI3NjE4/commercial-airplane-lead.jpg?io=1&profile=rss"
         },
         {
-            "title": "Airline CEOs warn that era of affordable air travel might be over",
-            "link": "https://www.thestreet.com/markets/airline-ceos-warn-that-era-of-affordable-air-travel-might-be-over",
-            "description": "A $49 one-way from Chicago to Los Angeles on a budget carrier. A $299 round trip flight from San Francisco to New York City. A $399 transatlantic flig...",
-            "pubDate": "2026-04-22T20:36:55",
-            "image_url": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAyOTM4OTU4/united-airlines.jpg?io=1&profile=rss"
+            "title": "Buffalo Wild Wings closes restaurants across the U.S. in 2026",
+            "link": "https://www.thestreet.com/restaurants/buffalo-wild-wings-closes-restaurants-across-the-u-s-in-2026",
+            "description": "Buffalo Wild Wings has long been part of game day traditions nationwide, where TVs line the walls, crowds gather for major matchups, and wings often a...",
+            "pubDate": "2026-04-23T14:33:00",
+            "image_url": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAyOTUwNjY5/buffalo-wild-wings_ft_04222026.jpg?io=1&profile=rss"
         },
         {
-            "title": "Alaska Airlines flags tough quarter but sees steady travel demand",
-            "link": "https://www.thestreet.com/travel/alaska-airlines-flags-tough-quarter-but-sees-steady-travel-demand",
-            "description": "If you've booked a flight lately, you probably saw higher fares and fewer “too good to be true” deals than you did a few years ago. You might assume t...",
-            "pubDate": "2026-04-22T20:33:48",
-            "image_url": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAyOTUwMDMw/burbank-california-april-20-an-alaska-airlines-plane-takes-off-from-hollywood-burbank-airport-on-april-20-2026-in-burbank-california-alaska-airlines-will-report-first-quarter-earnings-today-after-the-.jpg?io=1&profile=rss"
+            "title": "Verizon CEO sends blunt warning on future of jobs after layoffs",
+            "link": "https://www.thestreet.com/employment/verizon-ceo-sends-blunt-warning-on-future-of-jobs-after-layoffs",
+            "description": "Months after Verizon cut thousands of jobs, its CEO is now warning that a growing force will reshape the job market.",
+            "pubDate": "2026-04-23T14:17:00",
+            "image_url": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAyOTUwNDYz/dan-schulman-chief-executive-officer-of-verizon-at-the-semafor-world-economy-summit-during-the-international-monetary-fund-imf-and-world-bank-spring-meetings-in-washington-dc-us-on-wednesday-april-15-.jpg?io=1&profile=rss"
         },
         {
-            "title": "Morgan Stanley exposes hidden threats to wealth",
-            "link": "https://www.thestreet.com/personal-finance/morgan-stanley-exposes-hidden-threats-to-wealth",
-            "description": "Most investors focus on market swings, but some of the biggest financial risks don’t come from Wall Street. Across client portfolios, a pattern has em...",
-            "pubDate": "2026-04-22T20:17:00",
-            "image_url": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAyOTQ5NTgz/morgan-stanley-office.jpg?io=1&profile=rss"
+            "title": "Michael Kors Outlet dropped luxury Mother's Day gifts",
+            "link": "https://www.thestreet.com/deals/mothers-day-gifts-michael-kors-outlet-sale",
+            "description": "Shop stylish bags and accessories before they're gone.",
+            "pubDate": "2026-04-23T14:15:00",
+            "image_url": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAyODExNTAy/michael-kors-logo.jpg?io=1&profile=rss"
         },
         {
-            "title": "Craftsman's cordless fan that cools for 24+ hours is $59, its lowest price all year",
-            "link": "https://www.thestreet.com/deals/craftsman-v20-max-cordless-fan-amazon-sale",
-            "description": "\"We love how it works with our current Craftsman V20 batteries.\"",
-            "pubDate": "2026-04-22T20:15:00",
-            "image_url": "https://www.thestreet.com/.image/MTY3NTQxMzE0NjM1MTc5Mzk5/craftsman-logo.jpg?io=1&profile=rss"
+            "title": "6 Travel Red Flags For Your Credit Card",
+            "link": "https://www.thestreet.com/personal-finance/6-travel-red-flags-for-your-credit-card",
+            "description": "I remember the moment clearly. I was in the Nike store at the Orlando International Premium Outlets on the tail-end of a vacation that took us down th...",
+            "pubDate": "2026-04-23T14:03:00",
+            "image_url": "https://www.thestreet.com/.image/MTgwOTg2ODczNTAwNDExMjQw/retail_051321_4.jpg?io=1&profile=rss"
         }
     ]
 }

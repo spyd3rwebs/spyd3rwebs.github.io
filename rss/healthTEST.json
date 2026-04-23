@@ -2,28 +2,119 @@
     "title": "healthTest",
     "link": "http://example.com/interleaved_feed.json",
     "description": "This is a randomly ordered feed of the most recent entries from healthTest, skipping any feeds with errors.",
-    "lastBuildDate": "2026-04-22T16:15:29.943179",
+    "lastBuildDate": "2026-04-23T09:39:39.789460",
     "items": [
         {
-            "title": "Trump administration delays rule aimed at improving disability access in schools",
-            "link": "https://www.npr.org/2026/04/22/nx-s1-5791680/doj-disability-web-access-delay-schools",
-            "description": "Schools, colleges and other public institutions originally had until this week to make online content accessible to people with disabilities. Now, the...",
-            "pubDate": "2026-04-22T10:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F19%2F2a%2Fdfe1d5a74303a0bd2bd6e3214f05%2Fkst-20260322-0818.jpg"
+            "title": "Sycophantic AI flatters and suggests you are not to blame",
+            "link": "https://www.npr.org/2026/04/23/nx-s1-5792867/ai-chatbot-flattery-mental-health-risks",
+            "description": "The AI models and chatbots that we interact with tend to affirm our feelings and viewpoints — more so than people do, with potentially worrisome conse...",
+            "pubDate": "2026-04-23T11:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1718x1288+168+65/resize/1718x1288!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F05%2Fa4%2Fdbe0180f446581675d570e7f4b74%2Fgettyimages-2182063851.jpg"
         },
         {
-            "title": "The Scan by 2 Minute Medicine®: TikTok “Fibermaxxing” trend targets gut microbiome diversity, Jennifer Aniston’s “Strength for 50+” ritual spotlights photobiomodulation, American Lung Association issues respiratory warning over viral “mouth taping” fad, and Psychiatric Times highlights initiative to close the schizophrenia mortality gap",
-            "link": "https://www.2minutemedicine.com/the-scan-by-2-minute-medicine-tiktok-fibermaxxing-trend-targets-gut-microbiome-diversity-jennifer-anistons-strength-for-50-ritual-spotlights-photobiomodulation-american-lung/",
-            "description": "The Scan by 2 Minute Medicine® is a pharmaceutical and biotech newsletter and exclusive benefit for 2 Minute Medicine Plus subscribers. TikTok “Fiberm...",
-            "pubDate": "2026-04-22T17:43:18",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2022/09/the-scan_logo_2022-09-06-2-e1662468176454-300x150.png"
+            "title": "Two startlingly different views on long-awaited data on America's anti-HIV efforts",
+            "link": "https://www.npr.org/2026/04/23/g-s1-118221/hiv-aids-pepfar-trump-foreign-aid",
+            "description": "After a year without data, the State Department released figures on PEPFAR, the program launched by George W. Bush and credited with saving millions o...",
+            "pubDate": "2026-04-23T11:51:12",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8259x5506+0+0/resize/8259x5506!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F65%2Fd3%2Fe2d926d44f978d61058f3ad42656%2Fzambia-portraits-307.jpg"
         },
         {
-            "title": "Increasing the volume of pericapsular nerve block may not improve postoperative pain control after total hip arthroplasty",
-            "link": "https://www.2minutemedicine.com/increasing-the-volume-of-pericapsular-nerve-block-may-not-improve-postoperative-pain-control-after-total-hip-arthroplasty/",
-            "description": "1. Higher-volume pericapsular nerve group block did not provide better postoperative analgesia than the conventional-volume block after primary total ...",
-            "pubDate": "2026-04-22T00:00:10",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2013/04/14538_lores-e1544028756500-300x150.jpg"
+            "title": "TikTok “Fibermaxxing” trend targets gut microbiome health",
+            "link": "https://www.2minutemedicine.com/tiktok-fibermaxxing-trend-targets-gut-microbiome-health/",
+            "description": "1. The viral “Fibermaxxing” trend prioritizes high-volume whole-food fiber intake to optimize gut microbiome diversity and improve metabolic satiety. ...",
+            "pubDate": "2026-04-23T14:00:59",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2019/04/food-300x150.jpg"
+        },
+        {
+            "title": "Increased childhood intake of ultra-processed foods is associated with a higher body mass index in young adulthood",
+            "link": "https://www.2minutemedicine.com/increased-childhood-intake-of-ultra-processed-foods-is-associated-with-a-higher-body-mass-index-in-young-adulthood/",
+            "description": "1. Greater childhood intake of ultra-processed foods was associated with higher body mass index in young adulthood. 2. The association was most eviden...",
+            "pubDate": "2026-04-23T00:00:24",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2014/03/family_eating_fast_food-300x150.jpg"
+        },
+        {
+            "title": "Small-bites fascial closure reduces long-term risk of incisional hernia after midline laparotomy",
+            "link": "https://www.2minutemedicine.com/small-bites-fascial-closure-reduces-long-term-risk-of-incisional-hernia-after-midline-laparotomy/",
+            "description": "1. The small-bites fascial closure technique reduced the long-term incidence of incisional hernias compared to the traditional large-bites technique a...",
+            "pubDate": "2026-04-23T14:30:40",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/09/Suture_of_cesarean_edited-300x150.jpg"
+        },
+        {
+            "title": "High levels of gut bacterial toxin trigger lupus nephritis",
+            "link": "https://medicalxpress.com/news/2026-04-high-gut-bacterial-toxin-trigger.html",
+            "description": "The body's immune reaction to increased levels of a toxic molecule, part of a bacterial species in the human gut, may reveal who is most at risk of de...",
+            "pubDate": "2026-04-23T05:00:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "FXIa Inhibitor Hits Mark in Recurrent Stroke Prevention",
+            "link": "https://www.medscape.com/viewarticle/factor-xia-inhibitor-hits-mark-secondary-stroke-prevention-2026a1000cwm?src=rss",
+            "description": "Full results from the OCEANIC-STROKE trial show a 26% reduction in recurrent stroke with the factor XIa inhibitor asundexian, with no increased bleedi...",
+            "pubDate": "2026-04-23T13:52:16",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Minimally invasive percutaneous arterial bypass shows strong outcome regardless of distal vessel flow",
+            "link": "https://medicalxpress.com/news/2026-04-minimally-invasive-percutaneous-arterial-bypass.html",
+            "description": "New findings from a DETOUR2 substudy show that minimally invasive percutaneous transmural arterial bypass (PTAB) may offer a promising alternative to ...",
+            "pubDate": "2026-04-23T14:04:29",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Imaging Beats Palpation for Skin Cancer Staging",
+            "link": "https://www.medscape.com/viewarticle/imaging-beats-physical-exam-lymph-node-metastases-high-risk-2026a1000cvz?src=rss",
+            "description": "Ultrasonography and CT beat physical exam for nodal metastasis detection in patients with high-risk skin cancer but show poor sensitivity in immunosup...",
+            "pubDate": "2026-04-23T13:17:28",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Laser Pretreatment Boosts Actinic Keratosis Clearance",
+            "link": "https://www.medscape.com/viewarticle/laser-assisted-daylight-photodynamic-therapy-achieves-higher-2026a1000ch7?src=rss",
+            "description": "Ablative fractional laser-assisted daylight photodynamic therapy can achieve higher sustained lesion-specific clearance than daylight photodynamic the...",
+            "pubDate": "2026-04-23T13:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Activity may be safer than thought for children with cardiomyopathy or ICDs",
+            "link": "https://medicalxpress.com/news/2026-04-safer-thought-children-cardiomyopathy-icds.html",
+            "description": "Physical activity in children and teenagers with cardiomyopathy (conditions that affect the heart muscle's structure and function, impairing its abili...",
+            "pubDate": "2026-04-23T14:13:18",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "'Leave-nothing-behind' strategy works as well as drug-eluting stent for heart attack and chest pain patients",
+            "link": "https://medicalxpress.com/news/2026-04-strategy-drug-eluting-stent-heart.html",
+            "description": "A new sub-study suggests that using a sirolimus-eluting balloon (SEB), a drug-coated balloon, can reduce the number of stents a patient may need, maki...",
+            "pubDate": "2026-04-23T14:20:04",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Mobile Lifestyle App Keeps Weight Down in Pregnant Moms",
+            "link": "https://www.medscape.com/viewarticle/mobile-lifestyle-app-keeps-weight-down-pregnant-moms-2026a1000cva?src=rss",
+            "description": "Delivery of the program needs rethinking because only about half of patients opt to use digital weight management. Medscape Medical News",
+            "pubDate": "2026-04-23T13:20:54",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "His Cancer Diagnosis in Medical School Changed Everything",
+            "link": "https://www.medscape.com/viewarticle/his-cancer-diagnosis-medical-school-changed-everything-2026a1000cvd?src=rss",
+            "description": "A childhood diagnosis inspired Hunter Bohon to go into medicine. A cancer diagnosis at 26 changed what kind of doctor he wants to be. Medscape Medical...",
+            "pubDate": "2026-04-23T14:08:06",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Gradually, then suddenly: Dr. Robert Wachter on health care’s giant AI leap [PODCAST]",
+            "link": "https://kevinmd.com/2026/04/gradually-then-suddenly-dr-robert-wachter-on-health-cares-giant-ai-leap-podcast.html",
+            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! What if the biggest problem with electronic health records was not th...",
+            "pubDate": "2026-04-23T00:00:28",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "GP nurses could transform access to sleep care, study indicates",
+            "link": "https://medicalxpress.com/news/2026-04-gp-nurses-access.html",
+            "description": "A new Flinders University study shows that nurses working in general practice could play a major role in improving access to sleep‑health treatment, b...",
+            "pubDate": "2026-04-23T12:40:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Pelvic floor muscle training may reduce postpartum stress urinary incontinence",
@@ -33,11 +124,11 @@
             "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2018/06/freestocks-org-71789-unsplash-300x150.jpg"
         },
         {
-            "title": "Senators grill RFK Jr. on vaccines, drug prices and more at hearing",
-            "link": "https://www.npr.org/2026/04/22/nx-s1-5792840/rfk-jr-senate-house-budget-hearings-vaccines-cdc-medicaid",
-            "description": "Health Secretary Robert F. Kennedy Jr. faced tough questioning as he caps off seven hearings on the Hill in as many days. It's the first time he has t...",
-            "pubDate": "2026-04-22T10:00:00",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fea%2F8d%2Fb06b76624808a9b6542de1405ee7%2Fap26112579758608.jpg"
+            "title": "Restrictions on obesity drug coverage force patients to pivot",
+            "link": "https://www.npr.org/2026/04/22/nx-s1-5794613/health-insurance-wegovy-zepbound",
+            "description": "Twelve million people lost coverage for Zepbound over the last year. The same number of people lost coverage for Wegovy, according to an analysis by G...",
+            "pubDate": "2026-04-22T14:25:13",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2667+0+0/resize/4000x2667!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F29%2F17%2F92fb52774d3aadeeeb33e3eb826c%2Fgp1-lena-22.jpg"
         },
         {
             "title": "Gene therapy for a rare type of deafness shows lasting results",
@@ -47,137 +138,46 @@
             "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6122x4592+0+0/resize/6122x4592!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdd%2F92%2Fae8ebc8c41c89301296e3f598025%2Fdr-yilai-shu-examines-a-young-patient-at-the-eye-ent-hospital-of-fudan-university.jpg"
         },
         {
-            "title": "Restrictions on obesity drug coverage force patients to pivot",
-            "link": "https://www.npr.org/2026/04/22/nx-s1-5794613/health-insurance-wegovy-zepbound",
-            "description": "Twelve million people lost coverage for Zepbound over the last year. The same number of people lost coverage for Wegovy, according to an analysis by G...",
-            "pubDate": "2026-04-22T14:25:13",
-            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2667+0+0/resize/4000x2667!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F29%2F17%2F92fb52774d3aadeeeb33e3eb826c%2Fgp1-lena-22.jpg"
+            "title": "The Scan by 2 Minute Medicine®: TikTok “Fibermaxxing” trend targets gut microbiome diversity, Jennifer Aniston’s “Strength for 50+” ritual spotlights photobiomodulation, American Lung Association issues respiratory warning over viral “mouth taping” fad, and Psychiatric Times highlights initiative to close the schizophrenia mortality gap",
+            "link": "https://www.2minutemedicine.com/the-scan-by-2-minute-medicine-tiktok-fibermaxxing-trend-targets-gut-microbiome-diversity-jennifer-anistons-strength-for-50-ritual-spotlights-photobiomodulation-american-lung/",
+            "description": "The Scan by 2 Minute Medicine® is a pharmaceutical and biotech newsletter and exclusive benefit for 2 Minute Medicine Plus subscribers. TikTok “Fiberm...",
+            "pubDate": "2026-04-22T17:43:18",
+            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2022/09/the-scan_logo_2022-09-06-2-e1662468176454-300x150.png"
         },
         {
-            "title": "Sexual Dysfunction in Digestive Diseases Often Missed",
-            "link": "https://www.medscape.com/viewarticle/sexual-dysfunction-digestive-diseases-often-missed-2026a1000cry?src=rss",
-            "description": "Digestive diseases and treatments may affect sexual function; however, clinicians address these concerns in a minority of patients despite unmet needs...",
-            "pubDate": "2026-04-22T17:47:23",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+            "title": "Trump administration delays rule aimed at improving disability access in schools",
+            "link": "https://www.npr.org/2026/04/22/nx-s1-5791680/doj-disability-web-access-delay-schools",
+            "description": "Schools, colleges and other public institutions originally had until this week to make online content accessible to people with disabilities. Now, the...",
+            "pubDate": "2026-04-22T10:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F19%2F2a%2Fdfe1d5a74303a0bd2bd6e3214f05%2Fkst-20260322-0818.jpg"
         },
         {
-            "title": "Why cervical cancer screening drops after menopause, and why that’s dangerous [PODCAST]",
-            "link": "https://kevinmd.com/2026/04/why-cervical-cancer-screening-drops-after-menopause-and-why-thats-dangerous-podcast.html",
-            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! What if the moment women stop seeing their gynecologist is exactly wh...",
-            "pubDate": "2026-04-22T00:00:52",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Sleep Apnea in Women Often Missed After Menopause",
-            "link": "https://www.medscape.com/viewarticle/sleep-apnea-women-often-missed-after-menopause-2026a1000cri?src=rss",
-            "description": "Sleep apnea in women may increase after menopause, yet atypical symptoms and low clinical suspicion delay diagnosis in routine practice. Medscape News...",
-            "pubDate": "2026-04-22T15:46:07",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Antibiotics After GI Infections Raise IBS Risk",
-            "link": "https://www.medscape.com/viewarticle/antibiotics-after-gi-infections-raise-ibs-risk-2026a1000crm?src=rss",
-            "description": "Use of antibiotics is linked to a higher risk of developing irritable bowel syndrome, especially when antibiotics are taken for gastrointestinal infec...",
-            "pubDate": "2026-04-22T15:56:35",
+            "title": "51 cases that reframe methylene blue serotonin syndrome",
+            "link": "https://kevinmd.com/2026/04/51-cases-that-reframe-methylene-blue-serotonin-syndrome.html",
+            "description": "A patient walks into my office. She is 52, exhausted, brain-fogged, gaining weight, and six years into sertraline 100 mg. I mention methylene blue as ...",
+            "pubDate": "2026-04-22T19:00:58",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "Doctors Being ‘Pushed to the Limit’: Poll",
-            "link": "https://www.medscape.com/s/viewarticle/doctors-being-pushed-limit-poll-2026a1000cqi?src=rss",
-            "description": "MDU survey of 1100 doctors in England finds nearly half report poor mental or physical health, with fatigue linked to patient harm. Press Association",
-            "pubDate": "2026-04-22T14:41:50",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "title": "Physician autonomy is not separate from patient care",
+            "link": "https://kevinmd.com/2026/04/physician-autonomy-is-not-separate-from-patient-care.html",
+            "description": "Recently, I came across the Charter of the Soignés (“those being cared for”) by French physician and writer Martin Winckler from The School of Caregiv...",
+            "pubDate": "2026-04-22T21:00:33",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "In epilepsy, poor sleep is associated with dementia",
-            "link": "https://medicalxpress.com/news/2026-04-epilepsy-poor-dementia.html",
-            "description": "For people with epilepsy, getting poor sleep was associated with a higher risk of dementia compared to people without epilepsy, according to a study p...",
-            "pubDate": "2026-04-22T21:00:06",
+            "title": "Why heart failure care requires spaced repetition for doctors",
+            "link": "https://kevinmd.com/2026/04/why-heart-failure-care-requires-spaced-repetition-for-doctors.html",
+            "description": "It is 4:50 p.m. on a Thursday. Your last patient is a 67-year-old with heart failure with reduced ejection fraction. He has been hospitalized twice th...",
+            "pubDate": "2026-04-22T20:00:11",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "The deadly reality of eclampsia and maternal mortality in Nigeria",
-            "link": "https://kevinmd.com/2026/04/the-deadly-reality-of-eclampsia-and-maternal-mortality-in-nigeria.html",
-            "description": "Eclampsia is one of the most severe complications of pregnancy. It occurs when a woman with preeclampsia, a condition characterized by dangerously hig...",
-            "pubDate": "2026-04-22T12:00:18",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "How does imagination really work in the brain? New explanation upends what we knew",
-            "link": "https://medicalxpress.com/news/2026-04-brain-explanation-upends-knew.html",
-            "description": "Your brain is currently expending about a fifth of your body's energy, and almost none of that is being used for what you're doing right now. Reading ...",
-            "pubDate": "2026-04-22T20:40:02",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Virtual vs. in-person visits for new neurology patients show no impact on future care, finds study",
-            "link": "https://medicalxpress.com/news/2026-04-virtual-person-neurology-patients-impact.html",
-            "description": "For people who see a neurology clinician for the first time, a new study has found that being seen virtually vs. in person made no difference in how s...",
-            "pubDate": "2026-04-22T21:00:09",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "Candidate breast cancer drug overloads tumors with 'surge' of toxic lipids",
-            "link": "https://medicalxpress.com/news/2026-04-candidate-breast-cancer-drug-overloads.html",
-            "description": "An experimental drug targeting triple-negative breast cancer overwhelms cancer cells with toxic fats, according to new tests on human-derived tumors i...",
-            "pubDate": "2026-04-22T20:40:06",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
-        },
-        {
-            "title": "Smart laser dimmer cuts neural crosstalk in brain-circuit imaging and control",
-            "link": "https://medicalxpress.com/news/2026-04-smart-laser-dimmer-neural-crosstalk.html",
-            "description": "A cross-disciplinary team led by Prof. Qu Jianan from the Department of Electronic and Computer Engineering and Prof. Julie L. Semmelhack from the Div...",
-            "pubDate": "2026-04-22T21:00:12",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Crumbling NHS Hospitals to Face More Years of Risk and Cost",
-            "link": "https://www.medscape.com/viewarticle/crumbling-nhs-hospitals-face-years-more-risk-and-cost-2026a1000csb?src=rss",
-            "description": "Seven hospitals with dangerous RAAC concrete won't be replaced until 2032-2033, costing up to £140 million extra per year of delay. Medscape News UK",
-            "pubDate": "2026-04-22T19:10:22",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Physical therapy yields modest improvements in chronic low back pain",
-            "link": "https://www.2minutemedicine.com/physical-therapy-yields-modest-improvements-in-chronic-low-back-pain/",
-            "description": "1. In this randomized controlled trial, physical therapy (PT) was associated with a modest improvement in function compared with cognitive behavioural...",
-            "pubDate": "2026-04-21T04:30:18",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2016/01/exercisepreg_edited-300x150.jpg"
-        },
-        {
-            "title": "Proximal hypoglossal nerve stimulation found effective for obstructive sleep apnea",
-            "link": "https://www.2minutemedicine.com/proximal-hypoglossal-nerve-stimulation-found-effective-for-obstructive-sleep-apnea/",
-            "description": "1. In this randomized controlled trial, proximal hypoglossal nerve stimulation (pHGNS) was effective in improving obstructive sleep apnea (OSA) in adu...",
-            "pubDate": "2026-04-21T04:00:46",
-            "image_url": "https://www.2minutemedicine.com/wp-content/uploads/2015/02/512px-Jackie_Martinez_in_BW_sleeping_with_a_book-300x200.jpg"
-        },
-        {
-            "title": "Trump's order is a milestone for proponents of using psychedelics as medicine",
-            "link": "https://www.npr.org/2026/04/21/nx-s1-5791755/trumps-order-is-a-milestone-for-proponents-of-using-psychedelics-as-medicine",
-            "description": "President Trump has signed an executive order aimed at accelerating research and approval of psychedelics for treating mental health conditions, like ...",
-            "pubDate": "2026-04-21T21:10:47",
-            "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5791755"
-        },
-        {
-            "title": "How medication-assisted treatment impacts oral health",
-            "link": "https://kevinmd.com/2026/04/how-medication-assisted-treatment-impacts-oral-health.html",
-            "description": "Medication-assisted treatment (MAT) helps manage withdrawal symptoms and cravings in individuals battling opioid addiction. Despite their effectivenes...",
-            "pubDate": "2026-04-21T20:00:31",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "How xenotransplantation could finally solve organ shortages",
-            "link": "https://kevinmd.com/2026/04/how-xenotransplantation-could-finally-solve-organ-shortages.html",
-            "description": "13 Americans will die today waiting for an organ transplant. That is a sobering line. Despite remarkable advances in transplantation medicine, the Uni...",
-            "pubDate": "2026-04-21T22:00:33",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "Physician-owned hospitals get a narrow CMS opening",
-            "link": "https://kevinmd.com/2026/04/physician-owned-hospitals-get-a-narrow-cms-opening.html",
-            "description": "You were told physician-owned hospitals were finished. That the 2010 legislation closing them out of Medicare was permanent. That if you wanted to own...",
-            "pubDate": "2026-04-21T18:00:09",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "The continuum of fertility care: Why IVF is not the only option",
+            "link": "https://kevinmd.com/2026/04/the-continuum-of-fertility-care-why-ivf-is-not-the-only-option.html",
+            "description": "At a time when one in five married American couples experience infertility, and one in three American men have a low sperm count, concerns around fert...",
+            "pubDate": "2026-04-22T22:00:13",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         }
     ]
 }

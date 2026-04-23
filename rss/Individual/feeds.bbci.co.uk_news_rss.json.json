@@ -2,42 +2,42 @@
     "title": "Individual feed for https://feeds.bbci.co.uk/news/rss.xml",
     "link": "https://feeds.bbci.co.uk/news/rss.xml",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-04-22T16:09:00.803633",
+    "lastBuildDate": "2026-04-23T09:34:18.665042",
     "items": [
         {
-            "title": "Hapless Chelsea owners have built a monument to chaos and decline",
-            "link": "https://www.bbc.com/sport/football/articles/c2k3ed1glp1o?at_medium=RSS&at_campaign=rss",
-            "description": "Chelsea owners BlueCo have built a monument to chaos and decline at Stamford Bridge, says BBC Sport chief football writer Phil McNulty.",
-            "pubDate": "2026-04-22T20:46:47",
+            "title": "Two men guilty of 'callous' Brighton beach rape",
+            "link": "https://www.bbc.com/news/articles/cvg090pe65vo?at_medium=RSS&at_campaign=rss",
+            "description": "The men had denied targeting the woman in the early hours of 4 October.",
+            "pubDate": "2026-04-23T14:32:50",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "'It's like someone waved a magic wand': Girl, 6, has sight restored by gene therapy",
-            "link": "https://www.bbc.com/news/articles/ce35x8759zzo?at_medium=RSS&at_campaign=rss",
-            "description": "Saffie's mum says Luxturna therapy at Great Ormond Street has been like \"someone waved a magic wand\".",
-            "pubDate": "2026-04-22T20:31:35",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "Trump administration reclassifies cannabis as less dangerous",
+            "link": "https://www.bbc.com/news/articles/cdxd0xxp0jko?at_medium=RSS&at_campaign=rss",
+            "description": "Medical marijuana was moved into a lower category of drugs in order to increase research and access.",
+            "pubDate": "2026-04-23T14:32:04",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "Head coach Liam Rosenior sacked by Chelsea after three months in charge",
-            "link": "https://www.bbc.com/sport/football/articles/c9d4w8032vno?at_medium=RSS&at_campaign=rss",
-            "description": "Chelsea sack head coach Liam Rosenior after losing five consecutive Premier League matches without scoring for the first time since 1912.",
-            "pubDate": "2026-04-22T20:19:57",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Rosenior sacked by Chelsea after three months in charge",
-            "link": "https://www.bbc.com/sport/football/articles/c9d4w8032vno?at_medium=RSS&at_campaign=rss",
-            "description": "Chelsea sack head coach Liam Rosenior after losing five consecutive Premier League matches without scoring for the first time since 1912.",
-            "pubDate": "2026-04-22T20:19:57",
+            "title": "Sara Cox replaces Scott Mills on Radio 2 breakfast show",
+            "link": "https://www.bbc.com/news/articles/cx2ev8zed5zo?at_medium=RSS&at_campaign=rss",
+            "description": "The 51-year-old, who is originally from Bolton, currently presents the teatime show on Radio 2.",
+            "pubDate": "2026-04-23T14:29:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "Keir Starmer v The Civil Service",
-            "link": "https://www.bbc.co.uk/sounds/play/p0nfg16x?at_medium=RSS&at_campaign=rss",
-            "description": "What effect has the Mandelson saga had on the PM’s relationship with the civil service?",
-            "pubDate": "2026-04-22T19:55:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "title": "Lamine Yamal season over but Spain star should make World Cup",
+            "link": "https://www.bbc.com/sport/football/articles/cly60l1e6nxo?at_medium=RSS&at_campaign=rss",
+            "description": "Lamine Yamal will miss the rest of Barcelona's season with a hamstring injury but he is expected to return for Spain at the World Cup.",
+            "pubDate": "2026-04-23T14:16:56",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Israeli strikes kill eight Palestinians in Gaza, first responders say",
+            "link": "https://www.bbc.com/news/articles/cly60dwxjd1o?at_medium=RSS&at_campaign=rss",
+            "description": "One strike killed three children and two adults near a mosque in the northern town of Beit Lahia on Wednesday evening.",
+            "pubDate": "2026-04-23T14:15:07",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         }
     ]
 }

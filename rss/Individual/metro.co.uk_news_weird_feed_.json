@@ -2,8 +2,15 @@
     "title": "Individual feed for https://metro.co.uk/news/weird/feed/",
     "link": "https://metro.co.uk/news/weird/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-04-22T16:11:09.152246",
+    "lastBuildDate": "2026-04-23T09:36:48.874526",
     "items": [
+        {
+            "title": "‘I met 40 people who claim to have seen aliens: this is why I don’t believe them’",
+            "link": "https://metro.co.uk/2026/04/23/i-met-40-people-claim-seen-aliens-this-dont-believe-them-28065213/",
+            "description": "",
+            "pubDate": "2026-04-23T10:36:42",
+            "image_url": "https://metro.co.uk/wp-content/uploads/2026/04/GettyImages-2246521597.jpg?quality=90&strip=all&w=646"
+        },
         {
             "title": "‘Puma-like’ big cat sighting reignites mystery of legendary beast roaming UK",
             "link": "https://metro.co.uk/2026/04/22/puma-like-big-cat-sighting-reignites-mystery-legendary-beast-uk-28074349/",
@@ -31,13 +38,6 @@
             "description": "The unusual ailment, which terrified those who witnessed it, was caused by a parasitic fly’s larvae.",
             "pubDate": "2026-04-10T15:51:21",
             "image_url": "https://metro.co.uk/wp-content/uploads/2026/04/coverimages55606549-4388.jpg?quality=90&strip=all&w=334"
-        },
-        {
-            "title": "New mutant tarantula discovered and it’s got massive balls",
-            "link": "https://metro.co.uk/2026/04/10/scientists-identify-new-tarantula-giant-genitalia-males-developed-so-didnt-become-dinner-27896620/",
-            "description": "The spiders - who have been given the genus Satyrex - live in the Arabian Peninsula and the Horn of Africa.",
-            "pubDate": "2026-04-10T08:07:14",
-            "image_url": "https://metro.co.uk/wp-content/uploads/2026/04/coverimages55603074-88c2.jpg?quality=90&strip=all&w=646"
         }
     ]
 }

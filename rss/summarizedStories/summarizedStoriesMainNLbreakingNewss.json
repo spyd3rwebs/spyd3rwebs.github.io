@@ -1,0 +1,78 @@
+{
+    "title": "summarizedStoriesMainNLbreakingNews",
+    "link": "http://example.com/interleaved_feed.json",
+    "description": "This is a randomly ordered feed of the most recent entries from summarizedStoriesMainNLbreakingNews, skipping any feeds with errors.",
+    "lastBuildDate": "2026-04-23T09:33:45.515678",
+    "items": [
+        {
+            "title": "What are today's mortgage and mortgage refinance interest rates?",
+            "link": "https://www.cbsnews.com/news/what-are-todays-mortgage-and-mortgage-refinance-interest-rates/",
+            "description": "Knowing today's mortgage rates can help new homebuyers and homeowners looking to lock in a good deal.",
+            "pubDate": "2026-04-23T14:20:02",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "WATCH:  Kids of 'GMA' take over the studio",
+            "link": "https://abcnews.com/video/132306770/",
+            "description": "As “Bring a Kid to Work Day” is celebrated, employees’ children ask their parents questions.",
+            "pubDate": "2026-04-23T13:09:26",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "State-licensed medical marijuana reclassified as less dangerous drug",
+            "link": "https://abcnews.com/Health/acting-ag-todd-blanche-signs-order-reclassifying-state/story?id=132308701",
+            "description": "Acting Attorney General Todd Blanche signed an order on Thursday reclassifying state-licensed medical marijuana as a less dangerous drug.",
+            "pubDate": "2026-04-23T13:53:58",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "US jobless claim filings rise modestly to 214,000 last week, remain at healthy levels",
+            "link": "https://abcnews.com/Business/wireStory/us-jobless-claim-filings-rise-modestly-214000-week-132309448",
+            "description": "The number of Americans filing for unemployment benefits inched up last week but remains within the historically healthy range of recent years",
+            "pubDate": "2026-04-23T13:55:15",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "What are today's HELOC and home equity loan interest rates?",
+            "link": "https://www.cbsnews.com/news/todays-heloc-and-home-equity-loan-interest-rates/",
+            "description": "HELOCs and home equity loans offer homeowners an affordable way to borrow money now. Here are the rates for each.",
+            "pubDate": "2026-04-23T14:25:11",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "What is the price of silver today?",
+            "link": "https://www.cbsnews.com/news/what-is-the-price-of-silver-today/",
+            "description": "Silver can play a critical role in a diversified portfolio. Here's how much it costs per ounce right now.",
+            "pubDate": "2026-04-23T14:18:12",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "\"A breaking point\": Inside the 68-day DHS shutdown",
+            "link": "https://www.cbsnews.com/news/dhs-shutdown-breaking-point/",
+            "description": "In a department built to respond to catastrophic threats, employees have been reduced to bartering for office supplies.",
+            "pubDate": "2026-04-23T14:20:15",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Iran live updates: Trump orders Navy to 'shoot,' 'kill' boats putting mines in strait",
+            "link": "https://abcnews.com/International/live-updates/iran-live-updates-marines-uss-tripoli-seized-iranian/?id=132196152",
+            "description": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.",
+            "pubDate": "2026-04-23T14:17:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "WATCH:  Daring rescue for 2 families stuck on cliff",
+            "link": "https://abcnews.com/video/132306555/",
+            "description": "Authorities say two families were hiking along the coastline when the tide quickly came in, leaving them stranded along the rocky edge.",
+            "pubDate": "2026-04-23T13:39:27",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "What is the price of gold today?",
+            "link": "https://www.cbsnews.com/news/what-is-the-price-of-gold-today/",
+            "description": "Understanding the pricing trends and dynamics of the gold market is crucial for making sound financial choices.",
+            "pubDate": "2026-04-23T14:16:52",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        }
+    ]
+}

@@ -2,42 +2,42 @@
     "title": "Individual feed for https://abcnews.go.com/abcnews/topstories",
     "link": "https://abcnews.go.com/abcnews/topstories",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-04-22T16:10:57.651268",
+    "lastBuildDate": "2026-04-23T09:36:30.241544",
     "items": [
         {
-            "title": "Iran war: Trump's pattern of setting unenforced deadlines",
-            "link": "https://abcnews.com/Politics/iran-war-trumps-pattern-setting-unenforced-deadlines/story?id=132258267",
-            "description": "This time around, the president did not provide a new deadline for how long the ceasefire extension will last.",
-            "pubDate": "2026-04-22T20:12:41",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "WATCH:  New Nat Geo doc highlights alarming decline of the honeybee",
-            "link": "https://abcnews.com/video/132283172/",
-            "description": "The new National Geographic documentary “Secret of the Bees” offers a glimpse into the world and importance of bees.",
-            "pubDate": "2026-04-22T20:09:33",
+            "title": "State-licensed medical marijuana reclassified as less dangerous drug",
+            "link": "https://abcnews.com/Health/acting-ag-todd-blanche-signs-order-reclassifying-state/story?id=132308701",
+            "description": "Acting Attorney General Todd Blanche signed an order on Thursday reclassifying state-licensed medical marijuana as a less dangerous drug.",
+            "pubDate": "2026-04-23T14:34:28",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
-            "title": "D4vd murder case: Medical examiner report released on teen's cause of death",
-            "link": "https://abcnews.com/US/d4vd-murder-case-medical-examiner-report-released-teens/story?id=132282698",
-            "description": "D4vd has been charged with first-degree murder in connection with the death of the teen, Celeste Rivas Hernandez, officials said.",
-            "pubDate": "2026-04-22T19:58:29",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "title": "Iran live updates: Trump orders Navy to 'shoot,' 'kill' boats putting mines in strait",
+            "link": "https://abcnews.com/International/live-updates/iran-live-updates-marines-uss-tripoli-seized-iranian/?id=132196152",
+            "description": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28, with massive joint U.S.-Israeli strikes.",
+            "pubDate": "2026-04-23T14:17:01",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "Georgia Democratic Rep. David Scott dies at 80",
-            "link": "https://abcnews.com/Politics/georgia-democratic-rep-david-scott-died-sources/story?id=132279134",
-            "description": "Scott served in the House for more than 23 years.",
-            "pubDate": "2026-04-22T18:26:52",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "title": "US jobless claim filings rise modestly to 214,000 last week, remain at healthy levels",
+            "link": "https://abcnews.com/Business/wireStory/us-jobless-claim-filings-rise-modestly-214000-week-132309448",
+            "description": "The number of Americans filing for unemployment benefits inched up last week but remains within the historically healthy range of recent years",
+            "pubDate": "2026-04-23T13:55:15",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "WATCH:  Baby elephant makes debut on Earth Day",
-            "link": "https://abcnews.com/video/132266922/",
-            "description": "The elephant calf made her public debut as the first Asian elephant born at the National Zoo in more than 25 years.",
-            "pubDate": "2026-04-22T16:03:37",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "title": "WATCH:  Daring rescue for 2 families stuck on cliff",
+            "link": "https://abcnews.com/video/132306555/",
+            "description": "Authorities say two families were hiking along the coastline when the tide quickly came in, leaving them stranded along the rocky edge.",
+            "pubDate": "2026-04-23T13:39:27",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "WATCH:  Kids of 'GMA' take over the studio",
+            "link": "https://abcnews.com/video/132306770/",
+            "description": "As “Bring a Kid to Work Day” is celebrated, employees’ children ask their parents questions.",
+            "pubDate": "2026-04-23T13:09:26",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         }
     ]
 }

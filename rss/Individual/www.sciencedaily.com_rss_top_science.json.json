@@ -2,42 +2,42 @@
     "title": "Individual feed for https://www.sciencedaily.com/rss/top/science.xml",
     "link": "https://www.sciencedaily.com/rss/top/science.xml",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-04-22T16:11:05.706463",
+    "lastBuildDate": "2026-04-23T09:36:40.735266",
     "items": [
         {
-            "title": "Ancient DNA reveals a lost population near Paris replaced by strangers",
-            "link": "https://www.sciencedaily.com/releases/2026/04/260421042800.htm",
-            "description": "Ancient DNA from a tomb near Paris reveals a shocking prehistoric reset: one population vanished and was replaced by newcomers from the south. The two...",
-            "pubDate": "2026-04-22T12:57:10",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "title": "For the first time, scientists pinpoint the brain cells behind depression",
+            "link": "https://www.sciencedaily.com/releases/2026/04/260423022010.htm",
+            "description": "Scientists have identified two specific types of brain cells that behave differently in people with depression, offering a clearer picture of what is ...",
+            "pubDate": "2026-04-23T10:55:24",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
-            "title": "Scientists stunned as JWST finds ice clouds on a giant alien planet",
-            "link": "https://www.sciencedaily.com/releases/2026/04/260422044618.htm",
-            "description": "Scientists have discovered unexpected water-ice clouds on a distant, Jupiter-like exoplanet, challenging current atmospheric models. By directly imagi...",
-            "pubDate": "2026-04-22T10:24:39",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "title": "Scientists discover hidden forces are warping Earth deep beneath the surface",
+            "link": "https://www.sciencedaily.com/releases/2026/04/260422044632.htm",
+            "description": "Scientists have mapped how Earth’s deepest mantle is being deformed—and the results point to long-lost tectonic plates buried thousands of kilometers ...",
+            "pubDate": "2026-04-23T06:29:21",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "DNA reveals a hidden pitviper species in China",
-            "link": "https://www.sciencedaily.com/releases/2026/04/260422044617.htm",
-            "description": "A vivid green pitviper hiding in Sichuan’s misty mountains has been revealed as a completely new species. Scientists had overlooked it for decades, as...",
-            "pubDate": "2026-04-22T10:15:51",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "This “quantum” material fooled scientists and revealed something new",
-            "link": "https://www.sciencedaily.com/releases/2026/04/260421042819.htm",
-            "description": "A mysterious magnetic material once thought to host an exotic “quantum spin liquid” has turned out to be something entirely different—and possibly jus...",
-            "pubDate": "2026-04-22T08:18:44",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "This donut-shaped discovery just shattered a 150-year math rule",
-            "link": "https://www.sciencedaily.com/releases/2026/04/260421042816.htm",
-            "description": "A 150-year-old rule in geometry has been proven wrong. Mathematicians found two different doughnut-shaped surfaces that look identical when measured l...",
-            "pubDate": "2026-04-22T06:49:13",
+            "title": "This ancient crocodile relative grew up on four legs then walked on two",
+            "link": "https://www.sciencedaily.com/releases/2026/04/260422044628.htm",
+            "description": "A bizarre crocodile relative from the age of dinosaurs is rewriting what scientists thought they knew about ancient reptiles. This poodle-sized creatu...",
+            "pubDate": "2026-04-23T05:51:41",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "289-million-year-old mummified reptile reveals how breathing began on land",
+            "link": "https://www.sciencedaily.com/releases/2026/04/260422044626.htm",
+            "description": "A remarkably preserved, mummified reptile from 289 million years ago is rewriting what we know about how animals first breathed on land. This tiny cre...",
+            "pubDate": "2026-04-23T05:06:20",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "This simple fatty acid could restore failing vision",
+            "link": "https://www.sciencedaily.com/releases/2026/04/260422091043.htm",
+            "description": "Scientists at UC Irvine have found a way to potentially reverse age-related vision loss by targeting the ELOVL2 “aging gene” and restoring vital fatty...",
+            "pubDate": "2026-04-23T02:06:41",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         }
     ]
 }

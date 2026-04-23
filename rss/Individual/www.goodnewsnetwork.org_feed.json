@@ -2,8 +2,22 @@
     "title": "Individual feed for https://www.goodnewsnetwork.org/feed",
     "link": "https://www.goodnewsnetwork.org/feed",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-04-22T16:11:21.272355",
+    "lastBuildDate": "2026-04-23T09:37:14.763893",
     "items": [
+        {
+            "title": "250 Millionth Tree Planted by this Tree-Planting Search Engine Just Ahead of Earth Day",
+            "link": "https://www.goodnewsnetwork.org/250-millionth-tree-planted-by-this-tree-planting-search-engine-just-ahead-of-earth-day/",
+            "description": "Reaching the milestone just before Earth Day, Ecosia, the nonprofit search engine, is celebrating 250 million trees planted worldwide, becoming the wo...",
+            "pubDate": "2026-04-23T12:00:41",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Good News in History, April 23",
+            "link": "https://www.goodnewsnetwork.org/events060423/",
+            "description": "112 years ago today, the first-ever baseball game was played at Wrigley Field in Chicago. Then known as Weeghman Park, its original occupants were the...",
+            "pubDate": "2026-04-23T08:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+        },
         {
             "title": "Teacher’s Opera Karaoke Goes Viral and Lands Him Audition on Britain’s Got Talent (WATCH His Nessun Dorma)",
             "link": "https://www.goodnewsnetwork.org/teachers-opera-karaoke-goes-viral-and-lands-him-audition-on-britains-got-talent-watch-his-nessun-dorma/",
@@ -16,28 +30,14 @@
             "link": "https://www.goodnewsnetwork.org/first-ever-complete-skeletal-cast-of-30-foot-extinct-alligator-see-it-in-georgia/",
             "description": "A museum in Georgia is now home to the world’s first complete and scientifically accurate mounted skeleton of Deinosuchus schwimmeri, one of the large...",
             "pubDate": "2026-04-22T16:30:24",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "His ‘Granborghini‘ Project Gives Elderly People Joyrides in Supercars (WATCH)",
             "link": "https://www.goodnewsnetwork.org/his-granborghini-project-gives-elderly-people-joyrides-in-supercars-watch/",
             "description": "An Englishman whose grandmother took her own life while suffering from loneliness has started a turbo-charged effort to reduce social isolation. Calle...",
             "pubDate": "2026-04-22T16:00:37",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Unlikely Prom King Is School Principal Who Disarmed an Active Shooter in the Lobby (WATCH)",
-            "link": "https://www.goodnewsnetwork.org/unlikely-prom-king-is-school-principal-who-disarmed-an-active-shooter-in-the-lobby-watch/",
-            "description": "At an Oklahoma High School, an unlikely candidate was recently crowned Prom King: Principal Kirk Moore. Moore was recently hailed as a hero by the stu...",
-            "pubDate": "2026-04-22T12:00:18",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "Good News in History, April 22",
-            "link": "https://www.goodnewsnetwork.org/events060422/",
-            "description": "Today is the 56th anniversary of Earth Day. Created at a time when water and air pollution were out of control—20 million Americans in colleges, schoo...",
-            "pubDate": "2026-04-22T08:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         }
     ]
 }

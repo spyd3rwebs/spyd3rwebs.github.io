@@ -2,42 +2,42 @@
     "title": "Individual feed for https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/world/rss.xml",
     "link": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/world/rss.xml",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-04-22T16:11:06.276138",
+    "lastBuildDate": "2026-04-23T09:36:42.549473",
     "items": [
         {
-            "title": "Iran War Live Updates: Reported Seizure of Ships Injects New Uncertainty Over Peace Talks",
-            "link": "https://www.nytimes.com/live/2026/04/22/world/iran-war-trump-ceasefire-talks",
-            "description": "Iran’s Revolutionary Guards said they had seized two ships near the Strait of Hormuz. A Trump spokeswoman said the president did not view those action...",
-            "pubDate": "2026-04-22T21:08:55",
+            "title": "Iran War Live Updates: Trump Threatens Iranian Boats He Says Are Mining the Strait of Hormuz",
+            "link": "https://www.nytimes.com/live/2026/04/23/world/iran-war-trump-news",
+            "description": "President Trump’s latest threats came after the Pentagon said the U.S. military had boarded a second tanker carrying oil from Iran. Both sides are try...",
+            "pubDate": "2026-04-23T14:34:09",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "How People in Lebanon Are Reacting to Talks With Israel",
+            "link": "https://www.nytimes.com/2026/04/23/world/middleeast/israel-lebanon-hezbollah-talks-ceasefire.html",
+            "description": "The Lebanese are deeply divided over whether rare direct talks with Israel are a good thing.",
+            "pubDate": "2026-04-23T14:34:07",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "U.S. forces stop a second tanker they say is carrying Iranian oil.",
+            "link": "https://www.nytimes.com/live/2026/04/23/world/iran-war-trump-news/us-forces-stop-a-second-tanker-they-say-is-carrying-iranian-oil",
+            "description": "",
+            "pubDate": "2026-04-23T14:28:54",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
-            "title": "On Independence Day, Israel Honors Rabbi Who Called to ‘Flatten’ Gaza",
-            "link": "https://www.nytimes.com/2026/04/22/world/middleeast/israel-gaza-independence-day-rabbi-avraham-zarbiv.html",
-            "description": "Avraham Zarbiv became known on Israel’s right for demolishing buildings in Gaza. He lit a torch at a national ceremony on Tuesday evening.",
-            "pubDate": "2026-04-22T21:03:42",
+            "title": "Germany, a Steadfast Ally of Israel, Now Voices Some Frustration",
+            "link": "https://www.nytimes.com/2026/04/23/world/europe/germany-israel-iran-war-support.html",
+            "description": "In recent weeks, German officials have issued critical comments about Israel that convey Berlin’s recent frustration with its longtime ally.",
+            "pubDate": "2026-04-23T13:50:27",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
-            "title": "Anthropic’s New Mythos A.I. Model Sets Off Global Alarms",
-            "link": "https://www.nytimes.com/2026/04/22/technology/anthropics-mythos-ai.html",
-            "description": "Mythos has triggered emergency responses from central banks and intelligence agencies globally, as Anthropic decides who has access to the powerful mo...",
-            "pubDate": "2026-04-22T20:48:53",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Pope Leo, Visiting African Prison, Urges Inmates to Find Hope Amid Despair",
-            "link": "https://www.nytimes.com/2026/04/22/world/africa/pope-leo-equatorial-guinea.html",
-            "description": "“Life is not defined solely by one’s mistakes,” the pope told inmates being held in a port city of Equatorial Guinea.",
-            "pubDate": "2026-04-22T20:47:19",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
-        },
-        {
-            "title": "To Iran, Trump Blinked First by Extending the Cease-Fire",
-            "link": "https://www.nytimes.com/2026/04/22/world/middleeast/iran-trump-ceasefire.html",
-            "description": "Iran’s leaders believe that they can withstand an enduring standoff longer than President Trump. The strategy could be economically devastating for av...",
-            "pubDate": "2026-04-22T20:00:11",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "title": "Here’s the latest.",
+            "link": "https://www.nytimes.com/live/2026/04/23/world/iran-war-trump-news/heres-the-latest",
+            "description": "",
+            "pubDate": "2026-04-23T13:22:32",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         }
     ]
 }

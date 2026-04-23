@@ -2,42 +2,42 @@
     "title": "Individual feed for https://www.medscape.com/cx/rssfeeds/2700.xml",
     "link": "https://www.medscape.com/cx/rssfeeds/2700.xml",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-04-22T16:15:29.948056",
+    "lastBuildDate": "2026-04-23T09:39:39.794308",
     "items": [
         {
-            "title": "Crumbling NHS Hospitals to Face More Years of Risk and Cost",
-            "link": "https://www.medscape.com/viewarticle/crumbling-nhs-hospitals-face-years-more-risk-and-cost-2026a1000csb?src=rss",
-            "description": "Seven hospitals with dangerous RAAC concrete won't be replaced until 2032-2033, costing up to £140 million extra per year of delay. Medscape News UK",
-            "pubDate": "2026-04-22T19:10:22",
+            "title": "His Cancer Diagnosis in Medical School Changed Everything",
+            "link": "https://www.medscape.com/viewarticle/his-cancer-diagnosis-medical-school-changed-everything-2026a1000cvd?src=rss",
+            "description": "A childhood diagnosis inspired Hunter Bohon to go into medicine. A cancer diagnosis at 26 changed what kind of doctor he wants to be. Medscape Medical...",
+            "pubDate": "2026-04-23T14:08:06",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         },
         {
-            "title": "Sexual Dysfunction in Digestive Diseases Often Missed",
-            "link": "https://www.medscape.com/viewarticle/sexual-dysfunction-digestive-diseases-often-missed-2026a1000cry?src=rss",
-            "description": "Digestive diseases and treatments may affect sexual function; however, clinicians address these concerns in a minority of patients despite unmet needs...",
-            "pubDate": "2026-04-22T17:47:23",
+            "title": "FXIa Inhibitor Hits Mark in Recurrent Stroke Prevention",
+            "link": "https://www.medscape.com/viewarticle/factor-xia-inhibitor-hits-mark-secondary-stroke-prevention-2026a1000cwm?src=rss",
+            "description": "Full results from the OCEANIC-STROKE trial show a 26% reduction in recurrent stroke with the factor XIa inhibitor asundexian, with no increased bleedi...",
+            "pubDate": "2026-04-23T13:52:16",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Mobile Lifestyle App Keeps Weight Down in Pregnant Moms",
+            "link": "https://www.medscape.com/viewarticle/mobile-lifestyle-app-keeps-weight-down-pregnant-moms-2026a1000cva?src=rss",
+            "description": "Delivery of the program needs rethinking because only about half of patients opt to use digital weight management. Medscape Medical News",
+            "pubDate": "2026-04-23T13:20:54",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Imaging Beats Palpation for Skin Cancer Staging",
+            "link": "https://www.medscape.com/viewarticle/imaging-beats-physical-exam-lymph-node-metastases-high-risk-2026a1000cvz?src=rss",
+            "description": "Ultrasonography and CT beat physical exam for nodal metastasis detection in patients with high-risk skin cancer but show poor sensitivity in immunosup...",
+            "pubDate": "2026-04-23T13:17:28",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "Antibiotics After GI Infections Raise IBS Risk",
-            "link": "https://www.medscape.com/viewarticle/antibiotics-after-gi-infections-raise-ibs-risk-2026a1000crm?src=rss",
-            "description": "Use of antibiotics is linked to a higher risk of developing irritable bowel syndrome, especially when antibiotics are taken for gastrointestinal infec...",
-            "pubDate": "2026-04-22T15:56:35",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Sleep Apnea in Women Often Missed After Menopause",
-            "link": "https://www.medscape.com/viewarticle/sleep-apnea-women-often-missed-after-menopause-2026a1000cri?src=rss",
-            "description": "Sleep apnea in women may increase after menopause, yet atypical symptoms and low clinical suspicion delay diagnosis in routine practice. Medscape News...",
-            "pubDate": "2026-04-22T15:46:07",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
-        },
-        {
-            "title": "Doctors Being ‘Pushed to the Limit’: Poll",
-            "link": "https://www.medscape.com/s/viewarticle/doctors-being-pushed-limit-poll-2026a1000cqi?src=rss",
-            "description": "MDU survey of 1100 doctors in England finds nearly half report poor mental or physical health, with fatigue linked to patient harm. Press Association",
-            "pubDate": "2026-04-22T14:41:50",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+            "title": "Laser Pretreatment Boosts Actinic Keratosis Clearance",
+            "link": "https://www.medscape.com/viewarticle/laser-assisted-daylight-photodynamic-therapy-achieves-higher-2026a1000ch7?src=rss",
+            "description": "Ablative fractional laser-assisted daylight photodynamic therapy can achieve higher sustained lesion-specific clearance than daylight photodynamic the...",
+            "pubDate": "2026-04-23T13:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
         }
     ]
 }

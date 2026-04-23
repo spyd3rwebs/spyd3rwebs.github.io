@@ -2,8 +2,22 @@
     "title": "Individual feed for https://www.technologyreview.com/feed/",
     "link": "https://www.technologyreview.com/feed/",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-04-22T16:11:11.145346",
+    "lastBuildDate": "2026-04-23T09:37:01.712133",
     "items": [
+        {
+            "title": "The Download: introducing the Nature issue",
+            "link": "https://www.technologyreview.com/2026/04/23/1136346/the-download-introducing-nature-issue/",
+            "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing:...",
+            "pubDate": "2026-04-23T13:10:00",
+            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2024/05/AP24106836358581-social.jpg?w=3000"
+        },
+        {
+            "title": "Will fusion power get cheap? Don’t count on it.",
+            "link": "https://www.technologyreview.com/2026/04/23/1136329/fusion-power-cost/",
+            "description": "Fusion power could provide a steady, zero-emissions source of electricity in the future—if companies can get plants built and running. But a new study...",
+            "pubDate": "2026-04-23T11:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
         {
             "title": "The Download: introducing the 10 Things That Matter in AI Right Now",
             "link": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/",
@@ -24,20 +38,6 @@
             "description": "Isegye Idol If you thought K-pop was weird, virtual idols—humans who perform as anime-style digital characters via motion capture—will blow your mind....",
             "pubDate": "2026-04-22T11:00:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "One town’s scheme to get rid of its geese",
-            "link": "https://www.technologyreview.com/2026/04/22/1135430/california-town-scheme-get-rid-geese/",
-            "description": "“Pull over!” I order my brother one sunny February afternoon. Our target is in sight: a gaggle of Canada geese, pecking at grass near the dog park. As...",
-            "pubDate": "2026-04-22T11:00:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/04/MJ26-front-dl_dispatch.png?w=636"
-        },
-        {
-            "title": "There is no nature anymore",
-            "link": "https://www.technologyreview.com/2026/04/22/1135440/editors-letter-may-2026/",
-            "description": "When people talk about “nature,” they’re generally talking about things that aren’t made by human beings. Rocks. Reefs. Red wolves. But while there is...",
-            "pubDate": "2026-04-22T11:00:00",
-            "image_url": "https://wp.technologyreview.com/wp-content/uploads/2025/06/mat_debrief.png?w=1012"
         }
     ]
 }

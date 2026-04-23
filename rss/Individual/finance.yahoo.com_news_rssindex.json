@@ -2,42 +2,42 @@
     "title": "Individual feed for https://finance.yahoo.com/news/rssindex",
     "link": "https://finance.yahoo.com/news/rssindex",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-04-22T16:11:12.612982",
+    "lastBuildDate": "2026-04-23T09:37:03.664925",
     "items": [
         {
-            "title": "Analyst Report: Equifax Inc",
-            "link": "https://finance.yahoo.com/research/reports/ARGUS_3702_AnalystReport_1776880442000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+            "title": "Ardagh Metal Packaging (AMBP) Q1 2026 Transcript",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/ardagh-metal-packaging-ambp-q1-132231597.html",
             "description": "",
-            "pubDate": "2026-04-22T18:54:02",
-            "image_url": "https://s.yimg.com/uc/fin/img/non-sub-report-thumb.png"
+            "pubDate": "2026-04-23T14:22:31",
+            "image_url": "https://media.zenfs.com/en/motleyfool.com/e48e86dda35543079ee2080fd9208b73"
         },
         {
-            "title": "Analyst Report: United Airlines Holdings Inc",
-            "link": "https://finance.yahoo.com/research/reports/ARGUS_4407_AnalystReport_1776880442000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+            "title": "Lawsuit accuses JetBlue of using customers' personal data to raise air fares",
+            "link": "https://finance.yahoo.com/economy/policy/articles/lawsuit-accuses-jetblue-using-customers-132004394.html",
             "description": "",
-            "pubDate": "2026-04-22T18:54:02",
-            "image_url": "https://s.yimg.com/uc/fin/img/non-sub-report-thumb.png"
+            "pubDate": "2026-04-23T14:20:04",
+            "image_url": "https://media.zenfs.com/en/reuters.com/8761158e251f8dbc54d1643548a0818f"
         },
         {
-            "title": "Analyst Report: Capital One Financial Corp",
-            "link": "https://finance.yahoo.com/research/reports/ARGUS_2854_AnalystReport_1776880442000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+            "title": "Valereum launches fortnightly blog to share non-regulatory newsflow",
+            "link": "https://finance.yahoo.com/markets/crypto/articles/valereum-launches-fortnightly-blog-share-131700338.html",
             "description": "",
-            "pubDate": "2026-04-22T18:54:02",
-            "image_url": "https://s.yimg.com/uc/fin/img/non-sub-report-thumb.png"
+            "pubDate": "2026-04-23T14:17:00",
+            "image_url": "https://media.zenfs.com/en/proactive_us_504/e506237a7028a8b9641aaeed15c5df13"
         },
         {
-            "title": "Market Update: COF, EFX, UAL, MRNA",
-            "link": "https://finance.yahoo.com/research/reports/ARGUS_46817_MarketUpdate_1776879542000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+            "title": "Century Lithium advances Nevada demonstration plant relocation as sulfur prices surge",
+            "link": "https://finance.yahoo.com/sectors/energy/articles/century-lithium-advances-nevada-demonstration-131500918.html",
             "description": "",
-            "pubDate": "2026-04-22T18:39:02",
-            "image_url": "https://s.yimg.com/uc/fin/img/non-sub-report-thumb.png"
+            "pubDate": "2026-04-23T14:15:00",
+            "image_url": "https://media.zenfs.com/en/proactive_us_504/22fd487a3bc8b7d7acb2a0b7b1adefa2"
         },
         {
-            "title": "Warren Buffett dumped 77% of Amazon to buy surging media stock",
-            "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-dumped-77-amazon-003700673.html",
+            "title": "White Brook Capital Shared Insights on Rapid Micro Biosystems (RPID)",
+            "link": "https://finance.yahoo.com/markets/stocks/articles/white-brook-capital-shared-insights-131428029.html",
             "description": "",
-            "pubDate": "2026-04-22T01:37:00",
-            "image_url": "https://media.zenfs.com/en/thestreet_881/0eb641225850472e04986f0e01376b75"
+            "pubDate": "2026-04-23T14:14:28",
+            "image_url": "https://media.zenfs.com/en/insidermonkey.com/a9f03f6b78ca2d2c32b5d6a435a849a0"
         }
     ]
 }

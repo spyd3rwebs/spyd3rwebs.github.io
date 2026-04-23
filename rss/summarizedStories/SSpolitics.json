@@ -1,0 +1,134 @@
+{
+    "title": "SSpolitics",
+    "link": "http://example.com/interleaved_feed.json",
+    "description": "This is a randomly ordered feed of the most recent entries from SSpolitics, skipping any feeds with errors.",
+    "lastBuildDate": "2026-04-23T09:37:05.585991",
+    "items": [
+        {
+            "title": "Houston changes ordinance limiting cooperation with ICE after pressure from governor",
+            "link": "https://www.washingtontimes.com/news/2026/apr/22/pressure-governor-houston-changes-ordinance-limiting-cooperation-ice/",
+            "description": "A Houston city ordinance that limited police officers' cooperation with federal immigration agents was amended on Wednesday after Texas' governor thre...",
+            "pubDate": "2026-04-23T00:01:19",
+            "image_url": "https://twt-thumbs.washtimes.com/media/image/2026/04/22/Immigration_Police_Cooperation_29344_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
+        },
+        {
+            "title": "Groups sue Alaska election officials, allege the sharing of voter data with DOJ was unconstitutional",
+            "link": "https://www.washingtontimes.com/news/2026/apr/22/groups-sue-alaska-election-officials-allege-sharing-voter-data-doj/",
+            "description": "Voting and civil rights groups sued Alaska elections officials Wednesday, alleging that their sharing of the state's full voter registration list with...",
+            "pubDate": "2026-04-23T00:05:31",
+            "image_url": "https://twt-thumbs.washtimes.com/media/image/2026/04/22/Elections_Justice_Department_Alaska_65838_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
+        },
+        {
+            "title": "Judge blocks certification of Democrats' win in Virginia redistricting referendum",
+            "link": "https://www.washingtontimes.com/news/2026/apr/22/judge-blocks-certification-democrats-win-virginia-redistricting/",
+            "description": "A Virginia judge has stopped the state from certifying the results of Tuesday's referendum in which voters narrowly approved Democrats' new gerrymande...",
+            "pubDate": "2026-04-22T23:17:09",
+            "image_url": "https://twt-thumbs.washtimes.com/media/image/2026/04/21/Election_2_26_Redistricting_Virginia_869__s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
+        },
+        {
+            "title": "Navy secretary out in latest high-level departure from Trump's Pentagon",
+            "link": "https://www.washingtontimes.com/news/2026/apr/22/john-phelan-navy-secretary-latest-high-level-departure-pentagon/",
+            "description": "Secretary of the Navy John C. Phelan has stepped down from his position at the Defense Department in the latest high-profile departure by a Trump admi...",
+            "pubDate": "2026-04-22T23:18:44",
+            "image_url": "https://twt-thumbs.washtimes.com/media/image/2026/04/22/Pentagon_Navy_Secretary__2872_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
+        },
+        {
+            "title": "Kalshi fines and suspends three congressional candidates for wagering on their own elections",
+            "link": "https://www.washingtontimes.com/news/2026/apr/22/kalshi-fines-suspends-three-congressional-candidates-wagering/",
+            "description": "Three congressional candidates are accused of betting on the outcome of their own elections on the prediction market Kalshi, which said Wednesday that...",
+            "pubDate": "2026-04-22T23:23:35",
+            "image_url": "https://twt-thumbs.washtimes.com/media/image/2026/04/22/Prediction_Market_Politician_Bets_41_35_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
+        },
+        {
+            "title": "Canada’s prime minister says economic ties with US are a weakness that must be corrected",
+            "link": "https://www.politico.com/news/2026/04/19/canadas-prime-minister-says-economic-ties-with-us-are-a-weakness-that-must-be-corrected-00880254",
+            "description": "“We have to take care of ourselves because we can’t rely on one foreign partner,” Mark Carney said in a video address. “We can’t control the disruptio...",
+            "pubDate": "2026-04-20T02:53:51",
+            "image_url": "https://static.politico.com/44/af/5f3bd03f4f90a29527dab3c9c411/china-canada-carney-29140.jpg"
+        },
+        {
+            "title": "Trump Keeps Gambling With the Economy — And Getting Away With It",
+            "link": "https://www.politico.com/news/magazine/2026/03/05/trump-economy-risk-iran-oil-tariffs-tax-cuts-00812888",
+            "description": "President Donald Trump has taken one risk after another that could have destabilized the American economy. Iran is the latest crisis to test U.S. econ...",
+            "pubDate": "2026-03-05T10:55:00",
+            "image_url": "https://static.politico.com/56/e1/e54532a447b990ceb8b83cc3ac20/iran-us-oil-25735.jpg"
+        },
+        {
+            "title": "Capitol agenda: GOP bets on immigration fight, not big bills",
+            "link": "https://www.politico.com/live-updates/2026/02/26/congress/trump-immigration-midterms-gop-legislation-agenda-00799871",
+            "description": "",
+            "pubDate": "2026-02-26T13:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "CNN Wonders Why ICE Is Targeting Charlotte, N.C. Here’s Why.",
+            "link": "https://www.immigrationreform.com/2025/11/20/cnn-wonders-why-ice-is-targeting-charlotte-n-c-heres-why/",
+            "description": "ICE targets Charlotte, North Carolina due to the city’s mounting immigration problem. It is also the seat of Mecklenburg County which permits the sher...",
+            "pubDate": "2025-11-20T21:19:45",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Deterring Illegal Immigration: This Town Decided that Actions Speak Louder than Words",
+            "link": "https://www.immigrationreform.com/2025/11/06/deterring-illegal-immigration-this-town-decided-that-actions-speak-louder-than-words/",
+            "description": "After approving an anti-sanctuary resolution, Worthington Hills, Kentucky is not a sanctuary for illegal aliens. To read the rest of the article click...",
+            "pubDate": "2025-11-06T13:56:40",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Chicago Mayor Dodges Question by Quibbling Over Term “Illegal Alien”",
+            "link": "https://www.immigrationreform.com/2025/10/30/chicago-mayor-dodges-question-by-quibbling-over-term-illegal-alien/",
+            "description": "Chicago Mayor Brandon Johnson is happy to spend hundreds of millions of taxpayer dollars on benefits and services for illegal aliens. What he does not...",
+            "pubDate": "2025-10-30T20:06:11",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Gavin Newsom: What’s Three Lives and Another $200 Million Anyway?",
+            "link": "https://www.immigrationreform.com/2025/10/30/gavin-newsom-whats-three-lives-and-another-200-million-anyway/",
+            "description": "In just the last two months, illegal aliens operating big rigs with California commercial driver’s licenses have cost six innocent motorists their liv...",
+            "pubDate": "2025-10-30T20:21:04",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "DHS Launches Operation River Wall to Secure Rio Grande Valley",
+            "link": "https://www.immigrationreform.com/2025/10/23/dhs-launches-operation-river-wall-to-secure-rio-grande-valley/",
+            "description": "DHS’s Operation River Wall will surge U.S. Coast Guard assets to waterways at our southern border to target illegal immigration, transnational crimina...",
+            "pubDate": "2025-10-23T18:24:49",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Tech, Media & Telecom Roundup: Market Talk",
+            "link": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-5908c510?mod=rss_Technology",
+            "description": "DeepSeek, SoFi and more in the latest Market Talks covering Technology, Media and Telecom.",
+            "pubDate": "2025-01-27T17:28:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Silicon Valley Is Raving About a Made-in-China AI Model",
+            "link": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology",
+            "description": "DeepSeek is called “amazing and impressive” despite working with less-advanced chips.",
+            "pubDate": "2025-01-27T14:36:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "What to Know About China's DeepSeek AI",
+            "link": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology",
+            "description": "The Chinese upstart says it has trained high-performing AI models cheaply, without using the most advanced chips.",
+            "pubDate": "2025-01-27T18:17:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Reid Hoffman Raises $24.6 Million for AI Cancer-Research Startup",
+            "link": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology",
+            "description": "The LinkedIn co-founder is starting Manas AI with “The Emperor of All Maladies” author Siddhartha Mukherjee.",
+            "pubDate": "2025-01-27T13:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Can an App Replace a Personal Trainer? I Tested Nearly a Dozen to Find Out",
+            "link": "https://www.wsj.com/articles/strength-training-apps-review-950a2d19?mod=rss_Technology",
+            "description": "Apps can add flexibility and freshness to your routine. Just try not to get injured.",
+            "pubDate": "2025-01-26T14:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        }
+    ]
+}

@@ -2,42 +2,42 @@
     "title": "Individual feed for https://seekingalpha.com/market_currents.xml",
     "link": "https://seekingalpha.com/market_currents.xml",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-04-22T16:10:56.687130",
+    "lastBuildDate": "2026-04-23T09:36:29.236304",
     "items": [
         {
-            "title": "Las Vegas Sands Non-GAAP EPS of $0.91 beats by $0.15, revenue of $3.59B beats by $240M",
-            "link": "https://seekingalpha.com/news/4578204-las-vegas-sands-non-gaap-eps-of-0_91-beats-by-0_15-revenue-of-3_59b-beats-by-240m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+            "title": "DNB Bank ASA GAAP EPS of NOK6.50",
+            "link": "https://seekingalpha.com/news/4578701-dnb-bank-asa-gaap-eps-of-nok650?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
             "description": "",
-            "pubDate": "2026-04-22T21:08:52",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "pubDate": "2026-04-23T14:33:15",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "First Merchants GAAP EPS of $0.45 misses by $0.44, revenue of $157M misses by $31.43M",
-            "link": "https://seekingalpha.com/news/4578202-first-merchants-gaap-eps-of-0_45-misses-by-0_44-revenue-of-157m-misses-by-31_43m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+            "title": "Trump instructs to ‘shoot and kill’ any boat putting mines in the Strait of Hormuz",
+            "link": "https://seekingalpha.com/news/4578700-trump-instructs-to-shoot-and-kill-any-boat-putting-mines-in-the-strait-of-hormuz?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
             "description": "",
-            "pubDate": "2026-04-22T21:08:15",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "pubDate": "2026-04-23T14:33:08",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "Kinder Morgan Non-GAAP EPS of $0.48 beats by $0.09, revenue of $4.83B beats by $280M",
-            "link": "https://seekingalpha.com/news/4578199-kinder-morgan-non-gaap-eps-of-0_48-beats-by-0_09-revenue-of-4_83b-beats-by-280m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+            "title": "Green Thumb expands buyback program by $100M",
+            "link": "https://seekingalpha.com/news/4578581-green-thumb-expands-buyback-program-by-100m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
             "description": "",
-            "pubDate": "2026-04-22T21:07:42",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "pubDate": "2026-04-23T14:32:03",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "Lam Research Non-GAAP EPS of $1.47 beats by $0.11, revenue of $5.84B beats by $80M",
-            "link": "https://seekingalpha.com/news/4578201-lam-research-non-gaap-eps-of-1_47-beats-by-0_11-revenue-of-5_84b-beats-by-80m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+            "title": "Stock market falls after Wall Street's record-setting closes",
+            "link": "https://seekingalpha.com/news/4578441-sp500-nasdaq-dow-jones-outlook-stock-market?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
             "description": "",
-            "pubDate": "2026-04-22T21:07:28",
+            "pubDate": "2026-04-23T14:32:03",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         },
         {
-            "title": "Banner GAAP EPS of $1.60 beats by $0.23, revenue of $169.3M in-line",
-            "link": "https://seekingalpha.com/news/4578200-banner-gaap-eps-of-1_60-beats-by-0_23-revenue-of-169_3m-in-line?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+            "title": "Direct Digital Holdings announces 4:1 reverse split to meet Nasdaq rules",
+            "link": "https://seekingalpha.com/news/4578656-direct-digital-holdings-announces-41-reverse-split-to-meet-nasdaq-rules?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
             "description": "",
-            "pubDate": "2026-04-22T21:07:01",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "pubDate": "2026-04-23T14:31:03",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         }
     ]
 }

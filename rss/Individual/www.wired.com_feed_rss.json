@@ -2,42 +2,42 @@
     "title": "Individual feed for https://www.wired.com/feed/rss",
     "link": "https://www.wired.com/feed/rss",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-04-22T16:11:21.271310",
+    "lastBuildDate": "2026-04-23T09:37:14.763082",
     "items": [
         {
-            "title": "5 AI Models Tried to Scam Me. Some of Them Were Scary Good",
-            "link": "https://www.wired.com/story/ai-model-phishing-attack-cybersecurity/",
-            "description": "The cyber capabilities of AI models have experts rattled. AI’s social skills may be just as dangerous.",
-            "pubDate": "2026-04-22T19:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "New York Bans Government Employees from Insider Trading on Prediction Markets",
-            "link": "https://www.wired.com/story/new-york-bans-government-employees-prediction-markets/",
-            "description": "A new executive order seen by WIRED prohibits New York state employees from using insider knowledge to enrich themselves with prediction market bets.",
-            "pubDate": "2026-04-22T17:00:00",
+            "title": "Lume Cube Edge Light Go Review (2026): Versatile, Portable",
+            "link": "https://www.wired.com/review/lume-cube-edge-light-go-portable-lamp/",
+            "description": "Portable lamps are rarely, if ever, as powerful, precise, and multipurpose as the Lume Cube Edge Light Go.",
+            "pubDate": "2026-04-23T13:29:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
         },
         {
-            "title": "AI Tools Are Helping Mediocre North Korean Hackers Steal Millions",
-            "link": "https://www.wired.com/story/ai-tools-are-helping-mediocre-north-korean-hackers-steal-millions/",
-            "description": "One group of hackers used AI for everything from vibe coding their malware to creating fake company websites—and stole as much as $12 million in three...",
-            "pubDate": "2026-04-22T17:00:00",
+            "title": "These New Smart Glasses From Ex-OnePlus Engineers Have a Hidden Cost",
+            "link": "https://www.wired.com/story/latitude-52-n-smart-glasses-from-ex-oneplus-engineers-have-a-hidden-cost/",
+            "description": "The Kickstarter-funded glasses from L'Atitude 52°N have AI features bundled for 1 year, but the company doesn't know yet how much it will charge for a...",
+            "pubDate": "2026-04-23T13:00:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "The Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame",
+            "link": "https://www.wired.com/story/best-pool-cleaning-robots/",
+            "description": "Send the pool guy packing. One of these robotic buddies can maintain your water quality instead.",
+            "pubDate": "2026-04-23T12:11:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Best Fitbit Models for Beginners, Athletes, and Kids (2026)",
+            "link": "https://www.wired.com/story/best-fitbit/",
+            "description": "The fitness trackers I'd recommend to beginners, athletes, and kids.",
+            "pubDate": "2026-04-23T12:00:00",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
         },
         {
-            "title": "USAID Whistleblower Says It Was Even Worse Than People Knew",
-            "link": "https://www.wired.com/story/usaid-whistleblower-says-it-was-even-worse-than-people-knew/",
-            "description": "Political appointees wanted a quiet drawdown, the whistleblower says. DOGE wanted an execution.",
-            "pubDate": "2026-04-22T16:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
-        },
-        {
-            "title": "Best Chromebooks (2026): Most Are Bad, but These Aren't",
-            "link": "https://www.wired.com/story/best-chromebooks/",
-            "description": "Chromebooks have a reputation for being cheap and crappy. But they don't have to be, and these are the Chromebooks that prove it.",
-            "pubDate": "2026-04-22T12:30:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "Best Robot Vacuum of 2026: Shark, Eufy",
+            "link": "https://www.wired.com/story/best-robot-vacuum/",
+            "description": "Tired of vacuuming? Hand the reins to a robot vacuum.",
+            "pubDate": "2026-04-23T11:33:00",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         }
     ]
 }

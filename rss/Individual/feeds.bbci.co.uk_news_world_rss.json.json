@@ -2,42 +2,42 @@
     "title": "Individual feed for https://feeds.bbci.co.uk/news/world/rss.xml",
     "link": "https://feeds.bbci.co.uk/news/world/rss.xml",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-04-22T16:11:03.476981",
+    "lastBuildDate": "2026-04-23T09:36:37.475195",
     "items": [
-        {
-            "title": "Billionaire backer sues Trump family's crypto firm over alleged extortion",
-            "link": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss",
-            "description": "Billionaire investor Justin Sun is suing the family's World Liberty crypto venture after spending $45m on its tokens.",
-            "pubDate": "2026-04-22T19:10:42",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
-        },
-        {
-            "title": "EU approves €90bn loan for Ukraine as pipeline is turned on ending deadlock",
-            "link": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss",
-            "description": "Ukraine says it has reopened the Druzhba pipeline, after months of stalemate over stalled oil supplies to neighbouring Hungary.",
-            "pubDate": "2026-04-22T18:48:44",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
-        {
-            "title": "Nigeria's suspected coup plotters deny treason charges",
-            "link": "https://www.bbc.com/news/articles/c0krlxg384eo?at_medium=RSS&at_campaign=rss",
-            "description": "Allegations of a coup plot first surfaced last year when an Independence Day parade was cancelled.",
-            "pubDate": "2026-04-22T18:33:30",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
-        },
         {
             "title": "Pope Leo criticises Equatorial Guinea prisons as he winds up Africa tour",
             "link": "https://www.bbc.com/news/articles/c80m4822m1no?at_medium=RSS&at_campaign=rss",
             "description": "The Pope gives a frank and passionate speech, the likes of which have characterised his tour of Africa.",
-            "pubDate": "2026-04-22T18:04:33",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+            "pubDate": "2026-04-23T12:42:44",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
         },
         {
-            "title": "US and Iran in blockade standoff as Pakistan pushes for talks",
-            "link": "https://www.bbc.com/news/articles/c0q9xq7knq2o?at_medium=RSS&at_campaign=rss",
-            "description": "The mood in the Strait of Hormuz remains combustible despite Trump's ceasefire extension.",
-            "pubDate": "2026-04-22T17:19:36",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
+            "title": "South African court orders Zambia to return former president's body",
+            "link": "https://www.bbc.com/news/articles/cdj7vgwwzgdo?at_medium=RSS&at_campaign=rss",
+            "description": "Zambia authorities and Edgar Lungu's family are in a dispute over where the former leader's remains should be buried.",
+            "pubDate": "2026-04-23T12:39:55",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Two trains collide head-on in Denmark, leaving five critically hurt",
+            "link": "https://www.bbc.com/news/articles/cgqkw3qk0dlo?at_medium=RSS&at_campaign=rss",
+            "description": "The accident happened early on Thursday at a level crossing north of Copenhagen.",
+            "pubDate": "2026-04-23T12:08:56",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "BBC visits migrant camp in northern France as new deal announced",
+            "link": "https://www.bbc.com/news/videos/cgrl891xkpvo?at_medium=RSS&at_campaign=rss",
+            "description": "A proposed three-year deal with Paris is aimed at stopping migrants crossing the Channel on small boats.",
+            "pubDate": "2026-04-23T10:39:50",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "US Navy chief leaving post 'effective immediately', Pentagon says",
+            "link": "https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss",
+            "description": "Reports say Phelan, whose role was largely administrative, left amid tension over US shipbuilding.",
+            "pubDate": "2026-04-23T09:37:14",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture9.png"
         }
     ]
 }

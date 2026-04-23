@@ -2,42 +2,42 @@
     "title": "Individual feed for https://www.espn.com/espn/rss/news",
     "link": "https://www.espn.com/espn/rss/news",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-04-22T16:10:36.959693",
+    "lastBuildDate": "2026-04-23T09:35:55.367611",
     "items": [
         {
-            "title": "Stanley Cup playoffs daily: Can the Penguins turn the tide in Philly?",
-            "link": "https://www.espn.com/nhl/story/_/id/48526483/2026-nhl-playoffs-stanley-cup-preview-stats-schedule-top-players-bracket-matchups",
-            "description": "Here's a preview of Wednesday's three games, along with stat leaders and a look back on Tuesday's OT-filled evening.",
-            "pubDate": "2026-04-22T21:53:55",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
-        },
-        {
-            "title": "Five reasons to still trust the Pistons, even after a disastrous Game 1",
-            "link": "https://www.espn.com/nba/story/_/id/48554498/the-top-five-reasons-trust-detroit-pistons-postseason",
-            "description": "Game 1 didn't go Detroit's way on Sunday, but there are still a lot of reasons to trust these young Pistons.",
-            "pubDate": "2026-04-22T21:52:33",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
-        },
-        {
-            "title": "Cowboys won't talk long-term deal with Pickens",
-            "link": "https://www.espn.com/nfl/story/_/id/48561830/cowboys-say-talk-long-term-deal-george-pickens",
-            "description": "The Cowboys will not discuss a long-term contract with George Pickens and want him to play this season on the franchise tag, executive Stephen Jones s...",
-            "pubDate": "2026-04-22T21:49:58",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
-        },
-        {
-            "title": "Sources: NFL prospect Banks eyes June clearance",
-            "link": "https://www.espn.com/nfl/story/_/id/48562038/sources-draft-prospect-caleb-banks-foot-expects-june-clearance",
-            "description": "Florida's Caleb Banks, one of the top defensive tackles in this year's draft, is expected to be fully cleared for football activities in early June af...",
-            "pubDate": "2026-04-22T21:49:58",
+            "title": "East playoff takeaways: Pistons rout Magic to even series",
+            "link": "https://www.espn.com/nba/story/_/id/48506456/2026-nba-playoffs-eastern-conference-round-one-takeaways",
+            "description": "Here's what has stood out from the latest playoff games of the Eastern Conference's first round.",
+            "pubDate": "2026-04-23T15:22:36",
             "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
-            "title": "Fever's Clark to stay fresh by handling ball less",
-            "link": "https://www.espn.com/wnba/story/_/id/48562892/fever-caitlin-clark-aims-stay-fresh-handling-ball-less",
-            "description": "Fever star Caitlin Clark is prepared to give up a bit of control heading into the season by playing off the ball for stretches in order to give her a ...",
-            "pubDate": "2026-04-22T21:49:58",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
+            "title": "Rosenior was out of his depth at Chelsea, and it was obvious from the start",
+            "link": "https://www.espn.com/soccer/story/_/id/48562222/liam-rosenior-was-depth-chelsea-was-obvious-start",
+            "description": "Liam Rosenior never had the aura of a Chelsea manager, but the club hired him anyway. Four months later, the Blues are looking for another new coach.",
+            "pubDate": "2026-04-23T15:21:13",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "If the Premier League did an NFL-style draft, who would each team select?",
+            "link": "https://www.espn.com/soccer/story/_/id/48549547/if-premier-league-did-nfl-style-draft-team-select",
+            "description": "In the spirit of NFL draft week, we created a Premier League version with all the drama and intrigue.",
+            "pubDate": "2026-04-23T15:21:13",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Women's boxing pound-for-pound rankings: Baumgardner closes in on top 5 with win",
+            "link": "https://www.espn.com/boxing/story/_/id/48549540/women-boxing-pound-pound-rankings-baumgardner-closes-top-5-win",
+            "description": "Alycia Baumgardner kept her titles and moved up in the rankings. Here's the latest women's pound-for-pound list.",
+            "pubDate": "2026-04-23T15:21:05",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Our NFL draft-day mock: Yates' final predictions for all 32 picks, plus Kiper's notes",
+            "link": "https://www.espn.com/nfl/draft2026/story/_/id/48543956/2026-nfl-mock-draft-final-intel-predictions-yates-kiper-round-1",
+            "description": "Field Yates projects the first 32 draft picks one last time -- including a trade -- and Mel Kiper Jr. shares what he's hearing heading into Round 1 (8...",
+            "pubDate": "2026-04-23T15:13:05",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         }
     ]
 }

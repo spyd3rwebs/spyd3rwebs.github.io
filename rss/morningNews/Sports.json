@@ -1,0 +1,78 @@
+{
+    "title": "Sports",
+    "link": "http://example.com/interleaved_feed.json",
+    "description": "This is a randomly ordered feed of the most recent entries from Sports, skipping any feeds with errors.",
+    "lastBuildDate": "2026-04-23T09:35:55.366594",
+    "items": [
+        {
+            "title": "2025-26 NBA Playoff Odds: Spreads, Lines for First-Round Series",
+            "link": "https://www.foxsports.com/stories/nba/2025-26-nba-playoff-odds-spreads-lines-play-in-first-round-series",
+            "description": "The NBA playoffs are here. Check out the odds for each first-round series.",
+            "pubDate": "2026-04-23T06:50:25",
+            "image_url": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/04/durant-412.jpg"
+        },
+        {
+            "title": "BetMGM Bonus Code FOXSPORTS: $1500 in Bonus Bets if Your First Bet Loses",
+            "link": "https://www.foxsports.com/stories/betting/betmgm-promo-code",
+            "description": "Use BetMGM Bonus Code FOXSPORTS to get up to $1,500 back in Bonus Bets if your first wager loses. Claim your BetMGM welcome offer today.",
+            "pubDate": "2026-04-23T12:00:50",
+            "image_url": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2025/08/16x9betmgm.jpg"
+        },
+        {
+            "title": "Patriots Coach Mike Vrabel Seeking Counseling, Will Miss Day 3 of 2026 NFL Draft",
+            "link": "https://www.foxsports.com/stories/nfl/patriots-coach-mike-vrabel-seeking-counseling-will-miss-day-3-2026-nfl-draft",
+            "description": "New England Patriots head coach Mike Vrabel is seeking counseling and will not be with the team for Day 3 of the 2026 NFL Draft.",
+            "pubDate": "2026-04-23T14:22:36",
+            "image_url": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/04/b7166592-mike2.jpg"
+        },
+        {
+            "title": "The New York Mets End 12-Game Skid With Win Over Minnesota Twins",
+            "link": "https://www.foxsports.com/stories/mlb/mets-12-twins-juan-soto-returns-francisco-lindor-exits-with-calf-injury",
+            "description": "The New York Mets broke their 12-game losing streak with a win over the Minnesota Twins, but the drama continued.",
+            "pubDate": "2026-04-23T04:23:42",
+            "image_url": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/04/juan_soto_horizontal-1.jpg"
+        },
+        {
+            "title": "Diego Maradona's Heartbreak in Italy '90 Joins Top World Cup Moments List",
+            "link": "https://www.foxsports.com/stories/soccer/world-cup-100-best-moments-messi-maradona-ronaldo-pele-mbappe-usa",
+            "description": "The World Cup is defined by memorable moments. Counting down to the top 100 of all-time.",
+            "pubDate": "2026-04-23T06:00:12",
+            "image_url": "https://statics.foxsports.com/www.foxsports.com/content/uploads/2026/04/maradona2.jpg"
+        },
+        {
+            "title": "Women's boxing pound-for-pound rankings: Baumgardner closes in on top 5 with win",
+            "link": "https://www.espn.com/boxing/story/_/id/48549540/women-boxing-pound-pound-rankings-baumgardner-closes-top-5-win",
+            "description": "Alycia Baumgardner kept her titles and moved up in the rankings. Here's the latest women's pound-for-pound list.",
+            "pubDate": "2026-04-23T15:21:05",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "East playoff takeaways: Pistons rout Magic to even series",
+            "link": "https://www.espn.com/nba/story/_/id/48506456/2026-nba-playoffs-eastern-conference-round-one-takeaways",
+            "description": "Here's what has stood out from the latest playoff games of the Eastern Conference's first round.",
+            "pubDate": "2026-04-23T15:22:36",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Our NFL draft-day mock: Yates' final predictions for all 32 picks, plus Kiper's notes",
+            "link": "https://www.espn.com/nfl/draft2026/story/_/id/48543956/2026-nfl-mock-draft-final-intel-predictions-yates-kiper-round-1",
+            "description": "Field Yates projects the first 32 draft picks one last time -- including a trade -- and Mel Kiper Jr. shares what he's hearing heading into Round 1 (8...",
+            "pubDate": "2026-04-23T15:13:05",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Rosenior was out of his depth at Chelsea, and it was obvious from the start",
+            "link": "https://www.espn.com/soccer/story/_/id/48562222/liam-rosenior-was-depth-chelsea-was-obvious-start",
+            "description": "Liam Rosenior never had the aura of a Chelsea manager, but the club hired him anyway. Four months later, the Blues are looking for another new coach.",
+            "pubDate": "2026-04-23T15:21:13",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "If the Premier League did an NFL-style draft, who would each team select?",
+            "link": "https://www.espn.com/soccer/story/_/id/48549547/if-premier-league-did-nfl-style-draft-team-select",
+            "description": "In the spirit of NFL draft week, we created a Premier League version with all the drama and intrigue.",
+            "pubDate": "2026-04-23T15:21:13",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        }
+    ]
+}

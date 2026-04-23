@@ -2,42 +2,42 @@
     "title": "Individual feed for https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258",
     "link": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-04-22T16:10:56.684831",
+    "lastBuildDate": "2026-04-23T09:36:29.232570",
     "items": [
+        {
+            "title": "These charts show how Iran's economy is in freefall",
+            "link": "https://www.cnbc.com/2026/04/23/iran-economy-war-charts-rial-oil-strait-hormuz-blockade.html",
+            "description": "Tehran's hardline rhetoric belies a brutal reality facing the regime and Iranian citizens: its economy, vulnerable even before the war, is now in tatt...",
+            "pubDate": "2026-04-23T11:24:02",
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
+        },
         {
             "title": "Kevin Warsh gave his preferred way for measuring inflation. It could come back to bite him",
             "link": "https://www.cnbc.com/2026/04/22/kevin-warsh-inflation-trend-pce-trump.html",
             "description": "But Bank of America economist Aditya Bhave warned Wednesday that such a recalculation might not pan out as the former Fed governor hopes.",
             "pubDate": "2026-04-22T20:29:20",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         },
         {
             "title": "Trump extends Iran ceasefire — but market focus has already drifted elsewhere",
             "link": "https://www.cnbc.com/2026/04/22/markets-shrug-at-trumps-iran-ceasefire-extension.html",
             "description": "Prospects for further negotiations remain uncertain, with Tehran and Washington offering conflicting signals on the ceasefire's status.",
             "pubDate": "2026-04-22T11:37:32",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture7.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture10.png"
         },
         {
             "title": "Tariff refunds begin on Monday. These retailers are due big paydays",
             "link": "https://www.cnbc.com/2026/04/20/tariff-refunds-begin-on-monday-these-retailers-are-due-big-paydays.html",
             "description": "U.S. importers, such as Walmart and Target, could be in line for billions in tariff refunds as the government launches its claims filing portal on Mon...",
             "pubDate": "2026-04-21T13:31:58",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture3.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture2.png"
         },
         {
             "title": "Chair nominee Kevin Warsh says Fed must ‘stay in its lane’ to maintain independence",
             "link": "https://www.cnbc.com/2026/04/20/kevin-warsh-fed-confirmation-senate.html",
             "description": "Warsh also expressed firm commitment to fighting inflation with only one mention of the labor market.",
             "pubDate": "2026-04-21T13:18:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture5.png"
-        },
-        {
-            "title": "‘New cards on the battlefield’: U.S., Iran ratchet up rhetoric with peace talks in limbo",
-            "link": "https://www.cnbc.com/2026/04/21/new-cards-on-the-battlefield-us-iran-ratchet-up-rhetoric-with-peace-talks-in-limbo.html",
-            "description": "American negotiators may be outmatched at the negotiating table by Iran's experienced diplomatic delegation, says analyst, ahead of potential high-sta...",
-            "pubDate": "2026-04-21T12:16:56",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture8.png"
         }
     ]
 }

@@ -2,7 +2,7 @@
     "title": "Individual feed for https://rss.politico.com/economy.xml",
     "link": "https://rss.politico.com/economy.xml",
     "description": "Individual feed output.",
-    "lastBuildDate": "2026-04-22T16:11:13.994699",
+    "lastBuildDate": "2026-04-23T09:37:05.595722",
     "items": [
         {
             "title": "Canada’s prime minister says economic ties with US are a weakness that must be corrected",
@@ -23,7 +23,7 @@
             "link": "https://www.politico.com/live-updates/2026/02/26/congress/trump-immigration-midterms-gop-legislation-agenda-00799871",
             "description": "",
             "pubDate": "2026-02-26T13:00:00",
-            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture6.png"
+            "image_url": "https://lead-mark.github.io/snippets/genNewsImagesTwo/Picture1.png"
         }
     ]
 }
