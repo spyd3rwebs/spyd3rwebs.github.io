@@ -1,0 +1,43 @@
+{
+    "title": "Individual feed for https://www.sciencedaily.com/rss/top/science.xml",
+    "link": "https://www.sciencedaily.com/rss/top/science.xml",
+    "description": "Individual feed output.",
+    "lastBuildDate": "2026-04-23T10:25:42.936944",
+    "items": [
+        {
+            "title": "AI just discovered new physics in the fourth state of matter",
+            "link": "https://www.sciencedaily.com/releases/2026/04/260422044635.htm",
+            "description": "Physicists have taken a major step toward using AI not just to analyze data, but to uncover entirely new laws of nature. By combining a specially desi...",
+            "pubDate": "2026-04-23T14:38:47",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "These 80-year-olds have the memory of 50-year-olds. Scientists now know why",
+            "link": "https://www.sciencedaily.com/releases/2026/04/260423022006.htm",
+            "description": "A rare group of adults over 80, known as SuperAgers, are rewriting what we thought was possible for the aging brain. With memory abilities comparable ...",
+            "pubDate": "2026-04-23T12:46:30",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "For the first time, scientists pinpoint the brain cells behind depression",
+            "link": "https://www.sciencedaily.com/releases/2026/04/260423022010.htm",
+            "description": "Scientists have identified two specific types of brain cells that behave differently in people with depression, offering a clearer picture of what is ...",
+            "pubDate": "2026-04-23T10:55:24",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Scientists discover hidden forces are warping Earth deep beneath the surface",
+            "link": "https://www.sciencedaily.com/releases/2026/04/260422044632.htm",
+            "description": "Scientists have mapped how Earth’s deepest mantle is being deformed—and the results point to long-lost tectonic plates buried thousands of kilometers ...",
+            "pubDate": "2026-04-23T06:29:21",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "This ancient crocodile relative grew up on four legs then walked on two",
+            "link": "https://www.sciencedaily.com/releases/2026/04/260422044628.htm",
+            "description": "A bizarre crocodile relative from the age of dinosaurs is rewriting what scientists thought they knew about ancient reptiles. This poodle-sized creatu...",
+            "pubDate": "2026-04-23T05:51:41",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture8.png"
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "title": "HFaceAllStories",
+    "link": "http://example.com/interleaved_feed.json",
+    "description": "This is a randomly ordered feed of the most recent entries from HFaceAllStories, skipping any feeds with errors.",
+    "lastBuildDate": "2026-04-23T10:25:45.149999",
+    "items": [
+        {
+            "title": "Texas Instruments topped Wall Street’s outlook on more than just data-center demand",
+            "link": "https://www.marketwatch.com/story/texas-instruments-topped-wall-streets-outlook-on-more-than-just-data-center-demand-c033d44a?mod=mw_rss_topstories",
+            "description": "Texas Instruments, one of the microchip makers most exposed to the manufacturing sector, raised its outlook after seeing strong demand from industrial...",
+            "pubDate": "2026-04-23T15:12:00",
+            "image_url": "https://images.mktw.net/im-11442056"
+        },
+        {
+            "title": "Analysts try to quell market panic after Taiwan Semiconductor said ASML charges too much",
+            "link": "https://www.marketwatch.com/story/analysts-try-to-quell-the-panic-after-taiwan-semiconductor-said-a-high-end-asml-machine-was-too-expensive-e6e43f6e?mod=mw_rss_topstories",
+            "description": "There aren’t many customers for ASML’s multi-million-dollar machines, and one of them just drew a line in the sand.",
+            "pubDate": "2026-04-23T14:40:00",
+            "image_url": "https://images.mktw.net/im-98471302"
+        },
+        {
+            "title": "Why ServiceNow’s stock is sliding in the wake of earnings",
+            "link": "https://www.marketwatch.com/story/why-servicenows-stock-is-sliding-in-the-wake-of-earnings-d1f63e4e?mod=mw_rss_topstories",
+            "description": "Investors may be taking issue with various elements of the software company’s margin forecast.",
+            "pubDate": "2026-04-23T15:01:00",
+            "image_url": "https://images.mktw.net/im-10012347"
+        },
+        {
+            "title": "Before dipping into your 401(k) for emergency cash, consider these costs",
+            "link": "https://www.marketwatch.com/story/before-dipping-into-your-401-k-for-emergency-cash-consider-these-costs-a7ac804c?mod=mw_rss_topstories",
+            "description": "Here’s what you need to know before taking money from your 401(k) or getting a 401(k) loan",
+            "pubDate": "2026-04-23T15:00:00",
+            "image_url": "https://images.mktw.net/im-37829591"
+        },
+        {
+            "title": "A market pullback is more likely than a continued rally, Goldman Sachs says",
+            "link": "https://www.marketwatch.com/story/a-market-pullback-is-more-likely-than-a-continued-rally-goldman-sachs-says-bf24ae05?mod=mw_rss_topstories",
+            "description": "Goldman’s warning comes as the stock market has enjoyed a strong rally off the lows hit on March 30.",
+            "pubDate": "2026-04-23T14:55:00",
+            "image_url": "https://images.mktw.net/im-63376845"
+        },
+        {
+            "title": "This retailer is due for a bounce despite recent headwinds, Raymond James says",
+            "link": "https://www.cnbc.com/2026/04/23/this-retailer-is-due-for-a-bounce-despite-headwinds-raymond-james-says-.html",
+            "description": "On Holding is trading at a discount, but it is poised to power through potential headwinds tied to its leadership shakeup and macroeconomic uncertaint...",
+            "pubDate": "2026-04-23T14:04:09",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "AI is going to change the video game industry. Morgan Stanley says these 4 stocks will be winners",
+            "link": "https://www.cnbc.com/2026/04/23/ai-will-change-video-games-morgan-stanley-says-these-stocks-will-win.html",
+            "description": "The technology will potentially cut costs for incumbents, while reducing barriers to entry for new competitors.",
+            "pubDate": "2026-04-23T15:13:23",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Here are Thursday's biggest analyst calls: Nvidia, Tesla, Berkshire Hathaway, Amazon, Texas Instruments & more",
+            "link": "https://www.cnbc.com/2026/04/23/thursday-analyst-calls-with-stocks-like-nvidia.html",
+            "description": "Here are Thursday's biggest calls on Wall Street.",
+            "pubDate": "2026-04-23T13:29:58",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "This chipmaker is set to rally after a strong earnings report and guidance, says BofA",
+            "link": "https://www.cnbc.com/2026/04/23/this-chipmaker-is-set-to-rally-thanks-after-a-strong-earnings-report-and-guidance-says-bofa.html",
+            "description": "The bank's research arm raised its rating on the semiconductor name to buy from neutral.",
+            "pubDate": "2026-04-23T13:23:01",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "'CAR' crash: Avis Budget stock plunge reminding some on Wall Street of GameStop",
+            "link": "https://www.cnbc.com/2026/04/23/car-crash-avis-budget-stock-plunge-reminding-some-on-wall-street-of-gamestop.html",
+            "description": "Shares of Avis Budget Group, ticker 'CAR,' soared from under $100 last month to a record high near $850 in early trading Wednesday before a sharp U-tu...",
+            "pubDate": "2026-04-23T12:35:35",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Trump’s Psychedelic Executive Order and CMPS Stock: Upward Pressure or Short-Lived Pop?",
+            "link": "https://ragingbull.com/editorial/trumps-psychedelic-executive-order-and-cmps-stock-upward-pressure-or-short-lived-pop/",
+            "description": "Compass Pathways (CMPS) shares jumped sharply on Monday, April 20, 2026, rising roughly 47 percent intraday and trading near $9.80. The catalyst was c...",
+            "pubDate": "2026-04-20T18:42:31",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Target Hospitality (TH) Explodes on $550M Data Center Mega-Deal",
+            "link": "https://ragingbull.com/editorial/target-hospitality-th-explodes-on-550m-data-center-mega-deal/",
+            "description": "Folks, if you’re scanning the market today and wondering why one name is lighting up the screens like a fireworks show, look no further than Target Ho...",
+            "pubDate": "2026-04-01T21:53:22",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Tilly’s Stock Pops After Q4 Earnings Surprise",
+            "link": "https://ragingbull.com/editorial/tillys-stock-pops-after-q4-earnings-surprise/",
+            "description": "Hey folks, let’s talk about Tilly’s – that’s the retailer slinging cool clothes and gear for the young crowd. Their stock, ticker TLYS, is making wave...",
+            "pubDate": "2026-03-12T13:40:06",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Gilead Snaps Up Arcellx in $7.8B Cancer Drug Deal",
+            "link": "https://ragingbull.com/editorial/gilead-snaps-up-arcellx-in-7-8b-cancer-drug-deal/",
+            "description": "Gilead's $7.8B acquisition of Arcellx boosts shares 78% amid push for new myeloma drug. Explore the deal, market impacts, and trading insights.",
+            "pubDate": "2026-02-23T13:11:43",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Valaris Stock Soars on $5.8B Transocean Acquisition",
+            "link": "https://ragingbull.com/editorial/valaris-stock-soars-on-5-8b-transocean-acquisition/",
+            "description": "Valaris (VAL) shares close up 34.31% on news of a $5.8 billion all-stock acquisition by Transocean (RIG), creating a major offshore drilling powerhous...",
+            "pubDate": "2026-02-09T22:57:03",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture7.png"
+        }
+    ]
+}

@@ -1,0 +1,340 @@
+Title: summarizedStoriesMainNLbreakingNews
+https://abcnews.go.com/abcnews/topstories
+https://spyd3rwebs.github.io/rss/APUSnews.RSS
+https://www.yahoo.com/news/rss
+https://www.cbsnews.com/latest/rss/main
+
+Title: summarizedStoriesMainNLhealthAndWellness
+https://spyd3rwebs.github.io/rss/WebMD.RSS
+https://feeds.feedburner.com/KevinMd-MedicalWeblog
+https://www.medscape.com/cx/rssfeeds/2700.xml
+https://medicalxpress.com/rss-feed/
+https://www.physiciansweekly.com/feed/
+https://www.2minutemedicine.com/feed/
+
+Title: summarizedStoriesMainNLbusinessAndMarkets
+https://www.inc.com/rss/
+https://www.fastcompany.com/latest/rss
+https://fortune.com/feed/fortune-feeds/?id=3230629
+http://feeds.marketwatch.com/marketwatch/bulletins
+
+Title: summarizedStoriesMainNLscienceAndDiscovery
+https://new.nsf.gov/rss/rss_www_news.xml
+https://www.sciencedaily.com/rss/top/science.xml
+
+Title: summarizedStoriesMainNLpolitics
+https://api.axios.com/feed/
+https://www.immigrationreform.com/feed/
+https://rss.politico.com/economy.xml
+
+Title: summarizedStoriesPoliticsOffshootNL
+https://feeds.a.dj.com/rss/RSSWSJD.xml
+https://feeds.washingtonpost.com/rss/politics
+https://api.axios.com/feed/
+https://rss.politico.com/economy.xml
+
+Title: summarizedStoriesBreakingOffshootNL
+https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/world/rss.xml
+https://feeds.npr.org/1001/rss.xml
+
+Title: summarizedStoriesHealthOffshootNL
+https://khn.org/feed
+https://thehealthcareblog.com/feed
+https://www.npr.org/rss/rss.php?id=1128
+
+Title: bothSidesHeadlinesNLhealthAndWellness
+https://medicalxpress.com/rss-feed/
+https://www.physiciansweekly.com/feed/
+https://chriskresser.com/feed
+
+Title: bothSidesHeadlinesNLbreakingNews
+https://www.yahoo.com/news/rss
+https://abcnews.go.com/abcnews/usheadlines
+
+Title: bothSidesHeadlinesNLtech
+https://www.wired.com/feed/rss
+https://techcrunch.com/feed/
+
+Title: bothSidesHeadlinesNLmoneyAndMarkets
+https://feeds.a.dj.com/rss/RSSMarketsMain.xml
+https://www.allbusiness.com/feeds/feed.rss
+https://feeds.content.dowjones.io/public/rss/mw_topstories
+
+Title: bothSidesHeadlinesNLmindYourBusiness
+https://smallbiztrends.com/feed/
+https://www.forbes.com/innovation/feed2
+https://seths.blog/feed/
+
+Title: morningNewsSection1
+https://techcrunch.com/feed/
+https://spyd3rwebs.github.io/rss/APUSnews.RSS
+https://biggerpockets.com/blog/feed
+https://www.npr.org/rss/rss.php?id=1001
+
+Title: OnThisDay
+https://spyd3rwebs.github.io/rss/History.xml
+https://www.onthisday.com/rss/today-in-history.xml
+https://www.historytoday.com/feed/rss.xml
+
+Title: Politics
+https://redstate.com/feed
+https://www.newsmax.com/rss/Politics/1/
+https://moxie.foxnews.com/google-publisher/politics.xml
+
+Title: Finance
+https://fortune.com/feed/fortune-feeds/?id=3230629
+http://feeds.marketwatch.com/marketwatch/bulletins
+https://feeds.a.dj.com/rss/RSSWSJD.xml
+https://moxie.foxbusiness.com/google-publisher/economy.xml
+https://www.forbes.com/innovation/feed2
+
+Title: World
+https://feeds.bbci.co.uk/news/rss.xml
+https://www.theguardian.com/world/rss
+
+Title: Tech
+https://techcrunch.com/feed/
+https://spyd3rwebs.github.io/rss/genericNews/GNtech.xml
+
+Title: Health
+https://spyd3rwebs.github.io/rss/WebMD.RSS
+https://www.nothankstocake.com/feed/
+https://www.mindbodygreen.com/rss/featured.xml
+https://feeds.npr.org/1128/rss.xml
+
+Title: Sports
+https://api.foxsports.com/v2/content/optimized-rss?partnerKey=MB0Wehpmuj2lUhuRhQaafhBjAJqaPU244mlTDK1i&size=30
+https://www.espn.com/espn/rss/news
+
+Title: Entertainment
+https://feeds-api.dotdashmeredith.com/v1/rss/google/79365970-e87d-4fb6-966a-1c657b08f44f
+https://www.tmz.com/rss.xml
+
+Title: PNallDR
+https://redstate.com/feed
+https://www.newsmax.com/rss/Politics/1/
+https://moxie.foxnews.com/google-publisher/politics.xml
+
+Title: FMallSectionsDR
+https://www.washingtontimes.com/rss/headlines/news/politics/
+https://www.nationalreview.com/feed/
+https://thefederalist.com/feed/
+
+Title: FMaInewsletter
+https://fortune.com/feed/fortune-feeds/?id=3230629
+http://feeds.marketwatch.com/marketwatch/bulletins
+https://feeds.a.dj.com/rss/RSSWSJD.xml
+https://moxie.foxbusiness.com/google-publisher/economy.xml
+https://moxie.foxbusiness.com/google-publisher/markets.xml
+https://www.dailysignal.com/feed/
+https://spyd3rwebs.github.io/rss/APUSnews.RSS
+https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258
+https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664
+https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10001054
+https://abcnews.go.com/abcnews/moneyheadlines
+https://seekingalpha.com/feed.xml
+https://seekingalpha.com/market_currents.xml
+https://www.investors.com/category/etfs-and-funds/personal-finance/feed/
+https://www.investors.com/category/etfs-and-funds/management/feed/
+https://stocktwits.com/sitemap/rss_feed.xml
+https://finance.yahoo.com/news/rssindex
+https://www.economist.com/finance-and-economics/rss.xml
+https://www.business-standard.com/rss/latest.rss
+http://feeds.benzinga.com/benzinga
+https://www.marketbeat.com/feed/
+https://gfmag.com/feed/
+https://www.business-standard.com/rss/latest.rss
+https://www.thestreet.com/.rss/full/
+https://money.com/money/feed/
+https://gfmag.com/feed/
+https://www.financialsamurai.com/feed/
+https://moneyweek.com/feed/all
+https://www.finance-monthly.com/feed/
+https://dealbreaker.com/.rss/full/
+https://www.worldfinance.com/feed
+
+Title: SSbreakingHeadlines
+https://abcnews.go.com/abcnews/topstories
+https://spyd3rwebs.github.io/rss/APUSnews.RSS
+https://www.yahoo.com/news/rss
+https://www.cbsnews.com/latest/rss/main
+
+Title: morningNewsLastSection
+https://bookriot.com/feed/
+https://childandfamilyblog.com/feed/
+https://spyd3rwebs.github.io/rss/WebMD.RSS
+https://careersherpa.net/feed/
+https://therecipecritic.com/feed/
+https://www.younghouselove.com/feed/
+https://www.themarshallproject.org/rss/recent.rss
+https://juliaberolzheimer.com/feed/
+
+Title: morningNewsSportsAndEntertainment
+https://www.tmz.com/rss.xml
+https://spyd3rwebs.github.io/rss/ScreenRantMovies.RSS
+https://www.eonline.com/syndication/feeds/rssfeeds/topstories.xml
+
+Title: GNartsAndEnt
+https://www.tmz.com/rss.xml
+https://spyd3rwebs.github.io/rss/ScreenRantMovies.RSS
+
+Title: GNfood
+https://minimalistbaker.com/feed/
+https://therecipecritic.com/feed/
+
+Title: GNtravel
+https://thepointsguy.com/feed/
+
+Title: INtopBackup
+https://spyd3rwebs.github.io/rss/APUSnews.RSS
+https://feeds.bbci.co.uk/news/world/rss.xml
+https://feeds.npr.org/1001/rss.xml
+https://www.cbsnews.com/latest/rss/main
+
+Title: INall
+https://spyd3rwebs.github.io/rss/genericNews/GNartsAndEnt.xml
+https://spyd3rwebs.github.io/rss/genericNews/GNfinance.xml
+https://spyd3rwebs.github.io/rss/genericNews/INhealth.xml
+https://spyd3rwebs.github.io/rss/genericNews/GNtech.xml
+https://spyd3rwebs.github.io/rss/genericNews/GNtravel.xml
+
+Title: SSbusinessAndMarket
+https://fortune.com/feed/fortune-feeds/?id=3230629
+http://feeds.marketwatch.com/marketwatch/bulletins
+
+Title: SSscience
+https://new.nsf.gov/rss/rss_www_news.xml
+https://www.sciencedaily.com/rss/top/science.xml
+
+Title: SSbreakingSectionTwo
+https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/world/rss.xml
+https://fortune.com/feed/fortune-feeds/?id=3230629
+
+Title: HFaceAllStories
+https://ragingbull.com/feed/
+https://feeds.content.dowjones.io/public/rss/mw_topstories
+https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=15839069
+
+Title: HFRoss
+https://stocksurgedaily.com/feed/
+https://stocksurgedaily.com/feed/
+
+Title: WNwildNews
+https://spyd3rwebs.github.io/rss/APweirdnews.xml
+https://spyd3rwebs.github.io/rss/weird_news.rss
+https://feeds.feedburner.com/OddityCentral
+https://metro.co.uk/news/weird/feed/
+
+Title: StockHedges
+https://finance.yahoo.com/news/rssindex
+https://feeds.a.dj.com/rss/RSSMarketsMain.xml
+
+Title: iDigital
+https://www.technologyreview.com/feed/
+https://venturebeat.com/category/ai/feed/
+https://www.aitrends.com/feed/
+https://www.therobotreport.com/feed/
+
+Title: OnOptions
+https://www.inc.com/rss/
+https://www.fastcompany.com/latest/rss
+https://fortune.com/feed/fortune-feeds/?id=3230629
+
+Title: 123
+https://feeds.a.dj.com/rss/RSSMarketsMain.xml
+https://finance.yahoo.com/news/rssindex
+
+Title: SFM
+https://finance.yahoo.com/news/rssindex
+https://feeds.a.dj.com/rss/RSSMarketsMain.xml
+
+Title: BSHmindYourBusiness
+https://www.forbes.com/innovation/feed2
+https://seths.blog/feed/
+
+Title: SSpolitics
+https://www.immigrationreform.com/feed/
+https://rss.politico.com/economy.xml
+https://feeds.a.dj.com/rss/RSSWSJD.xml
+https://www.washingtontimes.com/rss/headlines/news/politics/
+
+Title: morningNewsPolitics
+https://blogs.cfainstitute.org/investor/feed/
+https://moxie.foxnews.com/google-publisher/politics.xml
+https://fortune.com/feed/fortune-feeds/?id=3230629
+https://www.washingtontimes.com/rss/headlines/news/politics/
+https://www.nationalreview.com/feed/
+https://thefederalist.com/feed/
+
+Title: SShealthAndWellness
+https://spyd3rwebs.github.io/rss/WebMD.RSS
+https://www.mindbodygreen.com/rss/featured.xml
+
+Title: GNtech
+https://www.wired.com/feed/rss
+https://techcrunch.com/feed/
+
+Title: GNmaster
+https://feeds.content.dowjones.io/public/rss/mw_marketpulse
+https://minimalistbaker.com/feed/
+https://therecipecritic.com/feed/
+https://thepointsguy.com/feed/
+https://thefoodellers.com/feed
+https://www.wired.com/feed/rss
+https://techcrunch.com/feed/
+https://spyd3rwebs.github.io/rss/WebMD.RSS
+https://www.goodnewsnetwork.org/feed
+
+Title: INhealth
+https://spyd3rwebs.github.io/rss/WebMD.RSS
+https://www.nothankstocake.com/feed/
+https://www.mindbodygreen.com/rss/featured.xml
+
+Title: GNfinance
+https://feeds.a.dj.com/rss/RSSMarketsMain.xml
+https://feeds.content.dowjones.io/public/rss/mw_topstories
+
+Title: Supplements
+https://swolverine.com/blogs/blog.atom
+https://vitaminretailer.com/feed
+https://blog.priceplow.com/feed
+https://chriskresser.com/feed
+
+Title: Preventative
+https://khn.org/feed
+https://blackhealthmatters.com/feed
+https://healthywomen.org/rss.xml
+https://thehealthcareblog.com/feed
+https://mindbodygreen.com/rss/feed.xml
+
+Title: Mental
+https://mindbodygreen.com/rss/feed.xml
+https://talkspace.com/blog/feed
+https://calmsage.com/feed
+
+Title: Fitness
+https://beachbodyondemand.com/blog/feed
+https://barbend.com/feed
+https://bionicoldguy.home.blog/feed
+https://fitgag.com/feed
+https://gymbag4u.com/feed
+https://healthshoutout.com/feed
+
+Title: Diet
+https://youmustgethealthy.com/feed
+https://healthy-food-life.com/feed
+
+Title: healthTest
+https://www.npr.org/rss/rss.php?id=1128
+https://feeds.feedburner.com/KevinMd-MedicalWeblog
+https://www.medscape.com/cx/rssfeeds/2700.xml
+https://www.2minutemedicine.com/feed/
+https://medicalxpress.com/rss-feed/
+https://www.physiciansweekly.com/feed/
+
+Title: DTO
+https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000113
+http://feeds.marketwatch.com/marketwatch/bulletins
+

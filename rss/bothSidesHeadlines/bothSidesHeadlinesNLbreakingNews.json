@@ -1,0 +1,43 @@
+{
+    "title": "bothSidesHeadlinesNLbreakingNews",
+    "link": "http://example.com/interleaved_feed.json",
+    "description": "This is a randomly ordered feed of the most recent entries from bothSidesHeadlinesNLbreakingNews, skipping any feeds with errors.",
+    "lastBuildDate": "2026-04-23T10:23:20.541963",
+    "items": [
+        {
+            "title": "Immigration officer is charged with assault after protest outside Colorado ICE facility, DA says",
+            "link": "https://abcnews.com/US/wireStory/immigration-officer-charged-assault-after-protest-colorado-ice-132282435",
+            "description": "A Colorado district attorney has charged an immigration agent after a protester said she was held in a chokehold during demonstrations against the det...",
+            "pubDate": "2026-04-23T13:24:06",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Tesla profits rose in the first quarter as Musk teases debut of new Roadster",
+            "link": "https://abcnews.com/US/wireStory/tesla-profits-rose-quarter-musk-teases-debut-new-132290233",
+            "description": "Tesla's profit rose in the first quarter as its car sales rebounded from a sharp slump in 2025",
+            "pubDate": "2026-04-23T13:25:04",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Millions of Americans may now also be considered Canadian under new law",
+            "link": "https://abcnews.com/US/wireStory/canadian-eh-immigration-law-make-easier-americans-132299602",
+            "description": "Potentially millions of Americans suddenly have a much easier path to Canadian citizenship",
+            "pubDate": "2026-04-23T14:21:59",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Airline company Lufthansa cuts 20,000 flights as war squeezes fuel prices and supplies",
+            "link": "https://abcnews.com/US/wireStory/airline-company-lufthansa-cuts-20000-flights-war-squeezes-132287521",
+            "description": "The German company that owns Lufthansa Airlines and other European carriers says it plans to cut 20,000 short-haul flights through October as the Iran...",
+            "pubDate": "2026-04-23T13:25:40",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Groups sue Alaska election officials, allege the sharing of voter data with DOJ was unconstitutional",
+            "link": "https://abcnews.com/US/wireStory/groups-sue-alaska-election-officials-allege-sharing-voter-132293703",
+            "description": "Voting and civil rights groups are suing Alaska elections officials, alleging their sharing of the state’s voter registration list with the U.S. Depar...",
+            "pubDate": "2026-04-23T13:25:03",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture6.png"
+        }
+    ]
+}

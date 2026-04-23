@@ -1,0 +1,43 @@
+{
+    "title": "Individual feed for https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000113",
+    "link": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000113",
+    "description": "Individual feed output.",
+    "lastBuildDate": "2026-04-23T10:27:00.727536",
+    "items": [
+        {
+            "title": "Trump orders Navy to 'shoot and kill any boat' laying mines in Hormuz Strait",
+            "link": "https://www.cnbc.com/2026/04/23/trump-hormuz-strait-iran-war.html",
+            "description": "Trump's post shows the U.S. ratcheting up tensions with Iran over the strait, which has been largely choked off to oil tanker traffic since the war be...",
+            "pubDate": "2026-04-23T15:25:20",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Trump's lack of focus on economy is spooking Republicans as 2026 election looms",
+            "link": "https://www.cnbc.com/2026/04/23/trump-economy-2026-election-republicans-democrats.html",
+            "description": "President Donald Trump has been posting a lot on social media about his White House ballroom, the Iran war, and Pope Leo XIV. Not much about rising ga...",
+            "pubDate": "2026-04-23T12:13:24",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "U.S. Senate votes to advance $70 billion funding plan for ICE, Border Patrol",
+            "link": "https://www.cnbc.com/2026/04/23/us-senate-votes-to-advance-70-billion-funding-plan-for-ice-border-patrol.html",
+            "description": "U.S. Senate Republicans voted on Thursday to advance a $70 billion plan ⁠to fund the Immigration and Customs Enforcement and Border Patrol agencies.",
+            "pubDate": "2026-04-23T11:48:35",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Kalshi suspends, fines 3 congressional candidates in 'insider trading' enforcement actions",
+            "link": "https://www.cnbc.com/2026/04/22/kalshi-insider-trading-congress.html",
+            "description": "The incidents involved a candidate from Virginia seeking a Senate seat and candidates running for House seats from Minnesota and Texas.",
+            "pubDate": "2026-04-23T02:33:32",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Pirro says DOJ won't drop Fed probe, will appeal judge's order blocking Powell subpoenas",
+            "link": "https://www.cnbc.com/2026/04/22/fed-powell-trump-warsh-pirro-appeal.html",
+            "description": "Powell has accused the DOJ of targeting him for refusing to obey Trump's demand that the Fed sharply lower interest rates.",
+            "pubDate": "2026-04-23T00:47:42",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture8.png"
+        }
+    ]
+}

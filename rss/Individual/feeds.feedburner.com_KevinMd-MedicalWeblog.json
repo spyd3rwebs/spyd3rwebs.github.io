@@ -1,0 +1,43 @@
+{
+    "title": "Individual feed for https://feeds.feedburner.com/KevinMd-MedicalWeblog",
+    "link": "https://feeds.feedburner.com/KevinMd-MedicalWeblog",
+    "description": "Individual feed output.",
+    "lastBuildDate": "2026-04-23T10:27:00.030523",
+    "items": [
+        {
+            "title": "Gradually, then suddenly: Dr. Robert Wachter on health care’s giant AI leap [PODCAST]",
+            "link": "https://kevinmd.com/2026/04/gradually-then-suddenly-dr-robert-wachter-on-health-cares-giant-ai-leap-podcast.html",
+            "description": "Subscribe to The Podcast by KevinMD. Watch on YouTube. Catch up on old episodes! What if the biggest problem with electronic health records was not th...",
+            "pubDate": "2026-04-23T00:00:28",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "The continuum of fertility care: Why IVF is not the only option",
+            "link": "https://kevinmd.com/2026/04/the-continuum-of-fertility-care-why-ivf-is-not-the-only-option.html",
+            "description": "At a time when one in five married American couples experience infertility, and one in three American men have a low sperm count, concerns around fert...",
+            "pubDate": "2026-04-22T22:00:13",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Physician autonomy is not separate from patient care",
+            "link": "https://kevinmd.com/2026/04/physician-autonomy-is-not-separate-from-patient-care.html",
+            "description": "Recently, I came across the Charter of the Soignés (“those being cared for”) by French physician and writer Martin Winckler from The School of Caregiv...",
+            "pubDate": "2026-04-22T21:00:33",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Why heart failure care requires spaced repetition for doctors",
+            "link": "https://kevinmd.com/2026/04/why-heart-failure-care-requires-spaced-repetition-for-doctors.html",
+            "description": "It is 4:50 p.m. on a Thursday. Your last patient is a 67-year-old with heart failure with reduced ejection fraction. He has been hospitalized twice th...",
+            "pubDate": "2026-04-22T20:00:11",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "51 cases that reframe methylene blue serotonin syndrome",
+            "link": "https://kevinmd.com/2026/04/51-cases-that-reframe-methylene-blue-serotonin-syndrome.html",
+            "description": "A patient walks into my office. She is 52, exhausted, brain-fogged, gaining weight, and six years into sertraline 100 mg. I mention methylene blue as ...",
+            "pubDate": "2026-04-22T19:00:58",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture5.png"
+        }
+    ]
+}

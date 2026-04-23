@@ -1,0 +1,7 @@
+{
+    "title": "INall",
+    "link": "http://example.com/interleaved_feed.json",
+    "description": "This is a randomly ordered feed of the most recent entries from INall, skipping any feeds with errors.",
+    "lastBuildDate": "2026-04-23T10:25:41.497658",
+    "items": []
+}

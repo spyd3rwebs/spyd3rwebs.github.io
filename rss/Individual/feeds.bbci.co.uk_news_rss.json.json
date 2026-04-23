@@ -1,0 +1,43 @@
+{
+    "title": "Individual feed for https://feeds.bbci.co.uk/news/rss.xml",
+    "link": "https://feeds.bbci.co.uk/news/rss.xml",
+    "description": "Individual feed output.",
+    "lastBuildDate": "2026-04-23T10:23:32.549244",
+    "items": [
+        {
+            "title": "Three men guilty of 'callous' Brighton beach rape",
+            "link": "https://www.bbc.com/news/articles/cvg090pe65vo?at_medium=RSS&at_campaign=rss",
+            "description": "The men, who are all asylum seekers, had denied targeting the woman in the early hours of October 4.",
+            "pubDate": "2026-04-23T15:16:45",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "No Fifa plan for Italy to replace Iran at World Cup",
+            "link": "https://www.bbc.com/sport/football/articles/cy813gy08v2o?at_medium=RSS&at_campaign=rss",
+            "description": "Fifa stands by comments made last week by president Gianni Infantino in which he said that \"the Iranian team is coming, for sure\".",
+            "pubDate": "2026-04-23T14:57:44",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "No Fifa plan for Italy to replace Iran at World Cup",
+            "link": "https://www.bbc.com/sport/football/articles/cy813gy08v2o?at_medium=RSS&at_campaign=rss",
+            "description": "Fifa stands by comments made last week by president Gianni Infantino in which he said that \"the Iranian team is coming, for sure\".",
+            "pubDate": "2026-04-23T14:57:44",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "Prince Louis holiday video released to mark eighth birthday",
+            "link": "https://www.bbc.com/news/articles/cp3lge56zxwo?at_medium=RSS&at_campaign=rss",
+            "description": "The footage was filmed by photographer Matt Porteous in Cornwall earlier this month.",
+            "pubDate": "2026-04-23T14:48:36",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Knife killings down by 21% in England and Wales, figures show",
+            "link": "https://www.bbc.com/news/articles/c30re70lqn1o?at_medium=RSS&at_campaign=rss",
+            "description": "The annual ONS crime data also shows overall recorded homicides have fallen.",
+            "pubDate": "2026-04-23T14:48:33",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture7.png"
+        }
+    ]
+}

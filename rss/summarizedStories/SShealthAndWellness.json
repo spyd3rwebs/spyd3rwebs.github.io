@@ -1,0 +1,64 @@
+{
+    "title": "SShealthAndWellness",
+    "link": "http://example.com/interleaved_feed.json",
+    "description": "This is a randomly ordered feed of the most recent entries from SShealthAndWellness, skipping any feeds with errors.",
+    "lastBuildDate": "2026-04-23T10:25:56.144079",
+    "items": [
+        {
+            "title": "8 Ways to Get the Protein You Need",
+            "link": "https://www.webmd.com/healthy-aging/ss/slideshow-how-to-get-protein",
+            "description": "",
+            "pubDate": "2026-04-23T10:57:33",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/articles/health_tools/foods-to-eat-lung-cancer-slideshow/1800ss-getty-rf-lean-protein.jpg?resize=484px:*&output-quality=70"
+        },
+        {
+            "title": "What Happens to Your Body When You Drink Enough Water",
+            "link": "https://www.webmd.com/a-to-z-guides/ss/slideshow-drink-enough-water",
+            "description": "",
+            "pubDate": "2026-04-23T10:57:33",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/site_images/article_thumbnails/other/man_drinking_bottle_of_water_in_summer_heat_other/1800x1200_man_drinking_bottle_of_water_in_summer_heat_other.jpg?resize=484px:*&output-quality=70"
+        },
+        {
+            "title": "Meghan Trainor on Building Confidence and Healthy Habits",
+            "link": "https://www.webmd.com/fitness-exercise/features/meghan-trainor-love-who-you-are",
+            "description": "Meghan shares how she’s tuning out criticism, prioritizing her health, and building habits that help her feel stronger than ever.",
+            "pubDate": "2026-04-23T10:57:33",
+            "image_url": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/1800x1200-Meghan-Trainor.jpg?resize=484px:*&output-quality=70"
+        },
+        {
+            "title": "Wish You Could Fall Asleep In Seconds? This May Change Your Mind",
+            "link": "https://www.mindbodygreen.com/articles/wish-you-could-fall-asleep-in-seconds-this-may-change-your-mind-one-of-the-most-common",
+            "description": "One of the most common sleep myths...busted.",
+            "pubDate": "2026-04-23T10:49:00",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Nearly 70% Of Americans Are Deficient In This Mineral & Blood Tests Miss It",
+            "link": "https://www.mindbodygreen.com/articles/nearly-70-of-americans-are-deficient-in-this-mineral",
+            "description": "Plus, four tips to fix it.",
+            "pubDate": "2026-04-23T10:42:00",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "In Need Of Sun, Rest & Relaxation? (Who Isn't?) Try This Hotspot",
+            "link": "https://www.mindbodygreen.com/articles/wellness-travel-in-playa-del-carmen-mexico-hotels-restaurants",
+            "description": "Welcome to Playa del Carmen, Mexico's premier resort destination, located in the heart of the Riviera Maya.",
+            "pubDate": "2026-04-23T12:11:00",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "How Women Can Prevent Injury While Weightlifting In Their 40s & Beyond",
+            "link": "https://www.mindbodygreen.com/articles/how-women-can-build-muscle-without-heavy-weights-and-avoid-injury-fractures-become",
+            "description": "Because certain fractures become much more common in perimenopause.",
+            "pubDate": "2026-04-23T11:26:00",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Researchers Analyzed 450k Diets — This Eating Habit Stood Out For Cancer Prevention",
+            "link": "https://www.mindbodygreen.com/articles/this-heart-healthy-diet-may-also-shield-you-from-cancer-heres-how-another-benefit-of-this",
+            "description": "Yet another benefit of this eating pattern",
+            "pubDate": "2026-04-23T11:12:00",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture6.png"
+        }
+    ]
+}

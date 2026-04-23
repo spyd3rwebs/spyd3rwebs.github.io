@@ -1,0 +1,134 @@
+{
+    "title": "INtopBackup",
+    "link": "http://example.com/interleaved_feed.json",
+    "description": "This is a randomly ordered feed of the most recent entries from INtopBackup, skipping any feeds with errors.",
+    "lastBuildDate": "2026-04-23T10:25:40.541758",
+    "items": [
+        {
+            "title": "The U.S. seizes another oil tanker as peace talks with Iran remain in limbo",
+            "link": "https://www.npr.org/2026/04/23/nx-s1-5796719/iran-middle-east-updates",
+            "description": "President Trump says he ordered the Navy to \"shoot and kill any boat\" putting mines in the Strait of Hormuz as the U.S. ramps up minesweeping there.",
+            "pubDate": "2026-04-23T12:30:41",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd8%2Fdb%2F12a308ff45a28ca7eaf804f5da95%2Fgettyimages-2271974157.jpg"
+        },
+        {
+            "title": "Sycophantic AI flatters and suggests you are not to blame",
+            "link": "https://www.npr.org/2026/04/23/nx-s1-5792867/ai-chatbot-flattery-mental-health-risks",
+            "description": "The AI models and chatbots that we interact with tend to affirm our feelings and viewpoints — more so than people do, with potentially worrisome conse...",
+            "pubDate": "2026-04-23T11:00:00",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1718x1288+168+65/resize/1718x1288!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F05%2Fa4%2Fdbe0180f446581675d570e7f4b74%2Fgettyimages-2182063851.jpg"
+        },
+        {
+            "title": "Tensions rise in two ceasefires in the Middle East. And, the Navy secretary ousted",
+            "link": "https://www.npr.org/2026/04/23/g-s1-118440/up-first-newsletter-us-iran-john-phelan-trump-republican-democrat-midterm-fundraising-budget-reconciliation-ice",
+            "description": "Tensions are rising in the Middle East as shaky ceasefire agreements between the U.S., Israel and Iran, and Lebanon and Israel, are tested. And, the S...",
+            "pubDate": "2026-04-23T12:37:10",
+            "image_url": "https://feeds.npr.org/1001/undefined"
+        },
+        {
+            "title": "Two startlingly different views on long-awaited data on America's anti-HIV efforts",
+            "link": "https://www.npr.org/2026/04/23/g-s1-118221/hiv-aids-pepfar-trump-foreign-aid",
+            "description": "After a year without data, the State Department released figures on PEPFAR, the program launched by George W. Bush and credited with saving millions o...",
+            "pubDate": "2026-04-23T11:51:12",
+            "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8259x5506+0+0/resize/8259x5506!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F65%2Fd3%2Fe2d926d44f978d61058f3ad42656%2Fzambia-portraits-307.jpg"
+        },
+        {
+            "title": "Peace talks between U.S. and Iran at a standstill as Trump extends ceasefire",
+            "link": "https://www.npr.org/2026/04/23/nx-s1-5795829/peace-talks-between-us-and-iran-at-a-standstill-as-trump-extends-ceasefire",
+            "description": "President Trump has extended the ceasefire, but Iran says it's not enough if the naval blockade is still in place.",
+            "pubDate": "2026-04-23T11:49:46",
+            "image_url": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5795829"
+        },
+        {
+            "title": "John Phelan out as Navy secretary in latest high-profile Trump admin. departure",
+            "link": "https://www.cbsnews.com/news/john-phelan-out-navy-secretary/",
+            "description": "Navy Secretary John Phelan is leaving his role effective immediately, chief Pentagon spokesman Sean Parnell said​ Wednesday.",
+            "pubDate": "2026-04-23T15:09:34",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Pope Leo criticises Equatorial Guinea prisons as he winds up Africa tour",
+            "link": "https://www.bbc.com/news/articles/c80m4822m1no?at_medium=RSS&at_campaign=rss",
+            "description": "The Pope gives a frank and passionate speech, the likes of which have characterised his tour of Africa.",
+            "pubDate": "2026-04-23T12:42:44",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Some key groups moved toward Trump in 2024. Here’s what they think now, according to AP-NORC polls",
+            "link": "https://apnews.com/article/poll-trump-hispanics-maga-republicans-928242e06ee57b8a9bccda9234dea568",
+            "description": "",
+            "pubDate": "2026-04-23T08:08:16",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Cotton pushes bill to help critical infrastructure defend against drone threat",
+            "link": "https://www.cbsnews.com/news/tom-cotton-bill-drones-downed-critical-infrastructure-operators/",
+            "description": "Cotton says current law leaves U.S. power grids, wastewater plants, and other high-risk sites exposed to emerging drone threats.",
+            "pubDate": "2026-04-23T15:01:52",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Can creditors restart collections after a debt relief program ends?",
+            "link": "https://www.cbsnews.com/news/creditors-restart-collections-after-debt-relief-ends/",
+            "description": "Finishing a debt relief program doesn't guarantee that creditors are gone for good. Here's what to know.",
+            "pubDate": "2026-04-23T15:23:18",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Trump administration reclassifies cannabis as less dangerous",
+            "link": "https://www.bbc.com/news/articles/cdxd0xxp0jko?at_medium=RSS&at_campaign=rss",
+            "description": "Medical marijuana was moved into a lower category of drugs in order to increase research and access.",
+            "pubDate": "2026-04-23T14:32:04",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "Two trains collide head-on in Denmark, leaving five critically hurt",
+            "link": "https://www.bbc.com/news/articles/cgqkw3qk0dlo?at_medium=RSS&at_campaign=rss",
+            "description": "The accident happened early on Thursday at a level crossing north of Copenhagen.",
+            "pubDate": "2026-04-23T14:54:16",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "MrBeast's company sued by ex-employee over sexual harassment claim",
+            "link": "https://www.bbc.com/news/articles/c937z1nxze8o?at_medium=RSS&at_campaign=rss",
+            "description": "Beast Industries has strongly denied claims of sexual harassment and workplace gender bias.",
+            "pubDate": "2026-04-23T14:32:05",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Trump reclassifies state-licensed medical marijuana as a less-dangerous drug in a historic shift",
+            "link": "https://apnews.com/article/medical-marijuana-rescheduling-justice-department-trump-cannabis-1d6722d3aae122b1a91f8e4b6c690268",
+            "description": "President Donald Trump’s acting attorney general has signed an order reclassifying state-licensed medical marijuana as a less-dangerous drug.",
+            "pubDate": "2026-04-23T09:16:37",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Iran touts video of ship seizures as Trump keeps quiet on his next move",
+            "link": "https://www.cbsnews.com/live-updates/iran-war-trump-video-strait-of-hormuz-ship-attack-ceasefire-lebanon/",
+            "description": "Iran releases video showing commandos seizing ships in the Strait of Hormuz as Trump remains largely silent on his next move in the war.",
+            "pubDate": "2026-04-23T15:01:03",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "More than 500 people killed in Tanzania election violence, inquiry finds",
+            "link": "https://www.bbc.com/news/articles/cgld775knzyo?at_medium=RSS&at_campaign=rss",
+            "description": "Opposition parties accused security forces but the official report does not say who was responsible.",
+            "pubDate": "2026-04-23T13:28:29",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Justice Department eases restrictions on some marijuana products",
+            "link": "https://www.cbsnews.com/news/marijuana-products-justice-department-reclassification-schedule-3/",
+            "description": "The order places FDA-approved products containing marijuana and state-regulated medical marijuana products at a lower drug classification.",
+            "pubDate": "2026-04-23T15:03:46",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Chemical leak at a West Virginia plant kills 2 people and sends 30 more to hospitals, officials say",
+            "link": "https://apnews.com/article/west-virginia-chemical-leak-aa346adfcb6fecaad91f189b676c06bb",
+            "description": "",
+            "pubDate": "2026-04-22T15:42:46",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture3.png"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Individual feed for https://chriskresser.com/feed",
+    "link": "https://chriskresser.com/feed",
+    "description": "Individual feed output.",
+    "lastBuildDate": "2026-04-23T10:26:27.443194",
+    "items": [
+        {
+            "title": "RHR: The GLP-1 Blind Spot: What Ozempic Won’t Do for Your Metabolic Health",
+            "link": "https://chriskresser.com/the-glp-1-blind-spot-what-ozempic-wont-do-for-your-metabolic-health/",
+            "description": "In this episode of Revolution Health Radio, Chris explores the science behind GLP-1 medications, including their powerful effects on appetite, weight ...",
+            "pubDate": "2026-04-21T08:02:04",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "RHR: Shaking Up the Salt Myth",
+            "link": "https://chriskresser.com/tomato-shaking-up-the-salt-myth/",
+            "description": "For decades, public health guidelines have warned that reducing sodium intake is essential for preventing high blood pressure and cardiovascular disea...",
+            "pubDate": "2026-04-14T08:02:01",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture10.png"
+        },
+        {
+            "title": "RHR: Mouth Taping: Beyond the Hype—What the Science Really Says",
+            "link": "https://chriskresser.com/mouth-taping-beyond-the-hype-what-the-science-really-says/",
+            "description": "In this episode of Revolution Health Radio, Chris Kresser explores the viral trend of mouth taping and explains why the reality is more complex than t...",
+            "pubDate": "2026-04-07T08:02:08",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "RHR: Erythritol: The ‘Safe’ Sweetener That’s Anything But",
+            "link": "https://chriskresser.com/erythritol-the-safe-sweetener-thats-anything-but/",
+            "description": "Erythritol, a popular sweetener found in countless sugar-free and keto products, has long been considered a safe alternative to sugar. This episode of...",
+            "pubDate": "2026-03-31T08:02:01",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "RHR: Preserving Cognitive Function As You Age, with Tommy Wood",
+            "link": "https://chriskresser.com/preserving-cognitive-function-as-you-age-with-tommy-wood/",
+            "description": "In this episode of Revolution Health Radio, Chris Kresser is joined by neuroscientist and physician Dr. Tommy Wood to explore how cognitive function c...",
+            "pubDate": "2026-03-24T08:02:15",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture3.png"
+        }
+    ]
+}

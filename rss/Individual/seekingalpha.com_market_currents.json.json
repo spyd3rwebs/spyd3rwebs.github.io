@@ -1,0 +1,43 @@
+{
+    "title": "Individual feed for https://seekingalpha.com/market_currents.xml",
+    "link": "https://seekingalpha.com/market_currents.xml",
+    "description": "Individual feed output.",
+    "lastBuildDate": "2026-04-23T10:25:32.834718",
+    "items": [
+        {
+            "title": "IBM's 'prudent' guidance faces higher expectations from investors, say analysts; stock tumbles",
+            "link": "https://seekingalpha.com/news/4578512-ibms-prudent-guidance-faces-higher-expectations-from-investors-say-analysts-stock-tumbles?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+            "description": "",
+            "pubDate": "2026-04-23T15:22:21",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "Suburban Propane Partners declares $0.325 dividend",
+            "link": "https://seekingalpha.com/news/4578730-suburban-propane-partners-declares-0_325-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+            "description": "",
+            "pubDate": "2026-04-23T15:19:50",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Cass Information Systems declares $0.32 dividend",
+            "link": "https://seekingalpha.com/news/4578729-cass-information-systems-declares-0_32-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+            "description": "",
+            "pubDate": "2026-04-23T15:18:36",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Middlefield ActivEnergy Dividend Class ETF Series declares CAD 0.18 dividend",
+            "link": "https://seekingalpha.com/news/4578728-middlefield-activenergy-dividend-class-etf-series-declares-cad-0_18-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+            "description": "",
+            "pubDate": "2026-04-23T15:17:20",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture5.png"
+        },
+        {
+            "title": "PulteGroup Q1 earnings miss as home closings, selling prices continue to fall",
+            "link": "https://seekingalpha.com/news/4578681-pultegroup-q1-earnings-miss-as-home-closings-selling-prices-continue-to-fall?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+            "description": "",
+            "pubDate": "2026-04-23T15:17:04",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture10.png"
+        }
+    ]
+}

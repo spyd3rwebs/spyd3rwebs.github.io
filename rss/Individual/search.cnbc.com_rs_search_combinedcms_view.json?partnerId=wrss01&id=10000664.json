@@ -1,0 +1,43 @@
+{
+    "title": "Individual feed for https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+    "link": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664",
+    "description": "Individual feed output.",
+    "lastBuildDate": "2026-04-23T10:25:32.831469",
+    "items": [
+        {
+            "title": "Kalshi traders don't see Strait of Hormuz traffic returning to normal until July",
+            "link": "https://www.cnbc.com/2026/04/23/kalshi-bettors-see-strait-of-hormuz-traffic-normal-by-july.html",
+            "description": "Chances that traffic returns to normal fell below 50% on Wednesday, according to Kalshi bettors, despite the U.S. and Iran extending the ceasefire.",
+            "pubDate": "2026-04-23T15:19:40",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Stocks making the biggest moves premarket: Honeywell, Nokia, Netflix, IBM, Tesla & more",
+            "link": "https://www.cnbc.com/2026/04/23/stocks-making-the-biggest-moves-premarket-hon-nok-nflx-ibm-tsla.html",
+            "description": "These are the stocks posting the largest moves before the bell.",
+            "pubDate": "2026-04-23T12:26:41",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Stocks making the biggest moves after hours: Tesla, IBM, ServiceNow, Southwest Airlines and more",
+            "link": "https://www.cnbc.com/2026/04/22/stocks-making-the-biggest-moves-after-hours-tsla-ibm-now-luv.html",
+            "description": "See which stocks are posting big moves after the bell.",
+            "pubDate": "2026-04-22T23:43:35",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Volkswagen announces voice AI in its Chinese cars from later this year",
+            "link": "https://www.cnbc.com/2026/04/21/volkswagen-voice-ai-chinese-cars-automaker.html",
+            "description": "Volkswagen revealed four cars, including the ID. UNYX 09, which the company said it co-developed with EV maker Xpeng in two years.",
+            "pubDate": "2026-04-22T23:41:21",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Bessent says 'many' U.S. allies have asked for currency swaps amid Iran war turbulence",
+            "link": "https://www.cnbc.com/2026/04/22/iran-war-treasury-uae-scott-bessent-currency-swaps.html",
+            "description": "The White House on Tuesday said the UAE had not requested a currency swap line.",
+            "pubDate": "2026-04-22T19:46:20",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture1.png"
+        }
+    ]
+}

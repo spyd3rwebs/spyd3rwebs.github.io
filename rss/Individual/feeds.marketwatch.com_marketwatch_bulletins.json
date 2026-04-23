@@ -1,0 +1,43 @@
+{
+    "title": "Individual feed for http://feeds.marketwatch.com/marketwatch/bulletins",
+    "link": "http://feeds.marketwatch.com/marketwatch/bulletins",
+    "description": "Individual feed output.",
+    "lastBuildDate": "2026-04-23T10:27:00.728584",
+    "items": [
+        {
+            "title": "Energy stocks lead 2026 gains. Why Iran war may erode the rally.",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=3385f3d6-e4cd-444e-b403-1cb1dd9c3884&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2026-04-23T14:51:11",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Stocks open lower as S&P 500 retreats from record amid Strait of Hormuz tensions",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=98f8c9a1-dba9-4bd8-bfbf-ae179af268ff&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2026-04-23T14:31:07",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Why it’s the luckiest U.S. stock market in history, according to one strategist",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=0b7f2719-cee2-4575-9465-2dec5b36adb6&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2026-04-23T13:25:05",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Economic calendar: Jobless claims and manufacturing data",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=f0fc17af-93a1-4b56-b41d-78a6cdbd2ab7&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2026-04-23T12:39:26",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "TI stock rallies as company cites industrial and data-center demand",
+            "link": "https://www.marketwatch.com/bulletins/redirect/go?g=1e852d3c-acb0-4e6e-97d4-67be4f434b7b&mod=mw_rss_bulletins",
+            "description": "",
+            "pubDate": "2026-04-23T11:09:12",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture8.png"
+        }
+    ]
+}

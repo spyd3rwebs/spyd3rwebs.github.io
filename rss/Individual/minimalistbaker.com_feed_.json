@@ -1,0 +1,36 @@
+{
+    "title": "Individual feed for https://minimalistbaker.com/feed/",
+    "link": "https://minimalistbaker.com/feed/",
+    "description": "Individual feed output.",
+    "lastBuildDate": "2026-04-23T10:26:00.111703",
+    "items": [
+        {
+            "title": "Strawberries & Cream Chia Pudding",
+            "link": "https://minimalistbaker.com/strawberry-chia-pudding/",
+            "description": "Friends, welcome to a land where you can float on strawberry dream clouds all day long. This chia pudding is next-level but still ultra simple ( 5 ing...",
+            "pubDate": "2026-04-14T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2025/06/Strawberry-Chia-Pudding-5-680x1020.jpg"
+        },
+        {
+            "title": "Vegan Sweet Potato Chickpea Taco Salad",
+            "link": "https://minimalistbaker.com/vegan-chickpea-taco-salad/",
+            "description": "If you love our Sweet Potato Chickpea Tacos, get ready for another FAVE! Meet: the Vegan Sweet Potato Chickpea TACO SALAD! It’s got fresh kale + romai...",
+            "pubDate": "2026-03-11T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/05/Vegan-Sweet-Potato-Chickpea-Taco-Salad-7-680x1020.jpg"
+        },
+        {
+            "title": "Cheesy Jalapeño Cashew Dressing",
+            "link": "https://minimalistbaker.com/vegan-cashew-dressing/",
+            "description": "Move over, Ranch, there’s a new creamy dressing in town that’s stealing our hearts! This cheesy jalapeño cashew dressing is our new go-to for salads, ...",
+            "pubDate": "2026-03-10T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2024/05/Vegan-Cashew-Jalapeno-Dressing-4-680x1020.jpg"
+        },
+        {
+            "title": "Fudgy Chocolate Tahini Cookies (1 Bowl!)",
+            "link": "https://minimalistbaker.com/chocolate-tahini-cookies/",
+            "description": "While recently making our tahini cookies for what felt like the millionth time, we thought, Why not add chocolate to this party? The result was even b...",
+            "pubDate": "2026-02-10T09:00:00",
+            "image_url": "https://minimalistbaker.com/wp-content/uploads/2025/06/Fudgy-Vegan-Chocolate-Tahini-Cookies-7-680x1020.jpg"
+        }
+    ]
+}

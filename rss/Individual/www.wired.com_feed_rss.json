@@ -1,0 +1,43 @@
+{
+    "title": "Individual feed for https://www.wired.com/feed/rss",
+    "link": "https://www.wired.com/feed/rss",
+    "description": "Individual feed output.",
+    "lastBuildDate": "2026-04-23T10:26:00.112678",
+    "items": [
+        {
+            "title": "Lume Cube Edge Light Go Review (2026): Versatile, Portable",
+            "link": "https://www.wired.com/review/lume-cube-edge-light-go-portable-lamp/",
+            "description": "Portable lamps are rarely, if ever, as powerful, precise, and multipurpose as the Lume Cube Edge Light Go.",
+            "pubDate": "2026-04-23T13:29:00",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "These New Smart Glasses From Ex-OnePlus Engineers Have a Hidden Cost",
+            "link": "https://www.wired.com/story/latitude-52-n-smart-glasses-from-ex-oneplus-engineers-have-a-hidden-cost/",
+            "description": "The Kickstarter-funded glasses from L'Atitude 52°N have AI features bundled for 1 year, but the company doesn't know yet how much it will charge for a...",
+            "pubDate": "2026-04-23T13:00:00",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "The Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame",
+            "link": "https://www.wired.com/story/best-pool-cleaning-robots/",
+            "description": "Send the pool guy packing. One of these robotic buddies can maintain your water quality instead.",
+            "pubDate": "2026-04-23T12:11:00",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture6.png"
+        },
+        {
+            "title": "Best Fitbit Models for Beginners, Athletes, and Kids (2026)",
+            "link": "https://www.wired.com/story/best-fitbit/",
+            "description": "The fitness trackers I'd recommend to beginners, athletes, and kids.",
+            "pubDate": "2026-04-23T12:00:00",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Best Robot Vacuum of 2026: Shark, Eufy",
+            "link": "https://www.wired.com/story/best-robot-vacuum/",
+            "description": "Tired of vacuuming? Hand the reins to a robot vacuum.",
+            "pubDate": "2026-04-23T11:33:00",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture10.png"
+        }
+    ]
+}

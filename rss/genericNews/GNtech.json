@@ -1,0 +1,78 @@
+{
+    "title": "GNtech",
+    "link": "http://example.com/interleaved_feed.json",
+    "description": "This is a randomly ordered feed of the most recent entries from GNtech, skipping any feeds with errors.",
+    "lastBuildDate": "2026-04-23T10:25:56.558902",
+    "items": [
+        {
+            "title": "Tesla drops Musk’s $29B ‘interim’ award after Delaware court restored larger pay package",
+            "link": "https://techcrunch.com/2026/04/23/tesla-drops-musks-29b-interim-award-after-delaware-court-restored-larger-pay-package/",
+            "description": "The company is following through on its promise to not let Musk \"double dip\" if he won his appeal to restore Tesla's 2018 compensation package, worth ...",
+            "pubDate": "2026-04-23T14:40:33",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Best Fitbit Models for Beginners, Athletes, and Kids (2026)",
+            "link": "https://www.wired.com/story/best-fitbit/",
+            "description": "The fitness trackers I'd recommend to beginners, athletes, and kids.",
+            "pubDate": "2026-04-23T12:00:00",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture9.png"
+        },
+        {
+            "title": "Grab a ticket today: The first StrictlyVC of 2026 kicks off in just a week in San Francisco",
+            "link": "https://techcrunch.com/2026/04/23/grab-a-ticket-today-the-first-strictlyvc-of-2026-kicks-off-in-just-a-week-in-san-francisco/",
+            "description": "StrictlyVC San Francisco is in just a week. Now’s the time to grab yourself a ticket. Join VCs and founders at Sentro Filipino Cultural Center on Apri...",
+            "pubDate": "2026-04-23T15:00:00",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "These New Smart Glasses From Ex-OnePlus Engineers Have a Hidden Cost",
+            "link": "https://www.wired.com/story/latitude-52-n-smart-glasses-from-ex-oneplus-engineers-have-a-hidden-cost/",
+            "description": "The Kickstarter-funded glasses from L'Atitude 52°N have AI features bundled for 1 year, but the company doesn't know yet how much it will charge for a...",
+            "pubDate": "2026-04-23T13:00:00",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Best Robot Vacuum of 2026: Shark, Eufy",
+            "link": "https://www.wired.com/story/best-robot-vacuum/",
+            "description": "Tired of vacuuming? Hand the reins to a robot vacuum.",
+            "pubDate": "2026-04-23T11:33:00",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Another customer of troubled startup Delve suffered a big security incident",
+            "link": "https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/",
+            "description": "TechCrunch has confirmed that Delve was the compliance company that performed the security certifications for Context AI, the AI agent training startu...",
+            "pubDate": "2026-04-23T15:00:00",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "Lume Cube Edge Light Go Review (2026): Versatile, Portable",
+            "link": "https://www.wired.com/review/lume-cube-edge-light-go-portable-lamp/",
+            "description": "Portable lamps are rarely, if ever, as powerful, precise, and multipurpose as the Lume Cube Edge Light Go.",
+            "pubDate": "2026-04-23T13:29:00",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture4.png"
+        },
+        {
+            "title": "Labor unrest at Samsung may worsen memory chip supply issues",
+            "link": "https://techcrunch.com/2026/04/23/labor-unrest-at-samsung-may-worsen-memory-chip-supply-issues/",
+            "description": "Tens of thousands of Samsung Electronics workers held a rally at the company’s Pyeongtaek campus in South Korea on Thursday to signal they are prepare...",
+            "pubDate": "2026-04-23T14:59:59",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture1.png"
+        },
+        {
+            "title": "The Best Robotic Pool Cleaners of 2026: Beatbot, iGarden, Dreame",
+            "link": "https://www.wired.com/story/best-pool-cleaning-robots/",
+            "description": "Send the pool guy packing. One of these robotic buddies can maintain your water quality instead.",
+            "pubDate": "2026-04-23T12:11:00",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "WhatsApp adds prepaid phone recharges in India as its payments usage still lags",
+            "link": "https://techcrunch.com/2026/04/23/whatsapp-adds-prepaid-phone-recharges-in-india-as-its-payments-usage-still-lags/",
+            "description": "WhatsApp is rolling out prepaid phone recharges to its 500 million users in India via PayU.",
+            "pubDate": "2026-04-23T14:28:56",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture2.png"
+        }
+    ]
+}

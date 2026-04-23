@@ -1,0 +1,43 @@
+{
+    "title": "Individual feed for https://medicalxpress.com/rss-feed/",
+    "link": "https://medicalxpress.com/rss-feed/",
+    "description": "Individual feed output.",
+    "lastBuildDate": "2026-04-23T10:27:00.034265",
+    "items": [
+        {
+            "title": "Diabetes linked to early Alzheimer's-related changes in the blood of Latino adults",
+            "link": "https://medicalxpress.com/news/2026-04-diabetes-linked-early-alzheimer-blood.html",
+            "description": "Researchers from the University of California San Diego have found that diabetes is linked to changes in measurable biological signals in the blood th...",
+            "pubDate": "2026-04-23T15:20:01",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture7.png"
+        },
+        {
+            "title": "Minimally invasive treatment demonstrates sustained improvement for heart valve patients with limited options",
+            "link": "https://medicalxpress.com/news/2026-04-minimally-invasive-treatment-sustained-heart.html",
+            "description": "Findings from the AltaValve Early Feasibility Study suggest that patients with a leaky mitral valve have sustained clinical benefits one year followin...",
+            "pubDate": "2026-04-23T15:00:07",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture2.png"
+        },
+        {
+            "title": "ADHD-related traits may intensify chronic pain through anxiety and negative thinking",
+            "link": "https://medicalxpress.com/news/2026-04-adhd-traits-chronic-pain-anxiety.html",
+            "description": "A new study, led by researchers from the University of Tokyo, involving nearly 1,000 patients in Japan suggests that attention deficit hyperactivity d...",
+            "pubDate": "2026-04-23T15:00:01",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture3.png"
+        },
+        {
+            "title": "Shock initiative demonstrates over 70% survival in patients with cardiogenic shock",
+            "link": "https://medicalxpress.com/news/2026-04-survival-patients-cardiogenic.html",
+            "description": "Findings from the Can Escalation Reduce Acute Myocardial Infarction Mortality in Cardiogenic Shock (CERAMICS) registry demonstrate that early use of a...",
+            "pubDate": "2026-04-23T14:40:04",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture8.png"
+        },
+        {
+            "title": "Unraveling the evolution of leukemia in children with Down syndrome",
+            "link": "https://medicalxpress.com/news/2026-04-unraveling-evolution-leukemia-children-syndrome.html",
+            "description": "It may be possible to identify which pre-cancerous cells will develop into a rare type of blood cancer, due to new research showing that a single gene...",
+            "pubDate": "2026-04-23T14:40:01",
+            "image_url": "https://spyd3rwebs.github.io/rss/genNewsImagesTwo/Picture7.png"
+        }
+    ]
+}
