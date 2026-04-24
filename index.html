@@ -1,0 +1,558 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>spyd3rwebs — Catching headlines from the web</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Orbitron:wght@400;700;900&family=VT323&display=swap" rel="stylesheet">
+
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --green:      #39ff14;
+      --green-dim:  #1a8c00;
+      --green-mute: #0d4a00;
+      --red:        #ff3131;
+      --bg:         #020904;
+      --glass-bg:   rgba(0, 255, 30, 0.03);
+      --glass-border: rgba(57, 255, 20, 0.25);
+      --mono:       'Share Tech Mono', monospace;
+      --display:    'Orbitron', sans-serif;
+      --crt:        'VT323', monospace;
+    }
+
+    html { background: var(--bg); }
+
+    body {
+      font-family: var(--mono);
+      color: var(--green);
+      background: var(--bg);
+      min-height: 100vh;
+      overflow-x: hidden;
+      position: relative;
+    }
+
+    /* ── MATRIX RAIN CANVAS ── */
+    #matrix-canvas {
+      position: fixed;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      z-index: 0;
+      opacity: 0.18;
+      pointer-events: none;
+    }
+
+    /* ── SCANLINES OVERLAY ── */
+    body::after {
+      content: '';
+      position: fixed;
+      inset: 0;
+      background: repeating-linear-gradient(
+        to bottom,
+        transparent 0px,
+        transparent 2px,
+        rgba(0,0,0,0.12) 2px,
+        rgba(0,0,0,0.12) 4px
+      );
+      pointer-events: none;
+      z-index: 1000;
+    }
+
+    /* ── LAYOUT ── */
+    .page-wrap {
+      position: relative;
+      z-index: 2;
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 40px 20px 80px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 60px;
+    }
+
+    /* ── CRT BANNER CAPSULE ── */
+    .crt-capsule {
+      width: 100%;
+      max-width: 760px;
+      position: relative;
+      border-radius: 22px;
+      padding: 4px;
+      background: linear-gradient(135deg,
+        rgba(57,255,20,0.5) 0%,
+        rgba(57,255,20,0.1) 40%,
+        rgba(57,255,20,0.05) 60%,
+        rgba(57,255,20,0.4) 100%
+      );
+      box-shadow:
+        0 0 0 1px rgba(57,255,20,0.15),
+        0 0 30px rgba(57,255,20,0.2),
+        0 0 80px rgba(57,255,20,0.08),
+        inset 0 0 30px rgba(57,255,20,0.04);
+      animation: capsule-pulse 4s ease-in-out infinite;
+    }
+
+    @keyframes capsule-pulse {
+      0%, 100% { box-shadow: 0 0 0 1px rgba(57,255,20,0.15), 0 0 30px rgba(57,255,20,0.2), 0 0 80px rgba(57,255,20,0.08), inset 0 0 30px rgba(57,255,20,0.04); }
+      50%       { box-shadow: 0 0 0 1px rgba(57,255,20,0.3),  0 0 50px rgba(57,255,20,0.35), 0 0 120px rgba(57,255,20,0.15), inset 0 0 40px rgba(57,255,20,0.07); }
+    }
+
+    .crt-inner {
+      border-radius: 18px;
+      overflow: hidden;
+      background: #000;
+      position: relative;
+    }
+
+    /* CRT screen curvature vignette */
+    .crt-inner::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: radial-gradient(ellipse at center,
+        transparent 50%,
+        rgba(0,0,0,0.55) 100%
+      );
+      z-index: 2;
+      pointer-events: none;
+      border-radius: 18px;
+    }
+
+    /* CRT glare highlight */
+    .crt-inner::after {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0;
+      height: 45%;
+      background: linear-gradient(180deg,
+        rgba(255,255,255,0.05) 0%,
+        transparent 100%
+      );
+      z-index: 3;
+      pointer-events: none;
+      border-radius: 18px 18px 0 0;
+    }
+
+    .crt-inner img {
+      width: 100%;
+      display: block;
+      filter: brightness(0.92) contrast(1.05) saturate(1.1);
+    }
+
+    /* CRT bezel details */
+    .crt-bezel-top,
+    .crt-bezel-bottom {
+      height: 12px;
+      background: linear-gradient(180deg, rgba(57,255,20,0.08) 0%, transparent 100%);
+      position: relative;
+    }
+    .crt-bezel-bottom {
+      background: linear-gradient(0deg, rgba(57,255,20,0.08) 0%, transparent 100%);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      padding: 14px 0 6px;
+      height: auto;
+    }
+    .crt-dot {
+      width: 6px; height: 6px;
+      border-radius: 50%;
+      background: var(--green-dim);
+      box-shadow: 0 0 6px var(--green);
+      animation: dot-blink 3s ease-in-out infinite;
+    }
+    .crt-dot:nth-child(2) { animation-delay: 1s; }
+    .crt-dot:nth-child(3) { animation-delay: 2s; }
+    @keyframes dot-blink {
+      0%,100% { opacity: 0.4; } 50% { opacity: 1; }
+    }
+
+    /* ── SECTION HEADER ── */
+    .section-header {
+      width: 100%;
+      max-width: 760px;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+    .section-header h2 {
+      font-family: var(--display);
+      font-size: clamp(0.85rem, 2.5vw, 1.05rem);
+      font-weight: 700;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--green);
+      white-space: nowrap;
+    }
+    .section-line {
+      flex: 1;
+      height: 1px;
+      background: linear-gradient(90deg, var(--green-dim), transparent);
+      position: relative;
+    }
+    .section-line::before {
+      content: '';
+      position: absolute;
+      left: 0; top: 0;
+      height: 100%;
+      width: 40%;
+      background: linear-gradient(90deg, rgba(57,255,20,0.8), transparent);
+      animation: scan-line 3s linear infinite;
+    }
+    @keyframes scan-line {
+      0%   { left: -40%; opacity: 1; }
+      100% { left: 100%; opacity: 0.2; }
+    }
+
+    /* ── CARD GRID ── */
+    .card-grid {
+      width: 100%;
+      max-width: 760px;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+    }
+
+    /* ── CARDS ── */
+    .card {
+      background: var(--glass-bg);
+      border: 1px solid var(--glass-border);
+      border-radius: 10px;
+      padding: 28px 24px;
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+      position: relative;
+      overflow: hidden;
+      transition: border-color 0.3s, box-shadow 0.3s, transform 0.2s;
+    }
+    .card::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0;
+      height: 1px;
+      background: linear-gradient(90deg, transparent, var(--green-dim), transparent);
+      opacity: 0;
+      transition: opacity 0.3s;
+    }
+    .card:hover {
+      border-color: rgba(57,255,20,0.5);
+      box-shadow: 0 0 30px rgba(57,255,20,0.12), 0 0 60px rgba(57,255,20,0.05);
+      transform: translateY(-2px);
+    }
+    .card:hover::before { opacity: 1; }
+
+    .card-tag {
+      font-family: var(--display);
+      font-size: 0.6rem;
+      letter-spacing: 0.25em;
+      text-transform: uppercase;
+      color: var(--green-dim);
+    }
+
+    .card-title {
+      font-family: var(--display);
+      font-size: clamp(1rem, 3vw, 1.25rem);
+      font-weight: 900;
+      color: var(--green);
+      line-height: 1.2;
+      text-shadow: 0 0 15px rgba(57,255,20,0.4);
+    }
+
+    .card-desc {
+      font-family: var(--mono);
+      font-size: 0.78rem;
+      color: rgba(57,255,20,0.6);
+      line-height: 1.6;
+      flex: 1;
+    }
+
+    /* ── BUTTONS ── */
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 11px 20px;
+      border: 1px solid var(--green-dim);
+      background: transparent;
+      color: var(--green);
+      font-family: var(--display);
+      font-size: 0.7rem;
+      font-weight: 700;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      text-decoration: none;
+      border-radius: 4px;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+      transition: border-color 0.2s, color 0.2s, box-shadow 0.2s;
+      align-self: flex-start;
+    }
+    .btn::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(90deg, transparent, rgba(57,255,20,0.07), transparent);
+      transform: translateX(-100%);
+      transition: transform 0.4s ease;
+    }
+    .btn:hover {
+      border-color: var(--green);
+      color: #fff;
+      box-shadow: 0 0 20px rgba(57,255,20,0.3), inset 0 0 20px rgba(57,255,20,0.05);
+      text-shadow: 0 0 10px var(--green);
+    }
+    .btn:hover::before { transform: translateX(100%); }
+
+    .btn-arrow::after {
+      content: '→';
+      font-family: monospace;
+      font-size: 1rem;
+    }
+
+    .btn-download::after {
+      content: '↓';
+      font-family: monospace;
+      font-size: 1.1rem;
+    }
+
+    /* single-wide card variant */
+    .card-single {
+      grid-column: 1 / -1;
+    }
+
+    /* script card inner layout */
+    .script-card-inner {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 20px;
+      align-items: start;
+    }
+
+    @media (max-width: 540px) {
+      .script-card-inner {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    .script-meta {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .script-badges {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 4px;
+    }
+
+    .badge {
+      font-family: var(--mono);
+      font-size: 0.65rem;
+      padding: 3px 9px;
+      border: 1px solid var(--green-mute);
+      border-radius: 3px;
+      color: var(--green-dim);
+      background: rgba(57,255,20,0.04);
+    }
+
+    /* ── TERMINAL PROMPT DECORATION ── */
+    .prompt {
+      font-family: var(--crt);
+      font-size: 1rem;
+      color: var(--green-dim);
+      letter-spacing: 0.05em;
+    }
+    .prompt::before { content: '> '; color: var(--red); }
+
+    /* ── FOOTER ── */
+    footer {
+      position: relative;
+      z-index: 2;
+      text-align: center;
+      padding: 24px 20px;
+      font-family: var(--mono);
+      font-size: 0.65rem;
+      color: var(--green-mute);
+      border-top: 1px solid rgba(57,255,20,0.08);
+    }
+    footer a { color: var(--green-dim); text-decoration: none; }
+    footer a:hover { color: var(--green); }
+
+    /* ── FLICKER ANIMATION ── */
+    @keyframes flicker {
+      0%,100% { opacity: 1; }
+      92%      { opacity: 1; }
+      93%      { opacity: 0.4; }
+      94%      { opacity: 1; }
+      96%      { opacity: 0.7; }
+      97%      { opacity: 1; }
+    }
+    .crt-capsule { animation: capsule-pulse 4s ease-in-out infinite, flicker 8s linear infinite; }
+
+    /* ── SITE DESCRIPTION ── */
+    .site-description {
+      width: 100%;
+      max-width: 760px;
+      font-family: var(--mono);
+      font-size: 0.82rem;
+      color: rgba(57,255,20,0.65);
+      line-height: 1.8;
+      border-left: 2px solid var(--green-mute);
+      padding: 4px 0 4px 20px;
+    }
+    .site-description p + p { margin-top: 0.8em; }
+
+    /* ── MOBILE ── */
+    @media (max-width: 560px) {
+      .card-grid { grid-template-columns: 1fr; }
+      .card-single { grid-column: 1; }
+      .page-wrap { gap: 44px; padding: 28px 16px 60px; }
+    }
+  </style>
+</head>
+<body>
+
+  <canvas id="matrix-canvas"></canvas>
+
+  <div class="page-wrap">
+
+    <!-- ── BANNER IN CRT CAPSULE ── -->
+    <div class="crt-capsule">
+      <div class="crt-bezel-top"></div>
+      <div class="crt-inner">
+        <img
+          src="https://spyd3rwebs.github.io/assets/spyd3rwebsBanner2.jpg"
+          alt="spyd3rwebs — Catching headlines from the web"
+          loading="eager"
+        >
+      </div>
+      <div class="crt-bezel-bottom">
+        <div class="crt-dot"></div>
+        <div class="crt-dot"></div>
+        <div class="crt-dot"></div>
+      </div>
+    </div>
+
+    <!-- ── SITE DESCRIPTION ── -->
+    <div class="site-description">
+      <p>spyd3rwebs runs on a custom built Python automation stack. A master aggregator pulls from 50+ RSS sources across dozens of topic categories (breaking news, finance, politics, health, tech, food, travel, and more). The aggregator grabs the 5 most recent stories from each source and shuffles them to ensure a different source always rises to the top. Every run outputs the results as XML feeds. For sites that don't publish RSS feeds, custom scraper scripts build them. Before anything goes live, a separate AI rewriter rewrites every headline and summary in its own words, preserving all links, dates, and structure, so only original content gets published. The newsletters you see here are built entirely from those feeds.</p>
+    </div>
+
+    <!-- ── NEWSLETTERS ── -->
+    <div class="section-header">
+      <h2>// Newsletters</h2>
+      <div class="section-line"></div>
+    </div>
+
+    <div class="card-grid">
+
+      <div class="card">
+        <span class="card-tag">Morning Briefing</span>
+        <div class="card-title">The Pulse</div>
+        <p class="card-desc">Curated news from across the web. Headlines that matter, delivered with no clutter, no noise.</p>
+        <a class="btn btn-arrow" href="https://spyd3rwebs.github.io/thePulse.html" target="_blank" rel="noopener">Read Now</a>
+      </div>
+
+      <div class="card">
+        <span class="card-tag">Afternoon/End of Day</span>
+        <div class="card-title">N.R.R.D.</div>
+        <p class="card-desc">Raw headlines, real stories. Aggregated and formatted for fast reading.</p>
+        <a class="btn btn-arrow" href="https://spyd3rwebs.github.io/NRRD.html" target="_blank" rel="noopener">Read Now</a>
+      </div>
+
+    </div>
+
+    <!-- ── CUSTOM SCRIPTS ── -->
+    <div class="section-header">
+      <h2>// Custom Scripts</h2>
+      <div class="section-line"></div>
+    </div>
+
+    <div class="card-grid">
+      <div class="card card-single">
+        <span class="card-tag">Freeware</span>
+        <div class="script-card-inner">
+          <div class="script-meta">
+            <div class="card-title">RSS Truncater v1.1</div>
+            <p class="card-desc">
+              A command-line utility that scans a folder for RSS&nbsp;/&nbsp;XML feed files and trims each one down to a
+              maximum number of items as desginated by user. (Keeping the most X number of recent entries and discarding the rest.)
+              Supports RSS&nbsp;2.0 and Atom feeds across macOS, Windows, and Linux. (Windows and Linux not tested). Free to use, not for resale.
+            </p>
+            <div class="script-badges">
+              <span class="badge">macOS</span>
+              <span class="badge">Windows</span>
+              <span class="badge">Linux</span>
+              <span class="badge">RSS 2.0</span>
+              <span class="badge">No dependencies*</span>
+            </div>
+          </div>
+          <a class="btn btn-download" href="https://spyd3rwebs.github.io/RSS_TRUNCATER.zip" download>Download</a>
+        </div>
+        <div class="prompt">python3 rss_truncater.py</div>
+      </div>
+    </div>
+
+  </div><!-- /page-wrap -->
+
+  <footer>
+    <p>spyd3rwebs &mdash; <a href="mailto:spyd3rWebsNews@proton.me">spyd3rWebsNews@proton.me</a></p>
+  </footer>
+
+  <!-- ── MATRIX RAIN ── -->
+  <script>
+    (function() {
+      const canvas = document.getElementById('matrix-canvas');
+      const ctx = canvas.getContext('2d');
+
+      let cols, drops;
+      const chars = 'アイウエオカキクケコサシスセソタチツテトナニヌネノ0123456789ABCDEF<>{}[]|\\/-_=+*#@!?%$^&()';
+      const fontSize = 14;
+
+      function resize() {
+        canvas.width  = window.innerWidth;
+        canvas.height = window.innerHeight;
+        cols  = Math.floor(canvas.width / fontSize);
+        drops = new Array(cols).fill(1).map(() => Math.random() * -100);
+      }
+
+      function draw() {
+        ctx.fillStyle = 'rgba(2, 9, 4, 0.05)';
+        ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+        for (let i = 0; i < cols; i++) {
+          const char = chars[Math.floor(Math.random() * chars.length)];
+          const isRed = Math.random() < 0.04;
+
+          if (drops[i] * fontSize < canvas.height * 0.3 && Math.random() < 0.5) {
+            ctx.fillStyle = isRed ? '#ff3131' : '#39ff14';
+          } else {
+            ctx.fillStyle = isRed ? 'rgba(255,49,49,0.6)' : 'rgba(57,255,20,0.5)';
+          }
+
+          ctx.font = fontSize + 'px Share Tech Mono, monospace';
+          ctx.fillText(char, i * fontSize, drops[i] * fontSize);
+
+          if (drops[i] * fontSize > canvas.height && Math.random() > 0.975) {
+            drops[i] = 0;
+          }
+          drops[i] += 0.5;
+        }
+      }
+
+      resize();
+      window.addEventListener('resize', resize);
+      setInterval(draw, 50);
+    })();
+  </script>
+
+</body>
+</html>
