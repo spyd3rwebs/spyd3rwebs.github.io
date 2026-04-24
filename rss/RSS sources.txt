@@ -227,21 +227,6 @@ https://spyd3rwebs.github.io/rss/weird_news.rss
 https://feeds.feedburner.com/OddityCentral
 https://metro.co.uk/news/weird/feed/
 
-Title: StockHedges
-https://finance.yahoo.com/news/rssindex
-https://feeds.a.dj.com/rss/RSSMarketsMain.xml
-
-Title: iDigital
-https://www.technologyreview.com/feed/
-https://venturebeat.com/category/ai/feed/
-https://www.aitrends.com/feed/
-https://www.therobotreport.com/feed/
-
-Title: OnOptions
-https://www.inc.com/rss/
-https://www.fastcompany.com/latest/rss
-https://fortune.com/feed/fortune-feeds/?id=3230629
-
 Title: 123
 https://feeds.a.dj.com/rss/RSSMarketsMain.xml
 https://finance.yahoo.com/news/rssindex
