@@ -1,0 +1,38 @@
+<rss version="2.0">
+    <channel>
+        <title>byteFinancialOO</title>
+        <link>http://example.com/interleaved_feed.xml</link>
+        <description>This is a randomly ordered feed of the most recent entries from byteFinancialOO, skipping any feeds with errors.</description>
+        <lastBuildDate>Mon, 27 Apr 2026 07:31:41 GMT</lastBuildDate>
+        <generator>PyRSS2Gen-1.1.0</generator>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <item>
+            <title>How Canva AI 2.0 helps creators build systems</title>
+            <link>https://www.inc.com/sophie-meharenna/canva-versus-traditional-design-tools-why-ai-is-changing-everything/91335638</link>
+            <image_url>https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/04/canva-ai-2-inc.jpg</image_url>
+            <description>Instead of just speeding up tasks, it changes what 'making' means.</description>
+            <pubDate>Mon, 27 Apr 2026 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>The middle manager's AI survival guide</title>
+            <link>https://www.fastcompany.com/91531056/the-middle-managers-ai-survival-guide</link>
+            <image_url>https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/04/p-2-91531056-the-middle-managers-ai-survival-guide.jpg</image_url>
+            <description>Even before AI, middle management jobs led to burnout; AI adds new challenges and opportunities.</description>
+            <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>How Garage Beer designed retro glass bottles</title>
+            <link>https://www.fastcompany.com/91530701/garage-beer-stubby-glass-bottle-design</link>
+            <image_url>https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/04/p-1-91530701-garage-beer.jpg</image_url>
+            <description>Packaging update gives the light beer company a throwback look.</description>
+            <pubDate>Mon, 27 Apr 2026 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Top AI voice uses Claude Code to run her day</title>
+            <link>https://www.fastcompany.com/91532032/how-one-worlds-top-ai-voices-uses-claude-code-run-her-day</link>
+            <image_url>https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/04/allie-k-miller-ai-inc.jpg</image_url>
+            <description>Allie K. Miller says your AI should already be working before you wake up.</description>
+            <pubDate>Mon, 27 Apr 2026 12:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

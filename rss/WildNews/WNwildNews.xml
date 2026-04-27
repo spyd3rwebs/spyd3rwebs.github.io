@@ -1,1 +1,38 @@
-<rss version="2.0"><channel><title>WNwildNews</title><link>http://example.com/interleaved_feed.xml</link><description>This is a randomly ordered feed of the most recent entries from WNwildNews, skipping any feeds with errors.</description><lastBuildDate>Fri, 24 Apr 2026 16:29:25 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>University Lab Worker Admits to Poisoning Colleague in Promotion Dispute</title><link>https://www.odditycentral.com/news/university-lab-worker-tries-to-poison-fellow-researcher-over-a-promotion.html?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=university-lab-worker-tries-to-poison-fellow-researcher-over-a-promotion</link><image_url>https://www.odditycentral.com/wp-content/uploads/2026/04/water-bottle2-1.jpg</image_url><description>Makoto Kuroda, 41, a University of Wisconsin lab worker, has admitted to attempting to poison a colleague following a dispute over a workplace promotion.</description><pubDate>Fri, 24 Apr 2026 11:21:25 GMT</pubDate></item><item><title>France Suspects Weather Sensors Were Tampered With to Influence Polymarket Bets</title><link>https://www.odditycentral.com/news/gamblers-allegedly-tamper-with-weather-station-sensors-to-win-polymarket-bets.html?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=gamblers-allegedly-tamper-with-weather-station-sensors-to-win-polymarket-bets</link><image_url>https://www.odditycentral.com/wp-content/uploads/2026/04/Polymarket-bet-1-750x845.webp</image_url><description>French meteorological authorities believe temperature sensors were deliberately manipulated to generate abnormal readings that allowed certain bettors to profit on Polymarket.</description><pubDate>Fri, 24 Apr 2026 14:18:23 GMT</pubDate></item><item><title>Heavily Filtered Social Media Photos Complicated Search for Missing Mexican Woman</title><link>https://www.odditycentral.com/news/search-for-missing-woman-hampered-by-her-excessively-edited-social-media-photos.html?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=search-for-missing-woman-hampered-by-her-excessively-edited-social-media-photos</link><image_url>https://www.odditycentral.com/wp-content/uploads/2026/04/missing-persons-poster3-750x455.jpg</image_url><description>Police searching for a missing woman in Mexico found that her heavily edited social media images bore little resemblance to her actual appearance, hindering identification efforts.</description><pubDate>Fri, 24 Apr 2026 12:34:03 GMT</pubDate></item><item><title>Rare Corpse Flower Prepares to Bloom at Kew Gardens Conservatory</title><link>https://metro.co.uk/2026/04/24/giant-plant-smells-like-a-dead-body-bloom-kew-gardens-28101824/</link><image_url>https://metro.co.uk/wp-content/uploads/2026/04/coverimages55638416-ed67.jpg?quality=90&amp;strip=all&amp;w=646</image_url><description>The titan arum, known for its pungent odor, is nearing bloom at the Princess of Wales Conservatory in Kew Gardens, drawing anticipation from botanists and visitors.</description><pubDate>Fri, 24 Apr 2026 13:03:03 GMT</pubDate></item><item><title>World's Largest Snack Store Stocks Over 35,000 Products from 70 Countries</title><link>https://www.odditycentral.com/travel/the-worlds-largest-snack-store-sells-over-30000-kinds-of-snacks-from-70-countries.html?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-worlds-largest-snack-store-sells-over-30000-kinds-of-snacks-from-70-countries</link><image_url>https://www.odditycentral.com/wp-content/uploads/2026/04/Snack-Kingdom-Changsha2-750x500.jpeg</image_url><description>Snack Kingdom, spanning more than 12,000 square meters, claims the title of the world's largest snack retail space, offering tens of thousands of products from around the globe.</description><pubDate>Thu, 23 Apr 2026 14:47:54 GMT</pubDate></item></channel></rss>
+<rss version="2.0">
+    <channel>
+        <title>WNwildNews</title>
+        <link>http://example.com/interleaved_feed.xml</link>
+        <description>This is a randomly ordered feed of the most recent entries from WNwildNews, skipping any feeds with errors.</description>
+        <lastBuildDate>Mon, 27 Apr 2026 07:31:38 GMT</lastBuildDate>
+        <generator>PyRSS2Gen-1.1.0</generator>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <item>
+            <title>Search for missing woman hampered by edited photos</title>
+            <link>https://www.odditycentral.com/news/search-for-missing-woman-hampered-by-her-excessively-edited-social-media-photos.html?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=search-for-missing-woman-hampered-by-her-excessively-edited-social-media-photos</link>
+            <image_url>https://www.odditycentral.com/wp-content/uploads/2026/04/missing-persons-poster3-750x455.jpg</image_url>
+            <description>Heavily edited social media photos made a missing woman unrecognizable to police.</description>
+            <pubDate>Fri, 24 Apr 2026 12:34:03 GMT</pubDate>
+        </item>
+        <item>
+            <title>Giant corpse flower about to bloom at Kew Gardens</title>
+            <link>https://metro.co.uk/2026/04/24/giant-plant-smells-like-a-dead-body-bloom-kew-gardens-28101824/</link>
+            <image_url>https://metro.co.uk/wp-content/uploads/2026/04/coverimages55638416-ed67.jpg?quality=90&amp;strip=all&amp;w=646</image_url>
+            <description>The titan arum, known for its rotting-flesh smell, is set to open at the Princess of Wales Conservatory.</description>
+            <pubDate>Fri, 24 Apr 2026 13:03:03 GMT</pubDate>
+        </item>
+        <item>
+            <title>Lab worker tries to poison researcher over promotion</title>
+            <link>https://www.odditycentral.com/news/university-lab-worker-tries-to-poison-fellow-researcher-over-a-promotion.html?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=university-lab-worker-tries-to-poison-fellow-researcher-over-a-promotion</link>
+            <image_url>https://www.odditycentral.com/wp-content/uploads/2026/04/water-bottle2-1.jpg</image_url>
+            <description>A University of Wisconsin lab worker admitted to attempting to poison a colleague.</description>
+            <pubDate>Fri, 24 Apr 2026 11:21:25 GMT</pubDate>
+        </item>
+        <item>
+            <title>Gamblers allegedly tamper with weather sensors for bets</title>
+            <link>https://www.odditycentral.com/news/gamblers-allegedly-tamper-with-weather-station-sensors-to-win-polymarket-bets.html?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=gamblers-allegedly-tamper-with-weather-station-sensors-to-win-polymarket-bets</link>
+            <image_url>https://www.odditycentral.com/wp-content/uploads/2026/04/Polymarket-bet-1-750x845.webp</image_url>
+            <description>French weather service believes sensors were manipulated to help gamblers win Polymarket bets.</description>
+            <pubDate>Fri, 24 Apr 2026 14:18:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
