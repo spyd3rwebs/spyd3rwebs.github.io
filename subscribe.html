@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Subscribe — spyd3rwebs</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Orbitron:wght@400;700;900&family=VT323&display=swap" rel="stylesheet">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1839587840988477" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://sibforms.com/forms/end-form/build/sib-styles.css">
+
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --green:       #39ff14;
+      --green-dim:   #1a8c00;
+      --green-mute:  #0d4a00;
+      --red:         #ff3131;
+      --bg:          #020904;
+      --glass-bg:    rgba(0, 255, 30, 0.03);
+      --glass-border:rgba(57, 255, 20, 0.25);
+      --mono:        'Share Tech Mono', monospace;
+      --display:     'Orbitron', sans-serif;
+      --crt:         'VT323', monospace;
+    }
+
+    html { background: var(--bg); }
+
+    body {
+      font-family: var(--mono);
+      color: var(--green);
+      background: var(--bg);
+      min-height: 100vh;
+      overflow-x: hidden;
+      position: relative;
+    }
+
+    /* ── MATRIX RAIN ── */
+    #matrix-canvas {
+      position: fixed;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      z-index: 0;
+      opacity: 0.18;
+      pointer-events: none;
+    }
+
+    /* ── SCANLINES ── */
+    body::after {
+      content: '';
+      position: fixed;
+      inset: 0;
+      background: repeating-linear-gradient(
+        to bottom,
+        transparent 0px, transparent 2px,
+        rgba(0,0,0,0.12) 2px, rgba(0,0,0,0.12) 4px
+      );
+      pointer-events: none;
+      z-index: 1000;
+    }
+
+    /* ── LAYOUT ── */
+    .page-wrap {
+      position: relative;
+      z-index: 2;
+      max-width: 700px;
+      margin: 0 auto;
+      padding: 60px 20px 80px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 48px;
+    }
+
+    /* ── HEADER ── */
+    .site-header {
+      text-align: center;
+    }
+    .site-name {
+      font-family: var(--display);
+      font-size: clamp(1.1rem, 4vw, 1.5rem);
+      font-weight: 900;
+      letter-spacing: 0.3em;
+      color: var(--green-dim);
+      text-decoration: none;
+      display: block;
+      margin-bottom: 8px;
+      transition: color 0.2s;
+    }
+    .site-name:hover { color: var(--green); }
+    .site-name span { color: var(--red); }
+
+    .page-title {
+      font-family: var(--display);
+      font-size: clamp(2rem, 8vw, 3.5rem);
+      font-weight: 900;
+      letter-spacing: 0.05em;
+      line-height: 1;
+      color: var(--green);
+      text-shadow: 0 0 30px rgba(57,255,20,0.4), 0 0 60px rgba(57,255,20,0.15);
+    }
+
+    .page-subtitle {
+      margin-top: 16px;
+      font-family: var(--mono);
+      font-size: 0.82rem;
+      color: rgba(57,255,20,0.55);
+      line-height: 1.8;
+      letter-spacing: 0.04em;
+    }
+
+    /* ── DIVIDER LINE ── */
+    .divider {
+      width: 100%;
+      height: 1px;
+      background: linear-gradient(90deg, transparent, var(--green-dim), transparent);
+      position: relative;
+      overflow: hidden;
+    }
+    .divider::after {
+      content: '';
+      position: absolute;
+      left: -30%;
+      top: 0;
+      width: 30%;
+      height: 100%;
+      background: linear-gradient(90deg, transparent, var(--green), transparent);
+      animation: sweep 3s linear infinite;
+    }
+    @keyframes sweep {
+      0%   { left: -30%; }
+      100% { left: 130%; }
+    }
+
+    /* ── NEWSLETTER CARDS ── */
+    .nl-cards {
+      width: 100%;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+    }
+    .nl-card {
+      background: var(--glass-bg);
+      border: 1px solid var(--glass-border);
+      border-radius: 10px;
+      padding: 24px 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      transition: border-color 0.3s, box-shadow 0.3s;
+    }
+    .nl-card:hover {
+      border-color: rgba(57,255,20,0.5);
+      box-shadow: 0 0 30px rgba(57,255,20,0.1);
+    }
+    .nl-card__tag {
+      font-family: var(--display);
+      font-size: 0.58rem;
+      letter-spacing: 0.25em;
+      text-transform: uppercase;
+      color: var(--green-dim);
+    }
+    .nl-card__title {
+      font-family: var(--display);
+      font-size: clamp(1rem, 3vw, 1.2rem);
+      font-weight: 900;
+      color: var(--green);
+      text-shadow: 0 0 12px rgba(57,255,20,0.3);
+    }
+    .nl-card__desc {
+      font-family: var(--mono);
+      font-size: 0.75rem;
+      color: rgba(57,255,20,0.55);
+      line-height: 1.65;
+      flex: 1;
+    }
+    .nl-card__freq {
+      font-family: var(--mono);
+      font-size: 0.68rem;
+      color: var(--red);
+      letter-spacing: 0.08em;
+    }
+
+    /* ── FORM CONTAINER ── */
+    .form-wrap {
+      width: 100%;
+      background: var(--glass-bg);
+      border: 1px solid var(--glass-border);
+      border-radius: 12px;
+      padding: 36px 32px;
+      position: relative;
+      overflow: hidden;
+    }
+    .form-wrap::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0;
+      height: 2px;
+      background: linear-gradient(90deg, transparent, var(--green), transparent);
+      animation: top-sweep 4s linear infinite;
+    }
+    @keyframes top-sweep {
+      0%   { background-position: -200% 0; }
+      100% { background-position: 200% 0; }
+    }
+
+    .form-label {
+      font-family: var(--display);
+      font-size: 0.7rem;
+      letter-spacing: 0.25em;
+      text-transform: uppercase;
+      color: var(--green-dim);
+      margin-bottom: 20px;
+      display: block;
+    }
+
+    /* ── BREVO FORM OVERRIDE STYLES ── */
+    /* These override Brevo's default form styles to match our aesthetic */
+    .form-wrap .sib-form,
+    .form-wrap #sib-container {
+      background: transparent !important;
+      border: none !important;
+      padding: 0 !important;
+    }
+    .form-wrap input[type="email"],
+    .form-wrap input[type="text"] {
+      background: rgba(0,0,0,0.6) !important;
+      border: 1px solid var(--glass-border) !important;
+      border-radius: 4px !important;
+      color: var(--green) !important;
+      font-family: var(--mono) !important;
+      font-size: 0.85rem !important;
+      padding: 12px 16px !important;
+      width: 100% !important;
+      outline: none !important;
+      transition: border-color 0.2s, box-shadow 0.2s !important;
+    }
+    .form-wrap input[type="email"]:focus,
+    .form-wrap input[type="text"]:focus {
+      border-color: var(--green) !important;
+      box-shadow: 0 0 15px rgba(57,255,20,0.15) !important;
+    }
+    .form-wrap button[type="submit"],
+    .form-wrap input[type="submit"] {
+      background: transparent !important;
+      border: 1px solid var(--green) !important;
+      border-radius: 4px !important;
+      color: var(--green) !important;
+      font-family: var(--display) !important;
+      font-size: 0.7rem !important;
+      font-weight: 700 !important;
+      letter-spacing: 0.2em !important;
+      text-transform: uppercase !important;
+      padding: 12px 28px !important;
+      cursor: pointer !important;
+      transition: background 0.2s, box-shadow 0.2s, color 0.2s !important;
+      margin-top: 12px !important;
+    }
+    .form-wrap button[type="submit"]:hover,
+    .form-wrap input[type="submit"]:hover {
+      background: rgba(57,255,20,0.08) !important;
+      box-shadow: 0 0 20px rgba(57,255,20,0.25) !important;
+    }
+    .form-wrap label {
+      color: rgba(57,255,20,0.7) !important;
+      font-family: var(--mono) !important;
+      font-size: 0.78rem !important;
+    }
+    .form-wrap p, .form-wrap span {
+      color: rgba(57,255,20,0.5) !important;
+      font-family: var(--mono) !important;
+      font-size: 0.75rem !important;
+    }
+
+    /* PASTE BREVO FORM HERE placeholder */
+    .form-placeholder {
+      text-align: center;
+      padding: 32px;
+      border: 1px dashed var(--green-mute);
+      border-radius: 6px;
+      color: var(--green-dim);
+      font-size: 0.8rem;
+      letter-spacing: 0.1em;
+    }
+
+    /* ── BACK LINK ── */
+    .back-link {
+      font-family: var(--display);
+      font-size: 0.65rem;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--green-dim);
+      text-decoration: none;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      transition: color 0.2s;
+    }
+    .back-link::before { content: '←'; font-size: 1rem; }
+    .back-link:hover { color: var(--green); }
+
+    /* ── FOOTER ── */
+    footer {
+      position: relative;
+      z-index: 2;
+      text-align: center;
+      padding: 24px 20px;
+      font-family: var(--mono);
+      font-size: 0.65rem;
+      color: var(--green-mute);
+      border-top: 1px solid rgba(57,255,20,0.08);
+      width: 100%;
+    }
+    footer a { color: var(--green-dim); text-decoration: none; }
+    footer a:hover { color: var(--green); }
+
+    @media (max-width: 540px) {
+      .nl-cards { grid-template-columns: 1fr; }
+      .page-wrap { padding: 40px 16px 60px; gap: 36px; }
+      .form-wrap { padding: 24px 18px; }
+    }
+  </style>
+</head>
+<body>
+
+  <canvas id="matrix-canvas"></canvas>
+
+  <div class="page-wrap">
+
+    <header class="site-header">
+      <a class="site-name" href="https://spyd3rwebs.github.io">spyd3r<span>webs</span></a>
+      <h1 class="page-title">SUBSCRIBE</h1>
+      <p class="page-subtitle">
+        Daily news. No noise. No paywalls. Straight to your inbox.<br>
+        Two editions — morning and end-of-day.
+      </p>
+    </header>
+
+    <div class="divider"></div>
+
+    <!-- Newsletter preview cards -->
+    <div class="nl-cards">
+      <div class="nl-card">
+        <span class="nl-card__tag">Morning Briefing</span>
+        <div class="nl-card__title">The Pulse</div>
+        <p class="nl-card__desc">Breaking news, health, science, business and politics — curated and rewritten every morning. No clutter, no noise.</p>
+        <span class="nl-card__freq">// Daily · 9:00 AM</span>
+      </div>
+      <div class="nl-card">
+        <span class="nl-card__tag">End of Day</span>
+        <div class="nl-card__title">N.R.R.D.</div>
+        <p class="nl-card__desc">Raw headlines, real stories. Afternoon roundup of what happened while you were working.</p>
+        <span class="nl-card__freq">// Daily · 4:30 PM</span>
+      </div>
+    </div>
+
+    <!-- Subscription form -->
+    <div class="form-wrap">
+      <span class="form-label">// Enter transmission frequency</span>
+
+      <form id="sib-form" method="POST" action="https://0f37a3f9.sibforms.com/serve/MUIFABOhOLpmy9g60W3SzgAbH1O7euKRhsOEWo0OuKaaKfmiOXf5lZQs_mezQ4PaBGmKJq2WtMtmIDuFgATVvs1kuk9HucNGj5lex3GK9Ztw4P7R6W_fZEVZPcOYUC7mM4w4QilB8PsUlyPWuIdTRTLp4p3I62l3xY-iTa3fwVwiMch0UCSqkGew3lm2NHYlJZt13Z4fiz5wGTjMvg==" data-type="subscription">
+
+        <div id="error-message" class="sib-form-message-panel" style="display:none; font-family:var(--mono); font-size:13px; text-align:left; color:#ff6b6b; background-color:rgba(255,49,49,0.1); border:1px solid #ff3131; border-radius:4px; padding:12px; margin-bottom:12px;">
+          Your subscription could not be saved. Please try again.
+        </div>
+        <div id="success-message" class="sib-form-message-panel" style="display:none; font-family:var(--mono); font-size:13px; text-align:left; color:#39ff14; background-color:rgba(57,255,20,0.08); border:1px solid var(--green-dim); border-radius:4px; padding:12px; margin-bottom:12px;">
+          ✓ Subscription confirmed. Transmission incoming.
+        </div>
+
+        <div style="margin-bottom: 16px;">
+          <label style="display:block; font-family:var(--mono); font-size:0.75rem; color:rgba(57,255,20,0.6); margin-bottom:8px; letter-spacing:0.08em;" for="EMAIL">EMAIL ADDRESS</label>
+          <input class="input" type="text" id="EMAIL" name="EMAIL" autocomplete="off" value="" placeholder="your@email.com" data-required="true" required
+            style="width:100%; background:rgba(0,0,0,0.6); border:1px solid rgba(57,255,20,0.25); border-radius:4px; color:#39ff14; font-family:'Share Tech Mono',monospace; font-size:0.9rem; padding:12px 16px; outline:none; transition:border-color 0.2s, box-shadow 0.2s;"
+            onfocus="this.style.borderColor='#39ff14'; this.style.boxShadow='0 0 15px rgba(57,255,20,0.15)'"
+            onblur="this.style.borderColor='rgba(57,255,20,0.25)'; this.style.boxShadow='none'"
+          />
+          <label class="entry__error entry__error--primary" style="display:none; font-family:var(--mono); font-size:11px; color:#ff6b6b; margin-top:4px;"></label>
+        </div>
+
+        <button type="submit" form="sib-form"
+          style="background:transparent; border:1px solid #39ff14; border-radius:4px; color:#39ff14; font-family:'Orbitron',sans-serif; font-size:0.68rem; font-weight:700; letter-spacing:0.2em; text-transform:uppercase; padding:12px 28px; cursor:pointer; transition:background 0.2s, box-shadow 0.2s; width:100%; margin-top:4px;"
+          onmouseover="this.style.background='rgba(57,255,20,0.08)'; this.style.boxShadow='0 0 20px rgba(57,255,20,0.2)'"
+          onmouseout="this.style.background='transparent'; this.style.boxShadow='none'"
+        >
+          // SUBSCRIBE →
+        </button>
+
+        <input type="text" name="email_address_check" value="" style="display:none;">
+        <input type="hidden" name="locale" value="en">
+      </form>
+
+    </div>
+
+    <a class="back-link" href="https://spyd3rwebs.github.io">Back to spyd3rwebs</a>
+
+  </div>
+
+  <footer>
+    <p>spyd3rwebs &mdash; <a href="mailto:spyd3rWebsNews@proton.me">spyd3rWebsNews@proton.me</a></p>
+  </footer>
+
+  <!-- ── BREVO FORM JS ── -->
+  <script>
+    window.REQUIRED_CODE_ERROR_MESSAGE = 'Please choose a country code';
+    window.LOCALE = 'en';
+    window.EMAIL_INVALID_MESSAGE = "The information provided is invalid. Please review the field format and try again.";
+    window.REQUIRED_ERROR_MESSAGE = "This field cannot be left blank.";
+    window.GENERIC_INVALID_MESSAGE = "The information provided is invalid. Please review the field format and try again.";
+    var AUTOHIDE = Boolean(0);
+  </script>
+  <script defer src="https://sibforms.com/forms/end-form/build/main.js"></script>
+
+  <!-- ── MATRIX RAIN ── -->
+  <script>
+    (function() {
+      const canvas = document.getElementById('matrix-canvas');
+      const ctx = canvas.getContext('2d');
+      let cols, drops;
+      const chars = 'アイウエオカキクケコサシスセソタチツテトナニヌネノ0123456789ABCDEF<>{}[]|\\/-_=+*#@!?%$^&()';
+      const fontSize = 14;
+      function resize() {
+        canvas.width  = window.innerWidth;
+        canvas.height = window.innerHeight;
+        cols  = Math.floor(canvas.width / fontSize);
+        drops = new Array(cols).fill(1).map(() => Math.random() * -100);
+      }
+      function draw() {
+        ctx.fillStyle = 'rgba(2, 9, 4, 0.05)';
+        ctx.fillRect(0, 0, canvas.width, canvas.height);
+        for (let i = 0; i < cols; i++) {
+          const char = chars[Math.floor(Math.random() * chars.length)];
+          const isRed = Math.random() < 0.04;
+          if (drops[i] * fontSize < canvas.height * 0.3 && Math.random() < 0.5) {
+            ctx.fillStyle = isRed ? '#ff3131' : '#39ff14';
+          } else {
+            ctx.fillStyle = isRed ? 'rgba(255,49,49,0.6)' : 'rgba(57,255,20,0.5)';
+          }
+          ctx.font = fontSize + 'px Share Tech Mono, monospace';
+          ctx.fillText(char, i * fontSize, drops[i] * fontSize);
+          if (drops[i] * fontSize > canvas.height && Math.random() > 0.975) drops[i] = 0;
+          drops[i] += 0.5;
+        }
+      }
+      resize();
+      window.addEventListener('resize', resize);
+      setInterval(draw, 50);
+    })();
+  </script>
+
+</body>
+</html>
