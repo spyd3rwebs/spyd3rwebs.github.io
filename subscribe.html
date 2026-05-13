@@ -8,11 +8,10 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Orbitron:wght@400;700;900&family=VT323&display=swap" rel="stylesheet">
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1839587840988477" crossorigin="anonymous"></script>
-  <link rel="stylesheet" href="https://sibforms.com/forms/end-form/build/sib-styles.css">
-
+ 
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
+ 
     :root {
       --green:       #39ff14;
       --green-dim:   #1a8c00;
@@ -25,9 +24,9 @@
       --display:     'Orbitron', sans-serif;
       --crt:         'VT323', monospace;
     }
-
+ 
     html { background: var(--bg); }
-
+ 
     body {
       font-family: var(--mono);
       color: var(--green);
@@ -36,7 +35,7 @@
       overflow-x: hidden;
       position: relative;
     }
-
+ 
     /* ── MATRIX RAIN ── */
     #matrix-canvas {
       position: fixed;
@@ -46,7 +45,7 @@
       opacity: 0.18;
       pointer-events: none;
     }
-
+ 
     /* ── SCANLINES ── */
     body::after {
       content: '';
@@ -60,7 +59,7 @@
       pointer-events: none;
       z-index: 1000;
     }
-
+ 
     /* ── LAYOUT ── */
     .page-wrap {
       position: relative;
@@ -73,7 +72,7 @@
       align-items: center;
       gap: 48px;
     }
-
+ 
     /* ── HEADER ── */
     .site-header {
       text-align: center;
@@ -91,7 +90,7 @@
     }
     .site-name:hover { color: var(--green); }
     .site-name span { color: var(--red); }
-
+ 
     .page-title {
       font-family: var(--display);
       font-size: clamp(2rem, 8vw, 3.5rem);
@@ -101,7 +100,7 @@
       color: var(--green);
       text-shadow: 0 0 30px rgba(57,255,20,0.4), 0 0 60px rgba(57,255,20,0.15);
     }
-
+ 
     .page-subtitle {
       margin-top: 16px;
       font-family: var(--mono);
@@ -110,7 +109,7 @@
       line-height: 1.8;
       letter-spacing: 0.04em;
     }
-
+ 
     /* ── DIVIDER LINE ── */
     .divider {
       width: 100%;
@@ -133,7 +132,7 @@
       0%   { left: -30%; }
       100% { left: 130%; }
     }
-
+ 
     /* ── NEWSLETTER CARDS ── */
     .nl-cards {
       width: 100%;
@@ -182,7 +181,7 @@
       color: var(--red);
       letter-spacing: 0.08em;
     }
-
+ 
     /* ── FORM CONTAINER ── */
     .form-wrap {
       width: 100%;
@@ -205,7 +204,7 @@
       0%   { background-position: -200% 0; }
       100% { background-position: 200% 0; }
     }
-
+ 
     .form-label {
       font-family: var(--display);
       font-size: 0.7rem;
@@ -215,7 +214,7 @@
       margin-bottom: 20px;
       display: block;
     }
-
+ 
     /* ── BREVO FORM OVERRIDE STYLES ── */
     /* These override Brevo's default form styles to match our aesthetic */
     .form-wrap .sib-form,
@@ -273,7 +272,7 @@
       font-family: var(--mono) !important;
       font-size: 0.75rem !important;
     }
-
+ 
     /* PASTE BREVO FORM HERE placeholder */
     .form-placeholder {
       text-align: center;
@@ -284,7 +283,7 @@
       font-size: 0.8rem;
       letter-spacing: 0.1em;
     }
-
+ 
     /* ── BACK LINK ── */
     .back-link {
       font-family: var(--display);
@@ -300,7 +299,7 @@
     }
     .back-link::before { content: '←'; font-size: 1rem; }
     .back-link:hover { color: var(--green); }
-
+ 
     /* ── FOOTER ── */
     footer {
       position: relative;
@@ -315,7 +314,7 @@
     }
     footer a { color: var(--green-dim); text-decoration: none; }
     footer a:hover { color: var(--green); }
-
+ 
     @media (max-width: 540px) {
       .nl-cards { grid-template-columns: 1fr; }
       .page-wrap { padding: 40px 16px 60px; gap: 36px; }
@@ -324,11 +323,11 @@
   </style>
 </head>
 <body>
-
+ 
   <canvas id="matrix-canvas"></canvas>
-
+ 
   <div class="page-wrap">
-
+ 
     <header class="site-header">
       <a class="site-name" href="https://spyd3rwebs.github.io">spyd3r<span>webs</span></a>
       <h1 class="page-title">SUBSCRIBE</h1>
@@ -337,9 +336,9 @@
         Two editions — morning and end-of-day.
       </p>
     </header>
-
+ 
     <div class="divider"></div>
-
+ 
     <!-- Newsletter preview cards -->
     <div class="nl-cards">
       <div class="nl-card">
@@ -355,20 +354,20 @@
         <span class="nl-card__freq">// Daily · 4:30 PM</span>
       </div>
     </div>
-
+ 
     <!-- Subscription form -->
     <div class="form-wrap">
       
-
+ 
       <form id="sib-form" method="POST" action="https://0f37a3f9.sibforms.com/serve/MUIFABOhOLpmy9g60W3SzgAbH1O7euKRhsOEWo0OuKaaKfmiOXf5lZQs_mezQ4PaBGmKJq2WtMtmIDuFgATVvs1kuk9HucNGj5lex3GK9Ztw4P7R6W_fZEVZPcOYUC7mM4w4QilB8PsUlyPWuIdTRTLp4p3I62l3xY-iTa3fwVwiMch0UCSqkGew3lm2NHYlJZt13Z4fiz5wGTjMvg==" data-type="subscription">
-
+ 
         <div id="error-message" class="sib-form-message-panel" style="display:none; font-family:var(--mono); font-size:13px; text-align:left; color:#ff6b6b; background-color:rgba(255,49,49,0.1); border:1px solid #ff3131; border-radius:4px; padding:12px; margin-bottom:12px;">
           Your subscription could not be saved. Please try again.
         </div>
         <div id="success-message" class="sib-form-message-panel" style="display:none; font-family:var(--mono); font-size:13px; text-align:left; color:#39ff14; background-color:rgba(57,255,20,0.08); border:1px solid var(--green-dim); border-radius:4px; padding:12px; margin-bottom:12px;">
           ✓ Subscription confirmed. Transmission incoming.
         </div>
-
+ 
         <div style="margin-bottom: 16px;">
           <label style="display:block; font-family:var(--mono); font-size:0.75rem; color:rgba(57,255,20,0.6); margin-bottom:8px; letter-spacing:0.08em;" for="EMAIL">EMAIL ADDRESS</label>
           <input class="input" type="text" id="EMAIL" name="EMAIL" autocomplete="off" value="" placeholder="your@email.com" data-required="true" required
@@ -378,7 +377,7 @@
           />
           <label class="entry__error entry__error--primary" style="display:none; font-family:var(--mono); font-size:11px; color:#ff6b6b; margin-top:4px;"></label>
         </div>
-
+ 
         <button type="submit" form="sib-form"
           style="background:transparent; border:1px solid #39ff14; border-radius:4px; color:#39ff14; font-family:'Orbitron',sans-serif; font-size:0.68rem; font-weight:700; letter-spacing:0.2em; text-transform:uppercase; padding:12px 28px; cursor:pointer; transition:background 0.2s, box-shadow 0.2s; width:100%; margin-top:4px;"
           onmouseover="this.style.background='rgba(57,255,20,0.08)'; this.style.boxShadow='0 0 20px rgba(57,255,20,0.2)'"
@@ -386,32 +385,71 @@
         >
           // SUBSCRIBE →
         </button>
-
+ 
         <input type="text" name="email_address_check" value="" style="display:none;">
         <input type="hidden" name="locale" value="en">
       </form>
-
+ 
     </div>
-
+ 
     <a class="back-link" href="https://spyd3rwebs.github.io">Back to spyd3rwebs</a>
-
+ 
   </div>
-
+ 
   <footer>
     <p>spyd3rwebs &mdash; <a href="mailto:spyd3rWebsNews@proton.me">spyd3rWebsNews@proton.me</a></p>
   </footer>
-
-  <!-- ── BREVO FORM JS ── -->
+ 
+  <!-- ── BREVO FORM HANDLER ── -->
   <script>
-    window.REQUIRED_CODE_ERROR_MESSAGE = 'Please choose a country code';
-    window.LOCALE = 'en';
-    window.EMAIL_INVALID_MESSAGE = "The information provided is invalid. Please review the field format and try again.";
-    window.REQUIRED_ERROR_MESSAGE = "This field cannot be left blank.";
-    window.GENERIC_INVALID_MESSAGE = "The information provided is invalid. Please review the field format and try again.";
-    var AUTOHIDE = Boolean(0);
+    document.getElementById('sib-form').addEventListener('submit', function(e) {
+      e.preventDefault();
+ 
+      const form = e.target;
+      const email = form.EMAIL.value.trim();
+      const errorEl = document.getElementById('error-message');
+      const successEl = document.getElementById('success-message');
+      const btn = form.querySelector('button[type="submit"]');
+ 
+      // Basic email validation
+      if (!email || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+        errorEl.style.display = 'block';
+        errorEl.textContent = 'Please enter a valid email address.';
+        successEl.style.display = 'none';
+        return;
+      }
+ 
+      // Disable button while submitting
+      btn.disabled = true;
+      btn.textContent = '// TRANSMITTING...';
+ 
+      const formData = new FormData(form);
+ 
+      fetch(form.action, {
+        method: 'POST',
+        body: formData,
+        headers: { 'Accept': 'application/json' },
+        mode: 'no-cors'
+      })
+      .then(() => {
+        // no-cors means we can't read the response — assume success if no error thrown
+        successEl.style.display = 'block';
+        errorEl.style.display = 'none';
+        form.EMAIL.value = '';
+        btn.textContent = '// SUBSCRIBED ✓';
+        btn.style.borderColor = 'var(--green)';
+        btn.style.boxShadow = '0 0 20px rgba(57,255,20,0.3)';
+      })
+      .catch(() => {
+        errorEl.style.display = 'block';
+        errorEl.textContent = 'Your subscription could not be saved. Please try again.';
+        successEl.style.display = 'none';
+        btn.disabled = false;
+        btn.textContent = '// SUBSCRIBE →';
+      });
+    });
   </script>
-  <script defer src="https://sibforms.com/forms/end-form/build/main.js"></script>
-
+ 
   <!-- ── MATRIX RAIN ── -->
   <script>
     (function() {
@@ -448,6 +486,6 @@
       setInterval(draw, 50);
     })();
   </script>
-
+ 
 </body>
 </html>
