@@ -409,6 +409,23 @@
       padding: 4px 0 4px 20px;
     }
     .site-description p + p { margin-top: 0.8em; }
+    .site-description .tagline {
+      font-family: var(--display);
+      font-size: clamp(0.9rem, 2.5vw, 1.1rem);
+      font-weight: 700;
+      color: var(--green);
+      letter-spacing: 0.08em;
+      line-height: 1.5;
+      margin-bottom: 1em;
+      text-shadow: 0 0 20px rgba(57,255,20,0.3);
+    }
+    .site-description .tagline .tag-sub {
+      display: block;
+      font-size: 0.72em;
+      letter-spacing: 0.2em;
+      color: var(--green-dim);
+      margin-top: 4px;
+    }
 
     /* ── MOBILE ── */
     @media (max-width: 560px) {
@@ -444,8 +461,11 @@
 
     <!-- ── SITE DESCRIPTION ── -->
     <div class="site-description">
-      <p>spyd3rwebs is a fully automated news intelligence and newsletter operation. A custom Python stack aggregates from 50+ RSS sources across breaking news, finance, politics, health, tech, science, food, travel, and more — pulling the freshest stories every morning and afternoon, shuffling sources to surface different voices each run.</p>
-      <p>Before anything is published, a DeepSeek AI pass rewrites every headline and summary in its own words — preserving all links, dates, and structure — so only original content goes out. Two newsletters are built daily from those feeds: <strong style="color:var(--green)">The Pulse</strong> (morning briefing) and <strong style="color:var(--green)">N.R.R.D.</strong> (afternoon recap). Each edition is published here, delivered by email to subscribers, and announced on X — all without human intervention.</p>
+      <p class="tagline">spyd3rwebs is an intelligent news platform.
+        <span class="tag-sub">Research &nbsp;·&nbsp; Writing &nbsp;·&nbsp; Publishing &nbsp;·&nbsp; Social Networking &nbsp;·&nbsp; All done automatically.</span>
+      </p>
+      <p>spyd3rwebs is a fully automated news intelligence and newsletter operation. A custom Python stack aggregates from 50+ standard and custom RSS sources across breaking news, finance, politics, health, tech, science, food, travel, and more, updating twice a day, shuffling sources to prevent source stagnation.</p>
+      <p> Before anything is published, everything gets nuetrally rewritten by AI, so only original content goes out. The two newsletters below are built daily from those feeds: <strong style="color:var(--green)">The Pulse</strong> (morning briefing) and <strong style="color:var(--green)">N.R.R.D.</strong> (afternoon recap). Each edition is published here, delivered by email to subscribers, and updated on the social network formally known as twitter, all without human intervention.</p>
     </div>
 
     <!-- ── NEWSLETTERS ── -->
@@ -512,6 +532,15 @@
 
   <footer>
     <p>spyd3rwebs &mdash; <a href="mailto:spyd3rWebsNews@proton.me">spyd3rWebsNews@proton.me</a></p>
+    <p style="margin-top:12px;">
+      <a href="https://x.com/spyd3rwebs" target="_blank" rel="noopener"
+         style="display:inline-flex;align-items:center;gap:7px;color:var(--green-dim);text-decoration:none;font-family:var(--mono);font-size:0.65rem;letter-spacing:0.1em;transition:color 0.2s;"
+         onmouseover="this.style.color='var(--green)'" onmouseout="this.style.color='var(--green-dim)'">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg"
+             alt="X" style="width:14px;height:14px;border-radius:2px;opacity:0.6;vertical-align:middle;">
+        @spyd3rwebs
+      </a>
+    </p>
   </footer>
 
   <!-- ── MATRIX RAIN ── -->
